@@ -3,7 +3,7 @@ import csv
 import textwrap
 from PIL import Image, ImageDraw, ImageFont
 
-INPUT_CSV = Path("cards_text.csv")
+INPUT_CSV = Path("scratch.csv")
 OUTPUT_DIR = Path("translated_cards")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -96,7 +96,7 @@ def clear_box(draw, box, fill):
     draw.rectangle(box, fill=fill)
 
 with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
-    reader = csv.DictReader(f)
+    reader = csv.DictReader(f, delimiter=';')
     rows = list(reader)
 
 for row in rows:

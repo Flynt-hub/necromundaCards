@@ -22,8 +22,8 @@ def preprocess(zone: Image.Image) -> Image.Image:
 def ocr(zone: Image.Image) -> str:
     config = "--psm 6"
     text = pytesseract.image_to_string(zone, lang="eng", config=config)
-    # return " ".join(text.split())
-    return text.strip()
+    return " ".join(text.split())
+    # return text.strip()
 
 rows = []
 
