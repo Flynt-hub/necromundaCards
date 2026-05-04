@@ -421,13 +421,13 @@ Injured friendly fighter.
 This Fgh tes regains a single Wound and is no
 longer Seriously Injured; instead the fighter
 becomes Standing and Active. This fighter's
-activation then ends.";Renaître;Cawdor;"Jouez cette tactique de gang lors de l'activation d'un Sérieusement combattant allié blessé. Ce Fgh tes regagne une seule Blessure et n'est pas plus gravement blessé; à la place le combattant devient Debout et Actif. Ce combattant l’activation se termine alors."
+activation then ends.";Renaître;Cawdor;"Jouez cette tactique lors de l'activation d'un combattant allié sérieusement blessé. Ce combattant regagne un point de vie et n'est pas plus gravement blessé; à la place le combattant devient Debout et Actif. L’activation de ce combattant se termine alors."
 ../TacticsCards/CAWDOR/Shielded by Faith.png;Shielded by Faith;Cawdor Tactics;"Play this gang tactic when a friendly House
 Cawdor fighter is hit by a Blast weapon.
 
 Roll a D6. On a 2+, the hit has no effect against
 the chosen fighter. On a 1, they are affected as
-normal but this gang tactic is not discarded.";Protégé par la foi;Cawdor;Jouez cette tactique de gang lorsqu'une maison amicale Le combattant Cawdor est touché par une arme Blast. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, ils sont affectés comme normal mais cette tactique de gang n’est pas écartée.
+normal but this gang tactic is not discarded.";Protégé par la foi;Cawdor;Jouez cette tactique lorsqu’un combattant allié Cawdor est touché par une arme Blast. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, il est affecté normalement mais cette tactiquement pas défaussée.
 ../TacticsCards/CAWDOR/Stirring Oration.png;Stirring Oration;Cawdor Tactics;"Play at the start of any round.
 
 Choose one fen Leader or Champion model.
@@ -435,7 +435,7 @@ For the duration of the round, the Leading by
 Example rule applies as long as the fighter can
 draw line of sight to the chosen model. For this
 round, the chosen Leader or Champion cannot
-benefit from the effects of cover.";Harangue inspirante;Cawdor;Jouez au début d’un tour. Choisissez un modèle Fen Leader ou Champion. Pendant toute la durée du round, le leader par Un exemple de règle s'applique aussi longtemps que le combattant peut tracez une ligne de vue vers le modèle choisi. Pour cela tour, le Leader ou le Champion choisi ne peut pas bénéficier des effets de la garantie.
+benefit from the effects of cover.";Harangue inspirante;Cawdor;Jouez au début d’un tour. Choisissez un Leader ou Champion. Pendant toute la durée du round, la règle « leading by example » s'applique tant qu’un combattant peut tracez une ligne de vue vers le modèle choisi. Pour ce tour, le Leader ou le Champion choisi ne peut pas bénéficier des effets des couverts.
 ../TacticsCards/CAWDOR/The Emperor Protects (redacted).png;The Emperor Protects;Cawdor Tactics;"Play this card during the Priority phase of
 
 any round, after Roll for Priority, but before
@@ -447,7 +447,7 @@ be modified in any way. However, if a fighter
 attempts to use this save but the roll is failed, any
 Injury dice that are subsequently rolled treat rolls
 of Seriously Injured as Out of Action. A House
-Cawdor fighter can choose not to make this save.";L'Empereur protège;Cawdor;Jouez cette carte pendant la phase de Priorité d’un round, après le jet de Priorité mais avant l’activation des combattants Prêts. Jusqu’à la fin de ce round, tous les combattants alliés de la Maison Cawdor gagnent une sauvegarde de 5+ qui ne peut être modifiée d’aucune manière. Toutefois, si un combattant tente d’utiliser cette sauvegarde et échoue, lancez un Dé de Blessure pour lui.
+Cawdor fighter can choose not to make this save.";L'Empereur protège;Cawdor;Jouez cette carte pendant la phase de Priorité d’un round, après le jet de Priorité mais avant l’activation des combattant. Jusqu’à la fin de ce round, tous les combattants Cawdor alliés gagnent une sauvegarde de 5+ qui ne peut être modifiée d’aucune manière. Toutefois, si un combattant tente d’utiliser cette sauvegarde et échoue, il traite les blessures grave comme des résultats « out of combat ».
 ../TacticsCards/CAWDOR/The Price of Avarice.png;The Price of Avarice;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -457,7 +457,7 @@ that are within 4"" of a friendly House Cawdor
 fighter must re-roll successful Ammo checks to
 see if their weapon goes Out of Ammo (they do
 not have to re-roll Ammo checks made as part
-of the Reload action).";Le prix de l’avarice;Cawdor;"Jouez cette tactique de gang pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants Prêts. Jusqu'à la fin de ce tour, tous les combattants ennemis qui se trouvent à moins de 4"" d'une maison Cawdor amicale le combattant doit relancer ses tests de munitions réussis pour voir si leur arme est à court de munitions (ils le font pas besoin de relancer les contrôles de munitions effectués dans le cadre de l'action Recharger)."
+of the Reload action).";Le prix de l’avarice;Cawdor;"Jouez cette tactique de gang pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants. Jusqu'à la fin de ce tour, tous les combattants ennemis qui se trouvent à moins de 4"" d’un combattant Cawdor allié le combattant doit relancer ses tests de munitions (ils ne de relance si le test est effectué dans le cadre de l'action Recharger)."
 ../TacticsCards/CAWDOR/Unyielding Zeal.png;Unyielding Zeal;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -465,25 +465,25 @@ Ready Fighters.
 Until the end of this round, every friendly House
 Cawdor fighter currently on the battlefield gains
 a +2 modifier to any Cool checks they are
-required to make.";Un zèle inébranlable;Cawdor;Jouez cette tactique de gang pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants Prêts. Jusqu'à la fin de ce tour, chaque Maison amie Le combattant Cawdor actuellement sur le champ de bataille gagne un modificateur de +2 à tous les contrôles de Cool qu'ils effectuent nécessaire de faire.
+required to make.";Un zèle inébranlable;Cawdor;Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattant. Jusqu'à la fin de ce tour, chaque combattant Cawdor allié actuellement sur le champ de bataille gagne un modificateur de +2 à tous les tests de Cool qu'ils effectuent.
 ../TacticsCards/CAWDOR VEHICLES/Armoured by Faith.png;Armoured by Faith;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed before the first roll for Priority.
 For the duration of the battle, D3 friendly
-vehicles increase their Front Toughness by 1.";Armé par la foi;Véhicules Cawdor;Jouez cette tactique de gang une fois que les deux gangs ont déployé avant le premier lancer de Priorité. Pendant toute la durée de la bataille, D3 amical les véhicules augmentent leur endurance avant de 1.
+vehicles increase their Front Toughness by 1.";Armé par la foi;Véhicules Cawdor;Jouez cette tactique une fois que les deux gangs sont déployés, avant le premier lancer de Priorité. Pendant toute la durée de la bataille, D3 véhicules alliés augmentent leur Toughness frontal de 1.
 ../TacticsCards/CAWDOR VEHICLES/Beacon of Faith.png;Beacon of Faith;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed but before the first roll for Priority.
 Select a friendly vehicle.
 
 For the duration of this battle, while this vehicle
 is not Wrecked, all friendly models within 9""
-may apply a +1 modifier to all Cool checks.";Phare de la foi;Véhicules Cawdor;"Jouez cette tactique de gang une fois que les deux gangs ont déployé mais avant le premier jet de Priorité. Choisissez un véhicule convivial. Pendant toute la durée de cette bataille, alors que ce véhicule n'est pas détruit, toutes les figurines amies dans un rayon de 9"" peut appliquer un modificateur de +1 à tous les tests de Cool."
+may apply a +1 modifier to all Cool checks.";Phare de la foi;Véhicules Cawdor;"Jouez cette tactique une fois que les deux gangs sont déployés mais avant le premier jet de Priorité. Choisissez un véhicule allié. Pendant toute la durée de cette bataille, tant que ce véhicule n'est pas détruit, toutes les figurines amies dans un rayon de 9"" peuvent appliquer un modificateur de +1 à tous les tests de Cool."
 ../TacticsCards/CAWDOR VEHICLES/Blessed Dodge.png;Blessed Dodge;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly fighter fails
 an Initiative check to avoid being run over by
 
 a vehicle.
 
 The fighter is considered to have passed the
-Initiative check.";Esquive bénie;Véhicules Cawdor;Jouez cette tactique de gang lorsqu'un combattant allié échoue un test d’Initiative pour éviter de se faire écraser par un véhicule. Le combattant est considéré comme ayant réussi le Contrôle d'initiative.
+Initiative check.";Esquive bénie;Véhicules Cawdor;Jouez cette tactique de gang lorsqu'un combattant allié échoue un test d’Initiative pour éviter de se faire écraser par un véhicule. Le combattant est considéré comme ayant réussi le test d'initiative.
 ../TacticsCards/CAWDOR VEHICLES/Cleansed by Fire.png;Cleansed by Fire;Cawdor Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle, before performing any actions.
 
@@ -492,7 +492,7 @@ condition. Until the flames go out, any models
 that either start their activation within 1"" or
 move within 1"" of this vehicle during their
 activation become subject to the Blaze condition
-on a D6 roll of 3+.";Purifié par le feu;Véhicules Cawdor;"Jouez cette tactique de gang lors de l'activation d'un ami véhicule, avant d’effectuer toute action. Le véhicule devient sujet à l'incendie état. Jusqu'à ce que les flammes s'éteignent, tous les figurines qui démarrent son activation dans un délai de 1"" ou se déplacer à moins de 1"" de ce véhicule pendant leur l'activation devient soumise à la condition Blaze sur un jet de 3+ sur D6."
+on a D6 roll of 3+.";Purifié par le feu;Véhicules Cawdor;"Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Le véhicule devient sujet à l’état Blaze. Jusqu'à ce que les flammes s'éteignent, toute figurine qui débute son activation dans un rayon de 1"" ou se déplace à moins de 1"" de ce véhicule pendant leur l'activation devient soumise à la condition Blaze sur un jet de 3+ sur D6."
 ../TacticsCards/CAWDOR VEHICLES/Doused in Promethium.png;Doused in Promethium;Cawdor Vehicle Tactics;"Play this gang tactic when activating a fighter
 subject to the Mounted condition before they
 perform any actions.
@@ -500,17 +500,17 @@ perform any actions.
 For the duration of the fighter's activation, one
 of their weapons with the Melee trait gains
 
-the Blaze trait.";Arrosé de Prométhium;Véhicules Cawdor;Jouez cette tactique de gang lors de l'activation d'un combattant soumis à l'état monté avant d'être effectuer des actions. Pendant toute la durée d'activation du combattant, un de ses armes avec les gains du trait Mêlée le trait Blaze.
+the Blaze trait.";Arrosé de Prométhium;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant monté avant d'être effectuer des actions. Pendant toute la durée d'activation du combattant, une de ses armes avec les gains du trait Mêlée le trait Blaze.
 ../TacticsCards/CAWDOR VEHICLES/Fateful Swerve.png;fateful Swerve;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly vehicle
 suffers a Penetrating Hit or Catastrophic Hit.
-The vehicle suffers a Glancing Hit instead.";Ecart fatidique;Véhicules Cawdor;Jouez cette tactique de gang lorsqu'un véhicule allié subit un coup pénétrant ou un coup catastrophique. Le véhicule subit à la place un coup d'œil.
+The vehicle suffers a Glancing Hit instead.";Ecart fatidique;Véhicules Cawdor;Jouez cette tactique lorsqu'un véhicule allié subit un coup pénétrant ou catastrophique (Penetrating or Catastrophic Hit). Le véhicule subit à la place un coup superficiel (Glancing Hit).
 ../TacticsCards/CAWDOR VEHICLES/Fury of Righteous Convictions.png;Fury of Righteous Convictions;Cawdor Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition before
 performing any actions.
 
 For the duration of their activation, they gain +2
 Strength and all of their weapons gain the
-Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique de gang lors de l'activation d'un ami chasseur soumis à la condition Monté avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Force et toutes ses armes gagnent le trait Imprudent.
+Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant allié soumis Monté, avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Force et toutes ses armes gagnent le trait Reckless.
 ../TacticsCards/CAWDOR VEHICLES/Incendiary Ram.png;Incendiary Ram;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly vehicle has
 a head-on collision during its activation, before
 resolving the collision.
@@ -522,18 +522,18 @@ marker, including the activated model, suffer
 a $3, AP-1, D1 hit as if by a weapon with
 
 the Blaze trait. Then resolve the collision
-normally.";Bélier incendiaire;Véhicules Cawdor;"Jouez cette tactique de gang lorsqu'un véhicule allié a une collision frontale lors de son activation, avant résoudre la collision. Placez le marqueur Blast de 5"" au centre du coque avant du véhicule. Tous les figurines sous le feu des projecteurs marqueur, y compris la figurine activée, souffrent un $3, AP-1, D1 touché comme par une arme avec le trait Blaze. Puis résolvez la collision normalement."
+normally.";Bélier incendiaire;Véhicules Cawdor;"Jouez cette tactique lorsqu'un véhicule allié effectue une collision frontale lors de son activation, avant résoudre la collision. Placez le marqueur Blast de 5"" au centre du coque avant du véhicule. Tous les figurines sous le gabarit, y compris la figurine activée, subissent une touche S3, AP-1, D1 avec le trait Blaze. Puis résolvez la collision normalement."
 ../TacticsCards/CAWDOR VEHICLES/Joust.png;Joust;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition causes
 an enemy vehicle to become Wrecked.
 
-The fighter gains an additional D3 XP.";Joute;Véhicules Cawdor;Jouez cette tactique de gang lorsqu'un combattant allié soumis à la condition de montage provoque un véhicule ennemi devient détruit. Le combattant gagne D3 XP supplémentaires.
+The fighter gains an additional D3 XP.";Joute;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié monté détruit un véhicule ennemi. Le combattant gagne D3 XP supplémentaires.
 ../TacticsCards/CAWDOR VEHICLES/Judgement Due.png;Judgement Due;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 Select an enemy vehicle. If it is Wrecked
 
 at the end of the battle, your gang's Leader
-gains D3 XP.";Jugement dû;Véhicules Cawdor;Jouez cette tactique de gang une fois que les deux gangs ont déployés, avant le premier jet de Priorité. Choisissez un véhicule ennemi. S'il est détruit à la fin de la bataille, le chef de votre gang gagne D3 XP.
+gains D3 XP.";Jugement dû;Véhicules Cawdor;Jouez cette tactique une fois que les deux gangs sont déployés, avant le premier jet de Priorité. Choisissez un véhicule ennemi. S'il est détruit à la fin de la bataille, le chef de votre gang gagne D3 XP.
 ../TacticsCards/CAWDOR VEHICLES/Martyrdom.png;| Martyrdom;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly fighter is
 taken Out of Action by an enemy model before
 rolling on the Lasting Injury table.
@@ -544,14 +544,14 @@ Death result. For the remainder of the battle,
 all friendly models apply a +1 modifier to any
 rolls to wound the enemy model, and friendly
 models earn an additional D3 XP if they take
-the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique de gang lorsqu'un combattant allié est mis hors de combat par une figurine ennemie avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le le combattant subit automatiquement le Mémorable résultat de Mort. Pour le reste de la bataille, toutes les figurines amies appliquent un modificateur de +1 à une lance des jets pour blesser la figurine ennemie et amicale les figurines gagnent un D3 XP supplémentaire s'ils prennent le modèle ennemi Hors de combat.
+the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis hors de combat par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Hors de combat.
 ../TacticsCards/CAWDOR VEHICLES/Prayer Wagon.png;Prayer Wagon;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 
 Select a friendly vehicle. For the duration of
 
 the battle it rolls 3 dice to see if it generates Faith
-dice.";Chariot de prière;Véhicules Cawdor;Jouez cette tactique de gang une fois que les deux gangs ont déployés, avant le premier jet de Priorité. Choisissez un véhicule convivial. Pour la durée de la bataille, il lance 3 dés pour voir s'il génère de la Foi dés.
+dice.";Chariot de prière;Véhicules Cawdor;Jouez cette tactique une fois que les deux gangs sont déployés, avant le premier jet de Priorité. Choisissez un véhicule allié. Pour la durée de la bataille, il lance 3 dés pour générer de la Foi.
 ../TacticsCards/CAWDOR VEHICLES/Pyroclastic Rain.png;Pyroclastic Rain;Cawdor Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
@@ -559,18 +559,18 @@ For the duration of this activation, any weapon
 with the Blaze and Template traits may place the
 template within 6"" instead of in contact with the
 weapon so that the narrow end of the template is
-closer to the attacking vehicle than the wide end.";Pluie pyroclastique;Véhicules Cawdor;"Jouez cette tactique de gang lors de l'activation d'un ami véhicule avant d’effectuer toute action. Pendant la durée de cette activation, toute arme avec les traits Blaze et Template peuvent placer le modèle à moins de 6"" au lieu d'être en contact avec le arme de sorte que l'extrémité étroite du gabarit soit plus proche du véhicule attaquant que l’extrémité large."
+closer to the attacking vehicle than the wide end.";Pluie pyroclastique;Véhicules Cawdor;"Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, toute arme avec les traits Blaze et Template peuvent placer le gabarit dans les 6"" au lieu d'être en contact l’arme de sorte que l'extrémité étroite du gabarit soit plus proche du véhicule attaquant que l’extrémité large."
 ../TacticsCards/CAWDOR VEHICLES/Rearm!.png;Rearm!;Cawdor Vehicle Tactics;"Play this gang tactic after resolving an attack
 from a weapon with the Lancebomb trait.
 The next successful hit from this erpon will
 use the Primed profile instead of the Spent
-profile.";Réarmez !;Véhicules Cawdor;Jouez cette tactique de gang après avoir résolu une attaque d'une arme avec le trait Lancebomb. Le prochain succès de cet erpon sera utilisez le profil Primed au lieu du profil Spent profil.
+profile.";Réarmez !;Véhicules Cawdor;Jouez cette tactique après avoir résolu une attaque d'une arme avec le trait Lance-bomb. Le prochain succès de cet arme utilisera le profil Primed au lieu du profil Spent.
 ../TacticsCards/CAWDOR VEHICLES/Scrap Dealers.png;Scrap Dealers;Cawdor Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when making the Negotiate Repairs
 post-battle action.
 
 Reduce the cost of repairs by D6x10 credits to
-a minimum of 5 credits.";Ferrailleurs;Véhicules Cawdor;Jouez cette tactique de gang pendant l'après-bataille séquence lors de la négociation des réparations action d'après-bataille. Réduisez le coût des réparations de D6x10 crédits pour un minimum de 5 crédits.
+a minimum of 5 credits.";Ferrailleurs;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, lors de la négociation des réparations d'après-bataille. Réduisez le coût des réparations de D6x10 crédits pour un minimum de 5 crédits.
 ../TacticsCards/CAWDOR VEHICLES/Self Destruct.png;Self Destruct;Cawdor Vehicle Tactics;"Play this gang tactic at any point during
 
 a friendly vehicle's activation.
@@ -579,16 +579,16 @@ All models, both friend and foe, within 5"" of
 the vehicle suffer a S6, AP-1, D1 hit as if from
 a weapon with the Blaze trait. The activated
 vehicle is then Wrecked, add 1 to the roll on
-the Lasting Damage table.";Autodestruction;Véhicules Cawdor;"Jouez cette tactique de gang à tout moment pendant l'activation d'un véhicule allié. Toutes les figurines, amies et ennemies, à moins de 5"" de le véhicule subit un impact S6, AP-1, D1 comme s'il provenait une arme avec le trait Blaze. L'activé le véhicule est alors détruit, ajoutez 1 au jet le tableau des dégâts durables."
+the Lasting Damage table.";Autodestruction;Véhicules Cawdor;"Jouez cette tactique à tout moment pendant l'activation d'un véhicule allié. Toutes les figurines, amies et ennemies, à moins de 5"" de le véhicule subissent un impact S6, AP-1, D1 avec le trait Blaze. Le véhicule est alors détruit, ajoutez 1 au jet le tableau des dégâts durables."
 ../TacticsCards/CAWDOR VEHICLES/Weak Spot.png;Weak Spot;Cawdor Vehicle Tactics;"Play this gang tactic before rolling Damage dice.
-Roll one additional Damage dice.";Point faible;Véhicules Cawdor;Jouez cette tactique de gang avant de lancer les dés de dégâts. Lancez un dé de dégâts supplémentaire.
+Roll one additional Damage dice.";Point faible;Véhicules Cawdor;Jouez cette tactique avant de lancer les dés de dégâts. Lancez un dé de dégâts supplémentaire.
 ../TacticsCards/CAWDOR VEHICLES/Where There’s Scrap....png;Where There’s Scrap...;Cawdor Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence during the Receive Rewards step.
 
 Add D3x5 credits to your gang’s Stash for each
 Wrecked enemy vehicle and enemy fighter
 subject to the Mounted condition who was taken
-Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique de gang pendant l'après-bataille séquence pendant l’étape Recevoir les récompenses. Ajoutez des crédits D3x5 à la réserve de votre gang pour chacun Véhicule ennemi détruit et chasseur ennemi soumis à la condition Monté qui a été emmené Hors de combat.
+Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, pendant l’étape recevoir les récompenses. Ajoutez des D3x5 crédits à la réserve de votre gang pour chaque véhicule ennemi détruit et combattant ennemi Monté qui a été mis Hors de combat.
 ../TacticsCards/CORPSE GRINDERS/Blessed by Death.png;Blessed by Death;Corpse Grinders Tactics;"Play this card when a fighter in your gang
 
 takes an enemy fighter Out of Action with
