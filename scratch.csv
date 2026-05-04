@@ -951,7 +951,7 @@ place of making Shoot (Basic) actions with
 
 any other ranged weapon. If the Ammo symbol
 is rolled on the Firepower dice, the card is
-discarded.";Étui de cheville;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. tant qu’elle est là, le combattant peut utiliser son pistolet pour faire des actions de tir (simples) ainsi que ou dans lieu de réalisation d'actions Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur les dés de puissance de feu, la carte est rejeté.
+discarded.";Étui de cheville;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. tant qu’elle est là, le combattant peut utiliser son stub gun pour faire des actions de shoot (simple) ainsi que ou une action Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur le firepower dice, la carte est défaussée.
 ../TacticsCards/ENFORCERS/Appropriate Force.png;Appropriate Force;Enforcers Tactics;"Play this card when activating a fighter.
 
 If this fighter makes a Fight (Basic) action, they
@@ -959,16 +959,16 @@ gain one additional attack. This attack must be
 made with a weapon with the Melee trait and
 cannot be made with a weapon with the Sidearm
 trait. Roll for this attack separately and, if it hits,
-is resolved at +1 Damage.";Force appropriée;Enforcers;Jouez cette carte lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être fabriqué avec une arme avec le trait Mêlée et ne peut pas être fabriqué avec une arme avec l'arme de poing trait. Lancez les dés pour cette attaque séparément et, si elle réussit, est résolu à +1 Dégâts.
+is resolved at +1 Damage.";Force appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Mêlée et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
 ../TacticsCards/ENFORCERS/Big Red Key.png;Big Red Key;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, any Force |
 Door (Basic) actions taken by friendly |
-fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez au début d’un tour. Pendant la durée de ce tour, une Force Actions de porte (de base) prises par un ami les combattants réussissent automatiquement.
+fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactique au début d’un tour. Pendant la durée de ce tour, une action Force door (basic) faite par un combattant allié réussi automatiquement.
 ../TacticsCards/ENFORCERS/Crackdown.png;| Crackdown;Enforcers Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, all
 weapons with the Melee trait used by |
-friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez au début d’un tour. Jusqu'à la phase de Fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Commotion cérébrale.
+friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez cette tactique au début d’un tour. Jusqu'à la phase de Fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Concussion.
 ../TacticsCards/ENFORCERS/Don_t Trip.png;Don't Trip!;Enforcers Tactics;"Play this card when an enemy fighter that has
 used a Move (Simple) action to climb finishes
 the action.
@@ -977,20 +977,20 @@ The enemy fighter must immediately pass an
 Initiative check. If they fail, they will fall and are
 placed back where they started. If the enemy
 fighter climbed pane a ladder or stairs, they gain
-a+2 modifier to the Initiative check.";Ne trébuchez pas !;Enforcers;Jouez cette carte lorsqu'un combattant ennemi qui a utilisé une action de déplacement (simple) pour gravir les arrivées l'action. Le combattant ennemi doit immédiatement passer un Contrôle d'initiative. S'ils échouent, ils tomberont et seront replacés là où ils ont commencé. Si l'ennemi Le combattant a grimpé par une échelle ou un escalier, il gagne un modificateur de +2 au test d’Initiative.
+a+2 modifier to the Initiative check.";Ne trébuchez pas !;Enforcers;Jouez cette carte lorsqu'un combattant ennemi qui a utilisé une action de déplacement (simple) pour grimper se termine. Le combattant ennemi doit immédiatement passer un d'initiative. S'il échoue, il tombe et est replacé là où il a commencé son action. Si le combattant ennemi a grimpé par une échelle ou un escalier, il gagne un modificateur de +2 au test d’Initiative.
 ../TacticsCards/ENFORCERS/Excellent Reconnaissance.png;Excellent Reconnaissance;Enforcers Tactics;"| Play this card at the start of the Deployment
 step of the Pre-battle sequence, before any
 fighters have been deployed.
 
 For the duration of this battle, one Palanite
 fighter of your choice (1.e., a fighter that is
-not a Subjugator) gains the Infiltrate skill.";Reconnaissance excellente;Enforcers;Jouez cette carte au début du déploiement étape de la séquence pré-combat, avant tout des combattants ont été déployés. Pendant toute la durée de cette bataille, un Palanite combattant de votre choix (1.e., un combattant qui est pas un Subjugator) acquiert la compétence Infiltration.
+not a Subjugator) gains the Infiltrate skill.";Reconnaissance excellente;Enforcers;Jouez cette tactique au début du déploiement de la séquence pré-combat, avant que tous les combattants aient été déployés. Pour la durée de cette bataille, un combattant Palanite de votre choix (1.e., un combattant qui n’est pas un Subjugator) acquiert la compétence Infiltration.
 ../TacticsCards/ENFORCERS/Extra Vest.png;Extra Vest;Enforcers Tactics;"| Play this card immediately after a fighter |
 fails a save roll.
 
 Roll a D6. On the roll of a 6, the save rollis |
 passed. On any other result, the failed save
-roll stands.";Gilet supplémentaire;Enforcers;Jouez cette carte immédiatement après un combattant échoue à un jet de sauvegarde. Lancez un D6. Sur le résultat d'un 6, le jet de sauvegarde est passé. Sur tout autre résultat, la sauvegarde a échoué supports à rouleaux.
+roll stands.";Gilet supplémentaire;Enforcers;Jouez cette tactique immédiatement après qu’un combattant échoue à un jet de sauvegarde. Lancez un D6. Sur le résultat d'un 6, le jet de sauvegarde est passé.
 ../TacticsCards/ENFORCERS/Informant.png;, Informant;Enforcers Tactics;"| Play during the pre-battle sequence, during
 Step 8. Deployment.
 
@@ -998,14 +998,14 @@ Nominate one fighter from your opponent's |
 starting crew. You may remove this fighter
 and redeploy them as you wish, following
 the normal deployment rules for the scenario
-being played.";Informateur;Enforcers;Jouez pendant la séquence d'avant-bataille, pendant Étape 8. Déploiement. Nommez un combattant parmi les équipage de départ. Vous pouvez supprimer ce combattant et redéployez-les à votre guise, en suivant les règles de déploiement normales pour le scénario étant joué.
+being played.";Informateur;Enforcers;Jouez cette tactique pendant la séquence d'avant-bataille, Étape 8. Déploiement. Nommez un combattant parmi le gang de départ de votre adversaire. Vous pouvez redéployer ce combattant, en suivant les règles de déploiement normales au regard du scénario joué.
 ../TacticsCards/ENFORCERS/Jaded Veteran.png;Jaded Veteran;Enforcers Tactics;"| Play this card at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed.
 
 For the duration of this battle, one fighter of
 your choice cannot be subject to the Broken
-condition.";Vétéran blasé;Enforcers;Jouez cette carte au début du déploiement étape de la séquence pré-bataille, avant tout des combattants ont été déployés. Pendant toute la durée de cette bataille, un combattant de votre choix ne peut pas être soumis au Brisé état.
+condition.";Vétéran blasé;Enforcers;Jouez cette tactique au début de l’étape de déploiement de la séquence pré-bataille, avant que les combattants aient été déployés. Pour la durée de cette bataille, un combattant de votre choix ne peut pas être soumis à l’état Broken.
 ../TacticsCards/ENFORCERS/Lockdown.png;| Lockdown;Enforcers Tactics;"Play at the start of any round.
 
 Every open door on the board that does not have
@@ -1016,24 +1016,24 @@ force, either by targeting them with attacks or by
 performing a Force Door (Basic) action against
 them.
 
-Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal de porte se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal de porte se verrouille et ne peut être ouvert qu'avec force, soit en les ciblant avec des attaques, soit en effectuer une action Forcer la porte (de base) contre eux. Les portes avec terminaux ne sont pas concernées par cette carte.
+Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez cette tactique au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal se verrouille et ne peut être ouvert qu’en la forçant, soit en la ciblant avec des attaques, soit en effectuant une action Force door (basic). Les portes avec terminaux ne sont pas concernées par cette carte.
 ../TacticsCards/ENFORCERS/Shock and Awe.png;Shock and Awe;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, D3+1 |
 fighters of the controlling player's choice |
-gain the Fearsome skill.";Choc et crainte;Enforcers;Jouez au début d’un tour. Pour la durée de ce tour, D3+1 combattants au choix du joueur qui contrôle obtenez la compétence Redoutable.
+gain the Fearsome skill.";Choc et crainte;Enforcers;Jouez cette tactique au début d’un tour. Pour la durée de ce tour, D3+1 combattants de votre choix obtiennent la compétence Fearsome.
 ../TacticsCards/ENFORCERS/Stop and Search.png;Stop and Search;Enforcers Tactics;"| Play immediately after a fighter in your gang
 performs a Coup de Grace (Simple) or
 Restrain (Simple) action.
 
 The Enforcer rifles through the pockets of
 their victim. Immediately add D6x10 credits
-to the gang's Stash.";Contrôle et fouille;Enforcers;Jouez immédiatement après un combattant de votre gang effectue un Coup de Grâce (Simple) ou Restreindre l’action (Simple). L'Enforcer fouille dans les poches de leur victime. Ajoutez immédiatement des crédits D6x10 à la cachette du gang.
+to the gang's Stash.";Contrôle et fouille;Enforcers;Jouez cette tactique immédiatement après qu’un combattant de votre gang effectue un Coup de Grâce (Simple) ou Restrain (Simple). L'Enforcer fouille dans les poches de sa victime. Ajoutez immédiatement D6x10 crédits à la cachette du gang.
 ../TacticsCards/ESCHER/A New Strain.png;A New Strain;Escher Tactics;"Play immediately before rolling to wound |
 with a Gas weapon.
 
 Add 2 to the result of the dice roll to |
 determine whether the target succumbs to
-the gas.";Une nouvelle souche;Escher;Jouez immédiatement avant de lancer pour blesser avec une arme à gaz. Ajoutez 2 au résultat du lancer de dés à déterminer si la cible succombe à le gaz.
+the gas.";Une nouvelle souche;Escher;Jouez cette tactique immédiatement avant de lancer pour blesser avec une arme qui a le trait Gas. Ajoutez 2 au résultat du lancer de dés pour déterminer si la cible succombe au gaz.
 ../TacticsCards/ESCHER/Blade Traps.png;Blade Traps;Escher Tactics;"Play this gang tactic instead of activating
 
 a fighter.
