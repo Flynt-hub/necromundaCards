@@ -705,7 +705,7 @@ the fighter may perform the action as normal.";Une dette à payer;Delaque;Jouez 
 ../TacticsCards/DELAQUE/Assassins.png;Assassins;Delaque Tactics;"Play instead of activating a fighter. |
 For the remainder of this round, any ranged —
 attacks made by a fighter that is outside of
-the target's vision are gains +2 to hit.";Assassins;Delaque;Jouez au lieu d'activer un combattant. Pour le reste de ce tour, tout joueur à distance — attaques effectuées par un combattant qui se trouve à l'extérieur de la vision de la cible gagne +2 pour toucher.
+the target's vision are gains +2 to hit.";Assassins;Delaque;Jouez au lieu d'activer un combattant. Pour le reste de ce tour, toute attaque à distance effectuée par un combattant qui se trouve hors de toute ligne de vue ennemi gagne +2 pour toucher.
 ../TacticsCards/DELAQUE/Blinding Revelations.png;Blinding Revelations;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter is taken Out of Action by a close combat
 attack or by a Coup De Grace (Simple) action.
@@ -713,7 +713,7 @@ Before the fighter is removed from play, place
 
 a large 5"" Blast marker, centred on the fighter.
 All fighters touched by the marker are hit as if by
-a weapon with the Flash trait.";Des révélations aveuglantes;Delaque;"Jouez cette tactique de gang lorsqu'un Delaque allié le combattant est mis hors de combat par un combat rapproché attaque ou par une action Coup de Grâce (Simple). Avant que le combattant ne soit retiré du jeu, placez un grand marqueur Blast de 5"", centré sur le combattant. Tous les combattants touchés par le marqueur sont touchés comme par une arme avec le trait Flash."
+a weapon with the Flash trait.";Des révélations aveuglantes;Delaque;"Jouez cette tactique lorsqu'un combattant Delaque allié est mis hors de combat en combat rapproché ou par une action Coup de Grâce (Simple). Avant que le combattant ne soit retiré du jeu, placez un grand marqueur Blast de 5"", centré sur le combattant. Tous les combattants touchés par le marqueur sont touchés comme par une arme avec le trait Flash."
 ../TacticsCards/DELAQUE/Cloying Darkness.png;Cloying Darkness;Delaque Tactics;"Play this gang tactic when an enemy fighter
 performs a Fight (Basic) action.
 
@@ -730,14 +730,14 @@ wish to use that weapon, they must first make an
 Intelligence check. If the check is passed, they
 may use the weapon as normal. If the check is
 failed, their WS is treated as 6+ when making
-attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette carte au début de la bataille, après les deux les équipes se sont déployées, mais avant le premier tour. Choisissez un combattant parmi l'équipage de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur dessus leur carte. Choisissez une arme de mêlée qu'ils utilisent équipé de. Durant cette bataille, quand ils souhaitent utiliser cette arme, ils doivent d'abord faire un test d’Intelligence. Si le test est réussi, ils peut utiliser l’arme normalement. Si le chèque est échoué, leur WS est traité comme 6+ lors de la création attaque avec cette arme pendant cette activation.
+attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette tactique au début de la bataille, après les deux les équipes soient déployées, mais avant le premier tour. Choisissez un combattant parmi l'équipe de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur sur sa carte. Choisissez une arme de mêlée dont il est équipé. Durant cette bataille, lorsqu’il utilise cette arme, il doit d'abord faire un test d’Intelligence. Si le test est réussi, ils peut utiliser l’arme normalement. Si le test est échoué, sa WS est traité comme 6+.
 ../TacticsCards/DELAQUE/Dancing Shadows.png;Dancing Shadows;Delaque Tactics;"| Play this card when an enemy fighter makes
 a ranged attack.
 
 The attacking enemy fighter must passan  _
 Intelligence check. If they fail, the attack
 automatically misses and their activation
-ends.";Ombres dansantes;Delaque;Jouez cette carte lorsqu'un combattant ennemi fait une attaque à distance. Le combattant ennemi attaquant doit passeran _ test d’Intelligence. S'ils échouent, l'attaque manque automatiquement et son activation se termine.
+ends.";Ombres dansantes;Delaque;Jouez cette tactique lorsqu'un combattant ennemi fait une attaque à distance. Le combattant ennemi attaquant doit passer un test d’Intelligence. S'ils échouent, l'attaque manque automatiquement et son activation se termine.
 ../TacticsCards/DELAQUE/Darkness Descends.png;Darkness Descends;Delaque Tactics;"Play at the start of any round other than the first,
 after rolling for Priority.
 
@@ -746,7 +746,7 @@ battlefield is plunged into darkness. For the
 remainder of the battle, the Pitch Black scenario
 rules are in effect. During each End phase, your
 opponent may roll a d6. On a 6, the Pitch Black
-rules are lifted and the lights come back on.";Les ténèbres tombent;Delaque;Jouez au début d’un tour autre que le premier, après avoir lancé le jet Priorité. A un signal programmé à l'avance, les lumières s'éteignent et le Le champ de bataille est plongé dans l'obscurité. Pour le reste de la bataille, le scénario Pitch Black les règles sont en vigueur. Durant chaque phase de fin, votre L'adversaire peut lancer un d6. Sur un 6, le Pitch Black les règles sont levées et les lumières se rallument.
+rules are lifted and the lights come back on.";Les ténèbres tombent;Delaque;Jouez cette tactique au début d’un tour autre que le premier, après avoir lancé le jet Priorité. Les lumières s'éteignent et le Le champ de bataille est plongé dans l'obscurité. Pour le reste de la bataille, les règles Pitch Black sont en vigueur. Durant chaque phase de fin, votre L'adversaire peut lancer un D6. Sur un 6, les lumières se rallument.
 ../TacticsCards/DELAQUE/Deceit.png;Deceit;Delaque Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -755,7 +755,7 @@ You may immediately reverse the results of the
 Priority roll. In other words, you may choose to
 take Priority if your opponent won the roll, or
 you may choose to give your opponent Priority if
-you won the roll.";Tromperie;Delaque;Jouez cette tactique de gang pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants Prêts. Vous pouvez immédiatement annuler les résultats du Rouleau prioritaire. En d'autres termes, vous pouvez choisir de prendre la priorité si votre adversaire a gagné le jet, ou vous pouvez choisir de donner la priorité à votre adversaire si vous avez gagné le rouleau.
+you won the roll.";Tromperie;Delaque;Jouez cette tactique pendant la phase de Priorité d'un tour, après le lancer de priorité, mais avant activation des combattant. Vous pouvez immédiatement inverser les résultats du jet de priorité. En d'autres termes, vous pouvez choisir de prendre la priorité si votre adversaire a gagné le jet, ou vous pouvez choisir de donner la priorité à votre adversaire si vous avez gagné le jet.
 ../TacticsCards/DELAQUE/Dirt on You.png;Dirt on You;Delaque Tactics;"Play at the start of the game, after both gangs
 have been deployed.
 
@@ -765,7 +765,7 @@ twitchy. For the duration of the battle, your
 opponent's Leader suffers a -1 modifier to any
 Cool checks they must make. If your opponent's
 leader is not available for this battle, discard this
-card.";Dossier compromettant;Delaque;Jouez au début du jeu, après les deux gangs ont été déployés. Votre gang a des informations qui font le chef du gang ennemi en particulier nerveux. Pendant toute la durée de la bataille, votre Le chef de l'adversaire subit un modificateur de -1 à tout Des chèques sympas qu’ils doivent faire. Si celui de votre adversaire le chef n'est pas disponible pour cette bataille, défaussez-le carte.
+card.";Dossier compromettant;Delaque;Jouez cette tactique au début du jeu, après les deux gangs soient déployés. Votre gang a des informations qui rendent le chef du gang ennemi nerveux. Pendant toute la durée de la bataille, votre Le chef de l'adversaire subit un modificateur de -1 à tout test de Cool qu’il doit faire. Si le leader de votre adversaire n'est pas disponible pour cette bataille, défaussez cette carte.
 ../TacticsCards/DELAQUE/Disquieting Susurration.png;Disquieting Susurration;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter fails their Willpower check to perform
 a Wyrd Power action.
@@ -773,7 +773,7 @@ a Wyrd Power action.
 You may immediately re-roll the failed
 Willpower check. However, you must accept
 the result of the second roll, even if it is worse
-than the first.";Murmures inquiétants;Delaque;Jouez cette tactique de gang lorsqu'un Delaque allié le combattant échoue à son test de Volonté une action de Pouvoir Wyrd. Vous pouvez immédiatement relancer le jet raté. Vérification de la volonté. Cependant, vous devez accepter le résultat du deuxième lancer, même s'il est pire que le premier.
+than the first.";Murmures inquiétants;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié échoue à son test de Willpower lors d’une action de Wyrd power. Vous pouvez immédiatement relancer le jet raté. Cependant, vous devez accepter le résultat du deuxième lancer, même s'il est pire que le premier.
 ../TacticsCards/DELAQUE/Distrust.png;| Distrust;Delaque Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round. Choose one enemy Ganger or
@@ -784,7 +784,7 @@ enemy fighter. Note that the opposing player still
 treats this fighter as part of their crew, activating
 them, performing actions and so forth, but in all
 other regards the fighter is treated as an enemy
-fighter and not as a part of the gang.";Méfiance;Delaque;Jouez cette tactique de gang au début de la bataille, après que les deux camps se soient déployés, mais avant le premier tour. Choisissez un Ganger ennemi ou La Juve. Pendant toute la durée de cette bataille, les combattants appartenant aux deux gangs traitent ce combattant comme un combattant ennemi. Notez que le joueur adverse traite ce combattant comme faisant partie de son équipage, activant eux, accomplissant des actions et ainsi de suite, mais dans tous à part ça, le combattant est traité comme un ennemi combattant et non en tant que membre du gang.
+fighter and not as a part of the gang.";Méfiance;Delaque;Jouez cette tactique au début de la bataille, après que les deux camps soient déployés, mais avant le premier tour. Choisissez un Ganger ou un Juve ennemi. Pendant toute la durée de cette bataille, les combattants appartenant aux deux gangs traitent ce combattant comme un combattant ennemi. Notez que le joueur adverse compte toujours ce combattant comme faisant partie de son gang, l’activant normalement, accomplissant des actions et ainsi de suite, cependant, le combattant est traité comme un combattant ennemi et non en tant que membre du gang.
 ../TacticsCards/DELAQUE/Eyes in the Dark.png;Eyes in the Dark;Delaque Tactics;"Play at the start of any round, after rolling for
 Priority.
 
@@ -795,7 +795,7 @@ goggles may instead ignore cover when making
 a Shoot (Basic) action targeting a Standing and
 Active enemy fighter. Note that this does not
 apply if the action would be (Simple) or
-(Double) for any reason.";Des yeux dans le noir;Delaque;Jouez au début d’un tour, après avoir lancé Priorité. Pendant toute la durée du round, tous amicaux les combattants sont traités comme ayant des lunettes photo. Des combattants alliés déjà équipés de photo les lunettes peuvent à la place ignorer la couverture lors de la fabrication une action Tir (Basique) ciblant un Personnage Debout et Combattant ennemi actif. Notez que cela ne signifie pas s'applique si l'action serait (Simple) ou (Double) pour quelque raison que ce soit.
+(Double) for any reason.";Des yeux dans le noir;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé Priorité. Pendant toute la durée du round, tous les combattants alliés sont traités comme ayant des photo-goggles. Les combattants alliés déjà équipés de photo-goggles peuvent à la place ignorer la couverture lors d’une action Tir (Basique) ciblant un Personnage Debout. Notez que cela s’applique pas si l'action est (Simple) ou (Double) pour quel que raison que ce soit.
 ../TacticsCards/DELAQUE/Faceless.png;Faceless;Delaque Tactics;"| Play at the start of any round, after rolling
 for Priority.
 
@@ -804,14 +804,14 @@ the board. These fighters swap positions,
 even if they are Engaged in melee. Leaders,
 Champions, Brutes, Hired Guns, and
 Seriously Injured fighters may not be moved
-using this card.";Sans visage;Delaque;Jouez au début d’un tour, après avoir lancé pour Priorité. Choisissez deux de vos combattants n'importe où le conseil d'administration. Ces combattants échangent leurs positions, même s'ils sont engagés en mêlée. Dirigeants, Champions, brutes, mercenaires et Les combattants grièvement blessés ne peuvent pas être déplacés en utilisant cette carte.
+using this card.";Sans visage;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Choisissez deux de vos combattants n'importe où sur le champs de bataille. Ces combattants échangent leurs positions, même s'ils sont engagés en mêlée. Leader, Champions, brutes, mercenaires et Les combattants grièvement blessés ne peuvent pas être déplacés en utilisant cette carte.
 ../TacticsCards/DELAQUE/Faces in the Gloom.png;Faces in the Gloom;Delaque Tactics;"Play this gang tactic when an enemy fighter
 performs a Shoot (Basic) action.
 
 Faces loom from the darkness of the underhive,
 making the fighter think they are surrounded by
 enemies. Apply a -D3 modifier to the fighter's
-Hit roll.";Visages dans la pénombre;Delaque;Jouez cette tactique de gang lorsqu'un combattant ennemi effectue une action Tir (Basique). Des visages surgissent des ténèbres du sous-monde, faisant croire au combattant qu'il est entouré de ennemis. Appliquez un modificateur de -D3 au combattant. Frappez le jet.
+Hit roll.";Visages dans la pénombre;Delaque;Jouez cette tactique lorsqu'un combattant ennemi effectue une action Tir (Basique). Des visages surgissent des ténèbres du sous-monde, faisant croire au combattant qu'il est entouré de ennemis. Appliquez un modificateur de -D3 au jet de touche du combattant.
 ../TacticsCards/DELAQUE/Friend or Foe_.png;Friend or Foe?;Delaque Tactics;"Play at the start of any round, after rolling for
 Priority.
 
@@ -821,7 +821,7 @@ target this fighter with any attacks. Additionally,
 this fighter may move within 1"" of enemy
 fighters, and vice versa. Should this fighter make
 any attacks targeting an enemy fighter, this card
-immediately expires.";Ami ou ennemi ?;Delaque;"Jouez au début d’un tour, après avoir lancé Priorité. Choisissez un de vos combattants. Pour la durée de le tour, les combattants du gang ennemi ne peuvent pas ciblez ce combattant avec une attaque. De plus, ce combattant peut se déplacer à moins de 1"" de l'ennemi combattants, et vice versa. Ce combattant devrait-il faire toute attaque ciblant un combattant ennemi, cette carte expire immédiatement."
+immediately expires.";Ami ou ennemi ?;Delaque;"Jouez cette tactique au début d’un tour, après avoir lancé la Priorité. Choisissez un de vos combattants. Pour la durée du tour, les combattants du gang ennemi ne peuvent pas ciblez ce combattant avec une attaque. De plus, ce combattant peut se déplacer à moins de 1"" des combattants ennemis, et vice versa. Si ce combattant attaque un combattant ennemi, cette carte expire immédiatement."
 ../TacticsCards/DELAQUE/Ghostly.png;Ghostly;Delaque Tactics;"Play this card when activating a fighter.
 
 Tuck this card under the fighter's card.
@@ -830,7 +830,7 @@ While it is there, all ranged attacks targeting
 
 this fighter suffer an additional -1 modifier
 to the hit roll. In each End phase, roll a D6.
-On a 1, the card is discarded.";Fantomatique;Delaque;Jouez cette carte lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Tant qu'il est là, toutes les attaques à distance ciblant ce combattant subit un modificateur supplémentaire de -1 au jet de touche. Dans chaque phase de fin, lancez un D6. Sur un 1, la carte est défaussée.
+On a 1, the card is discarded.";Fantomatique;Delaque;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Tant qu'il est là, toutes les attaques à distance ciblant ce combattant subissent un modificateur supplémentaire de -1 au jet de touche. À chaque phase de fin, lancez un D6. Sur un 1, la carte est défaussée.
 ../TacticsCards/DELAQUE/Labyrinth.png;| Labyrinth;Delaque Tactics;"| Play at the start of the game, after both
 
 gangs have been deployed.
@@ -838,7 +838,7 @@ gangs have been deployed.
 You may immediately move D6 obstacles up
 to 3"" in any direction. Alternatively, you
 
-may either add or remove D3 obstacles.";Labyrinthe;Delaque;"Jouez au début du jeu, après les deux des gangs ont été déployés. Vous pouvez immédiatement déplacer les obstacles D6 vers le haut. à 3"" dans une direction. Alternativement, vous peut ajouter ou supprimer des obstacles D3."
+may either add or remove D3 obstacles.";Labyrinthe;Delaque;"Jouez cette tactique au début du jeu, après les deux des gangs ont été déployés. Vous pouvez immédiatement déplacer D6 obstacles de jusque’à 3"" dans une direction. Alternativement, vous pouvez ajouter ou supprimer D3 obstacles."
 ../TacticsCards/DELAQUE/Maddening Voices.png;Maddening Voices;Delaque Tactics;"Play this gang tactic when the opposing player
 activates one of their fighters.
 
@@ -848,25 +848,25 @@ of your Delaque fighters that is within 3"" of
 them. If this check is failed, the activated fighter
 immediately becomes subject to the Insane
 condition (as described in the Necromunda
-Rulebook).";Voix affolantes;Delaque;"Jouez cette tactique de gang lorsque le joueur adverse active l'un de leurs combattants. Le combattant activé doit immédiatement effectuer un Test de Volonté, appliquant un modificateur de -1 pour chacun de vos combattants Delaque qui se trouve à moins de 3"" de eux. Si ce test échoue, le combattant activé devient immédiatement soumis au fou état (tel que décrit dans le Necromunda Livret de règles)."
+Rulebook).";Voix affolantes;Delaque;"Jouez cette tactique lorsque le joueur adverse active l'un de ses combattants. Le combattant activé doit immédiatement effectuer un Test de Willpower, appliquant un modificateur de -1 pour chacun de vos combattants Delaque qui se trouve à moins de 3"" de lui. Si ce test échoue, le combattant activé devient immédiatement soumis à l’état Insane"
 ../TacticsCards/DELAQUE/Mass Infiltration.png;Mass Infiltration;Delaque Tactics;"| Play this card during deployment.
 
 Choose D3 fighters in your crew. For the
 duration of this battle, these fighters gain |
-the Infiltrate skill";Infiltration massive;Delaque;Jouez cette carte pendant le déploiement. Choisissez des combattants D3 dans votre équipage. Pour le durée de cette bataille, ces combattants gagnent la compétence Infiltration
+the Infiltrate skill";Infiltration massive;Delaque;Jouez cette tactique pendant le déploiement. Choisissez D3 combattants dans votre équipage. Pour le durée de cette bataille, ces combattants gagnent la compétence Infiltration
 ../TacticsCards/DELAQUE/Over Here....png;Over Here...;Delaque Tactics;"Play when an enemy model makesa Move |
 (Simple) action.
 
 Instead of moving normally, the chosen |
 enemy fighter moves D6"" in a direction
 chosen by you, stopping if they come into
-contact with any terrain. |";Par ici...;Delaque;"Jouez lorsqu'une figurine ennemie effectue un mouvement action (Simple). Au lieu de se déplacer normalement, le le combattant ennemi se déplace de D6"" dans une direction choisis par vous, s'arrêtant s'ils entrent contact avec un terrain."
+contact with any terrain. |";Par ici...;Delaque;"Jouez cette tactique lorsqu'une figurine ennemie effectue un mouvement action (Simple). Au lieu de se déplacer normalement, le combattant ennemi se déplace de D6"" dans une direction choisis par vous, s'arrêtant s'il entre contact avec un terrain."
 ../TacticsCards/DELAQUE/Perfect Disguises.png;Perfect Disguises;Delaque Tactics;"Play during the pre-battle sequence, during Step
 Five: Choose Crews.
 
 If the scenario uses the Random Selection (X)
 method for choosing crews, you may add D3 to
-the number shown in brackets.";Déguisements parfaits;Delaque;Jouez pendant la séquence pré-bataille, pendant l'étape Cinq : Choisissez les équipages. Si le scénario utilise la sélection aléatoire (X) méthode de choix des équipages, vous pouvez ajouter D3 à le numéro indiqué entre parenthèses.
+the number shown in brackets.";Déguisements parfaits;Delaque;Jouez cette tactique pendant la séquence pré-bataille, pendant l'étape « Choose crew ». Si le scénario utilise la méthode de sélection aléatoire (X), vous pouvez ajouter D3 au numéro indiqué entre parenthèses.
 ../TacticsCards/DELAQUE/Shadowfast.png;Shad owfast;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter takes an enemy fighter Out of Action with
 an attack as part of a Charge (Double) action.
@@ -874,7 +874,7 @@ an attack as part of a Charge (Double) action.
 If the fighter is no longer Engaged, they may
 immediately make a free Move (Simple) action.
 If the fighter is Engaged, they may immediately
-make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique de gang lorsqu'un Delaque allié Un combattant met un combattant ennemi hors de combat avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Déplacement (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez plutôt une action Combat (Basique) gratuite.
+make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié met un combattant ennemi hors de combat avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Déplacement (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez une action gratuite Combat (Basique).
 ../TacticsCards/DELAQUE/Shape Shifting.png;Shape Shifting;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter becomes Seriously Injured.
 
@@ -885,25 +885,25 @@ on the battlefield (i.e., a fighter that is not part of
 your starting crew). Do not make a Lasting Injury
 roll against the Seriously Injured fighter. Instead,
 they go straight into Recovery as if a roll of 31-45,
-Grievous Injury, had been made against them.";Métamorphose;Delaque;Jouez cette tactique de gang lorsqu'un Delaque allié le combattant est grièvement blessé. Retirez immédiatement le combattant grièvement blessé. du champ de bataille et les remplacer par un autre membre du gang qui n'est pas actuellement sur le champ de bataille (c'est-à-dire un combattant qui ne fait pas partie votre équipage de départ). Ne faites pas de blessure durable lancez un jet contre le combattant gravement blessé. Au lieu de cela, ils vont directement en récupération comme s'il s'agissait d'un jet de 31-45, Des blessures graves avaient été infligées à eux.
+Grievous Injury, had been made against them.";Métamorphose;Delaque;Jouez cette tactique lorsqu’un combattant Delaque allié est grièvement blessé. Retirez immédiatement le combattant grièvement blessé du champ de bataille et remplacez le par un autre membre du gang qui n'est pas sur le champ de bataille (c'est-à-dire un combattant qui ne fait pas partie votre équipage de départ). Ne faites pas de jet de Lasting injurues pour le combattant gravement blessé. Au lieu de cela, il va directement en Recovery comme s'il s'agissait d'un jet de 31-45.
 ../TacticsCards/DELAQUE/Shifting Shadows.png;Shifting Shadows;Delaque Tactics;"Play this gang tactic when activating a friendly
 Delaque fighter.
 
 The activated pphtes may immediately be
 removed from the battlefield and replaced
-anywhere within 4"" of its previous location.";Ombres changeantes;Delaque;"Jouez cette tactique de gang lors de l'activation d'un combattant allié Delaque. Les pages activées peuvent être immédiatement retiré du champ de bataille et remplacé n'importe où à moins de 4"" de son emplacement précédent."
+anywhere within 4"" of its previous location.";Ombres changeantes;Delaque;"Jouez cette tactique lors de l'activation d'un combattant Delaque allié. Ce combattant peut être immédiatement retiré du champ de bataille et remplacé n'importe où dans les 4"" de son emplacement précédent."
 ../TacticsCards/DELAQUE/Shooting at Shadows.png;Shooting at Shadows;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter is hit by an enemy ranged attack.
 
 Roll a D6. On a 2+, the hit has no effect against
 the chosen fighter. On a 1, they are affected as
-normal but this gang tactic is not discarded.";Tirer dans les ombres;Delaque;Jouez cette tactique de gang lorsqu'un Delaque allié le combattant est touché par une attaque à distance ennemie. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, ils sont affectés comme normal mais cette tactique de gang n’est pas écartée.
+normal but this gang tactic is not discarded.";Tirer dans les ombres;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié est touché par une attaque à distance ennemie. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, il est affecté normalement mais cette tactique n’est pas défaussée.
 ../TacticsCards/DELAQUE/Sightblind Traps.png;Sightblind Traps;Delaque Tactics;"Play this gang tactic instead of activating a fighter
 Place a Sightblind trap marker anywhere within
 2"" of one of your fighters. When triggered roll
 
 a D6, on a 4+ it is a Real Trap as detailed in the
-rules for Hidden Traps.";Pièges aveuglants;Delaque;"Jouez cette tactique de gang au lieu d'activer un combattant Placez un marqueur de piège pour les aveugles n'importe où à l'intérieur 2"" d'un de vos combattants. Lorsqu'il est déclenché, lancez un jet un D6, sur un 4+ c'est un vrai piège comme détaillé dans le règles pour les pièges cachés."
+rules for Hidden Traps.";Pièges aveuglants;Delaque;"Jouez cette tactique au lieu d'activer un combattant. Placez un marqueur de piège Sightblind (house of shadows p.102)  dans les 2"" d'un de vos combattants. Lorsqu'il est déclenché, lancez un jet un D6, sur un 4+ c'est un vrai piège comme détaillé dans la règle Hidden trap."
 ../TacticsCards/DELAQUE/Snakes in the Dark.png;Snakes in the Dark;Delaque Tactics;"Play this gang tactic at the start of the
 Deployment step of the pre-battle sequence,
 before any fighters have been deployed. If the
@@ -914,23 +914,23 @@ after your opponent has deployed their gang.
 In other words, you may remove any number of
 your fighters from the battlefield and deploy
 them again. Redeployed fighters must follow the
-deployment rules as determined by the scenario.";Serpents dans le noir;Delaque;Jouez cette tactique de gang au début du Étape de déploiement de la séquence pré-bataille, avant que des combattants aient été déployés. Si le le scénario vous oblige à déployer votre gang en premier, vous pouvez redéployer un nombre de vos combattants après que votre adversaire a déployé son gang. En d'autres termes, vous pouvez supprimer un nombre de vos combattants du champ de bataille et déployez-les eux encore. Les combattants redéployés doivent suivre les règles de déploiement déterminées par le scénario.
+deployment rules as determined by the scenario.";Serpents dans le noir;Delaque;Jouez cette tactique au début du Étape de déploiement de la séquence pré-bataille, avant que des combattants ne soient déployés. Si le le scénario vous oblige à déployer votre gang en premier, vous pouvez redéployer n’importe quel nombre de combattants après que votre adversaire ait déployé son gang. En d'autres termes, vous pouvez retirer n’importe lequel de vos combattants du champ de bataille et les redéployer. Les combattants redéployés doivent suivre les règles de déploiement déterminées par le scénario.
 ../TacticsCards/DELAQUE/Vanish.png;Vanish;Delaque Tactics;"| Play during any End phase, immediately
 after failing a Bottle test.
 
 Remove all friendly models from the board, |
 even if they are Engaged in melee. The game
-then ends.";Disparaître;Delaque;Jouez pendant une phase de Fin, immédiatement après avoir échoué à un test de bouteille. Supprimez toutes les figurines amies du plateau, même s'ils sont engagés en mêlée. Le jeu puis se termine.
+then ends.";Disparaître;Delaque;Jouez cet tactique pendant une phase de Fin, immédiatement après avoir échoué à un Bottle test. Supprimez toutes les figurines amies du plateau, même si elles sont engagées en mêlée. La partie se termine.
 ../TacticsCards/DELAQUE/Web Traps.png;Web Traps;Delaque Tactics;"Play this gang tactic instead of activating a fighter
 Place a Web trap marker anywhere within 2"" of
 one of your penters: When triggered roll a D6,
 on a 4+ it is a Real Trap as detailed in the rules
-for Hidden Traps.";Pièges à toile;Delaque;"Jouez cette tactique de gang au lieu d'activer un combattant Placez un marqueur de piège Web n'importe où à moins de 2"" de l'un de vos penters : Lorsqu'il est déclenché, lancez un D6, sur 4+ c'est un Vrai Piège comme détaillé dans les règles pour les pièges cachés."
+for Hidden Traps.";Pièges à toile;Delaque;"Jouez cette tactique au lieu d'activer un combattant. Placez un marqueur de piège Web n'importe où à moins de 2"" de l'un de vos combattant : Lorsqu'il est déclenché, lancez un D6, sur 4+ c'est un Vrai Piège comme détaillé dans comme détaillé dans la règle Hidden trap."
 ../TacticsCards/DELAQUE/Whispered Threats.png;Whispered Threats;Delaque Tactics;"Play this gang tactic when the enemy gang makes
 its first Bottle test of the battle.
 
 The enemy player must make this Bottle test on
-21D6, rather than the usual D6.";Menaces chuchotées;Delaque;Jouez cette tactique de gang lorsque le gang ennemi fait son premier test de bouteille de la bataille. Le joueur ennemi doit faire ce test de Bouteille sur 21D6, plutôt que le D6 habituel.
+21D6, rather than the usual D6.";Menaces chuchotées;Delaque;Jouez cette tactique lorsque le gang ennemi fait son premier Bottle test de la bataille. Le joueur ennemi doit faire ce Bottle test sur 2D6, plutôt que le D6 habituel.
 ../TacticsCards/DELAQUE/Whisperer.png;Whisperer;Delaque Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before
 
@@ -941,7 +941,7 @@ starting crew. Until the end of this battle, that
 fighter gains the Psychoteric Mastery and Non-
 Sanctioned es special rules and knows one
 Psychoteric Whisper of your choice. This does
-not affect their Credits cost.";Chuchoteur;Delaque;Jouez cette tactique de gang au début de la bataille, après que les deux camps se soient déployés, mais avant le premier tour. Choisissez un combattant Delaque allié dans votre équipage de départ. Jusqu'à la fin de cette bataille, cela Le combattant acquiert la maîtrise psychotérique et le non- Sanctionné avec des règles spéciales et en connaît un Murmure psychotérique de votre choix. Cela fait n’affecte pas le coût de leurs crédits.
+not affect their Credits cost.";Chuchoteur;Delaque;Jouez cette tactique au début de la bataille, après que les deux camps se soient déployés, mais avant le premier tour. Choisissez un combattant Delaque allié dans votre gang de départ. Jusqu'à la fin de cette bataille, ce combattant acquiert les règles Psychoteric Mastery et Non-Sanctioned avec un Psychoteric Whisper de votre choix.
 ../TacticsCards/ENFORCERS/Ankle Holster.png;Ankle Holster;Enforcers Tactics;"Play this card when activating a fighter.
 
 Tuck this card under the fighter's card. While it
@@ -951,7 +951,7 @@ place of making Shoot (Basic) actions with
 
 any other ranged weapon. If the Ammo symbol
 is rolled on the Firepower dice, the card is
-discarded.";Étui de cheville;Enforcers;Jouez cette carte lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Pendant qu'il est là, le combattant peut utiliser son pistolet pour faire des actions de tir (simples) ainsi que ou dans lieu de réalisation d'actions Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur les dés de puissance de feu, la carte est rejeté.
+discarded.";Étui de cheville;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. tant qu’elle est là, le combattant peut utiliser son pistolet pour faire des actions de tir (simples) ainsi que ou dans lieu de réalisation d'actions Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur les dés de puissance de feu, la carte est rejeté.
 ../TacticsCards/ENFORCERS/Appropriate Force.png;Appropriate Force;Enforcers Tactics;"Play this card when activating a fighter.
 
 If this fighter makes a Fight (Basic) action, they
