@@ -600,7 +600,7 @@ the remainder of the battle, the fighter
 
 | gains +1 WS.
 
-|";Béni par la mort;Corspe grinders;"Jouez cette carte lorsqu'un combattant de votre gang met un combattant ennemi hors de combat avec une arme avec un trait Mêlée. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 CS."
+|";Béni par la mort;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang met un combattant ennemi hors de combat avec une arme avec un trait Mêlée. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 WS."
 ../TacticsCards/CORPSE GRINDERS/Blood Surge.png;Blood Surge;Corpse Grinders Tactics;"Play this card when a Standing and Active
 
 ‘fighter in your gang is hit by a ranged attack.
@@ -614,28 +614,28 @@ Instead they may immediately make a Move
 
 | this action even if they are not Ready.
 
-|";Afflux de sang;Corspe grinders;Jouez cette carte lorsqu'un joueur permanent et actif « Un combattant de votre gang est touché par une attaque à distance. Le combattant n’est pas Bloqué. Au lieu de cela, ils peuvent immédiatement effectuer un mouvement action (Simple). Le combattant peut effectuer cette action même s'ils ne sont pas prêts.
+|";Afflux de sang;Corspe grinders;Jouez cette tactique lorsqu'un combattant debout est touché par une attaque à distance. Le combattant n’est pas Bloqué. Au lieu de cela, il peut immédiatement effectuer une action de mouvement (Simple). Le combattant peut effectuer cette action même s'ils n’est pas Ready.
 ../TacticsCards/CORPSE GRINDERS/Bountiful Feast.png;Bountiful Feast;Corpse Grinders Tactics;"| Play immediately after a fighter in your gang
 performs a Coup de Grace (Simple) action.
 Remove anumber of Flesh Wounds from |
 the fighter equal to the Wounds
 characteristic of the enemy fighter taken
 
-Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un certain nombre de Blessures Légères de le combattant égal aux blessures caractéristique de Blessures du combattant ennemi prise Hors de combat par le coup de grâce.
+Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un nombre de Blessures Légères de ce combattant égal aux à la caractéristique de Wounds du combattant ennemi mis Hors de combat par le coup de grâce.
 ../TacticsCards/CORPSE GRINDERS/Frenzy.png;| Frenzy;Corpse Grinders Tactics;"Play this card instead of activating a fighter.
 Choose a single Ready enemy fighter within 9""
 and line of sight of one of your fighters. The
 chosen fighter must make a Cool check. If they
 fail, they lose their Ready marker and must
 immediately make a Move (Simple) action,
-moving as if subject to the Broken condition.";Frénésie;Corspe grinders;"Jouez cette carte au lieu d'activer un combattant. Choisissez un seul combattant ennemi prêt dans un rayon de 9"" et la ligne de mire d'un de vos combattants. Le Le combattant choisi doit faire un test de Cool. S'ils échouent, ils perdent leur marqueur Prêt et doivent effectuez immédiatement une action Déplacement (Simple), se déplaçant comme s’il était soumis à la condition Cassé."
+moving as if subject to the Broken condition.";Frénésie;Corspe grinders;"Jouez cette tactique au lieu d'activer un combattant. Choisissez un seul combattant ennemi prêt dans un rayon de 9"" et en ligne de vue d'un de vos combattants. Le combattant choisi doit faire un test de Cool. S'ils échouent, il perd son marqueur Prêt et doit effectuez immédiatement une action Déplacement (Simple), se déplaçant comme s’il était soumis à la condition Broken."
 ../TacticsCards/CORPSE GRINDERS/Infamous Butcher.png;Infamous Butcher;Corpse Grinders Tactics;"| Play this card at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed.
 
 For the duration of this battle, one Corpse
 Grinder fighter of your choice gains the
-Fearsome skill.";Boucher infâme;Corspe grinders;Jouez cette carte au début du déploiement étape de la séquence pré-bataille, avant tout des combattants ont été déployés. Pendant toute la durée de cette bataille, un Cadavre Le combattant Grinder de votre choix gagne le Compétence redoutable.
+Fearsome skill.";Boucher infâme;Corspe grinders;Jouez cette tactique au début de la phase de déploiement de la séquence pré-bataille, avant que les combattants aient été déployés. Pendant toute la durée de cette bataille, un combattant Corpse Grinder allié de votre choix gagne le Compétence Fearsome.
 ../TacticsCards/CORPSE GRINDERS/Reign of Blood.png;Reign of Blood;Corpse Grinders Tactics;"Play this card when a Leader or Champion in
 your gang takes an enemy fighter Out of Action
 with a weapon with the Melee trait.
@@ -643,13 +643,13 @@ with a weapon with the Melee trait.
 Tuck this card under the fighter's card. When
 this fighter makes a group activation, they may
 include one more fighter than normal as part of
-the group.";Règne du sang;Corspe grinders;Jouez cette carte lorsqu'un Leader ou un Champion votre gang met un combattant ennemi hors de combat avec une arme avec le trait Mêlée. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus que la normale dans le cadre de le groupe.
+the group.";Règne du sang;Corspe grinders;Jouez cette tactique lorsqu'un Leader ou un Champion votre gang met un combattant ennemi hors de combat avec une arme avec le trait Mêlée. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus.
 ../TacticsCards/CORPSE GRINDERS/Rend and Tear.png;Rend and Tear!;Corpse Grinders Tactics;"| Play this card at the start of any Action
 phase.
 
 Until the End phase of this round, all |
 weapons with the Melee trait used by
-friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette carte au début de une action phase. Jusqu'à la phase de Fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Déchirure.
+friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette carte au début de la phase d’action. Jusqu'à la phase de Fin de ce tour, toutes armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Rending.
 ../TacticsCards/CORPSE GRINDERS/Savage Brutality.png;Savage Brutality;Corpse Grinders Tactics;"Play when an enemy fighter is Seriously Injured
 or taken Out of Action by a Melee attack.
 
@@ -657,21 +657,21 @@ All enemy fighters within 12"" that can draw line
 of sight to the target must take Nerve tests. Any
 fighters not within 3"" become Broken as normal
 if they fail, but automatically rally in the End
-phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez lorsqu'un combattant ennemi est grièvement blessé ou mis hors de combat par une attaque de mêlée. Tous les combattants ennemis à moins de 12"" pouvant tracer une ligne de vue de la cible doit passer des tests nerveux. N'importe lequel les combattants qui ne sont pas à moins de 3"" deviennent Brisés comme d'habitude s'ils échouent, mais se rallient automatiquement à la fin phase du round."
+phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez cette tactique lorsqu'un combattant ennemi est grièvement blessé ou mis hors de combat par une attaque de mêlée. Tous les combattants ennemis à moins de 12"" pouvant tracer une ligne de vue sur la cible doivent passer un Nerve test. S'ils échouent il subissent la condition Broken, mais se rallient automatiquement à la phase de fin du round."
 ../TacticsCards/CORPSE GRINDERS/Scent of Blood.png;Scent of Blood;Corpse Grinders Tactics;"| Play this card when a fighter in your gang is
 taken Out of Action.
 Choose a friendly Standing and Engaged |
 fighter within 9"" and line of sight of the
 fighter taken Out of Action. They may
 immediately make a Fight (Basic) action,
-even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette carte lorsqu'un combattant de votre gang est mis Hors de combat. Choisissez un statut convivial et engagé chasseur à moins de 9"" et en ligne de mire du combattant mis hors de combat. Ils peuvent effectuer immédiatement une action Combat (Basique), même s'ils ne sont pas prêts."
+even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Hors de combat. Choisissez un allié debout, engagé, à moins de 9"" et en ligne de vue du combattant mis hors de combat. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
 ../TacticsCards/CORPSE GRINDERS/The Red Hunt.png;The Red Hunt;Corpse Grinders Tactics;"| Play this card during any Action phase, after
 Fleeing the battlefield but before Activate
 Fighters.
 
 Each friendly fighter Engaged with an
 enemy fighter can take a Reaction attack;
-they do not need to make an Initiative check.";La chasse rouge;Corspe grinders;"Jouez cette carte pendant une phase d’Action, après après les tests de Déroute mais avant d'activer les combattants. Chaque combattant allié Engagé avec un le combattant ennemi peut effectuer une attaque de réaction ; ils n'ont pas besoin de faire un test d’Initiative."
+they do not need to make an Initiative check.";La chasse rouge;Corspe grinders;Jouez cette tactique pendant une phase d’action, après les tests de Déroute mais avant d'activer les combattants. Chaque combattant allié Engagé avec un combattant ennemi qui à l’opportunité de faire une attaque de réaction réussi automatiquement son test d’Initiative.
 ../TacticsCards/CORPSE GRINDERS/Visions of Slaughter.png;Visions of Slaughter;Corpse Grinders Tactics;"| Play this card at the start of any Action phase.
 |
 
@@ -683,14 +683,14 @@ until the End phase of this turn, any fighter
 from your gang that performs a Charge
 
 | (Basic) action reduces their Weapon Skill
-characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette carte au début de une phase d’Action. Jusqu'à la phase de Fin de ce tour, les combattants de votre gang, traitez l'action de Charge comme __ (Basique) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une Charge L'action (de base) réduit leur compétence d'arme caractéristique par -1.
+characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette tactique au début d’une phase d’action. Jusqu'à la phase de fin de ce tour, les combattants de votre gang traitent l'action de Charge comme (Basique) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une l’action Charge (basique) subit un malus de -1 à sa WS.
 ../TacticsCards/CORPSE GRINDERS/Whirlwind of Blows.png;Whirlwind of Blows;Corpse Grinders Tactics;"| Play this card when activating a fighter in
 your gang that is Standing and Engaged.
 
 For the duration of this fighter's |
 activation, increase their Attacks
 characteristic by 1 for each enemy fighter
-they are Engaged with.";Tourbillon de coups;Corspe grinders;Jouez cette carte lors de l'activation d'un combattant dans votre gang qui est debout et engagé. Pour la durée de ce combattant activation, augmente ses attaques caractéristique de 1 pour chaque combattant ennemi avec lesquels ils sont fiancés.
+they are Engaged with.";Tourbillon de coups;Corspe grinders;Jouez cette tactique lors de l'activation d'un combattant dans votre gang debout et engagé. Pour la durée de l’activation de ce combattant, augmentez sa caractéristique d’attaque de 1 pour chaque combattant ennemi avec lesquels ils est engagé.
 ../TacticsCards/DELAQUE/A Debt to Pay.png;A Debt to Pay;Delaque Tactics;"Play this gang tactic at the start of the battle, afte
 both sides have deployed, but before the first
 round. Choose one enemy Ganger or Juve. That
@@ -701,7 +701,7 @@ before they can make a Charge (Double) action
 targeting an enemy Delaque fighter. If the check
 is failed, the fighter cannot perform the action
 and must declare another. If the check is passed,
-the fighter may perform the action as normal.";Une dette à payer;Delaque;Jouez cette tactique de gang au début de la bataille, après les deux camps se sont déployés, mais avant le premier rond. Choisissez un Ganger ou une Juve ennemi. Cela Le combattant a une dette envers votre gang et n'est pas sur le point de pour irriter leurs créanciers. Pendant la durée de ce bataille, ce combattant doit passer un test de Volonté avant de pouvoir effectuer une action Charge (Double) visant un chasseur Delaque ennemi. Si le chèque est un échec, le combattant ne peut pas effectuer l'action et doit en déclarer un autre. Si le test est réussi, le combattant peut effectuer l'action normalement.
+the fighter may perform the action as normal.";Une dette à payer;Delaque;Jouez cette tactique au début de la bataille, après les deux camps soient déployés, mais avant le premier rond. Choisissez un Ganger ou un Juve ennemi. Ce combattant a une dette envers votre gang. Pendant la durée de ce bataille, ce combattant doit passer un test de Willpower avant de pouvoir effectuer une action Charge (Double) visant un combattant Delaque. Si le test est un échec, le combattant ne peut pas effectuer l'action et doit en déclarer un autre. Si le test est réussi, le combattant peut effectuer l'action normalement.
 ../TacticsCards/DELAQUE/Assassins.png;Assassins;Delaque Tactics;"Play instead of activating a fighter. |
 For the remainder of this round, any ranged —
 attacks made by a fighter that is outside of
