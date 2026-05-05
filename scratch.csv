@@ -1045,11 +1045,11 @@ Place a Blade Cage marker anywhere within |
 roll a D6. On a 4+, it is a Real Trap as |
 
 detailed in the rules for Hidden Trapson
-page 100 of House of Blades.";Pièges à lames;Escher;"Jouez cette tactique de gang au lieu d'activer un combattant. Placez un marqueur Blade Cage n’importe où dans 2"" d'un de vos combattants. Lorsqu'il est déclenché, lancez un D6. Sur 4+, c'est un vrai piège car détaillé dans les règles de Hidden Trapson page 100 de la Maison des Lames."
+page 100 of House of Blades.";Pièges à lames;Escher;"Jouez cette tactique au lieu d'activer un combattant. Placez un marqueur Blade Cage n’importe où dans les 2"" d'un de vos combattants. Lorsqu'il est déclenché, lancez un D6. Sur 4+, c'est un vrai piège comme détaillé dans les règles de Hidden Trap page 100 du codex house of blades."
 ../TacticsCards/ESCHER/Chemical Reign.png;Chemical Reign;Escher Tactics;"Play this gang tactic when activating a fighter.
 The active fighter can choose to apply a single
 Chem-alchemy effect to one of their weapons
-that has either the Gas and /or Toxin traits.";Règne chimique;Escher;Jouez cette tactique de gang lors de l'activation d'un combattant. Le combattant actif peut choisir d'appliquer un seul Effet chimio-alchimique sur l'une de ses armes qui possède soit les traits Gaz et/ou Toxine.
+that has either the Gas and /or Toxin traits.";Règne chimique;Escher;Jouez cette tactique lors de l'activation d'un combattant. Le combattant actif peut choisir d'appliquer un seul effet Chem-alchemy sur l'une de ses armes qui possède soit les traits Gas et/ou Toxin.
 ../TacticsCards/ESCHER/Counter-Charge.png;Counter-Charge;Escher Tactics;"Play this card when an enemy fighter makes a
 Charge action, after they move but before they
 make their attacks.
@@ -1060,12 +1060,12 @@ distance they can move, as though they were
 charging) towards the enemy fighter who
 charged. The counter-charging fighter cannot
 make any attacks, but they can make Reaction
-attacks and grant assists /interference as normal.";Contre-charge;Escher;"Jouez cette carte lorsqu'un combattant ennemi fait un action de Charge, après leur déplacement mais avant qu'ils lancer ses attaques. Choisissez un combattant Readyed dans votre gang. Ils peuvent effectuer un mouvement standard (en ajoutant D3"" au distance qu'ils peuvent parcourir, comme s'ils étaient chargeant) vers le combattant ennemi qui chargé. Le combattant qui contre-charge ne peut pas faire des attaques, mais ils peuvent faire une réaction attaque et accorde des aides/interférences comme d’habitude."
+attacks and grant assists /interference as normal.";Contre-charge;Escher;"Jouez cette tactique lorsqu'un combattant ennemi fait un action de Charge, après son déplacement mais avant qu'il lance ses attaques. Choisissez un combattant Ready de votre gang. Il peut effectuer un mouvement standard (en ajoutant D3"" à la distance qu'il peut parcourir, comme s'il chargeais) vers le combattant ennemi qui a chargé. Le combattant qui contre-charge ne peut pas faire d'attaques, mais ils peuvent faire une attaque de réaction et accorde des aides/interférences comme d’habitude."
 ../TacticsCards/ESCHER/Dance of Death.png;Dance of Death;Escher Tactics;"Play this gang tactic at the start of the
 Action phase.
 
 For the duration of the round, all friendly
-Escher fighters gain the Acrobatic skill.";Danse de la mort;Escher;Jouez cette tactique de gang au début du Phase d'action. Pendant toute la durée du round, tous amicaux Les combattants Escher acquièrent la compétence Acrobatique.
+Escher fighters gain the Acrobatic skill.";Danse de la mort;Escher;Jouez cette tactique au début de la phase d'action. Pendant toute la durée du round, tous les combattants Escher alliés acquièrent la compétence Acrobatic.
 ../TacticsCards/ESCHER/Death and the Maiden.png;Death and the Maiden;Escher Tactics;"Play this gang tactic when a friendly fighter |
 suffers a Memorable Death result on the
 Lasting Injury table. |
@@ -1074,12 +1074,12 @@ than the fighter's Toughness
 
 characteristic, add a Death- maiden to your
 gang. The new Death-maiden comes with |
-no advancements or equipment. |";La mort et la jeune fille;Escher;Jouez cette tactique de gang lorsqu'un combattant allié subit un résultat de Mort Mémorable sur le tableau des Blessures Durables. Lancez 2D6. Si le résultat est égal ou inférieur que la robustesse du combattant caractéristique, ajoutez une Fille de la Mort à votre bande. La nouvelle Death-maiden est livrée avec aucun avancement ni équipement.
+no advancements or equipment. |";La mort et la jeune fille;Escher;Jouez cette tactique de gang lorsqu'un combattant allié subit un résultat de Mort Mémorable sur le tableau Lasting Injury. Lancez 2D6. Si le résultat est égal ou inférieur à la Toughness du combattant, ajoutez une Death maiden à votre bande. La nouvelle Death-maiden est livrée sans avancement ni équipement.
 ../TacticsCards/ESCHER/Free Fall.png;Free Fall;Escher Tactics;"Play this gang tactic at the start of |
 the battle, after both sides have deployed, |
 but before the first round.
 For the duration of the game, fighters in |
-your crew gain the Catfall skill. |";Chute libre;Escher;Jouez cette tactique de gang au début de la bataille, une fois les deux camps déployés, mais avant le premier tour. Pendant toute la durée du jeu, les combattants de votre équipage acquiert la compétence Catfall.
+your crew gain the Catfall skill. |";Chute libre;Escher;Jouez cette tactique au début de la bataille, une fois les deux camps déployés, mais avant le premier tour. Pour la durée de la partie, les combattants de votre gang acquiert la compétence Catfall.
 ../TacticsCards/ESCHER/Gas Trap.png;Gas Trap;Escher Tactics;"Play this at the start of the battle when setting up
 your gang. Pick any of your fighters to carry the
 trap, and put this card under their card. Once
@@ -1090,19 +1090,19 @@ can move up to D6"". If the fighter goes Out of
 Action before making this action, roll a D6. On a
 1, the trap triggered (centred on the fighter's base)
 On a 2-3, place a Gas Trap marker where the
-fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez ceci au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter le piège et placez cette carte sous sa carte. Une fois pendant le jeu, le combattant, tant qu'il est Actif, peut définir un piège à gaz (double) - Placer un gaz Marqueur Piège à 1"" ou moins du combattant. Ensuite, il peut avancer jusqu'à D6"". Si le combattant sort de Action Avant d'effectuer cette action, lancez 1D6. Sur un 1, le piège déclenché (centré sur le socle du combattant) Sur 2-3, placez un marqueur Piège à Gaz à l'endroit où se trouve le le combattant se leva. Sur 4+, défaussez cette carte."
+fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez cette tactique au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous sa carte. Une fois pendant le jeu, le combattant, peut déposer un piège à gaz (double) - Placer un marqueur piège à gaz à 1"" ou moins du combattant. Ensuite, il peut avancer jusqu'à D6"". Si le combattant est mis hors de combat avant d'effectuer cette action, lancez 1D6. Sur un 1, le piège est déclenché (centrez le gabarit sur le socle du combattant) Sur 2-3, placez un marqueur Piège à Gaz à l'endroit où se trouvais le combattant. Sur 4+, défaussez cette carte."
 ../TacticsCards/ESCHER/Gifts of the Matron.png;Gifts of the Matron;Escher Tactics;"Play this gang tactic when activating
 
 a fighter.
 
 The fighter can choose to apply a single
-Chem-alchemy Stimm effect to themselves.";Dons de la Matrone;Escher;Jouez cette tactique de gang lors de l'activation un combattant. Le combattant peut choisir d'appliquer un seul Effet Stimm chimio-alchimique sur eux-mêmes.
+Chem-alchemy Stimm effect to themselves.";Dons de la Matrone;Escher;Jouez cette tactique lors de l'activation un combattant. Le combattant peut choisir d'appliquer un seul effet Chem-alchemy Stimm sur eux-mêmes.
 ../TacticsCards/ESCHER/Hit and Run.png;Hit and Run;Escher Tactics;"Play this gang tactic at the start of the End
 phase.
 
 Choose three of your fighters. These
 fighters may make a free Move (Simple)
-action or a Retreat (Basic) action.";Frappe et fuite;Escher;Jouez cette tactique de gang au début de la Fin phase. Choisissez trois de vos combattants. Ces les combattants peuvent effectuer un mouvement gratuit (simple) ou une action Retraite (Basique).
+action or a Retreat (Basic) action.";Frappe et fuite;Escher;Jouez cette tactique au début de la phase de fin. Choisissez trois de vos combattants. Ces les combattants peuvent effectuer un mouvement gratuit (simple) ou une action Retraite (Basique).
 ../TacticsCards/ESCHER/Kill Count.png;Kill Count;Escher Tactics;"Play this tactic at the start of the Action phase.
 Choose a number between | and 6. If this
 number of enemy fighters are Seriously Injured
@@ -1113,31 +1113,31 @@ your gang’s Leader earns XP equal to the number
 chosen if she's part of your crew for this battle.
 If your crew doesn't include a fighter with the
 Leader (Escher) special rule, you may discard
-this gang tactic and select another.";Décompte des victimes;Escher;Jouez cette tactique au début de la phase d'action. Choisissez un numéro entre et 6. Si cela nombre de combattants ennemis sont grièvement blessés ou mis Hors de combat à la suite d'attaques lancées par votre combattants ce tour (combattants fuyant la bataille comme le résultat d'un échec à un test de bouteille ne compte pas), alors le chef de votre gang gagne un XP égal au nombre choisie si elle fait partie de votre équipage pour cette bataille. Si votre équipage ne comprend pas de chasseur avec le Règle spéciale du Leader (Escher), vous pouvez vous défausser cette tactique de gang et en choisir une autre.
+this gang tactic and select another.";Décompte des victimes;Escher;Jouez cette tactique au début de la phase d'action. Choisissez un numéro entre 1 et 6. Si ce nombre de combattants ennemis est grièvement blessé ou mis hors de combat à la suite d'attaques lancées par vos combattants ce tour (les combattants fuyant la bataille ne compte pas), alors le leader de votre gang gagne un nombre d’XP égal au nombre choisi s’il fait partie de votre gang pour cette bataille. Si votre gang ne comprend pas de combattant avec le Règle spéciale Leader (Escher), vous pouvez vous défausser cette tactique de gang et en choisir une autre.
 ../TacticsCards/ESCHER/Mistress of Death.png;Mistress of Death;Escher Tactics;"Play this gang tactic when a friendly |
 Death-maiden takes an enemy fighter Out
 of Action. |
 The Death-maiden's activation immediately
 ends, but she immediately becomes |
 Standing and Active, and can be activated _
-again this round.";Maîtresse de la mort;Escher;Jouez cette tactique de gang lors d'un match amical La jeune fille de la mort élimine un combattant ennemi d’Action. L'activation immédiate de la Fille de la Mort se termine, mais elle devient immédiatement Debout et Actif, et peut être activé _ encore ce tour.
+again this round.";Maîtresse de la mort;Escher;Jouez cette tactique lorsque une Death maiden allié élimine un combattant ennemi. L'activation de cette Death maiden se termine immédiatement, mais elle devient immédiatement Debout et Active, et peut être activée à nouveau ce tour.
 ../TacticsCards/ESCHER/Not so Easy....png;Not so Easy...;Escher Tactics;"| Play at the start of any round after the
 opposing gang has bottled out.
 
 When making Nerve tests for opposing |
 fighters to see if they flee, subtract 2 from
 the result if they are within 3"" of a fighter
-from this gang.";Pas si facile...;Escher;"Jouez au début d’un tour après le le gang adverse s'est embouteillé. Lors des tests nerveux pour s'opposer combattants pour voir s'ils fuient, soustrayez 2 de le résultat s'ils sont à moins de 3"" d'un combattant de ce gang."
+from this gang.";Pas si facile...;Escher;"Jouez cette tactique au début d’un tour après que le gang adverse ait loupé so Bottle test. Lors des Nerve test des combattants adverses, soustrayez 2 au résultat s'ils sont à moins de 3"" d'un combattant de votre gang."
 ../TacticsCards/ESCHER/Predatory Phyrr.png;Predatory Phyrr;Escher Tactics;"Play this gang tactic of the Action phase.
 For the duration of the round, enemy
 fighters become subject to the Horrors in
 the Dark special rule as detailed in the
-Necromunda Rulebook.";Phyrr prédateur;Escher;Jouez cette tactique de gang de la phase Action. Pendant toute la durée du round, l'ennemi les combattants deviennent sujets aux Horreurs dans la règle spéciale Ténèbres comme détaillée dans le Livre de règles de Necromunda.
+Necromunda Rulebook.";Phyrr prédateur;Escher;Jouez cette tactique au début de la phase d’action. Pendant toute la durée du round, les combattants ennemis deviennent sujets à la règle Horrors in the Dark comme détaillée dans le Livre de règles de Necromunda.
 ../TacticsCards/ESCHER/Put Them Down!.png;Put Them Down!;Escher Tactics;"| Play at the end of any Action phase.
 
 Any Seriously Injured enemy fighters that
 are within 2” of an Active fighter from this _
-gang are immediately taken Out of Action.";Abattez-les !;Escher;"Jouez à la fin de une phase d’Action. Tout combattant ennemi gravement blessé qui sont à moins de 2"" d'un combattant actif de ce _ le gang est immédiatement mis hors de combat."
+gang are immediately taken Out of Action.";Abattez-les !;Escher;"Jouez cette tactique à la fin de une phase d’action. Tout combattant ennemi gravement blessé à moins de 2"" d'un combattant actif de ce le gang est immédiatement mis hors de combat."
 ../TacticsCards/ESCHER/Queen of the Hive.png;Queen of the Hive;Escher Tactics;"Play this gang tactic at the start of the Action
 phase. For the duration of this round, enemy
 fighters must pass a Willpower check if they wish
@@ -1150,7 +1150,7 @@ Leader (E.) special rule for the purposes of the
 Target Priority rule. If your crew doesn't
 
 include a fighter with the Leader (E.) special
-rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique de gang au début de l'action phase. Pendant toute la durée de ce tour, l'ennemi les combattants doivent réussir un test de Volonté s'ils le souhaitent cibler un combattant de votre équipage avec le Leader (Escher) règle spéciale avec un Tir ou un Combat (Basique) actions. Si cette vérification échoue, ils peuvent choisir une cible différente, ignorant le combattant avec le Règle spéciale Leader (E.) aux fins de la Règle de priorité cible. Si votre équipage ne le fait pas inclure un combattant avec le spécial Leader (E.) En règle générale, vous pouvez abandonner cette tactique et en sélectionner une autre !
+rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique au début de la phase d’action. Pour la durée de ce tour, les combattants ennemis doivent réussir un test de Willpower s'ils souhaitent cibler un combattant de votre gang avec la règle Leader (Escher) avec un Tir ou un Combat (Basique). Si le test échoue, il peut choisir une cible différente, ignorant le combattant avec la règle spéciale Leader pour les besoins de la règle Target priority. Si votre gang n’inclue pas de combattant avec le spécial Leader (), vous pouvez défausser cette tactique et en sélectionner une autre.
 ../TacticsCards/ESCHER/Rain of Blades.png;Rain of Blades;Escher Tactics;"| 1
 Play this gang tactic when activating |
 _a fighter. |
@@ -1160,20 +1160,20 @@ _a fighter. |
 allotment of actions this activation.
 |
 
-|";Pluie de lames;Escher;1 Jouez cette tactique de gang lors de l'activation _un combattant. Le combattant peut immédiatement effectuer une Charge (Double)action. Cette charge est une action gratuite -et ne compte pas dans leur normale attribution d'actions cette activation.
+|";Pluie de lames;Escher;Jouez cette tactique lors de l'activation d’un combattant. Ce combattant peut immédiatement effectuer une action Charge (Double). Cette charge est une action gratuite et ne compte pas parmi leur attribution d’actions normale pour cette activation.
 ../TacticsCards/ESCHER/Running Battle.png;Running Battle;Escher Tactics;"Play this gang tactic when activating a fighter.
 The active fighter may make a Run and Gun
 (Double) action as if they had the Hip Shooting
 skill. If the fighter is part of a Group Activation
 then all fighters involved in the Group Activation
-may make a Run and Gun (Double) action.";Combat mobile;Escher;Jouez cette tactique de gang lors de l'activation d'un combattant. Le combattant actif peut effectuer un Run and Gun (Double) action comme s'ils avaient le Hip Shooting compétence. Si le combattant fait partie d'une activation de groupe puis tous les combattants impliqués dans l'activation du groupe peut effectuer une action Run and Gun (Double).
+may make a Run and Gun (Double) action.";Combat mobile;Escher;Jouez cette tactique lors de l'activation d'un combattant. Le combattant actif peut effectuer une action Run and Gun (Double) comme s'il avait la compétence Hip Shooting. Si le combattant fait partie d'une activation de groupe puis tous les combattants impliqués dans l'activation du groupe peuvent effectuer une action Run and Gun (Double).
 ../TacticsCards/ESCHER/Scrag.png;Scrag;Escher Tactics;"| Play this card after one of your fighters puts
 an enemy out of action in close combat.
 Enemy fighters must make a Nerve testif
 they are within 9"" rather than 3"" (they must
 still be visible). In addition, subtract 2 from
 the result of any Nerve tests made for
-fighters within 3"".";Buter;Escher;"Jouez cette carte après qu'un de vos combattants ait mis un ennemi hors de combat au corps à corps. Les combattants ennemis doivent faire un témoignage Nerve ils sont à moins de 9"" plutôt que de 3"" (ils doivent être toujours visible). De plus, soustrayez 2 de le résultat de tout test nerveux effectué pour combattants à moins de 3""."
+fighters within 3"".";Buter;Escher;"Jouez cette tactique après qu'un de vos combattants ait mis un ennemi hors de combat au corps à corps. Les combattants ennemis doivent faire un Nerve test s’ils sont à moins de 9"" plutôt que de 3"" (il doivent toujours être en ligne de vue). De plus, appliquez un malus de -2 de tout Nerve test effectué pour combattants à moins de 3""."
 ../TacticsCards/ESCHER/Search and Scrag.png;Search and Scrag;Escher Tactics;"Play this gang tactic when an enemy fighter fails
 a Nerve test.
 
@@ -1181,7 +1181,7 @@ After the enemy fighter has completed their Run
 for Cover (Double) action, any of your fighters
 within 12"" of them may make a Move (Simple)
 action. They must end this free move closer to
-the Broken fighter.";Trouver et buter;Escher;"Jouez cette tactique de gang lorsqu'un combattant ennemi échoue un test nerveux. Une fois que le combattant ennemi a terminé sa course pour l'action Couverture (Double), n'importe lequel de vos combattants à moins de 12"" d'eux peut effectuer un mouvement (simple) actions. Ils doivent mettre un terme à ce libre rapprochement le combattant brisé."
+the Broken fighter.";Trouver et buter;Escher;"Jouez cette tactique lorsqu'un combattant ennemi échoue un Nerve test. Une fois que le combattant ennemi a terminé son action Run for cover(double), n'importe lequel de vos combattants à moins de 12"" de lui peut effectuer une action de mouvement (simple). Il doit cependant se rapprocher du combattant broken."
 ../TacticsCards/ESCHER/Shivver Prophesy.png;Shivver Prophesy;Escher Tactics;"Play this gang tactic at the start of the End |
 phase.
 
@@ -1189,59 +1189,59 @@ Roll 2D6. If the result is equal to orlower |
 than the current game round, play one more
 full round. The game then ends and victory
 conditions and rewards are worked out as
-normal. |";Prophétie Shivver;Escher;Jouez cette tactique de gang au début de la Fin phase. Lancez 2D6. Si le résultat est égal ou inférieur que le tour de jeu en cours, jouez un de plus tour complet. Le jeu se termine alors et la victoire les conditions et les récompenses sont élaborées comme normal.
+normal. |";Prophétie Shivver;Escher;Jouez cette tactique au début de la phase de fin. Lancez 2D6. Si le résultat est égal ou inférieur que le tour de jeu en cours, jouez un tour complet en plus. Puis la partie se termine, la victoire et les récompenses sont résolus comme définies par le scénario.
 ../TacticsCards/ESCHER/Side by Side.png;Side by Side;Escher Tactics;"Play instead of activating a fighter. |
 Untul the end of this round, any assists that |
 are granted by fighters from this gang grant |
-a +2 bonus to the hit roll (instead of +1).";Côte à côte;Escher;Jouez au lieu d'activer un combattant. Jusqu'à la fin de ce tour, toutes les passes décisives sont accordées par les combattants de cette subvention de gang un bonus de +2 au jet de touche (au lieu de +1).
+a +2 bonus to the hit roll (instead of +1).";Côte à côte;Escher;Jouez cette tactique au lieu d'activer un combattant. Jusqu'à la fin de ce tour, toutes les assistances accordées par les combattants de ce gang donnent un bonus de +2 au jet de touche (au lieu de +1).
 ../TacticsCards/ESCHER/Siren Howls.png;Siren Howls;Escher Tactics;"| Play at the start of any End phase.
 
 Untul the start of the next End phase, add 1
 to the result of any Bottle tests made for the |
 enemy gang. In addition, Broken enemy
-fighters cannot rally.";La sirène hurle;Escher;Jouez au début de une phase de Fin. Jusqu'au début de la prochaine phase de fin, ajoutez 1 au résultat de tous les tests de bouteilles effectués pour le bande ennemie. De plus, Ennemi brisé les combattants ne peuvent pas se rallier.
+fighters cannot rally.";La sirène hurle;Escher;Jouez au début de une phase de fin. Jusqu'au début de la prochaine phase de fin, ajoutez 1 au résultat de tous les tests de Bottle test effectués par le gang ennemie. De plus, les combattants ennemis Broken ne peuvent pas se rallier.
 ../TacticsCards/ESCHER/Sisterhood of Violence.png;Sisterhood of Violence;Escher Tactics;"Play this gang tactic when an enemy fighter |
 is taken Out of Action as a result of an
 attack made by a friendly fighter. |
 After completing the current fighter's
 activation, immediately activate a friendly
 fighter within 12"" of the fighter who just
-activated. |";Sororité de la violence;Escher;"Jouez cette tactique de gang lorsqu'un combattant ennemi est mis Hors de combat à la suite d'un attaque effectuée par un combattant allié. Après avoir terminé le cours de combattant actuel activation, activez immédiatement un combattant allié à moins de 12"" du combattant qui vient de activé."
+activated. |";Sororité de la violence;Escher;"Jouez cette tactique lorsqu'un combattant ennemi est mis Hors de combat à la suite d'un attaque effectuée par un combattant allié. À la fin de l’activation de ce combattant, activez immédiatement un combattant allié à moins de 12""."
 ../TacticsCards/ESCHER/Stealthy Advance.png;Stealthy Advance;Escher Tactics;"| Play this card after both gangs have been
 set up at the start of the battle, before the
 first round begins.
 
 Up to half of the fighters in your crew
 (rounding up) can immediately make a
-Standard Move.";Progression furtive;Escher;Jouez cette carte une fois que les deux gangs ont été mis en place au début de la bataille, avant le le premier tour commence. Jusqu'à la moitié des combattants de votre équipage (arrondir) peut immédiatement faire un Mouvement standard.
+Standard Move.";Progression furtive;Escher;Jouez cette tactique une fois que les deux gangs ont été déployés au début de la bataille, avant le le premier tour commence. Jusqu'à la moitié des combattants de votre gang (arrondi au supérieur) peut immédiatement faire un Mouvement standard.
 ../TacticsCards/ESCHER/Swift Redeployment.png;Swift Redeployment;Escher Tactics;"| Play this card instead of activating a fighter.
 Roll a D3. All of your fighters can
 immediately move that many inches, even if |
-they have already been activated this round.";Redéploiement rapide;Escher;Jouez cette carte au lieu d'activer un combattant. Lancez un D3. Tous vos combattants peuvent déplacez immédiatement autant de centimètres, même si ils ont déjà été activés ce tour-ci.
+they have already been activated this round.";Redéploiement rapide;Escher;Jouez cette tactique au lieu d'activer un combattant. Lancez un D3. Tous vos combattants peuvent se déplacer immédiatement de cette distance, même si ils ont déjà été activés ce tour-ci.
 ../TacticsCards/ESCHER/Three-Point Landing.png;Three-Point Landing;Escher Tactics;"Sector Mechanicus only. |
 Play when a fighter falls. |
 The fighter is not Pinned by the fall and
 does not suffer a hit. If they still have any
-actions to take, they can take them. |";Atterrissage en trois points;Escher;Secteur Mechanicus uniquement. Jouez quand un combattant tombe. Le combattant n'est pas coincé par la chute et ne subit pas de coup. S'ils en ont encore actions à entreprendre, ils peuvent les entreprendre.
+actions to take, they can take them. |";Atterrissage en trois points;Escher;Secteur Mechanicus uniquement. Jouez cette tactique quand un combattant tombe. Le combattant n'est pas mis à terre (pinned) par la chute et ne subit pas de touche (hit). S'il a encore des actions à entreprendre, ils peut continuer à jouer.
 ../TacticsCards/ESCHER/Tunnel Runners.png;Tunnel Runners;Escher Tactics;"Zone Mortalis only. |
 Play at the start of any round. |
 For the duration of the round, all friendly
 fighters can move through pitfalls and
 ductways as though they were clear terrain. |
-They cannot end their turn on them. |";Coureurs de tunnels;Escher;Zone Mortalis uniquement. Jouez au début d’un tour. Pendant toute la durée du round, tous amicaux les combattants peuvent traverser des pièges et conduits comme s'il s'agissait d'un terrain dégagé. Ils ne peuvent pas mettre fin à leur tour contre eux.
+They cannot end their turn on them. |";Coureurs de tunnels;Escher;Zone Mortalis uniquement. Jouez cette tactique au début d’un tour. Pendant toute la durée du round, tous les combattants alliés peuvent traverser des ravins (pitfalls) et conduits (ductways) comme s'il s'agissait d'un terrain dégagé. Ils ne peuvent pas mettre finir leur tour sur eux.
 ../TacticsCards/ESCHER/Ultra-Violence.png;Ultra-Violence;Escher Tactics;"| Play instead of activating a fighter.
 
 For the remainder of the round, all weapons
 with the Melee trait gain Parry - if they did
 not already have it - and increase their AP
 
-by -1.";Ultra-violence;Escher;Jouez au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Mêlée, gagnez la parade - s'ils l'ont fait ne l'ont pas déjà - et augmentent leur AP par -1.
+by -1.";Ultra-violence;Escher;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Mêlée, gagnez la parade - s'ils l'ont fait ne l'ont pas déjà - et augmentent leur AP de 1.
 ../TacticsCards/ESCHER/Unexpected Help.png;Unexpected Help;Escher Tactics;"Play this gang tactic at the start of the End |
 phase.
 Choose a fighter in your gang who was not |
 included as part of your crew for this |
 scenario. This fighter immediately arrives |
-using the rules for Reinforcements.";Aide inattendue;Escher;Jouez cette tactique de gang au début de la Fin phase. Choisissez un combattant dans votre gang qui ne l'était pas inclus dans votre équipage pour cela scénario. Ce combattant arrive immédiatement en utilisant les règles des renforts.
+using the rules for Reinforcements.";Aide inattendue;Escher;Jouez cette tactique au début de la phase de fin phase. Choisissez un combattant dans votre gang qui n'était pas inclus dans votre gang de départ pour ce scénario. Ce combattant arrive immédiatement en utilisant les règles des renforts.
 ../TacticsCards/ESCHER/Wyld Hunt.png;Wyld Hunt;Escher Tactics;"Play this tactic at the start of the Deployment step
 of the pre-battle sequence, before any fighters
 have been deployed. Your gang may immediately
@@ -1254,7 +1254,7 @@ is armed with a whip and thr. knives. These are
 not counted towards your max. crew size - they're
 taken in addition to your starting crew. If you do
 not have models to represent them, you may
-discard this gang tactic and select another.";Chasse sauvage;Escher;Jouez cette tactique au début de l'étape de déploiement de la séquence pré-bataille, avant tout combattant ont été déployés. Votre gang peut immédiatement recrutez un Wyld Runner et deux Phelynx. Ces les combattants sont recrutés gratuitement mais partiront le gang à la fin de cette bataille. Coureur sauvage est armé d'un fouet et d'un thr. couteaux. Ce sont ne compte pas dans votre maximum. taille de l'équipage - ils sont recrutés en plus de votre équipage de départ. Si tu fais pas de modèles pour les représenter, vous pouvez abandonnez cette tactique de gang et sélectionnez-en une autre.
+discard this gang tactic and select another.";Chasse sauvage;Escher;Jouez cette tactique au début de l'étape de déploiement de la séquence pré-bataille, avant que les combattants aient été déployés. Votre gang peut immédiatement recrutez une Wyld Runner et deux Phelynx. Ces combattants sont recrutés gratuitement mais partiront du gang à la fin de cette bataille. La Wyld Runner est armé d'un whip et d'un throwing knife. Ils ne comptent pas dans votre taille maximum de gang.
 ../TacticsCards/ESCHER VEHICLES/Ash Waste Hitchhiker.png;Ash Waste Hitchhiker;Escher Vehicle Tactics;"Play this gang tactic when a friendly fighter has
 failed an Initiative check to jump onto or off
 
