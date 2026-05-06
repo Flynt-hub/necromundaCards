@@ -1260,13 +1260,13 @@ failed an Initiative check to jump onto or off
 
 a vehicle.
 
-The Initiative check can be re-rolled.";Auto-stoppeur des Désolations Cendrées;Véhicules Escher;Jouez cette tactique de gang lorsqu'un combattant allié a vous avez échoué à un test d’Initiative pour sauter sur ou hors un véhicule. Le test d’Initiative peut être relancé.
+The Initiative check can be re-rolled.";Auto-stoppeur des Désolations Cendrées;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié a échoué un test d’Initiative pour sauter sur ou hors d’un véhicule. Le test d’Initiative peut être relancé.
 ../TacticsCards/ESCHER VEHICLES/Biker Bounty.png;Biker Bounty;Escher Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when receiving scenario rewards.
 
 Add D3x5 credits to your oe Stash for each
 enemy fighter subject to the Mounted condition
-taken Out of Action during this battle.";Prime de motard;Véhicules Escher;Jouez cette tactique de gang pendant l'après-bataille séquence lors de la réception des récompenses du scénario. Ajoutez des crédits D3x5 à votre réserve d'origine pour chacun chasseur ennemi soumis à la condition Monté mis hors de combat au cours de cette bataille.
+taken Out of Action during this battle.";Prime de motard;Véhicules Escher;Jouez cette tactique pendant la phase d'après-bataille lors de la réception des récompenses du scénario. Ajoutez des crédits D3x5 à votre réserve d'origine pour chaque combattant ennemi Monté mis hors de combat au cours de cette bataille.
 ../TacticsCards/ESCHER VEHICLES/Chem Exhausts.png;Chem Exhausts;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 Mobile vehicle before performing any actions.
 Once the vehicle's activation has finished, any
@@ -1274,19 +1274,19 @@ fighters that were within 1"" of the vehicle at
 any point during its activation suffer
 
 an automatic hit as if they were hit by a weapon
-with the Toxin and Gas traits.";Échappements chimiques;Véhicules Escher;"Jouez cette tactique de gang lors de l'activation d'un ami Véhicule mobile avant d'effectuer toute action. Une fois l'activation du véhicule terminée, tout combattants qui se trouvaient à moins de 1"" du véhicule à un moment pendant son activation souffre un coup automatique comme s'ils étaient touchés par une arme avec les traits Toxine et Gaz."
+with the Toxin and Gas traits.";Échappements chimiques;Véhicules Escher;"Jouez cette tactique lors de l'activation d'un ami Véhicule, avant d'effectuer toute action. Une fois l'activation du véhicule terminée, tout combattants qui se trouvaient à au moins 1"" du véhicule à un moment pendant son activation subit une touche automatique comme s'il était touché par une arme avec les traits Toxin et Gas."
 ../TacticsCards/ESCHER VEHICLES/Chemical Fuel Wizardry.png;Chemical Fuel Wizardry;Escher Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
 For the duration of the battle, a friendly vehicle
 increases its Movement characteristic by 2"". In
 addition, at the end of each of its activations roll
-a D6; on a roll of 1 the vehicle loses 1 Hull Point.";Sorcellerie du carburant chimique;Véhicules Escher;"Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, un véhicule allié augmente sa caractéristique de Mouvement de 2"". de plus, à la fin de chacune de ses activations lancez un D6 ; sur un résultat de 1, le véhicule perd 1 point de coque."
+a D6; on a roll of 1 the vehicle loses 1 Hull Point.";Sorcellerie du carburant chimique;Véhicules Escher;"Jouez cette tactique au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, un véhicule allié augmente sa caractéristique de Mouvement de 2"". de plus, à la fin de chacune de ses activations lancez un D6 ; sur un résultat de 1, le véhicule perd 1 point de coque."
 ../TacticsCards/ESCHER VEHICLES/Corrosive Gas.png;Corrosive Gas;Escher Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
 For the duration of the battle, D3 weapons with
-the Gas trait add 1 to any rolls to damage vehicles";Gaz corrosif;Véhicules Escher;Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, les armes D3 avec le trait Gaz ajoute 1 à tous les jets pour endommager les véhicules
+the Gas trait add 1 to any rolls to damage vehicles";Gaz corrosif;Véhicules Escher;Jouez cette tactique au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, D3 armes avec le trait Gas ajoute 1 à tous les jets pour endommager les véhicules
 ../TacticsCards/ESCHER VEHICLES/Death or Glory.png;Death or Glory;Escher Vehicle Tactics;"Play this gang tactic when a friendly Standing
 and Active fighter is moved as a result of a
 vehicle impact, before making an Initiative check
@@ -1297,7 +1297,7 @@ The fighter may immediately make a single
 close combat attack against the vehicle. They
 automatically fail the Initiative check to dodge
 unless the vehicle is Wrecked as a result of this
-attack.";Mort ou gloire;Véhicules Escher;Jouez cette tactique de gang lorsqu'un statut amical et le combattant actif est déplacé suite à un impact du véhicule, avant d'effectuer un contrôle d'Initiative esquiver. Le combattant peut immédiatement faire un seul attaque de combat rapproché contre le véhicule. Ils échoue automatiquement au test d’Initiative pour esquiver sauf si le véhicule est détruit à la suite de cela attaque.
+attack.";Mort ou gloire;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié debout est déplacé suite à un impact de véhicule, avant d'effectuer le test d'Initiative esquiver. Le combattant peut immédiatement faire un seul attaque de combat rapproché contre le véhicule. Il échoue automatiquement au test d’Initiative pour esquiver sauf si le véhicule est détruit à la suite de cette attaque.
 ../TacticsCards/ESCHER VEHICLES/Full Throttle!.png;| Full Throttle!;Escher Vehicle Tactics;"Play this tactic card during the Action phase
 instead of activating a model.
 
@@ -1306,7 +1306,7 @@ marker may immediately activate. During this
 activation the vehicle may only perform one
 action and it must be a Move (Simple) action.
 After the vehicle has finished its activation, make
-a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette carte tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule sympathique qui n'a pas de Ready Le marqueur peut s’activer immédiatement. Pendant ce temps activation, le véhicule ne peut effectuer qu'une seule et il doit s'agir d'une action de déplacement (simple). Une fois que le véhicule a terminé son activation, effectuez un test de perte de contrôle du véhicule.
+a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule allié qui n'a pas de marqueur Ready peut s’activer immédiatement. Pendant cette activation, le véhicule ne peut effectuer qu'une seule action et il doit s'agir d'une action de déplacement (simple). Une fois que le véhicule a terminé son activation, effectuez un test de perte de contrôle du véhicule.
 ../TacticsCards/ESCHER VEHICLES/IT’S GONNA BLOW!!!.png;IT’S GONNA BLOW!!!;Escher Vehicle Tactics;"Play this gang tactic after a friendly vehicle is
 Wrecked, before rolling on the Lasting Damage
 table.
@@ -1315,7 +1315,7 @@ The vehicle explodes; all models within D6"" take
 a S6, AP-1, D1 hit and the vehicle is then
 removed from the battlefield. When rolling on
 the Lasting Damage table for the vehicle, add 1
-to the result.";Ça va exploser ! ! !;Véhicules Escher;"Jouez cette tactique de gang après qu'un véhicule allié soit arrivé. Naufragé, avant de lancer sur les dégâts durables tableau. Le véhicule explose ; tous les figurines dans D6"" prennent un S6, AP-1, D1 touché et le véhicule est alors retiré du champ de bataille. En roulant au tableau des dommages durables du véhicule, ajoutez 1 au résultat."
+to the result.";Ça va exploser ! ! !;Véhicules Escher;"Jouez cette tactique après qu'un véhicule allié soit détruit, avant de lancer sur le tableau Lasting damage. Le véhicule explose ; tous les figurines à D6"" subissent une touche automatique S6, AP-1, D1 et le véhicule est alors retiré du champ de bataille. Lors du jet sur le tableau Lasting damage du véhicule, ajoutez 1 au résultat."
 ../TacticsCards/ESCHER VEHICLES/Jink!.png;Jink!;Escher Vehicle Tactics;"Play this gang tactic after a friendly fighter
 subject to the Mounted condition is hit by
 
@@ -1324,13 +1324,13 @@ Pinned.
 
 The fighter makes an immediate Initiative
 check. If the check is passed then the fighter
-is not hit by the attack.";Embardée !;Véhicules Escher;Jouez cette tactique de gang après un combattant allié soumis à la condition Monté est touché par une attaque à distance, avant de lancer pour éviter d'être Bloqué. Le combattant prend une initiative immédiate test. Si le test est réussi, alors le combattant n'est pas touché par l'attaque.
+is not hit by the attack.";Embardée !;Véhicules Escher;Jouez cette tactique après un combattant allié Monté soit touché par une attaque à distance, avant de tester pour éviter d'être Cloué. Le combattant fais un test d’initiative. Si le test est réussi, alors le combattant n'est pas touché par l'attaque.
 ../TacticsCards/ESCHER VEHICLES/Jumping the Gun.png;Jumping the Gun;Escher Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
 D3 friendly fighters subject to the Mounted
 condition may immediately make a Move
-(Simple) action.";Départ précipité;Véhicules Escher;Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. D3 combattants alliés soumis aux Montés La condition peut immédiatement effectuer un mouvement action (Simple).
+(Simple) action.";Départ précipité;Véhicules Escher;Jouez cette tactique au début de la bataille avant le premier jet d’Initiative. D3 combattants alliés Montés peuvent immédiatement effectuer une action de mouvement (Simple).
 ../TacticsCards/ESCHER VEHICLES/Race Away.png;Race Away;Escher Vehicle Tactics;"Play this gang tactic after a friendly fighter
 subject to the Mounted condition has made
 
@@ -1340,28 +1340,28 @@ attacks are made.
 The fighter may immediately perform a free
 Retreat (Basic) action. Reaction attacks can only
 be made if the fighter is still Engaged with the
-enemy fighter.";Décrochage rapide;Véhicules Escher;Jouez cette tactique de gang après un combattant allié soumis à l'état monté a fait une action Combat (Basique), mais avant Réaction des attaques sont lancées. Le combattant peut immédiatement effectuer un action de Retraite (Basique). Les attaques de réaction ne peuvent être effectué si le combattant est toujours engagé avec le combattant ennemi.
+enemy fighter.";Décrochage rapide;Véhicules Escher;Jouez cette tactique après qu’un combattant allié Monté ait fait une action de Combat (Basique), mais avant les attaques de réaction. Le combattant peut immédiatement effectuer un action de Retraite (Basique). Les attaques de réaction ne peuvent être effectuées que si le combattant est toujours engagé avec le combattant ennemi.
 ../TacticsCards/ESCHER VEHICLES/Reckless Driving.png;Reckless Driving;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of this activation, when
 performing a Move (Simple) action, the vehicle
 may make an extra pivot of up to 90 degrees at
-any point before, during or after its move.";Conduite imprudente;Véhicules Escher;Jouez cette tactique de gang lors de l'activation d'un ami véhicule avant d’effectuer toute action. Pendant la durée de cette activation, lorsque effectuant une action de déplacement (simple), le véhicule peut effectuer un pivot supplémentaire allant jusqu'à 90 degrés à à tout moment avant, pendant ou après son déplacement.
+any point before, during or after its move.";Conduite imprudente;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, lorsque il effectue une action de déplacement (simple), le véhicule peut effectuer un pivot supplémentaire allant jusqu'à 90 degrés à tout moment avant, pendant ou après son déplacement.
 ../TacticsCards/ESCHER VEHICLES/Roaring Charge.png;Roaring Charge;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition, before
 performing any actions.
 
 For the duration of this activation, if the fighter
 performs a Charge (Double) action they may add
-an additional D6"" to the distance moved.";Charge rugissante;Véhicules Escher;"Jouez cette tactique de gang lors de l'activation d'un combattant allié soumis à la condition Monté, avant effectuer des actions. Pendant la durée de cette activation, si le combattant effectue une action de Charge (Double) qu'ils peuvent ajouter un D6"" supplémentaire à la distance parcourue."
+an additional D6"" to the distance moved.";Charge rugissante;Véhicules Escher;"Jouez cette tactique lors de l'activation d'un combattant allié Monté, avant effectuer des actions. Pendant la durée de cette activation, si le combattant effectue une action de Charge (Double) qu'ils peuvent ajouter un D6"" supplémentaire à la distance parcourue."
 ../TacticsCards/ESCHER VEHICLES/Steel Blur.png;Steel Blur;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition before
 performing any actions.
 
 For the duration of this activation, Reaction
 attacks cannot be made against any Ride By
-attacks made by this fighter.";Flou d’acier;Véhicules Escher;Jouez cette tactique de gang lors de l'activation d'un ami chasseur soumis à la condition Monté avant effectuer des actions. Pendant la durée de cette activation, Réaction les attaques ne peuvent pas être lancées contre un Ride By attaques effectuées par ce combattant.
+attacks made by this fighter.";Flou d’acier;Véhicules Escher;Jouez cette tactique lors de l'activation d'un combattant allié Monté, avant effectuer des actions. Pendant la durée de cette activation, les attaques de réaction ne peuvent pas être lancées contre une attaque Ride By effectuée par ce combattant.
 ../TacticsCards/ESCHER VEHICLES/The Last Ride.png;The Last Ride;Escher Vehicle Tactics;"Play this card when a friendly fighter subject to
 the Mounted condition is taken Out of Action
 before removing them from the battlefield.
@@ -1373,24 +1373,24 @@ they are taken Out of Action during this action
 (for example, due to Reaction attacks) do not roll
 an additional time on the Lasting Injury table,
 though the enemy model will gain XP as normal
-for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette carte lorsqu'un combattant allié soumis à la condition Montée est mise Hors de combat avant de les retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action. Le Le combattant est alors retiré du champ de bataille. Si ils sont mis hors de combat pendant cette action (par exemple, en raison d'attaques de réaction) ne lancez pas un temps supplémentaire sur le tableau des Blessures Durables, bien que la figurine ennemie gagnera de l'XP comme d'habitude pour les avoir mis hors de combat.
+for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette carte lorsqu'un combattant allié Montée et mis Hors de combat, avant de le retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action puis il est retiré du champ de bataille. Si ils sont mis hors de combat pendant cette action (par exemple, en raison d'attaques de réaction) ne faite pas un jet supplémentaire sur le tableau Lasting injuries, cependant la figurine ennemie gagnera de l'XP comme d'habitude pour l’avoir mis hors de combat.
 ../TacticsCards/ESCHER VEHICLES/Wheels Down.png;Wheels Down;Escher Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition falls, before
 resolving any hits for falling.
 
 The fighter takes no damage from the fall and is
-not placed Prone.";Roues au sol;Véhicules Escher;Jouez cette tactique de gang lorsqu'un combattant allié sous réserve que l'état Monté tombe, avant résoudre tous les coups en cas de chute. Le combattant ne subit aucun dégât de la chute et est pas placé à plat ventre.
+not placed Prone.";Roues au sol;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié Monté tombe, avant résoudre les touches de chute. Le combattant ne subit aucun dégât de la chute et n’est pas cloué.
 ../TacticsCards/ESCHER VEHICLES/White Line Fury.png;White Line Fury;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of this activation, the vehicle
 treats the Move & Shoot action as a Simple
-action instead of a Basic action.";Fureur de la ligne blanche;Véhicules Escher;Jouez cette tactique de gang lors de l'activation d'un ami véhicule avant d’effectuer toute action. Pendant la durée de cette activation, le véhicule traite l'action Move & Shoot comme une simple action au lieu d’une action de base.
+action instead of a Basic action.";Fureur de la ligne blanche;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, le véhicule traite l'action Move & Shoot comme (simple) action au lieu de (basique).
 ../TacticsCards/ESCHER VEHICLES/Wreckin' Crew.png;Wreckin' Crew;Escher Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when receiving scenario rewards.
 
 If any enemy vehicles were Wrecked then add 1
-to your gang's Reputation.";Équipe de démolition;Véhicules Escher;Jouez cette tactique de gang pendant l'après-bataille séquence lors de la réception des récompenses du scénario. Si des véhicules ennemis ont été détruits, ajoutez 1 à la réputation de votre gang.
+to your gang's Reputation.";Équipe de démolition;Véhicules Escher;Jouez cette tactique pendant durant la phase d’après-bataille, lors de la réception des récompenses du scénario. Si des véhicules ennemis ont été détruits, ajoutez 1 à la réputation de votre gang.
 ../TacticsCards/GENERIC CARDS/A Good Day.png;A Good Day;Conspiracy;"Play at the start of the game after both sides have
 set up.
 
@@ -1400,7 +1400,7 @@ For the duration of the game, Cool checks for
 other fighters from your gang have a +2
 
 modifier if ee within 3"" of the chosen
-Champion or Leader.";Une bonne journée;Conspiration;"Jouez au début du jeu une fois que les deux équipes ont mis en place. Choisissez un modèle Champion ou Leader dans votre équipage. Placez cette carte sous la carte de ce combattant. Pendant toute la durée du jeu, Cool vérifie les autres combattants de votre gang ont un +2 modificateur si ee à moins de 3"" du choix Champion ou Leader."
+Champion or Leader.";Une bonne journée;Conspiration;"Jouez au début de la partie, une fois que les deux gangs sont déployés. Choisissez un Champion ou un Leader dans votre gang. Placez cette carte sous la carte de ce combattant. Pendant toute la durée de la partie, les tests de Cool des autres combattants de votre gang ont un bonus de +2 s’ils se trouvent dans les 3"" du Champion ou Leader choisi."
 ../TacticsCards/GENERIC CARDS/A Present for You!.png;A Present for You!;Gang Tactics;"Play this card when your opponent activates one
 of their fighters, even if the fighter was activated
 as part of a Group Activation. Centre the 3"" Blas
