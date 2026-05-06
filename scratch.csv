@@ -1411,10 +1411,10 @@ dice, the marker remains where it is. Roll a D6 on
 the table below to determine what kind of
 Traits(s) the blast has: [1-2 Concussion,3-4 Flash
 5-6 Fear, Gas]. Any fighters under the marker
-immediately suffer a hit with the Trait(s) listed.";Un cadeau pour vous !;Générique ;"Jouez cette carte lorsque votre adversaire en active une de leurs combattants, même si le combattant a été activé dans le cadre d’une Activation de Groupe. Centrez les Blas 3"" marqueur sur le combattant qui vient de s'activer, puis lancez les dés Scatter et un D6 pour voir où se trouve le le marqueur se déplace vers. Si un Hit est obtenu sur le Scatter dés, le marqueur reste là où il se trouve. Lancez un D6 sur le tableau ci-dessous pour déterminer quel type de Caractéristiques de l'explosion : [1-2 commotion cérébrale, 3-4 flash 5-6 Peur, Gaz]. Tous les combattants sous le marqueur subit immédiatement un coup avec le(s) trait(s) répertorié(s)."
+immediately suffer a hit with the Trait(s) listed.";Un cadeau pour vous !;Générique ;"Jouez cette tactique lorsque votre adversaire active un de ses combattants, même si le combattant a été activé dans le cadre d’une Activation de Groupe. Centrez le gabarit de Blast 3"" sur le combattant qui vient de s'activer, puis lancez les dés de Scatter et un D6. Si un Hit est obtenu sur le dé Scatter, le marqueur reste là où il se trouve. Lancez un D6 sur le tableau ci-dessous pour déterminer de quel type est l’explosion : [1-2 Concussion, 3-4 Flash 5-6 Fear, Gas]. Tous les combattants sous le marqueur subissent immédiatement une touche avec le(s) trait(s) répertorié(s)."
 ../TacticsCards/GENERIC CARDS/Adrenaline Surge.png;Adrenaline Surge;Gang Tactics;"Play when activating a fighter.
 The fighter can make one additional action
-this turn.";Montée d'adrénaline;Générique;Jouez lors de l'activation d'un combattant. Le combattant peut effectuer une action supplémentaire ce tour.
+this turn.";Montée d'adrénaline;Générique;Jouez cette tactique lors de l'activation d'un combattant. Le combattant peut effectuer une action supplémentaire ce tour.
 ../TacticsCards/GENERIC CARDS/Ancient Vox Box.png;Ancient Vox Box;Gang Tactics;"Play when activating a fighter. When this card is
 played, decide how many times the activating
 fighter will turn the crank (1-3 times). Roll that
@@ -1426,7 +1426,7 @@ by -2. 5-8: All fighters within 12"" add 1 to their
 Movement. 9-12: No fighter within 18"" may be the
 target of Gang Tactics or Skills. 13+: All fighters
 (including the activating fighter) within 12"" must
-make a Nerve test or become Broken.";Antique boîte vox;Générique;"Jouez lors de l'activation d'un combattant. Quand cette carte est joué, décidez combien de fois l'activation le combattant tournera la manivelle (1 à 3 fois). Lancez autant de D6, additionnez-les et consultez le tableau ci-dessous (effets jusqu'à la fin du cycle en cours) : 1-4 ; Tous les combattants à moins de 12"" réduisent leurs tests de Cool. par -2. 5-8 : Tous les combattants à moins de 12"" ajoutent 1 à leur Mouvement. 9-12 : Aucun combattant à moins de 18"" ne peut être le cible des tactiques ou des compétences de gang. 13+ : Tous les combattants (y compris le combattant qui l'active) dans un rayon de 12"" doit faire un test nerveux ou devenez brisé."
+make a Nerve test or become Broken.";Antique boîte vox;Générique;"Jouez cette tactique lors de l'activation d'un combattant. Décidez combien de fois le combattant tournera la manivelle (1 à 3 fois). Lancez autant de D6, additionnez-les et consultez le tableau ci-dessous (effets jusqu'à la fin du round en cours) : 1-4 ; Tous les combattants à moins de 12"" réduisent leurs tests de Cool. par -2. 5-8 : Tous les combattants à moins de 12"" ajoutent 1 à leur Mouvement. 9-12 : Aucun combattant à moins de 18"" ne peut être le cible des tactiques ou des Skills. 13+ : Tous les combattants (y compris le combattant qui l'active) dans un rayon de 12"" doit faire un Nerve test ou devenir broken."
 ../TacticsCards/GENERIC CARDS/Authority Breakdown.png;Authority Breakdown;Gang Tactics;"| Play this card during any Action phase, after
 Fleeing the Battlefield but before Activate
 Fighters.
@@ -1435,29 +1435,29 @@ For the duration of this round, the range of
 Leading by Example for your opponent's
 Leader is decreased to 3"". If your opponent's
 leader is not available for this battle, discard
-this card.";Effondrement de l’autorité;Générique;"Jouez cette carte pendant une phase d’Action, après après les tests de Déroute mais avant d'activer les combattants. Pendant la durée de ce tour, la gamme de Montrer l'exemple à votre adversaire Le Leader est diminué à 3"". Si le Leader de votre adversaire le chef n'est pas disponible pour cette bataille, défaussez-vous cette carte."
+this card.";Effondrement de l’autorité;Générique;"Jouez cette tactique pendant une phase d’action, après les déroutes mais avant d'activer les combattants. Pendant la durée de ce tour, la portée de Leading by example du leader de votre adversaire est diminué à 3"". Si le Leader de votre adversaire n'est pas présent durant cette bataille, défaussez-vous cette carte."
 ../TacticsCards/GENERIC CARDS/Bait and Switch.png;Bait and Switch;Gang Tactics;"| Play this card instead of activating a fighter.
 Take a Ready marker from any of your
 fighters and place it on a fighter who has |
-already activated this round.";Appât et diversion;Générique;Jouez cette tactique de gang au début d’un round, avant que les joueurs n’aient effectué le jet d’Initiative. Choisissez deux combattants alliés sur le champ de bataille qui ne sont pas Engagés. Échangez leurs positions.
+already activated this round.";Appât et diversion;Générique;Jouez cette tactique au début d’un round, avant que les joueurs n’aient effectué le jet d’Initiative. Choisissez deux combattants alliés sur le champ de bataille qui ne sont pas Engagés. Échangez leurs positions.
 ../TacticsCards/GENERIC CARDS/Battle Madness.png;Battle Madness;Gang Tactics;"Play instead of activating a fighter.
 
 Choose a Broken Fighter from either gang. They
 immediately make a ranged attack against the
 closest fighter they can see, friend or foe. If they
 are in base contact with another fighter, they
-make close combat attacks instead.";Folie guerrière;Générique;Jouez au lieu d'activer un combattant. Choisissez un combattant brisé de l’un ou l’autre gang. Ils lancer immédiatement une attaque à distance contre le combattant le plus proche qu'ils puissent voir, ami ou ennemi. S'ils sont en contact socle à socle avec un autre combattant, ils effectuez plutôt des attaques de combat rapproché.
+make close combat attacks instead.";Folie guerrière;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant Broken de l’un ou l’autre gang. Il effectue immédiatement une attaque à distance contre le combattant le plus proche qu'ils puissent voir, ami ou ennemi. S'il est en contact avec un autre combattant, il effectue plutôt des attaques de combat rapproché.
 ../TacticsCards/GENERIC CARDS/Beast Lure.png;Beast Lure;Gang Tactics;"A fighter can spend an action to play this card.
 Place the Beast's Lair marker within 3"" of this
 fighter. Then, uae can move up to D6"". If they
 end the action within 6"" of the lair, there is a
-chance they will be attacked as normal.";Appât à bête;Générique;"Un combattant peut dépenser une action pour jouer cette carte. Placez le marqueur Beast's Lair à moins de 3"" de ce marqueur. combattant. Ensuite, les Émirats arabes unis peuvent passer en D6"". S'ils terminez l'action à moins de 6"" du repaire, il y a un Il y a de fortes chances qu'ils soient attaqués normalement."
+chance they will be attacked as normal.";Appât à bête;Générique;"Un combattant peut dépenser une action pour jouer cette carte. Placez le marqueur Beast's Lair à moins de 3"" de ce marqueur. combattant. Ensuite, il peut se déplacer de D6"". S'ils terminez l'action à moins de 6"" du repaire, il y a une chance qu'ils soient attaqués normalement."
 ../TacticsCards/GENERIC CARDS/Beast Repellent .png;Beast Repellent;Gang Tactics;"Play this card when activating a fighter. |
 For the duration of this fighter's |
 activation, they do not risk rousing the Beast,
 regardless of how close they are to the
 
-Beast's Lair.";Répulsif à bêtes;Générique;Jouez cette carte lors de l'activation d'un combattant. Pour la durée de ce combattant activation, ils ne risquent pas de réveiller la Bête, quelle que soit leur proximité avec le Le repaire de la bête.
+Beast's Lair.";Répulsif à bêtes;Générique;Jouez cette tactique lors de l'activation d'un combattant. Pour la durée de son activation, le combattant ne risquent pas de réveiller la Bête, quelle que soit sa proximité avec le Beast’s lair.
 ../TacticsCards/GENERIC CARDS/Blackout.png;| Blackout;Gang Tactics;"Play this card at the start of any round.
 
 For the duration of this round, ranged attacks
@@ -1466,16 +1466,16 @@ targets between 6"" and 12"" away, or a -2
 modifier if made against targets more than 12""
 away. Attackers using an infra-scope or photo
 -goggles, or targeting a fighter with a Blaze
-marker, ignore these penalties.";Black-out;Générique;"Jouez cette carte au début d’un tour. Pendant toute la durée de ce tour, les attaques à distance avoir un modificateur supplémentaire de -1 s'il est effectué contre cibles entre 6"" et 12"", soit un -2 modificateur si effectué contre des cibles de plus de 12"" loin. Agresseurs utilisant un infra-scope ou une photo -des lunettes, ou cibler un combattant avec un Blaze marqueur, ignorez ces pénalités."
+marker, ignore these penalties.";Black-out;Générique;"Jouez cette tactique au début d’un tour. Pendant toute la durée de ce tour, les attaques à distance subissent un malus supplémentaire de -1 si elles sont effectuées contre des cibles entre 6"" et 12"", ou un malus de -2 si elles sont effectuées contre des cibles de plus de 12"". Les combattants utilisant un Infra-sight ou des Photo-googles, ou ciblant un combattant avec un marqueur Blaze ignorent ces pénalités."
 ../TacticsCards/GENERIC CARDS/Blade for Every Occasion.png;Blade for Every Occasion;Gang Tactics;"| Play this card when activating a fighter.
 Tuck this card under the fighter's card.
 Untul the end of the battle, this fighter has _
-an additional axe.";Une lame pour chaque occasion;Générique;Jouez cette carte lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Jusqu'à la fin de la bataille, ce combattant a _ une hache supplémentaire.
+an additional axe.";Une lame pour chaque occasion;Générique;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Jusqu'à la fin de la bataille, ce combattant a une hache supplémentaire.
 ../TacticsCards/GENERIC CARDS/Blazing Fury.png;Blazing Fury;Gang Tactics;"| Play this card when activating a fighter.
 
 For the duration of this fighter’s turn, the
 Shoot action is treated as Simple rather than |
-Basic.";Fureur flamboyante;Générique;Jouez cette carte lors de l'activation d'un combattant. Pendant toute la durée du round de ce combattant, le L'action de tir est traitée comme simple plutôt que Basique.
+Basic.";Fureur flamboyante;Générique;Jouez cette tactique lors de l'activation d'un combattant. Pendant toute la durée du round de ce combattant, l'action de tir est traitée comme simple plutôt que Basic.
 ../TacticsCards/GENERIC CARDS/Blood Debt.png;Blood Debt;Gang Tactics;"Play this card when one of your fighters is
 
 taken Out of Action by an enemy fighter's attack.
@@ -1484,14 +1484,14 @@ For the rest of the battle, add 1 to the result
 of any hit rolls for fighters from your gang
 
 when they target the attacker. Tuck this card
-under the attacker's Fighter card as a reminder.";Dette de sang;Générique;Jouez cette carte lorsqu'un de vos combattants est mis hors de combat par l'attaque d'un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche des combattants de votre gang lorsqu'ils ciblent l'attaquant. Rentrez cette carte sous la carte Combattant de l'attaquant pour rappel.
+under the attacker's Fighter card as a reminder.";Dette de sang;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis hors de combat par un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche des combattants de votre gang lorsqu'ils ciblent cet ennemi.
 ../TacticsCards/GENERIC CARDS/Blood Fury.png;Blood Fury;Gang Tactics;"| Play when one of your fighters loses
 
 a Wound.
 
 Tuck this card under the fighter's card; |
 for the rest of the battle, that fighter has the
-Berserker skill.";Fureur de sang;Générique;"Jouez quand un de vos combattants perd une blessure. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, ce combattant a le Compétence Berserker."
+Berserker skill.";Fureur de sang;Générique;Jouez cet tactique quand un de vos combattants perd un point de vie. Glissez cette carte sous la carte du combattant. Pour le reste de la bataille, ce combattant a le Compétence Berserker.
 ../TacticsCards/GENERIC CARDS/Blood Surge.png;Blood Surge;Gang Tactics;"‘Play this card when activating a fighter.
 
 |
@@ -1504,12 +1504,12 @@ need to check for a stimm overload.
 
 |
 
-|";Afflux de sang;Générique;« Jouez cette carte lorsque vous activez un combattant. Pendant toute la durée du round, le combattant est traités comme s'ils avaient utilisé une cachette de limaces stimm, Cependant, pendant la phase Fin, ils ne il faut vérifier s'il y a une surcharge de stimulation.
+|";Afflux de sang;Générique;Jouez cette tactique lorsque vous activez un combattant. Pendant toute la durée du round, le combattant est traité comme s'ils avaient utilisé un stimm-slug stash, Cependant, le combattant ne fais pas de test de stimm overload
 ../TacticsCards/GENERIC CARDS/Blood-drenched Champion.png;Blood-drenched Champion;Gang Tactics;"| Play this card instead of activating a fighter.
 An enemy fighter of your choice that is
 visible to your leader must pass a Nerve test,
 subtracting 2 from the result, or become
-Broken.";Champion couvert de sang;Générique;Jouez cette carte au lieu d'activer un combattant. Un combattant ennemi de votre choix qui est visible par votre leader doit réussir un test de nerf, en soustrayant 2 du résultat, ou devenir Cassé.
+Broken.";Champion couvert de sang;Générique;Jouez cette tactique au lieu d'activer un combattant. Un combattant ennemi de votre choix qui est visible par votre leader doit réussir un Nerve test, avec un malus de -2, ou devenir Broken.
 ../TacticsCards/GENERIC CARDS/Born to Slaughter.png;Born to Slaughter;Gang Tactics;"| Play this card immediately after it has been
 drawn during step 7 of the pre-battle
 sequence.
@@ -1518,41 +1518,41 @@ Nominate one fighter from your starting
 crew. For the duration of this battle, that
 fighter gains +1 to their Weapon Skill and
 Cool but -1 to their Ballistic Skill and
-Willpower.";Né pour le massacre;Générique;Jouez cette carte immédiatement après qu'elle ait été tiré lors de l'étape 7 de la pré-bataille séquence. Nommez un combattant de votre départ équipage. Pendant toute la durée de cette bataille, cela le combattant gagne +1 à sa compétence d'arme et Cool mais -1 à leur compétence balistique et Volonté.
+Willpower.";Né pour le massacre;Générique;Jouez cette tactique immédiatement après qu'elle ait été tiré lors de l'étape 7 de la séquence pré-bataille. Nommez un combattant de votre gang de départ. Pour la durée de cette bataille, ce le combattant gagne +1 en WS et Cool et -1 en BS et Willpower.
 ../TacticsCards/GENERIC CARDS/Breach and Clear.png;Breach and Clear;Gang Tactics;"| Play after a friendly fighter makes an
 Operate Door (Simple) action or successful
 Force Door (Basic) action.
 
 The fighter may immediately make a free
-Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un Action Faire fonctionner la porte (simple) ou réussite Action de forcer la porte (de base). Le combattant peut immédiatement effectuer un coup franc Action de Tir (Basique).
+Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Force door (basic). Ce combattant peut immédiatement effectuer une action de Tir (Basique) gratuite.
 ../TacticsCards/GENERIC CARDS/Bullet Magnet.png;Bullet Magnet;Gang Tactics;"| Play this card when a fighter fires a weapon
 with the Rapid Fire trait.
 
 Add 1 to the number of hits rolled on each —
-Firepower dice.";Aimant à balles;Générique;Jouez cette carte lorsqu'un combattant tire avec une arme avec le trait Rapid Fire. Ajoutez 1 au nombre de coups portés sur chacun — Dés de puissance de feu.
+Firepower dice.";Aimant à balles;Générique;Jouez cette tactique lorsqu'un combattant tire avec une arme avec le trait Rapid Fire. Ajoutez 1 au nombre de coups portés sur chacun des dés de puissance de feu.
 ../TacticsCards/GENERIC CARDS/Burst of Courage.png;Burst of Courage;Gang Tactics;"| Play this card when making a Cool check for
 a fighter.
 
 The fighter automatically passes the check, |
 and any more Cool checks they are required
-to make until the end of the round.";Élan de courage;Générique;Jouez cette carte lorsque vous effectuez un test de Cool pour un combattant. Le combattant réussit automatiquement le contrôle, et tous les autres chèques cool dont ils ont besoin à faire jusqu'à la fin du round.
+to make until the end of the round.";Élan de courage;Générique;Jouez cette tactique lorsque vous effectuez un test de Cool pour un combattant. Le combattant réussit automatiquement le test, et tous les autres test de Cool qu’ils aurait besoin de faire jusqu'à la fin du round.
 ../TacticsCards/GENERIC CARDS/Chain Attacks.png;Chain Attacks;Gang Tactics;"| Play when a fighter takes an enemy Out of
 Action with a Melee attack.
 
 The activating fighter can move up to D6"" _—
 and make a Fight Basic action. Their
-activation then immediately ends.";Attaques en chaîne;Générique;"Jouez quand un combattant fait sortir un ennemi de Action avec une attaque de mêlée. Le combattant qui l'active peut se déplacer jusqu'à D6"" _— et effectuez une action Combat Basic. Leur l’activation se termine alors immédiatement."
+activation then immediately ends.";Attaques en chaîne;Générique;Jouez cet tactique quand un combattant met un ennemi hors de combat avec une attaque de mêlée. Le combattant peut se déplacer de jusqu'à D6 », effectuer une action Combat (Basic). Son activation se termine alors immédiatement.
 ../TacticsCards/GENERIC CARDS/Click.png;«Click!;Gang Tactics;"Play this card after an enemy fighter
 completes an attack with a ranged weapon.
 The weapon immediately runs Out of Ammo,
-as if it had failed an Ammo check.";« Clic ! »;Générique;Jouez cette carte après un combattant ennemi termine une attaque avec une arme à distance. L'arme est immédiatement à court de munitions, comme s'il avait échoué à un contrôle de munitions.
+as if it had failed an Ammo check.";« Clic ! »;Générique;Jouez cette tactique après qu’un combattant ennemi termine une attaque avec une arme à distance. L'arme est immédiatement à court de munitions, comme s'il avait échoué à un test de munitions.
 ../TacticsCards/GENERIC CARDS/Close to Retirement.png;Close to Retirement;Gang Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, your
 opponent's Leader suffers a-2 modifier to _
 any Cool checks they must make. If your
 opponent's Leader is not available for this
-battle, discard this card.";Près de la retraite;Générique;Jouez au début d’un tour. Jusqu'à la phase de Fin de ce tour, votre le chef de l'adversaire subit un modificateur de -2 à _ tous les contrôles Cool qu'ils doivent effectuer. Si votre le chef de l'adversaire n'est pas disponible pour cela bataille, défaussez cette carte.
+battle, discard this card.";Près de la retraite;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de Fin de ce tour, le chef de l'adversaire subit un malus de -2 à tous les test de Cool qu'il doit effectuer. Si le chef de l'adversaire n'est pas présent durant la bataille, défaussez cette carte.
 ../TacticsCards/GENERIC CARDS/Combat Drugs.png;Combat Drugs;Gang Tactics;"| Play when a fighter makes a melee attack.
 
 |
@@ -1563,26 +1563,26 @@ the fighter gain the full 3 additional attacks,
 they will automatically suffer
 
 aFlesh Wound at the end of their
-activation.";Drogues de combat;Générique;Jouez lorsqu'un combattant effectue une attaque au corps à corps. Pendant toute la durée de ce tour, le combattant gagne D3 attaques supplémentaires. Il faudrait cependant le combattant gagne les 3 attaques supplémentaires complètes, ils souffriront automatiquement aBlessure Légère à la fin de leur activation.
+activation.";Drogues de combat;Générique;Jouez cette tactique lorsqu'un combattant effectue une attaque au corps à corps. Pour la durée de ce tour, le combattant gagne D3 attaques supplémentaires. Cependant si le combattant gagne 3 attaques grâce à cette tactique, il subit une Flesh wound à la fin de son activation.
 ../TacticsCards/GENERIC CARDS/Counter-Assault .png;Counter-Assault;Gang Tactics;"| Play this card when one of your fighters
 makes a Reaction attack.
 
 The fighter’s Reaction attacks are made at
 +1 to Hit. In addition, they automatically
 pass the Initiative check required to make
-Reaction attacks against disengaging enemy.";Contre-assaut;Générique;Jouez cette carte lorsqu'un de vos combattants effectue une attaque de réaction. Les attaques de réaction du combattant sont effectuées à +1 pour toucher. De plus, ils automatiquement réussir le test d’Initiative requis pour faire Attaques de réaction contre un ennemi en désengagement.
+Reaction attacks against disengaging enemy.";Contre-assaut;Générique;Jouez cette tactique lorsqu'un de vos combattants effectue une attaque de réaction. Les attaques de réaction du combattant sont effectuées avec un bonus de +1 pour toucher. De plus, il réussi automatiquement le test d’Initiative requis pour faire une attaques de réaction contre un ennemi qui tente une retraite.
 ../TacticsCards/GENERIC CARDS/Crossfire.png;| Crossfire;Gang Tactics;"| Play this card when a fighter makes a ranged
 attack against a target who has already been
 shot at by a friendly fighter.
 
-The hit roll succeeds automatically.";Feux croisés;Générique;Jouez cette carte lorsqu'un combattant effectue une attaque à distance. attaque contre une cible qui a déjà été abattu par un combattant allié. Le jet de touche réussit automatiquement.
+The hit roll succeeds automatically.";Feux croisés;Générique;Jouez cette tactique lorsqu'un combattant effectue une attaque à distance contre une cible qui a déjà été ciblée par un tir allié. Le jet de touche réussit automatiquement.
 ../TacticsCards/GENERIC CARDS/Cut Their Supply.png;Cut Their Supply;Gang Tactics;"Play at the start of the game after both sides |
 have deployed.
 
 Choose a weapon possessed by an enemy |
 fighter. For the duration of the game, this
 weapon loses the Plentiful trait if it has it,
-and gains the Scarce trait if it doesn't have it.";Couper leur ravitaillement;Générique;Jouer au début du jeu après les deux côtés ont déployé. Choisissez une arme possédée par un ennemi combattant. Pendant toute la durée du jeu, ceci l'arme perd le trait Abondant si elle le possède, et gagne le trait Rare s'il ne l'a pas.
+and gains the Scarce trait if it doesn't have it.";Couper leur ravitaillement;Générique;Jouer cette tactique au début du jeu après que les deux gangs aient été déployés. Choisissez une arme possédée par un combattant ennemi. Pour la durée de la partie, ceci l'arme perd le trait Plentiful si elle le possède, et gagne le trait Scarce s'il elle ne l'a pas.
 ../TacticsCards/GENERIC CARDS/Dangerous Footing.png;Dangerous Footing;Gang Tactics;"Play when your opponent activates a fighter.
 Immediately eae a Pitfall Crater marker
 beneath the ese The fighter must take an
@@ -1592,13 +1592,13 @@ activation continues. If the Initiative test is
 failed, the fighter falls into the crater and is
 immediately taken Out of Action. The pitfall
 Crater remains in place for the duration of the
-battle.";Terrain dangereux;Générique;Jouez lorsque votre adversaire active un combattant. Immédiatement, trouvez un marqueur Pitfall Crater sous l'ese Le combattant doit prendre un test d’Initiative. Si le test est réussi, le combattant effectue une action de déplacement vers la sécurité et leur l'activation continue. Si le test d’Initiative est échoué, le combattant tombe dans le cratère et est immédiatement mis hors de combat. Le piège Le cratère reste en place pendant toute la durée du bataille.
+battle.";Terrain dangereux;Générique;Jouez cette tactique lorsque votre adversaire active un combattant. Placez immédiatement un marqueur Pitfall Crater sous le combattant, ce dernier doit faire un test d’Initiative. Si le test est réussi, le combattant effectue une action de déplacement vers le bord le plus proche et continue son activation. Si le test d’Initiative est échoué, le combattant tombe dans le cratère et est immédiatement mis hors de combat. Le piège reste en place pour la durée du bataille.
 ../TacticsCards/GENERIC CARDS/Deadlock.png;| Deadlock;Gang Tactics;"Zone Mortalis only. |
 Play this card at the start of any round. |
 Choose a closed door anywhere on
 
 the board. For the duration of this round,
-the door cannot be opened in any way. |";Impasse;Générique;Zone Mortalis uniquement. Jouez cette carte au début d’un tour. Choisissez une porte fermée n'importe où sur le conseil d'administration. Pendant toute la durée de ce tour, la porte ne peut en aucun cas être ouverte.
+the door cannot be opened in any way. |";Impasse;Générique;Zone Mortalis uniquement. Jouez cette tactique au début d’un tour. Choisissez une porte fermée n'importe où sur le champ de bataille. Pour la durée de ce tour, la porte ne peut en aucun cas être ouverte.
 ../TacticsCards/GENERIC CARDS/Death Trap.png;Death Trap;Gang Tactics;"Zone Mortalis only.
 
 Play this card when an enemy fighter makes an
@@ -1610,20 +1610,20 @@ The fighter must test to see if they are struck by
 the door, as described on page 31, as if they were
 standing in a doorway when the door is
 
-closed.";Piège mortel;Générique;Zone Mortalis uniquement. Jouez cette carte lorsqu'un combattant ennemi fait un Actionner l'action de la porte pour l'ouvrir ou la fermer une porte. Le combattant doit tester pour voir s'il est touché par la porte, comme décrit à la page 31, comme s'ils étaient debout dans l'embrasure d'une porte lorsque la porte est fermé.
+closed.";Piège mortel;Générique;Zone Mortalis uniquement. Jouez cette tactique lorsqu'un combattant ennemi fait une action Operate Door(simple). Le combattant doit faire un test pour voir s'il est touché par la porte, comme décrit à la page 31, comme s'il étaient debout dans l'encadrement de la porte lorsque la porte se ferme.
 ../TacticsCards/GENERIC CARDS/Dedicated to Duty.png;Dedicated to Duty;Gang Tactics;"Play during the End phase, before you make
 a Bottle test.
 
 Your gang automatically passes their
 
-Bottle test.";Dévoué au devoir;Générique;Jouez pendant la phase de fin, avant de faire un test en bouteille. Votre gang réussit automatiquement son Test en bouteille.
+Bottle test.";Dévoué au devoir;Générique;Jouez cette tactique pendant la phase de fin, avant de faire un Bottle test. Votre gang réussit automatiquement son Bottle test.
 ../TacticsCards/GENERIC CARDS/Desperate Effort.png;Desperate Effort;Gang Tactics;"| Play when it is your turn to activate a
 fighter, but none of your fighters have
 Ready markers.
 
 Pick one of your fighters and activate them
 as though they had a Ready marker. At
-the end of the action, they are Pinned.";Effort désespéré;Générique;Jouez quand c'est votre tour d'activer un combattant, mais aucun de vos combattants n'a Marqueurs prêts. Choisissez un de vos combattants et activez-le comme s'ils avaient un marqueur Prêt. À à la fin de l’action, ils sont Bloqués.
+the end of the action, they are Pinned.";Effort désespéré;Générique;Jouez cette tactique quand c'est votre tour d'activer un combattant, mais qu’aucun de vos combattants n’a de marqueurs Ready. Choisissez un de vos combattants et activez-le comme s'ils avaient un marqueur Ready. À à la fin de l’action, il est Pinned.
 ../TacticsCards/GENERIC CARDS/Disorienting Shadows.png;Disorienting Shadows;Gang Tactics;"| Play at the start of any round, after rolling
 for Priority.
 
@@ -1631,32 +1631,32 @@ Nominate D3 fighters on the enemy gang. |
 For the duration of this round, they suffer
 
 -1 to their Ballistic Skill and Movement
-characteristics.";Ombres désorientantes;Générique;Jouez au début d’un tour, après avoir lancé pour Priorité. Nommez des combattants D3 dans le gang ennemi. Pendant toute la durée de ce tour, ils souffrent -1 à leur compétence balistique et à leur mouvement caractéristiques.
+characteristics.";Ombres désorientantes;Générique;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Nommez D3 combattants dans le gang ennemi. Pour la durée de ce tour, ils subissent un malus de -1 à leur BS et à leur mouvement.
 ../TacticsCards/GENERIC CARDS/Distraction.png;| Distraction;Gang Tactics;"| Play when your opponent activates a fighter.
 The opposite player must make a Willpower
 check for the fighter. If the checkis failed,
 the fighter can only make one action this
-turn, instead of two.";Distraction;Générique;Jouez lorsque votre adversaire active un combattant. Le joueur adverse doit faire une Volonté vérifiez le combattant. Si la vérification échoue, le combattant ne peut faire qu'une seule action ici tour, au lieu de deux.
+turn, instead of two.";Distraction;Générique;Jouez cette tactique lorsque votre adversaire active un combattant. Le combattant adverse doit faire un test de Willpower. Si le test échoue, le combattant ne peut faire qu'une seule action ce tour.
 ../TacticsCards/GENERIC CARDS/Double Fisted.png;| Double- fisted;Gang Tactics;"| Play when a fighter makes a ranged attack.
 For the duration of the ranged attack, the
 fighter can attack with two |
 ranged weapons, resolving a full attack with
 each, one after the other.
 
-Both must be made against the same target.";À double poing;Générique;Jouez lorsqu'un combattant effectue une attaque à distance. Pendant toute la durée de l'attaque à distance, le combattant peut attaquer avec deux armes à distance, résolvant une attaque complète avec chacun, l'un après l'autre. Les deux doivent être lancés contre la même cible.
+Both must be made against the same target.";À double poing;Générique;Jouez cette tactique lorsqu'un combattant effectue une attaque à distance. Pour la durée de l'attaque à distance, le combattant peut attaquer avec deux armes à distance, résolvant les attaques l’une après l’autre. Les deux attaques doivent cibler la même cible.
 ../TacticsCards/GENERIC CARDS/Double Time.png;| Double Time;Gang Tactics;"| Play this card when activating a fighter.
 
 This fighter can perform a free Move
 (Simple) action during its activation. This _
 free action is in addition to its two normal
-actions.";Au pas de course;Générique;Jouez cette carte lors de l'activation d'un combattant. Ce combattant peut effectuer un mouvement gratuit action (Simple) lors de son activation. Ce _ l'action libre s'ajoute à ses deux actions normales actions.
+actions.";Au pas de course;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce combattant peut effectuer une action de mouvement (simple) gratuite lors de son activation
 ../TacticsCards/GENERIC CARDS/Duck and Cover.png;Duck and Cover;Gang Tactics;"| Play this card when activating a fighter.
 
 This turn, the fighter may make two Fire
 (Basic) actions, provided they use the same _
 Basic or Pistol weapon for both. After
 resolving these actions, the fighter may move
-| DBE";À couvert !;Générique;Jouez cette carte lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux tirs Actions (de base), à condition qu'elles utilisent le même _ Arme de base ou pistolet pour les deux. Après en résolvant ces actions, le combattant peut se déplacer DBE
+| DBE";À couvert !;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basique), à condition qu'elles utilisent la même arme de base ou pistolet pour les deux (Basic or pistol weapon). Après ces actions, le combattant peut se déplacer de D3
 ../TacticsCards/GENERIC CARDS/Eager for Battle.png;Eager for Battle;Gang Tactics;"| Play this card during the End phase, before
 drawing any cards to determine which
 fighters become available as
@@ -1665,13 +1665,13 @@ Reinforcements. |
 Ad D3 to the number of Reinforcements
 you receive this turn. The enemy player
 deploys these extra Reinforcements on a 1-4,
-instead of the usual 1-2.";Avide de bataille;Générique;Jouez cette carte pendant la phase de fin, avant tirer des cartes pour déterminer laquelle les combattants deviennent disponibles en tant que Renforts. Ad D3 au nombre de Renforts vous recevez ce tour. Le joueur ennemi déploie ces Renforts supplémentaires sur un 1-4, au lieu du 1-2 habituel.
+instead of the usual 1-2.";Avide de bataille;Générique;Jouez cette tactique pendant la phase de fin, avant tirer des cartes pour déterminer quelles combattants deviennent disponibles en tant que Renforts. Ajoutez D3 au nombre de renforts vous recevez ce tour. Le joueur ennemi déploie ses renforts supplémentaires sur un 1-4, au lieu du 1-2 habituel.
 ../TacticsCards/GENERIC CARDS/Emergency Seal.png;Emergency Seal;Gang Tactics;"Zone Mortalis only. |
 Play instead of activating a fighter. |
 Ductways cannot be used for the duration
 
 of this round - they are treated as not being
-on the board at all. |";Sceau d'urgence;Générique;Zone Mortalis uniquement. Jouez au lieu d'activer un combattant. Les conduits ne peuvent pas être utilisés pendant toute la durée de ce tour - ils sont traités comme n'étant pas sur le tableau du tout.
+on the board at all. |";Sceau d'urgence;Générique;Zone Mortalis uniquement. Jouez cette tactique au lieu d'activer un combattant. Les conduits (Ductways) ne peuvent pas être utilisés pour ce tour, ils sont traités comme n'étant pas sur le champ de bataille.
 ../TacticsCards/GENERIC CARDS/Fall Back.png;Fall Back;Gang Tactics;"| Play this card when activating a fighter.
 
 This fighter may immediately make
@@ -1679,33 +1679,33 @@ This fighter may immediately make
 a Retreat (Basic) action without havingto
 make an Initiative check. Additionally, each
 enemy fighter that was Engaging them is
-unable to make any Reaction attacks.";Repli;Générique;Jouez cette carte lors de l'activation d'un combattant. Ce combattant peut immédiatement faire une action Retraite (Basique) sans avoir à effectuez un test d’Initiative. De plus, chacun le combattant ennemi qui les engageait est incapable de faire des attaques de réaction.
+unable to make any Reaction attacks.";Repli;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce combattant peut immédiatement faire une action Retreat (Basic) sans avoir à effectuer un test d’Initiative. De plus, chaque le combattant ennemi engagé avec est incapable de faire des attaques de réaction.
 ../TacticsCards/GENERIC CARDS/Fear of Betrayal.png;Fear of Betrayal;Gang Tactics;"Play this card instead of activating a fighter.
 An enemy fighter of your choice with a Ready
 marker must pass a Cool check or immediately
 make a Shoot (Basic) action against the closest
 visible fighter from their own gang, as if they
 were an enemy fighter. They then lose their
-Ready marker.";Peur de la trahison;Générique;Jouez cette carte au lieu d'activer un combattant. Un combattant ennemi de votre choix avec un Prêt Le marqueur doit réussir un test de Sang-froid ou immédiatement effectuez une action Tir (Basique) contre le plus proche combattant visible de leur propre gang, comme s'ils étaient un combattant ennemi. Ils perdent alors leur Marqueur prêt.
+Ready marker.";Peur de la trahison;Générique;Jouez cette tactique au lieu d'activer un combattant. Un combattant ennemi de votre choix avec un marqueur Ready doit réussir un test de Cool ou immédiatement effectuer une action Shoot (Basic) contre le plus proche combattant visible de son propre gang, comme s'ils étaient un combattant ennemi. Il perd alors son marqueur Ready.
 ../TacticsCards/GENERIC CARDS/Fearsome Reputation.png;Fearsome Reputation;Gang Tactics;"Play after one of your fighters puts an enemy
 Out of Action.
 
 For the rest of the game, any nerve checks |
 made for enemy fighters within 8"" of them
-have a -2 modifier.";Réputation redoutable;Générique;"Jouez après qu'un de vos combattants ait mis un ennemi Hors de combat. Pour le reste de la bataille, toute test de Nerve conçu pour les combattants ennemis à moins de 8"" d'eux avoir un modificateur de -2."
+have a -2 modifier.";Réputation redoutable;Générique;"Jouez cette tactique après qu'un de vos combattant ai mis un ennemi Hors de combat. Pour le reste de la bataille, tout Nerve test fait par les combattants ennemis dans les 8"" de ce combattant subit un malus de -2."
 ../TacticsCards/GENERIC CARDS/Fire Discipline.png;Fire Discipline;Gang Tactics;"| Play this card at the start of the battle, after
 setting up your gang.
 
 For the duration of the battle, ranged attacks.
 made by your fighters only trigger an Ammo
 check if the Firepower dice rolls an Ammo
-symbol and the hit roll is a success.";Discipline de tir;Générique;Jouez cette carte au début de la bataille, après créer votre gang. Pendant toute la durée de la bataille, attaques à distance. fabriqués par vos combattants ne déclenchent qu'une munition vérifiez si le dé de puissance de feu lance une munition symbole et le jet de touche est un succès.
+symbol and the hit roll is a success.";Discipline de tir;Générique;Jouez cette tactique au début de la bataille, après avoir choisi votre gang. Pour la durée de la bataille, les attaques à distance faites par vos combattants ne déclenchent un test de munition que si le dé de puissance de feu affiche un symbole munition et le jet de touche est un succès.
 ../TacticsCards/GENERIC CARDS/Forward Planning.png;Forward Planning;Gang Tactics;"Play at the start of the game, after both |
 gangs have been deployed.
 
 Choose up to three fighters. These fighters |
 may immediately make a free Move (Simple)
-action.";Planification avancée;Générique;Jouez au début du jeu, après les deux des gangs ont été déployés. Choisissez jusqu'à trois combattants. Ces combattants peut immédiatement effectuer un coup gratuit (simple) actions.
+action.";Planification avancée;Générique;Jouez cette tactique au début du jeu, après que les deux gangs aient été déployés. Choisissez jusqu'à trois combattants. Ces combattants peuvent immédiatement faire effectuer une action Move (simple) gratuite.
 ../TacticsCards/GENERIC CARDS/Frag Trap.png;| Frag Trap;Gang Tactics;"Play at the start of the battle, when setting up
 your gang. Pick any of your fighters to carry the
 trap, and put this card under their Fighter card.
