@@ -1716,7 +1716,7 @@ they can move up to D6"", If the fighter goes Out
 of Action before making this action, roll a D6.
 On a 1, the trap triggered (centred on the
 fighter's base). On a 2-3, place a marker where
-the fighter stood. On a 4+, discard this card.";Piège à fragments;Générique;"Jouez au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter le piège et placez cette carte sous sa carte Combattant. Une fois pendant le jeu, le combattant, à condition qu'il sont actifs, peuvent poser un piège à fragmentation (double) - Placez un Marqueur Frag Trap à 1"" ou moins du combattant. Puis ils peuvent avancer jusqu'à D6"", si le combattant sort d’Action avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le base de combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant se leva. Sur 4+, défaussez cette carte."
+the fighter stood. On a 4+, discard this card.";Piège à fragments;Générique;"Jouez cette tactique au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous la sienne. Une fois pendant la partie, le combattant peut poser un piège à fragmentation (double) - Placez un Marqueur Frag Trap à 1"" ou moins du combattant. Puis ils peuvent avancer de D6"", si le combattant est mis hors de combat avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le base de combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant était. Sur 4+, défaussez cette carte."
 ../TacticsCards/GENERIC CARDS/Got Your Back.png;Got Your Back;Gang Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, fighters
@@ -1725,7 +1725,7 @@ are Engaged with any other fighters from
 
 the same gang as the target of the attack.
 Only one fighter can provide an assist this
-way for each close combat attack.";Je te couvre;Générique;Jouez au début d’un tour. Jusqu'à la phase de Fin de ce tour, les combattants membres de votre gang peuvent fournir de l'aide même s'ils sont engagés avec d'autres combattants de le même gang que la cible de l’attaque. Un seul combattant peut fournir une assistance manière pour chaque attaque de combat rapproché.
+way for each close combat attack.";Je te couvre;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, les combattants de votre gang peuvent fournir de l'aide même s'ils sont engagés avec d'autres combattants. Un seul combattant peut fournir une assistance de cette manière pour phase de combat rapproché.
 ../TacticsCards/GENERIC CARDS/Grenade Bouquet .png;Grenade Bouquet;Gang Tactics;"Play this card when a fighter makes an attack
 with a grenade that has a Blast trait.
 
@@ -1735,7 +1735,7 @@ one. Each of these attacks counts as a miss and so
 will automatically scatter. Once all three attacks
 are resolved, the fighter will automatically fail
 the Ammo check and run out of grenades of that
-type.";Bouquet de grenades;Générique;Jouez cette carte lorsqu'un combattant effectue une attaque avec une grenade qui a un trait Explosion. Le combattant peut immédiatement effectuer trois attaques avec ce type de grenade, plutôt que l'habituel un. Chacune de ces attaques compte comme un échec et donc se dispersera automatiquement. Une fois les trois attaques sont résolus, le combattant échouera automatiquement Je vérifie les munitions et je suis à court de grenades. tapez.
+type.";Bouquet de grenades;Générique;Jouez cette tactique lorsqu'un combattant effectue une attaque avec une grenade qui a le trait Blast. Le combattant peut immédiatement effectuer trois attaques avec ce type de grenade, plutôt que l'habituel un. Chacune de ces attaques compte comme un échec et donc se dispersera automatiquement. Une fois que les trois attaques sont résolus, le combattant échouera automatiquement le test de munitions.
 ../TacticsCards/GENERIC CARDS/Gripped by Fear.png;Gripped by Fear;Gang Tactics;"| Play at the start of any round, after rolling
 for Priority.
 
@@ -1748,13 +1748,13 @@ characteristics.";Saisi par la peur;Générique;Jouez au début d’un tour, apr
 activating any fighters.
 Instead of activating one fighter, activate up |
 to three fighters (in the same way as making
-a Group activation).";Tactiques de groupe;Générique;Jouez cette carte quand c'est votre tour, avant activer tous les combattants. Au lieu d'activer un combattant, activez-le à trois combattants (de la même manière que faire une activation de groupe).
+a Group activation).";Tactiques de groupe;Générique;Jouez cette tactique quand c'est votre tour, avant activer tous les combattants. Au lieu d'activer un combattant, activez jusque’à trois combattants.
 ../TacticsCards/GENERIC CARDS/Hard Stop.png;Hard Stop;Gang Tactics;"Play when one of your fighters becomes |
 Engaged as part of an enemy Charge
 (Double) action. |
 Your fighter may immediately make a free
 Fight (Basic) action, interrupting the
-opposing fighter's activation. |";Arrêt brutal;Générique;Jouez quand l'un de vos combattants devient Engagé dans le cadre d'une charge ennemie (Double)action. Votre combattant peut immédiatement effectuer un Action de combat (de base), interrompant le activation du combattant adverse.
+opposing fighter's activation. |";Arrêt brutal;Générique;Jouez cette tactique quand l'un de vos combattants devient Engagé dans le cadre d'une action de charge ennemie (Double). Votre combattant peut immédiatement effectuer une Action de combat (basique), interrompant l’activation du combattant adverse.
 ../TacticsCards/GENERIC CARDS/Having a Bad Day.png;Having a Bad Day;Gang Tactics;"| Play at the start of the game after both sides
 have set up.
 
@@ -1764,22 +1764,22 @@ the game, Cool checks for other fighters
 
 from the opposing gang have a -2 modifier
 while that fighter is within 3"" of the chosen
-Champion or Leader.";Mauvais jour;Générique;"Jouer en début de partie après les deux côtés ont mis en place. Choisissez un modèle Champion ou Leader dans l'équipage de votre adversaire. Pour la durée de le jeu, des chèques sympas pour les autres combattants du gang adverse ont un modificateur de -2 alors que ce combattant est à moins de 3"" du choisi Champion ou Leader."
+Champion or Leader.";Mauvais jour;Générique;"Jouer cette tactique en début de partie après que les deux gangs aient été mis en place. Choisissez un Champion ou un Leader dans le gang de votre adversaire. Pour la durée de la partie, les tests de Cool des autres combattants du gang adverse ont un malus de -2 lorsque ils sont à moins de 3"" du Champion ou Leader choisi."
 ../TacticsCards/GENERIC CARDS/Healthy Paranoia.png;Healthy Paranoia;Gang Tactics;"Play when activating a fighter.
 For the rest of the battle, the fighter have
-360 vision arc.";Saine paranoïa;Générique;Jouez lors de l'activation d'un combattant. Pour le reste de la bataille, le combattant doit Arc de vision à 360°.
+360 vision arc.";Saine paranoïa;Générique;Jouez cette tactique lors de l'activation d'un combattant. Pour le reste de la bataille, le combattant a un Arc de vision à 360°.
 ../TacticsCards/GENERIC CARDS/Hidden Blade.png;Hidden Blade;Gang Tactics;"Play when a fighter makes a Fight (Basic) |
 action.
 
 The fighter adds D3 to their Attacks |
-characteristic for the duration of this action.";Lame cachée;Générique;Jouez quand un combattant effectue un combat (Basique) action. Le combattant ajoute D3 à ses attaques caractéristique pour la durée de cette action.
+characteristic for the duration of this action.";Lame cachée;Générique;Jouez cette tactique quand un combattant effectue une action de combat (Basique). Le combattant ajoute D3 à ses attaques caractéristique pour la durée de cette action.
 ../TacticsCards/GENERIC CARDS/Hidden Passage.png;Hidden Passage;Gang Tactics;"Zone Mortalis only (see page 126). |
 Play this card at the start of your turn, |
 immediately before activating a fighter. |
 Place an unused Ductway marker anywhere
 
 on the board, following the normal rules for
-placing a ductway. |";Passage caché;Générique;Zone Mortalis uniquement (voir page 126). Jouez cette carte au début de votre tour, immédiatement avant d'activer un combattant. Placez un marqueur de conduit inutilisé n'importe où sur le plateau, en suivant les règles normales pour placer un conduit.
+placing a ductway. |";Passage caché;Générique;Zone Mortalis uniquement. Jouez cette tactique au début de votre tour, avant d'activer un combattant. Placez un marqueur de conduit (ductway) n'importe où sur le plateau, en suivant les règles normales pour placer un conduit.
 ../TacticsCards/GENERIC CARDS/History of Violence.png;History of Violence;Gang Tactics;"Play during the pre-battle sequence, during Step
 Five: Choose Crews.
 
@@ -1788,7 +1788,7 @@ starting crew. That fighter is unwilling to face
 your gang in combat and so may not be selected
 for this battle. Your opponent must immediately
 discard that fighter and select another, following
-the same crew selection method as already used.";Passé violent;Générique;Jouez pendant la séquence pré-bataille, pendant l'étape Cinq : Choisissez les équipages. Désignez un combattant de votre Orrène équipage de départ. Ce combattant ne veut pas affronter votre gang au combat et peut donc ne pas être sélectionné pour cette bataille. Votre adversaire doit immédiatement défaussez ce combattant et sélectionnez-en un autre, en suivant la même méthode de sélection de l’équipage que celle déjà utilisée.
+the same crew selection method as already used.";Passé violent;Générique;Jouez cette tactique pendant la séquence de pré-bataille, juste après l'étape Cinq : Choisissez les combattants. Désignez un combattant choisi du gang adverse. Ce combattant ne veut pas affronter votre gang au combat et ne peut pas être sélectionné pour cette bataille. Votre adversaire doit immédiatement défaussez ce combattant et sélectionnez-en un autre, en suivant la même méthode de sélection des combattants que celle déjà utilisée.
 ../TacticsCards/GENERIC CARDS/Hive Tremors.png;Hive Tremors;Gang Tactics;"Play at the start of any round.
 
 Every Active fighter on the table must make an
@@ -1799,12 +1799,12 @@ fighter. Finally, if the game uses a Zone
 Mortalis scenario, place D3 spare ductways
 across ana of your choice. If the Pa uses
 a Sector Mechanicus scenario, remove D3
-ladders of your choice.";Tremblements de la ruche;Générique;"Jouez au début d’un tour. Chaque combattant actif sur la table doit faire un test d’Initiative : tous ceux qui échouent sont Bloqués. Après tout les combattants ont testé, placez D3 de butin supplémentaire cercueils n'importe où sur la table, pas à moins de 6"" d'un combattant. Enfin, si le jeu utilise une Zone Scénario Mortalis, placer des gaines de rechange D3 à travers l'ana de votre choix. Si le Pa utilise un scénario Sector Mechanicus, supprimez D3 échelles de votre choix."
+ladders of your choice.";Tremblements de la ruche;Générique;"Jouez cette tactique début d’un tour. Chaque combattant actif sur la table doit faire un test d’Initiative : tous ceux qui échouent deviennent Prone. Après tout les combattants aient testé, placez D3 loot caskets supplémentaire n'importe où sur la table, pas à moins de 6"" d'un combattant. Enfin, si le jeu utilise la Zone Mortalis, placer des D3 ductways. Si le jeu utilise Sector Mechanicus, supprimez D3 échelles de votre choix."
 ../TacticsCards/GENERIC CARDS/Just Add Nails.png;Just Add Nails;Gang Tactics;"Play when making an attack with a frag
 grenade, before rolling to hit.
 
 The grenade's Blast (3"") trait becomes
-Blast (5"").";Ajoutez des clous;Générique;"Jouez en effectuant une attaque avec un frag grenade, avant de rouler pour frapper. Le trait Explosion (3"") de la grenade devient Explosion (5"")."
+Blast (5"").";Ajoutez des clous;Générique;"Jouez cette tactique en effectuant une attaque avec une grenade frag, avant de tester pour toucher. Le trait Blast(3"") de la grenade devient Blast(5 »)."
 ../TacticsCards/GENERIC CARDS/Keen Edge.png;Keen Edge;Gang Tactics;"Play at the start of the game after both sides have
 deployed.
 
@@ -1813,7 +1813,7 @@ fighter. For the duration of the game, increase
 its AP by 1.
 
 For Gee a weapon with an AP of -1 will
-have an AP of -2.";Tranchant affûté;Générique;Jouez au début du jeu une fois que les deux équipes ont déployé. Choisissez une arme de mêlée possédée par un combattant allié. Pendant toute la durée du jeu, augmentez son AP de 1. Pour Gee, une arme avec un PA de -1 sera avoir un PA de -2.
+have an AP of -2.";Tranchant affûté;Générique;Jouez cette tactique au début du jeu une fois que les deux gangs sont déployés. Choisissez une arme de mêlée possédée par un combattant allié. Pendant toute la durée de la partie, augmentez son AP de 1.
 ../TacticsCards/GENERIC CARDS/Last Gasp.png;Last Gasp;Gang Tactics;"Play this card when one of your active fighters is
 taken Out of Action.
 
@@ -1824,7 +1824,7 @@ a ranged attack. If they are equipped with a
 grenade that has the Blast trait, and the Blast
 marker is centred on them, it will not scatter. As
 soon as the attack has been resolved, the fighter
-is removed from play.";Dernier souffle;Générique;Jouez cette carte lorsqu'un de vos combattants actifs est mis Hors de combat. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une clôture attaque de combat s'ils sont Engagés, sinon c'est une attaque à distance. S'ils sont équipés d'un grenade qui a le trait Blast, et le Blast Le marqueur est centré sur eux, il ne se dispersera pas. Comme dès que l'attaque est résolue, le combattant est retiré du jeu.
+is removed from play.";Dernier souffle;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Hors de combat. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une attaque de mêlée s'il est Engagés, sinon c'est une attaque à distance. S'il est équipé d'un grenade qui a le trait Blast, le gabarit est centré sur lui et ne se dispersera pas. Dès que l'attaque est résolue, le combattant est retiré du jeu.
 ../TacticsCards/GENERIC CARDS/Last Round.png;Last Round;Gang Tactics;"Play this card when activating a fighter that has
 one or more Out of Ammo markers on them.
 Choose one of this fighter's ranged weapons
@@ -1833,19 +1833,19 @@ performs a Shoot (Basic) action with that
 weapon that will hit automatically. Do not roll
 an Ammo Dice - the weapon remains Out of
 Ammo. Weapons with the Rapid Fire (X) trait
-make only one shot.";Dernière cartouche;Générique;Jouez cette carte lorsque vous activez un combattant qui a un ou plusieurs marqueurs « Out of Ammo » dessus. Choisissez l'une des armes à distance de ce combattant c'est à court de munitions. Le combattant immédiatement effectue une action Tir (Basique) avec cela arme qui frappera automatiquement. Ne roule pas un dé de munitions - l'arme reste hors de Munitions. Armes avec le trait Rapid Fire (X) faire un seul coup.
+make only one shot.";Dernière cartouche;Générique;Jouez cette tactique lorsque vous activez un combattant qui a un ou plusieurs marqueurs « Out of Ammo » dessus. Choisissez l'une des armes à distance de ce combattant c'est à court de munitions. Le combattant immédiatement effectue une action Tir (Basique) avec cela arme qui frappera automatiquement. Ne roule pas un dé de munitions - l'arme reste hors de Munitions. Armes avec le trait Rapid Fire (X) faire un seul coup.
 ../TacticsCards/GENERIC CARDS/Long Arm.png;Long Arm;Gang Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, friendly
 fighters count as having +1 Strength for |
 the purposes of determining the Long range
-of a grenade.";Bras long;Générique;Jouez au début d’un tour. Jusqu'à la phase de Fin de ce tour, les combattants alliés comptent comme ayant +1 en Force pour les buts de déterminer la distance à longue portée d'une grenade.
+of a grenade.";Bras long;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, les combattants alliés comptent comme ayant +1 en Force pour déterminer la portée des grenades.
 ../TacticsCards/GENERIC CARDS/Look the Other Way.png;Look the Other Way;Gang Tactics;"Play this card when a sentry spots |
 an attacker.
 
 The sentry does not gain a Ready marker.
 In addition, you may change the sentry's
-facing as you wish.";Regarder ailleurs;Générique;Jouez cette carte lorsqu'une sentinelle repère un attaquant. La sentinelle ne gagne pas de marqueur Prêt. De plus, vous pouvez modifier la position de la sentinelle. face comme vous le souhaitez.
+facing as you wish.";Regarder ailleurs;Générique;Jouez cette tactique lorsqu'une sentinelle repère un attaquant. La sentinelle ne gagne pas de marqueur Prêt. De plus, vous pouvez modifier la direction du regard de la sentinelle comme vous le souhaitez.
 ../TacticsCards/GENERIC CARDS/Loose Cannon.png;Loose Cannon;Gang Tactics;"| Play when activating a fighter.
 
 |
@@ -1859,25 +1859,25 @@ phase of this round, the fighter suffers a -1
 
 | to their Ballistic Skill.
 
-|";Électron libre;Générique;Jouez lors de l'activation d'un combattant. Jusqu'à la phase de Fin de ce tour, le le combattant traite l'action Tirer comme (Simple) plutôt que (Basique). Cependant, jusqu'à la fin phase de ce tour, le combattant subit un -1 à leur compétence balistique.
+|";Électron libre;Générique;Jouez cette tactique lors de l'activation d'un combattant. Jusqu'à la phase de fin de ce tour, le combattant traite l'action Tirer comme (Simple) plutôt que (Basique). Cependant, jusqu'à la phase de fin de ce tour, le combattant subit un malus de -1 à sa BS.
 ../TacticsCards/GENERIC CARDS/Loud and Clear.png;Loud and Clear;Gang Tactics;"| Play during the pre-battle sequence, during
 Step 8. Deployment.
 
 Tuck this card under a fighter's card. Until
 the end of the battle, this fighter has stun
-grenades.";Fort et clair;Générique;Jouez pendant la séquence d'avant-bataille, pendant Étape 8. Déploiement. Glissez cette carte sous la carte d'un combattant. Jusqu'à la fin de la bataille, ce combattant a étourdi grenades.
+grenades.";Fort et clair;Générique;Jouez cette tactique pendant la séquence d'avant-bataille, pendant Étape 8. Déploiement. Glissez cette carte sous la carte d'un combattant. Jusqu'à la fin de la bataille, ce combattant a des stun grenades.
 ../TacticsCards/GENERIC CARDS/Lucky Find.png;Lucky Find;Gang Tactics;"| Play this card when activating a fighter with
 a weapon that is Out of Ammo.
 
 One of the fighter's weapons is |
 automatically reloaded at the cost of one
-action - no Ammo check is required.";Trouvaille chanceuse;Générique;Jouez cette carte lors de l'activation d'un combattant avec une arme qui est à court de munitions. L'une des armes du combattant est rechargé automatiquement au prix d'un action - aucune vérification de munitions n'est requise.
+action - no Ammo check is required.";Trouvaille chanceuse;Générique;Jouez cette tactique lors de l'activation d'un combattant avec une arme qui est à court de munitions. L'une des armes du combattant est rechargé automatiquement au prix d'un action - aucune vérification de munitions n'est requise.
 ../TacticsCards/GENERIC CARDS/Lucky Lho-stick Case.png;Lucky Lho-stick Case;Gang Tactics;"| Play this card when a friendly fighter fails an
 armour save.
 
 The fighter can re-roll the armour save, |
 ignoring any negative modifiers (including
-Armour Penetration).";Étui porte-bonheur à lho-sticks;Générique;Jouez cette carte lorsqu'un combattant allié échoue à un sauvegarde d'armure. Le combattant peut relancer la sauvegarde d'armure, en ignorant tous les modificateurs négatifs (y compris Pénétration d'Armure).
+Armour Penetration).";Étui porte-bonheur à lho-sticks;Générique;Jouez cette tactique lorsqu'un combattant allié échoue à un sauvegarde d'armure. Le combattant peut relancer la sauvegarde d'armure, en ignorant tous les modificateurs négatifs (y compris Pénétration d'Armure).
 ../TacticsCards/GENERIC CARDS/Lucky shot.png;Lucky Shot;Gang Tactics;"| Play this card after making either a hit roll,
 
 a wound roll or an injury roll.
@@ -1885,11 +1885,11 @@ a wound roll or an injury roll.
 You may immediately re-roll all of the dice |
 for the roll you have just made. You must
 accept the result of the second roll, even if it
-is Worse than the first.";Tir chanceux;Générique;Jouez cette carte après avoir effectué soit un jet de touche, un jet de blessure ou un jet de blessure. Vous pouvez immédiatement relancer tous les dés pour le rouleau que vous venez de réaliser. Vous devez accepter le résultat du deuxième lancer, même s'il est pire que le premier.
+is Worse than the first.";Tir chanceux;Générique;Jouez cette tactique après avoir effectué soit un jet de touche, un jet pour blesser ou un jet de blessure (injury roll). Vous pouvez immédiatement relancer tous les dés pour ce test. Vous devez accepter le résultat du deuxième lancer, même s'il est pire que le premier.
 ../TacticsCards/GENERIC CARDS/Machine Curse.png;Machine Curse;Gang Tactics;"| Play this card instead of activating a fighter.
 Choose an enemy fighter. They must
 immediately make an Ammo check of each
-of their ranged weapons.";Malédiction des machines;Générique;Jouez cette carte au lieu d'activer un combattant. Choisissez un combattant ennemi. Ils doivent effectuez immédiatement une vérification des munitions de chacun de ses armes à distance.
+of their ranged weapons.";Malédiction des machines;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant ennemi. Il doit immédiatement effectuer un test de munition avec chacune de ses armes à distance.
 ../TacticsCards/GENERIC CARDS/Makeshift Armour.png;Makeshift Armour;Gang Tactics;"One of your fighters can spend an action to play
 this card.
 
@@ -1897,24 +1897,24 @@ Tuck this card under the fighter's card; while it
 is there, their armour save is treated as one point
 better than it is. If any save roll for the fighter
 is a 1 (before modifiers), discard this card after
-resolving the attack(s).";Armure de fortune;Générique;"Un de vos combattants peut dépenser une action pour jouer cette carte. Glissez cette carte sous la carte du combattant ; pendant qu'il est-ce là, leur sauvegarde d'armure est traitée comme un point mieux qu'il ne l'est. S'il y a un jet de sauvegarde pour le combattant est un 1 (avant les modificateurs), défaussez cette carte après résoudre la ou les attaques."
+resolving the attack(s).";Armure de fortune;Générique;"Un de vos combattants peut dépenser une action pour jouer cette tactique. Glissez cette carte sous celle du combattant ; Sa sauvegarde d'armure est amélioré de 1. Si un jet de sauvegarde pour ce combattant est un 1 naturel, défaussez cette carte après la résolution des attaques."
 ../TacticsCards/GENERIC CARDS/Makeshift Cover.png;Makeshift Cover;Gang Tactics;"| Play this card at the start of any round.
 
 Place D3 barricades or similar pieces of
 terrain anywhere on the battlefield within 3"")
-of one of your fighter.";Couverture de fortune;Générique;"Jouez cette carte au début d’un tour. Placez des barricades D3 ou des morceaux similaires de terrain n'importe où sur le champ de bataille dans un rayon de 3"") d'un de vos combattants."
+of one of your fighter.";Couverture de fortune;Générique;"Jouez cette tactique au début d’un tour. Placez des D3 barricades ou des morceaux similaires de terrain n'importe où sur le champ de bataille dans un rayon de 3"" de vos combattants."
 ../TacticsCards/GENERIC CARDS/Marked for Death.png;Marked for Death;Gang Tactics;"| Play this card instead of activating a fighter.
 Choose an enemy fighter. For the rest of
 
 the battle, add 1 to result of any hit rolls for |
 fighters from your gang when they target
-that fighter with a Melee weapon.";Marqué pour la mort;Générique;Jouez cette carte au lieu d'activer un combattant. Choisissez un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche pour combattants de votre gang lorsqu'ils ciblent ce combattant avec une arme de mêlée.
+that fighter with a Melee weapon.";Marqué pour la mort;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche pour les combattants de votre gang lorsqu'ils ciblent ce combattant avec une arme de mêlée.
 ../TacticsCards/GENERIC CARDS/Master Switch.png;Master Switch;Gang Tactics;"Zone Mortalis only. |
 Play this card instead of activating a fighter. |
 Every door on the board that does not have
 a door terminal either opens or closes. They
 must all do the same, i.¢., this card cannot be.
-used to open some doors and close others. _";Interrupteur principal;Générique;Zone Mortalis uniquement. Jouez cette carte au lieu d'activer un combattant. Chaque porte du tableau qui n'a pas un terminal de porte s'ouvre ou se ferme. Ils doivent tous faire la même chose, c'est-à-dire, cette carte ne peut pas l'être. utilisé pour ouvrir certaines portes et en fermer d’autres. _
+used to open some doors and close others. _";Interrupteur principal;Générique;Zone Mortalis uniquement. Jouez cette tactique au lieu d'activer un combattant. Chaque porte du plateau qui n'a pas un terminal de porte s'ouvre ou se ferme. elles doivent toutes faire la même chose, c'est-à-dire, cette carte ne peut pas être utilisée pour ouvrir certaines portes et en fermer d’autres.
 ../TacticsCards/GENERIC CARDS/Melta Trap.png;Melta Trap;Gang Tactics;"Play this at the start of the battle, when setting up
 your gang. Pick any of your fighters to carry the
 trap, and put this card under their card. Once
@@ -1925,17 +1925,17 @@ they can move up to D6"", If the fighter goes Out
 of Action before making this action, roll a D6.
 On a 1, the trap triggered (centred on the
 fighter's base). On a 2-3, place a marker where
-the fighter stood. On a 4+, discard this card.";Piège à fusion;Générique;"Jouez-le au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter le piège et placez cette carte sous sa carte. Une fois pendant le jeu, les pignict, pour autant qu'ils soient Actif, peut poser un piège à fusion (double) - placez un Marqueur Melta Trap à 1"" ou moins du combattant. Puis ils peuvent avancer jusqu'à D6"", si le combattant sort d’Action avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le base de combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant se leva. Sur 4+, défaussez cette carte."
+the fighter stood. On a 4+, discard this card.";Piège à fusion;Générique;"Jouez cette tactique au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège. Une fois pendant le jeu, ce combattant peut poser un piège à fusion (double) - placez un Marqueur Melta Trap à 1"" ou moins du combattant. Puis ils peuvent avancer jusqu'à D6 ». Si le combattant est mis hors combat avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant est retiré. Sur 4+, défaussez cette carte."
 ../TacticsCards/GENERIC CARDS/Nerves of Steel.png;Nerves of Steel;Gang Tactics;"| Play when a fighter makes a ranged attack.
 The fighter may ignore normal Target
 Priority rules and may instead target any |
 eligible enemy fighter they wish without
-having to pass a Cool check.";Nerfs d’acier;Générique;Jouez lorsqu'un combattant effectue une attaque à distance. Le combattant peut ignorer la cible normale Règles de priorité et peut à la place cibler un combattant ennemi éligible qu'ils souhaitent sans devoir passer un contrôle Cool.
+having to pass a Cool check.";Nerfs d’acier;Générique;Jouez cette tactique lorsqu'un combattant effectue une attaque à distance. Le combattant peut ignorer la règle de priorité et peut à la place cibler le combattant ennemi éligible qu'ils souhaitent sans devoir passer un test de Cool.
 ../TacticsCards/GENERIC CARDS/No Mercy for the Weak.png;No Mercy for the Weak;Gang Tactics;"| Play this card instead of activating a fighter.
 For the remainder of the round, add | to the
 result of any wound rolls for fightersfrom
 your gang when they target fighters with
-one or more Flesh Wounds.";Pas de pitié pour les faibles;Générique;Jouez cette carte au lieu d'activer un combattant. Pour le reste du round, ajoutez à la résultat de tout jet de blessure pour les combattants de votre gang quand ils ciblent les combattants avec une ou plusieurs blessures chair.
+one or more Flesh Wounds.";Pas de pitié pour les faibles;Générique;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, ajoutez 1 au résultat de tout jet de blessure (wound roll) pour les combattants de votre gang qui ciblent des combattants ennemis avec une ou plusieurs Flesh wound.
 ../TacticsCards/GENERIC CARDS/Opening Volley.png;Opening Volley;Gang Tactics;"| Play at the start of the game, after both
 
 gangs have been deployed.
@@ -1944,7 +1944,7 @@ Choose up to three fighters. These fighters |
 may immediately make a free Shoot (Basic)
 action. Note that this does not apply if the
 action would be (Simple) or (Double) for
-any reason.";Volée d’ouverture;Générique;Jouez au début du jeu, après les deux des gangs ont été déployés. Choisissez jusqu'à trois combattants. Ces combattants peut immédiatement réaliser un Shoot gratuit (Basic) actions. Notez que cela ne s'applique pas si le l'action serait (Simple) ou (Double) pour une raison.
+any reason.";Volée d’ouverture;Générique;Jouez cette tactique au début du jeu, après que les deux des gangs aient été déployés. Choisissez jusqu'à trois combattants. Ces combattants peuvent immédiatement réaliser une action gratuite Shoot (Basic). Notez que cela ne s'applique pas si l'action est (Simple) ou (Double) pour une quelconque raison.
 ../TacticsCards/GENERIC CARDS/Point-Blank Shot.png;Point- Blank Shot;Gang Tactics;"| Play this card when a fighter makes a Fight
 action or a Charge action.
 
@@ -1953,12 +1953,12 @@ that does not have the Blast trait or
 Template trait. For the duration of this turn,
 that weapon can be used in close combat
 
-in the same way as a pistol.";Tir à bout portant;Générique;Jouez cette carte lorsqu'un combattant effectue un Combat ou une action Charger. Choisissez l’une des armes à distance du combattant qui n'a pas le trait Blast ou Trait de modèle. Pendant la durée de ce tour, cette arme peut être utilisée en combat rapproché de la même manière qu'un pistolet.
+in the same way as a pistol.";Tir à bout portant;Générique;Jouez cette tactique lorsqu'un combattant effectue un action de Combat ou une action Charger. Choisissez l’une des armes à distance du combattant qui n'a pas le trait Blast ou Template. Pendant la durée de ce tour, cette arme peut être utilisée en combat rapproché de la même manière qu'un pistolet.
 ../TacticsCards/GENERIC CARDS/Preemptive Measures.png;Preemptive Measures;Gang Tactics;"Play at the start of any round, before rolling |
 for Priority.
 
 Up to two of your fighters may immediately |
-make a free Move (Simple) action.";Mesures préventives;Générique;Jouez au début d’un tour, avant de lancer pour Priorité. Jusqu'à deux de vos combattants peuvent immédiatement effectuez une action de déplacement (simple) gratuite.
+make a free Move (Simple) action.";Mesures préventives;Générique;Jouez cette tactique au début d’un tour, avant de lancer pour pour la priorité. Jusqu'à deux de vos combattants peuvent immédiatement effectuez une action de déplacement (simple) gratuite.
 ../TacticsCards/GENERIC CARDS/Proper Preparation.png;Proper Preparation;Gang Tactics;"| Play this card before setting up the gang at
 the start of the battle.
 
@@ -1967,7 +1967,7 @@ under their Fighter's card. For the duration
 of the battle, this fighter’s weapons gain the
 Plentiful trait unless they already have the
 Scarce trait, in which case their weapons are
-counted as not being Scarce.";Préparation minutieuse;Générique;Jouez cette carte avant de constituer le gang à le début de la bataille. Choisissez un de vos combattants et mettez cette carte _ sous leur carte de combattant. Pour la durée de la bataille, les armes de ce combattant gagnent le Trait abondant à moins qu'ils n'aient déjà le Trait rare, auquel cas ses armes sont considéré comme n'étant pas rare.
+counted as not being Scarce.";Préparation minutieuse;Générique;Jouez cette tactique avant de constituer le gang au début de la bataille. Choisissez un de vos combattants et mettez cette carte sous la sienne. Pour la durée de la bataille, les armes de ce combattant gagnent le Trait Plentiful à moins qu’elles n'aient le trait Scarce, auquel cas ces armes perdent le trait Scarce.
 ../TacticsCards/GENERIC CARDS/Quick Time.png;Quick Time;Gang Tactics;"| Play this card when activating a fighter.
 
 |
@@ -1977,7 +1977,7 @@ While it is there, the fighter’s Move is |
 increased by 2. In each End phase, roll a D6.
 On a 1, the card is discarded.
 
-|";Pas accéléré;Générique;Jouez cette carte lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Pendant qu'il est là, le mouvement du combattant est augmenté de 2. À chaque phase de fin, lancez 1D6. Sur un 1, la carte est défaussée.
+|";Pas accéléré;Générique;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. Tant qu’elle est là, le mouvement du combattant est augmenté de 2. À chaque phase de fin, lancez 1D6. Sur un 1, la carte est défaussée.
 ../TacticsCards/GENERIC CARDS/Rapid Fire.png;Rapid Fire;Gang Tactics;"| Play this card when activating a fighter.
 
 This turn, the fighter may make two Fire
@@ -1985,11 +1985,11 @@ This turn, the fighter may make two Fire
 weapon for both and make no other actions
 for any reason. However, at the end of their
 activation, the weapon counts as
-automatically having failed an Ammo check.";Tir rapide;Générique;Jouez cette carte lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux tirs Actions (de base), à condition qu'elles utilisent les mêmes arme pour les deux et ne faites aucune autre action pour quelque raison que ce soit. Cependant, à la fin de leur activation, l'arme compte pour après avoir automatiquement échoué à un contrôle de munitions.
+automatically having failed an Ammo check.";Tir rapide;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basique), à condition qu'elles utilisent les mêmes arme pour les deux et ne fasse aucune autre action pour quelque raison que ce soit. Cependant, à la fin de leur activation, l'arme compte comme ayant automatiquement échoué à un test de munitions.
 ../TacticsCards/GENERIC CARDS/Rapid Healing.png;Rapid Healing;Gang Tactics;"Play this card instead of activating a fighter. |
 Choose one of your fighters. This fighter |
 either recovers one Wound or removes one ©
-Flesh Wound.";Guérison rapide;Générique;Jouez cette carte au lieu d'activer un combattant. Choisissez un de vos combattants. Ce combattant soit récupère une blessure, soit en supprime une © Blessure Légère.
+Flesh Wound.";Guérison rapide;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un de vos combattants. Ce combattant soit récupère un point de vie, soit en supprime une Blessure Légère (Flesh wound).
 ../TacticsCards/GENERIC CARDS/Reaction Fire.png;Reaction Fire;Gang Tactics;"| Play when an enemy fighters is activated,
 before they make their first action.
 
@@ -1997,20 +1997,20 @@ Pick a fighter from your gang - that fighter _
 can immediately make a Shoot (Basic) action
 against the activating enemy model,
 
-as long as they are in range and line of sight.";Feu de réaction;Générique;Jouez lorsqu'un combattant ennemi est activé, avant de faire leur première action. Choisissez un combattant dans votre gang - ce combattant _ peut immédiatement effectuer une action Tir (Basique) contre le modèle ennemi activant, tant qu'ils sont à portée et en ligne de vue.
+as long as they are in range and line of sight.";Feu de réaction;Générique;Jouez cette tactique lorsqu'un combattant ennemi est activé, avant de faire sa première action. Choisissez un combattant dans votre gang, ce combattant peut immédiatement effectuer une action Tir (Basique) contre le combattant ennemi activé, tant qu’il est à portée et en ligne de vue.
 ../TacticsCards/GENERIC CARDS/Reckless Charge.png;Reckless Charge;Gang Tactics;"| Play this card when a fighter makes a Charge
 (Double) action.
 
 The fighter counts as having rolleda3 on |
 the D3 to determine their maximum charge
-range.";Charge imprudente;Générique;Jouez cette carte lorsqu'un combattant effectue une Charge (Double)action. Le combattant compte comme ayant lancé a3 sur le D3 pour déterminer leur charge maximale gamme.
+range.";Charge imprudente;Générique;Jouez cette tactique lorsqu'un combattant effectue une action de Charge (Double). Le combattant compte comme ayant lancé un 3 sur le D3 pour déterminer la distance de charge maximale.
 ../TacticsCards/GENERIC CARDS/Rejuve Stimm.png;Rejuve Stimm;Gang Tactics;"| Play this card instead of activating a fighter.
 Choose any friendly fighter who has suffered
 at least one Wound. This fighter |
-immediately regains any lost Wounds.";Stimm régénérant;Générique;Jouez cette carte au lieu d'activer un combattant. Choisissez un combattant allié qui a souffert au moins une blessure. Ce combattant récupère immédiatement toutes les blessures perdues.
+immediately regains any lost Wounds.";Stimm régénérant;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant allié qui a perdu au moins un point de vie. Ce combattant récupère immédiatement tous ses points de vies.
 ../TacticsCards/GENERIC CARDS/Reload!.png;| Reload!;Gang Tactics;"Play this card in the End phase of any round.
 Immediately make a Reload (Simple) action |
-for any or all of your fighters. |";Rechargez !;Générique;Jouez cette carte lors de la phase de Fin de un tour. Effectuez immédiatement une action Recharger (simple) pour tout ou partie de vos combattants.
+for any or all of your fighters. |";Rechargez !;Générique;Jouez cette tactique lors de la phase de fin de tour. Effectuez immédiatement une action Recharger (simple) pour tout ou partie de vos combattants.
 ../TacticsCards/GENERIC CARDS/Ricochet.png;| Ricochet;Gang Tactics;"| Play this card after making an unsuccessful
 hit roll for a ranged attack that does not have
 the Blast or Template trait.
@@ -2020,7 +2020,7 @@ even if they are not visible to the attacker,
 and roll to hit against them. Do not roll the
 Firepower
 
-dice again.";Ricochet;Générique;"Jouez cette carte après avoir échoué jet de touche pour une attaque à distance qui n'a pas le trait Blast ou Template. Choisissez un autre combattant à moins de 5"" de la cible, même s'ils ne sont pas visibles pour l'attaquant, et lancez pour frapper contre eux. Ne faites pas rouler le Puissance de feu dés à nouveau."
+dice again.";Ricochet;Générique;"Jouez cette tactique après avoir échoué lors d’un jet de touche lors d’une attaque à distance qui n'a pas le trait Blast ou Template. Choisissez un autre combattant à moins de 5"" de la cible, même s'il n’est pas visibles pour l'attaquant, et lancez pour toucher contre lui. Ne lancez pas le dé de Puissance de feu (firepower dice) à nouveau."
 ../TacticsCards/GENERIC CARDS/Rigged Door.png;Rigged Door;Gang Tactics;"Zone Mortalis only.
 
 Play this card immediately after an enemy
@@ -2029,14 +2029,14 @@ fighter makes an action.
 Pick any door on the board and either close or
 open it. If closing a door and there is a fighter
 standing in the doorway, they must test to see
-whether they avoid closing door as normal.";Porte piégée;Générique;Zone Mortalis uniquement. Jouez cette carte immédiatement après un ennemi le combattant effectue une action. Choisissez une porte du tableau et fermez-la ou ouvrez-le. Si on ferme une porte et qu'il y a un combattant debout dans l'embrasure de la porte, ils doivent tester pour voir s'ils évitent de fermer la porte comme d'habitude.
+whether they avoid closing door as normal.";Porte piégée;Générique;Zone Mortalis uniquement. Jouez cette tactique immédiatement après qu’un ennemi effectue une action. Choisissez une porte du plateau et fermez-la ou ouvrez-la. Si lorsqu’une porte se ferme il y a un combattant debout dans l'embrasure de la porte, il doit tester pour voir s'il évite la porte.
 ../TacticsCards/GENERIC CARDS/Roger That.png;Roger That!;Gang Tactics;"Play at the start of any round.
 
 Pick a Ganger with a Ready marker. For this turn
 only, that fighter is treated as a Champion for the
 purposes of activating groups 4 in other words,
 if they are activated, you can activate up to one
-other fighter within 4"" of them.";Bien reçu !;Générique;"Jouez au début d’un tour. Choisissez un Ganger avec un marqueur Prêt. Pour ce tour seulement, ce combattant est traité comme un Champion pour le dans le but d'activer les groupes 4 autrement dit, s'ils sont activés, vous pouvez en activer jusqu'à un autre combattant à moins de 4"" d'eux."
+other fighter within 4"" of them.";Bien reçu !;Générique;Jouez cette tactique au début d’un tour. Choisissez un combattant avec un marqueur Prêt. Pour ce tour seulement, ce combattant gagne la règle groupe activation (1).
 ../TacticsCards/GENERIC CARDS/Sacrifice.png;Sacrifice;Gang Tactics;"| Play this card when a fighter is hit by
 
 a ranged attack.
@@ -2044,28 +2044,28 @@ a ranged attack.
 Nominate a friendly fighter within 2” of the |
 fighter who has been hit. The nominated
 fighter becomes the target of the ranged
-attack instead.";Sacrifice;Générique;Jouez cette carte lorsqu'un combattant est touché par une attaque à distance. Nommez un combattant allié à moins de 2 pouces du combattant qui a été touché. Les nominés le combattant devient la cible du tir à distance attaquer à la place.
+attack instead.";Sacrifice;Générique;Jouez cette tactique lorsqu'un combattant est touché par une attaque à distance. Nommez un combattant allié à moins de 2 pouces du combattant qui a été touché. Le combattant nominé devient la cible du tir à distance à la place.
 ../TacticsCards/GENERIC CARDS/Secret Cache.png;Secret Cache;Gang Tactics;"Play this card instead of activating a fighter.
 Set up an ammo cache anywhere on the
-battlefield.";Cache secrète;Générique;Jouez cette carte au lieu d'activer un combattant. Configurez une cache de munitions n'importe où sur le champ de bataille.
+battlefield.";Cache secrète;Générique;Jouez cette tactique au lieu d'activer un combattant. Placez une cache de munitions n'importe où sur le champ de bataille.
 ../TacticsCards/GENERIC CARDS/Seize the Initiative.png;Seize the Initiative;Gang Tactics;"| Play this card at the beginning of any round,
 before rolling for Priority.
 
 You immediately take Priority this turn |
-without any dice being rolled.";Saisir l’initiative;Générique;Jouez cette carte au début d’un tour, avant de lancer le lancer Prioritaire. Vous prenez immédiatement la priorité ce tour-ci sans qu'aucun dé ne soit lancé.
+without any dice being rolled.";Saisir l’initiative;Générique;Jouez cette tactique au début d’un tour, avant de lancer le lancer pour la priorité. Vous prenez immédiatement la priorité ce tour-ci sans qu'aucun dé ne soit lancé.
 ../TacticsCards/GENERIC CARDS/Service Tunnels.png;Service Tunnels;Gang Tactics;"| Play when deploying your gang.
 
 One fighter chosen by you from your
 starting crew gains the Infiltrate skill for the |
 duration of this battle and may be deployed
-accordingly.";Tunnels de service;Générique;Jouez lors du déploiement de votre gang. Un combattant choisi par vous parmi vos l'équipage de départ acquiert la compétence Infiltration pour le durée de cette bataille et peut être déployé en conséquence.
+accordingly.";Tunnels de service;Générique;Jouez cette tactique lors du déploiement de votre gang. Un combattant choisi par vous parmi votre gang de départ acquiert la compétence Infiltration pour le durée de cette bataille et peut être déployé en conséquence.
 ../TacticsCards/GENERIC CARDS/Shield Wall.png;Shield Wall;Gang Tactics;"Play this card instead of activating a fighter.
 
 Tuck this card under a fighter's card. For the
 remainder of the battle, add 1 to fighter's armour
 save, and any friendly fighter in base contact with
 this fighter, to a maximum of 2+, against attack
-that originate from within this fighter's vision :";Mur de boucliers;Générique;Jouez cette carte au lieu d'activer un combattant. Glissez cette carte sous la carte d'un combattant. Pour le reste de la bataille, ajoutez 1 à l'armure du combattant sauvegarde, et tout combattant allié en contact socle à socle avec ce combattant, jusqu'à un maximum de 2+, contre une attaque qui proviennent de la vision de ce combattant :
+that originate from within this fighter's vision :";Mur de boucliers;Générique;Jouez cette tactique au lieu d'activer un combattant. Glissez cette carte sous la carte d'un combattant. Pour le reste de la bataille, ajoutez 1 à l'armure du combattant et tout combattant allié en contact socle à socle avec ce combattant, jusqu'à un maximum de 2+, contre toute attaque qui provient de l’arc avant de vision de ce combattant
 ../TacticsCards/GENERIC CARDS/Slippery.png;Slippery;Gang Tactics;"| Play this card when activating a fighter.
 
 |
@@ -2079,7 +2079,7 @@ fighter treats the Crawl Through action as
 
 |
 
-|";Glissant;Générique;Jouez cette carte lors de l'activation d'un combattant. Mettez cette carte sous le combattant actif Carte de combattant. Jusqu'à la fin de la bataille, ça. Le combattant traite l'action Crawl Through comme @asic) plutôt que (Double).
+|";Glissant;Générique;Jouez cette tactique lors de l'activation d'un combattant. Mettez cette carte sous la carte de ce combattant. Jusqu'à la fin de la bataille, ça. Le combattant traite l'action Crawl Through comme (Basic) plutôt que (Double).
 ../TacticsCards/GENERIC CARDS/Snap Fire.png;Snap Fire;Gang Tactics;"| Play this card after an enemy fighter
 completes an attack with a ranged weapon.
 
