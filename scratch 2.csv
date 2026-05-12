@@ -2297,13 +2297,13 @@ House Goliath fighters that are within 6"" of,
 and have a line of sight to, a friendly House
 Goliath Leader or Champion gain the Nerves
 
-of Steel skill.";Ce ne sont que des balles !;Goliath;"Jouez cette tactique pendant la phase de Priorité, après le lancer de priorité mais avant l’activation des combattants. Jusqu'à la phase de fin de ce tour, tous amicaux Les combattants de la Maison Goliath qui se trouvent à moins de 6"" de, et avoir une ligne de mire vers une maison conviviale Goliath Leader ou Champion gagne les nerfs de compétence Acier."
+of Steel skill.";Ce ne sont que des balles !;Goliath;"Jouez cette carte pendant la phase de priorité, après le lancer, avant l’activation des combattants. Jusqu'à la phase de fin de ce tour, tous les combattants de Goliath qui se trouvent à moins de 6"" de, et avec une ligne de vue vers un leader ou un champion Goliath gagne la compétence Nerve of steel."
 ../TacticsCards/GOLIATH/Anything_s a Weapon.png;Anything's a Weapon;Goliath Tactics;"| One of your fighters can spend an action to
 play this card.
 
 Tuck this card under the fighter's card. |
 While it is there, the fighter’s unarmed
-attacks receive +1 strength and AP -1.";Tout est une arme;Goliath;Un de vos combattants peut dépenser une action pour jouez cette carte. Glissez cette carte sous la carte du combattant. Tant qu'il est là, le combattant n'est pas armé les attaques reçoivent +1 en force et AP -1.
+attacks receive +1 strength and AP -1.";Tout est une arme;Goliath;Un de vos combattants peut dépenser une action pour jouez cette carte. Glissez cette carte sous celle du combattant. Tant qu'elle est là, les attaques non armées du combattant gagnent +1 en force et AP -1.
 ../TacticsCards/GOLIATH/Apprentice.png;Apprentice;Goliath Tactics;"Play after both sides have deployed, but before
 the first round. Choose a friendly Goliath
 Champion and Juve /Prospect. For this battle the
@@ -2314,14 +2314,14 @@ used to activate the Apprentice. Alternatively they
 may gain Mentor. It can only be used when the
 Apprentice gains an XP. If the they already has
 it, they can use it as normal, but automatically
-pass any Ld checks made for the Apprentice.";Apprenti;Goliath;Jouez après que les deux camps se soient déployés, mais avant le premier tour. Choisissez un Goliath amical Champion et Juve/Prospect. Pour cette bataille, le Le Champion gagne le Surveillant. Il ne peut être utilisé que pour activer l'apprenti. S'ils l'ont déjà, le Les actions d'ordre (double) deviennent (de base) lorsque utilisé pour activer l’apprenti. Alternativement, ils peut gagner un mentor. Il ne peut être utilisé que lorsque le L'apprenti gagne un XP. S'ils l'ont déjà il, ils peuvent l'utiliser normalement, mais automatiquement réussir tous les contrôles Ld effectués pour l'apprenti.
+pass any Ld checks made for the Apprentice.";Apprenti;Goliath;Jouez cette tactique après que les deux camps se soient déployés, avant le premier tour. Choisissez un champion  et un Juve/Prospect Goliath. Pour cette bataille, le Champion gagne la compétence Overseer. Elle ne peut être utilisée que pour activer l'apprenti. S'il l'a déjà, les actions (double) deviennent (de base) lorsque utilisé par l’apprenti. Alternativement, il peut gagner la compétence Mentor qui ne peut être utilisée que lorsque le L'apprenti gagne de l’XP. S'il l'a déjà il, ils peuvent l'utiliser normalement, mais réussi automatiquement tous les tests de Ld effectués pour l'apprenti.
 ../TacticsCards/GOLIATH/Blade Breaker.png;Blade Breaker;Goliath Tactics;"| Play this card when one of your fighters is
 hit, but not wounded by a close combat
 weapon that does not have the Power trait.
 The close combat weapon (pick one if the
 fighter was hit but not wounded by more
 than one) cannot be used for the rest of the
-battle.";Brise-lame;Goliath;Jouez cette carte lorsqu'un de vos combattants est touché, mais pas blessé par un combat rapproché arme qui n’a pas le trait Pouvoir. L'arme de combat rapproché (choisissez-en une si la le combattant a été touché mais pas blessé par d'autres plus d’un) ne peut pas être utilisé pour le reste de la bataille.
+battle.";Brise-lame;Goliath;Jouez cette tactique lorsqu'un de vos combattants est touché, mais pas blessé par une arme de combat rapproché arme qui n’a pas le trait Power. L'arme de combat rapproché (choisissez-en une si le combattant a été touché plus d’une arme) ne peut plus être utilisée pour le reste de la bataille.
 ../TacticsCards/GOLIATH/Boost Up.png;Boost Up;Goliath Tactics;"Play this gang tactic when activating a friendly
 House Goliath fighter.
 
@@ -2331,7 +2331,7 @@ action:
 Boost (Double): Choose a single Standing and
 Active friendly fighter that is within 2"" of this
 fighter. That fighter may immediately be moved
-up to 6"" vertically and 1"" horizontally.";Coup de pouce;Goliath;"Jouez cette tactique de gang lors de l'activation d'un combattant allié de la maison Goliath. Ce combattant peut effectuer un Boost (Double) action : Boost (Double) : Choisissez un seul statut et combattant allié actif qui se trouve à moins de 2"" de celui-ci combattant. Ce combattant peut être immédiatement déplacé jusqu'à 6"" verticalement et 1"" horizontalement."
+up to 6"" vertically and 1"" horizontally.";Coup de pouce;Goliath;"Jouez cette tactique lors de l'activation d'un combattant Goliath. Ce combattant peut effectuer une action Boost (Double) : Choisissez un combattant allié actif qui se trouve à au moins 2"". Ce combattant peut être immédiatement déplacé jusqu'à 6"" verticalement et 1"" horizontalement."
 ../TacticsCards/GOLIATH/Brutal Charge.png;Brutal Charge;Goliath Tactics;"| Play this card when one of your fighters
 makes a Charge action.
 
@@ -2339,11 +2339,11 @@ For the duration of the action, the fighter's |
 Movement characteristic is increased by 2"",
 and their Attacks characteristic is increased
 by 1. In addition, any attacks they make gain
-the Knockback trait.";Charge brutale;Goliath;"Jouez cette carte lorsqu'un de vos combattants effectue une action Charger. Pendant toute la durée de l'action, le La caractéristique de mouvement est augmentée de 2"", et leur caractéristique d'Attaques est augmentée de 1. De plus, toutes les attaques qu'ils effectuent gagnent le trait Recul."
+the Knockback trait.";Charge brutale;Goliath;"Jouez cette tactique lorsqu'un de vos combattants effectue une action Charge. Pendant toute la durée de l'action, la caractéristique de mouvement est augmentée de 2"", et la caractéristique d'attaques est augmentée de 1. De plus, toutes les attaques qu'ils effectuent gagnent le trait Knockback."
 ../TacticsCards/GOLIATH/Ceramite Skin.png;Ceramite Skin;Goliath Tactics;"| Play this card when a fighter is hit by an
 attack with the Blaze trait.
 The fighter is not pinned and the attack |
-causes no damage.";Peau de Céramite;Goliath;Jouez cette carte lorsqu'un combattant est touché par un attaquez avec le trait Blaze. Le combattant n'est pas coincé et l'attaque ne provoque aucun dommage.
+causes no damage.";Peau de Céramite;Goliath;Jouez cette tactique lorsqu'un combattant est touché par un attaque avec le trait Blaze. Le combattant n'est pas Pinned et l'attaque ne provoque aucun dommage.
 ../TacticsCards/GOLIATH/Crunch Time.png;Crunch Time;Goliath Tactics;"Play this gang tactic during the Priority
 
 phase of any round, after Roll for Priority,
@@ -2355,14 +2355,14 @@ unarmed attacks made by friendly fighters
 
 | gain +1 S and the Pulverise trait.
 
-|";Moment critique;Goliath;Jouez cette tactique de gang pendant la priorité phase de un tour, après un lancer de priorité, mais avant Ready Fighters. Jusqu'à la phase de Fin de ce tour, tous attaques à mains nues lancées par des combattants alliés gagnez +1 S et le trait Pulverise.
+|";Moment critique;Goliath;Jouez cette tactique pendant la phase de priorité d’un tour, après le lancer de priorité, mais l’activation des combattants. Jusqu'à la phase de fin de ce tour, toutes les attaques à mains nues lancées par des combattants alliés gagne +1 S et le trait Pulverise.
 ../TacticsCards/GOLIATH/Fireborn.png;Fireborn;Goliath Tactics;"| Play this gang tactic at the start of the battle,
 after both sides have deployed but before
 the first round.
 Choose up to three House Goliath fighters
 in your starting crew. Until the end of this
 battle, the chosen fighters become immune
-to both the Blaze and the Rad-phage traits.";Né du feu;Goliath;Jouez cette tactique de gang au début de la bataille, après que les deux camps se soient déployés mais avant le premier tour. Choisissez jusqu'à trois combattants de la Maison Goliath dans votre équipe de départ. Jusqu'à la fin de ça bataille, les combattants choisis deviennent immunisés aux traits Blaze et Rad-phage.
+to both the Blaze and the Rad-phage traits.";Né du feu;Goliath;Jouez cette tactique au début de la bataille, après que les deux camps se soient déployés mais avant le premier tour. Choisissez jusqu'à trois combattants Goliath dans votre gang de départ. Jusqu'à la fin de ça bataille, les combattants choisis deviennent immunisés aux traits Blaze et Rad-phage.
 ../TacticsCards/GOLIATH/Genetically Gifted.png;Genetically Gifted;Goliath Tactics;"Play this gang tactic at the start of the
 Deployment step of the pre-battle sequence
 before any fighters have been deployed.
@@ -2372,7 +2372,7 @@ crew. Until the end of this battle, that fighter
 gains one additional genetic upgrade of your
 choice. This must be from the same category as
 that fighter's chosen subtype but does not affect
-their credit cost.";Génétiquement doué;Goliath;Jouez cette tactique de gang au début du Étape de déploiement de la séquence pré-bataille avant que des combattants aient été déployés. Choisissez un combattant de la Maison Goliath dans votre camp de départ équipage. Jusqu'à la fin de cette bataille, ce combattant gagne une amélioration génétique supplémentaire de votre choix. Celui-ci doit appartenir à la même catégorie que le sous-type choisi par ce combattant mais n'affecte pas leur coût de crédit.
+their credit cost.";Génétiquement doué;Goliath;Jouez cette tactique au début de l’étape de déploiement avant que des combattants aient été déployés. Choisissez un combattant Goliath dans votre gang de départ. Jusqu'à la fin de cette bataille, ce combattant gagne une amélioration génétique supplémentaire de votre choix. Celle-ci doit appartenir à la même catégorie que le sous-type choisi par ce combattant mais n'affecte pas son coût en crédit.
 ../TacticsCards/GOLIATH/Get ‘Em!.png;Get ‘Em!;Goliath Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority but before
 Ready Fighters.
@@ -2381,7 +2381,7 @@ Until the End phase of this round, all friendly
 House Goliath fighters activated as part of
 
 a Group Activation may add 2"" to their
-Movement characteristic during their Activation.";Chopez-les !;Goliath;"Jouez cette tactique de gang pendant la phase de Priorité de un tour, après le lancer de priorité mais avant activation des combattants Prêts. Jusqu'à la phase de Fin de ce tour, tous amicaux Combattants de la Maison Goliath activés dans le cadre de une activation de groupe peut ajouter 2"" à leur Caractéristique de mouvement lors de son activation."
+Movement characteristic during their Activation.";Chopez-les !;Goliath;"Jouez cette tactique pendant la phase de priorité de un tour, après le lancer de priorité mais avant activation des combattants. Jusqu'à la phase de fin de ce tour, tous les combattants Goliath activés dans le cadre d’une activation de groupe peuvent ajouter 2"" à leur caractéristique de mouvement lors de leur activation."
 ../TacticsCards/GOLIATH/Hammer Blow.png;Hammer Blow;Goliath Tactics;"Play this gang tactic during the Priority
 phase of any round, after Roll for Priority
 but before Ready Fighters.
@@ -2389,7 +2389,7 @@ but before Ready Fighters.
 Until the End phase of this round, all
 friendly House Goliath fighters' weapons
 with the Melee trait gain the Knockback
-‘trait.";Coup de marteau;Goliath;Jouez cette tactique de gang pendant la priorité phase de un tour, après le lancer de priorité mais avant Ready Fighters. Jusqu'à la phase de Fin de ce tour, tous Armes des combattants alliés de la Maison Goliath avec le trait Mêlée, obtenez le Renversement 'trait.
+‘trait.";Coup de marteau;Goliath;Jouez cette tactique pendant la phase de priorité d’un tour, après le lancer de priorité mais avant d’activer les combattants. Jusqu'à la phase de fin de ce tour, toutes les armes des combattants Goliath avec le trait Melee, obtiennent le trait Knockback.
 ../TacticsCards/GOLIATH/Improvised Projectile.png;Improvised Projectile;Goliath Tactics;"Play this gang tactic when activating a friendly
 House Goliath fighter.
 
@@ -2399,14 +2399,14 @@ activation, that weapon gains both a Long range
 characteristic of 4"" and the Versatile trait.
 However, until the End phase of this round, this
 fighter cannot make a Reaction attack with that
-weapon.";Projectile improvisé;Goliath;"Jouez cette tactique de gang lors de l'activation d'un combattant allié de la maison Goliath. Choisissez une des armes du combattant avec le trait Mêlée. Jusqu'à la fin de ce combat activation, cette arme gagne à la fois une longue portée caractéristique du 4"" et le trait Polyvalent. Cependant, jusqu'à la phase de Fin de ce tour, ce le combattant ne peut pas faire une attaque de réaction avec ça arme."
+weapon.";Projectile improvisé;Goliath;"Jouez cette tactique lors de l'activation d'un combattant Goliath. Choisissez une des armes du combattant avec le trait Melee. Jusqu'à la fin de l’activation de ce combattant, cette arme gagne à la fois une longue portée de 4"" et le trait Versatile. Cependant, jusqu'à la phase de fin de ce tour, ce combattant ne peut pas faire d’attaque de réaction avec cette arme."
 ../TacticsCards/GOLIATH/Inhuman Resilience.png;Inhuman Resilience;Goliath Tactics;"| Play this card instead of activating a fighter
 on your turn.
 
 Each of your Pinned fightersimmediately _
 stands up. Then make a Recovery roll for
 each Injured fighter in your gang, treating
-Out of Action results as Seriously Injured.";Résilience inhumaine;Goliath;Jouez cette carte au lieu d'activer un combattant à ton tour. Chacun de vos combattants Bloqués immédiatement _ se lève. Effectuez ensuite un jet de récupération pour chaque combattant blessé de votre gang, soignant Hors de combat, les résultats sont gravement blessés.
+Out of Action results as Seriously Injured.";Résilience inhumaine;Goliath;Jouez cette carte au lieu d'activer un combattant à ton tour. Chacun de vos combattants Pinned se lève immédiatement. Effectuez ensuite un Recovery test pour chaque combattant blessé de votre gang, traitez les résultats Out of action, comme des résultats Seriously injured.
 ../TacticsCards/GOLIATH/Ironhide.png;| tronhide;Goliath Tactics;"| Play when one of your fighters is wounded
 by an attack that causes more than
 
@@ -2415,13 +2415,13 @@ by an attack that causes more than
 The attack only causes 1 Damage. In
 addition, if the fighter is pinned after the
 attack has been resolved they return to
-standing.";Peau de fer;Goliath;Jouez lorsqu'un de vos combattants est blessé par une attaque qui cause plus de 1 Dommages. L'attaque ne cause qu'1 Dégât. Dans De plus, si le combattant est coincé après le l'attaque a été résolue, ils retournent à debout.
+standing.";Peau de fer;Goliath;Jouez cette tactique lorsqu'un de vos combattants est blessé par une attaque qui cause plus de 1 Dommages. L'attaque ne cause qu'1 Dégât. De plus, si le combattant est Pinned après que l'attaque ait été résolue, il se remet debout.
 ../TacticsCards/GOLIATH/Knockout Blow.png;Knockout Blow;Goliath Tactics;"| Play this card when a fighter makes close
 combat attacks before rolling to hit.
 
 Any wound rolls for this fighter's attacks are —
 automatically successful - no dice roll is
-required.";Coup de grâce;Goliath;Jouez cette carte lorsqu'un combattant se rapproche combattez les attaques avant de lancer pour toucher. Tous les jets de blessure pour les attaques de ce combattant sont : automatiquement réussi - aucun lancer de dé n'est requis.
+required.";Coup de grâce;Goliath;Jouez cette tactique lorsqu'un combattant effectue des attaques en combat rapproché, avant de tester pour toucher. Tous les jets de blessure pour les attaques de ce combattant sont automatiquement réussies - aucun lancer de dé n'est requis.
 ../TacticsCards/GOLIATH/Named and Shamed.png;Named and Shamed;Goliath Tactics;"Play this card at the start of the Deployment step
 before any fighters have been deployed. Your
 
@@ -2433,7 +2433,7 @@ stash or a frenzon collar. These fighters are not
 counted towards your maximum crew size - they
 are taken in addition to your starting crew. If you
 do not have models available to represent them,
-you may discard this card and select another.";Nommé et humilié;Goliath;Jouez cette carte au début de l'étape de déploiement avant que des combattants aient été déployés. Votre ang peut recruter immédiatement jusqu'à deux Goliath favoris Ils sont recrutés gratuitement mais partiront le gang à la fin de cette bataille. Chaque combattant est équipé d'un maul et soit d'un stimm-slug cachette ou un collier frenzon. Ces combattants ne sont pas comptés dans la taille maximale de votre équipage - ils sont recrutés en plus de votre équipage de départ. Si vous ne disposent pas de modèles pour les représenter, vous pouvez défausser cette carte et en sélectionner une autre.
+you may discard this card and select another.";Nommé et humilié;Goliath;Jouez cette tactique au début de l'étape de déploiement avant que des combattants aient été déployés. Votre gang peut recruter immédiatement jusqu'à deux Goliath Juves. Ils sont recrutés gratuitement mais quitteront le gang à la fin de cette bataille. Chaque combattant est équipé d'un maul et soit d'un stimm-slug stash ou soit d’un Frenzon collar. Ces combattants ne sont pas comptés dans la taille maximale de votre gang - ils sont recrutés en plus de votre gang de départ.
 ../TacticsCards/GOLIATH/Not Done Yet.png;Not Done Yet;Goliath Tactics;"Play when a fighter from your gang is taken out
 of action.
 
@@ -2442,7 +2442,7 @@ not removed from play. If they were prone, they
 return to standing. They go out of action after
 they are next activated and take a turn or when
 they suffer another unsaved wound, whichever
-comes first.";Pas encore fait;Goliath;Jouez lorsqu'un combattant de votre gang est éliminé d'action. Glissez cette carte sous la carte des combattants, ils sont pas retiré du jeu. S'ils étaient sujets, ils revenir debout. Ils sont mis Hors de combat après ils sont ensuite activés et prennent un tour ou quand ils subissent une autre blessure non guérie, quelle que soit la vient en premier.
+comes first.";Pas encore fait;Goliath;Jouez cette tactique lorsqu'un combattant de votre gang est mis Out of action. Glissez cette carte sous la carte du combattants, il n’est pas retiré du jeu. S'il était Prone, il se remet debout. Il est mis Out of action à la fin de sa prochaine activation ou s’il subit une autre blessure non sauvegardée.
 ../TacticsCards/GOLIATH/One Last Go.png;One Last Go;Goliath Tactics;"Play this gang tactic when one of your House
 Goliath fighters is taken Out of Action by an
 attack made with a ranged weapon.
@@ -2450,10 +2450,10 @@ attack made with a ranged weapon.
 Before removing the fighter from the battlefield,
 they may immediately make a Charge (Double)
 action. After this action is resolved, the fighter
-goes Out of Action as normal.";Un dernier effort;Goliath;Jouez cette tactique de gang lorsqu'un membre de votre maison Les combattants Goliath sont mis hors de combat par un attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, ils peuvent immédiatement effectuer une Charge (Double) actions. Une fois cette action résolue, le combattant devient Hors de combat comme d'habitude.
+goes Out of Action as normal.";Un dernier effort;Goliath;Jouez cette tactique lorsqu'un membre de votre gang Goliath est mis Out of action par une attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, il peut immédiatement effectuer une Charge (Double). Une fois cette action résolue, le combattant est mis Out of action.
 ../TacticsCards/GOLIATH/Second Wind.png;Second Wind;Goliath Tactics;"Play instead of activating a fighter.
 Remove a flesh wound from any fighter's
-card.";Deuxième souffle;Goliath;Jouez au lieu d'activer un combattant. Retirez une Blessure Légère sur le corps d'un combattant. carte.
+card.";Deuxième souffle;Goliath;Jouez cette tactique au lieu d'activer un combattant. Retirez une Blessure Légère d'un combattant.
 ../TacticsCards/GOLIATH/Steel Constitution.png;Steel Constitution;Goliath Tactics;"Play instead of activating a fighter.
 
 Choose one of your fighters and tuck this
@@ -2464,10 +2464,10 @@ weapons with the Gas or Toxin trait, and their
 Strength and Toughness are used at their
 
 full value, regardless of any modifiers
-(including flesh wounds).";Constitution d’acier;Goliath;Jouez au lieu d'activer un combattant. Choisissez un de vos combattants et rangez-le carte sous leur carte de combattant. Jusqu'à la fin de le tour, ce combattant ne peut pas être affecté par armes avec le trait Gaz ou Toxine, et leurs Force et la robustesse sont utilisées à leur valeur totale, quels que soient les modificateurs (y compris les Blessures Légères).
+(including flesh wounds).";Constitution d’acier;Goliath;Jouez cette tactique au lieu d'activer un combattant. Choisissez un de vos combattants et placez cette carte sous la sienne. Jusqu'à la fin de ce tour, ce combattant ne peut pas être affecté par les armes avec le trait Gas ou Toxin. De plus sa Strength et sa Toughness sont utilisées à leur valeur normales, quels que soient les modificateurs (y compris les Blessures Légères).
 ../TacticsCards/GOLIATH/Stimm Overload.png;Stimm Overload;Goliath Tactics;"Play this card when activating a fighter.
 This fighter counts a Charge
-(Double) action as a Basic action this turn.";Surcharge de stimm;Goliath;Jouez cette carte lors de l'activation d'un combattant. Ce combattant compte une Charge (Double) action comme action de base ce tour-ci.
+(Double) action as a Basic action this turn.";Surcharge de stimm;Goliath;Jouez cette tactique lors de l'activation d'un combattant. Ce combattant compte les actions Charge (Double) comme (basic) ce tour-ci.
 ../TacticsCards/GOLIATH/Stimm Reserve.png;Stimm Reserve;Goliath Tactics;"Play this gang tactic when activating any friendly
 fighter.
 
@@ -2478,7 +2478,7 @@ D3, However, until the end of this battle, that
 fighter's Toughness characteristic is decreased
 by 1. Note that if this decrease in Toughness
 reduces that fighter's Toughness to 0, they will
-go Out of Action as normal.";Réserve Stimm;Goliath;Jouez cette tactique de gang lors de l'activation d'un ami. combattant. Choisissez un combattant allié actuellement actif le champ de bataille. Jusqu'à la fin de cette bataille, cela la caractéristique de Force du combattant est augmentée de D3, Cependant, jusqu'à la fin de cette bataille, cela la caractéristique d'endurance du combattant est diminuée de 1. Notez que si cette diminution de la Résistance réduit l'Endurance de ce combattant à 0, il le fera passer hors de combat comme d'habitude.
+go Out of Action as normal.";Réserve Stimm;Goliath;Jouez cette tactique lors de l'activation d'un combattant allié. Choisissez un combattant sur le champ de bataille. Jusqu'à la fin de la bataille, sa caractéristique de Strength est augmentée de D3, Cependant, jusqu'à la fin de la bataille, sa la caractéristique de Toughness est diminuée de 1. Notez que si cette diminution réduit la Toughness de ce combattant à 0, il sera mis Out of action.
 ../TacticsCards/GOLIATH/Stimm Surge.png;Stimm Surge;Goliath Tactics;"Play this card when activating a fighter.
 
 Tuck this card under the Fighter's card. While it
@@ -2489,7 +2489,7 @@ and an Injury roll is made for the fighter, using a
 Damage of 2. On a 2, the card is discarded.
 
 On a 3, the fighter suffers a Flesh Wound but
-the card remains in play.";Poussée de stimm;Goliath;Jouez cette carte lors de l'activation d'un combattant. Glissez cette carte sous la carte du Combattant. Pendant qu'il est-ce là, le mouvement, la force et la force du combattant L'endurance est augmentée de 1. À chaque extrémité phase, lancez un D6. Sur un 1, la carte est défaussée et un jet de Blessure est effectué pour le combattant, à l'aide d'un Dégâts de 2. Sur un 2, la carte est défaussée. Sur 3, le combattant subit une Blessure Chair mais la carte reste en jeu.
+the card remains in play.";Poussée de stimm;Goliath;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du Combattant. Tant qu'elle là, le mouvement, la Strength et la Toughness du combattant sont augmentée de 1. À chaque phase de fin, lancez un D6. Sur un 1, défaussez la carte, le combattant subit une blessure automatique sans sauvegarde Damage 2. Sur un 2, la carte est défaussée. Sur un 3, le combattant subit une Flesh wound mais la carte reste en jeu.
 ../TacticsCards/GOLIATH/Subconscious Mnemonics.png;Subconscious Mnemonics;Goliath Tactics;"Play this gang tactic at the start of the
 Deployment step of the pre-battle sequence
 before any fighters have been deployed.
@@ -2500,7 +2500,7 @@ remainder of this battle, that fighter may
 exchange one of their skills for another skill of
 the same skill set. The controlling pee chooses
 which skill is replaced and which skill it is
-replaced with.";Mnémoniques subconscients;Goliath;Jouez cette tactique de gang au début du Étape de déploiement de la séquence pré-bataille avant que des combattants aient été déployés. Choisissez un chef Goliath de maison amical ou Champion avec deux compétences ou plus. Pour le reste de cette bataille, ce combattant peut échanger une de leurs compétences contre une autre compétence de le même ensemble de compétences. Le pipi contrôlant choisit quelle compétence est remplacée et de quelle compétence il s'agit remplacé par.
+replaced with.";Mnémoniques subconscients;Goliath;Jouez cette tactique au début de l’étape de déploiement, avant que des combattants aient été déployés. Choisissez un leader ou un champion Goliath avec deux compétences ou plus. Pour le reste de la bataille, ce combattant peut échanger une de ses compétences contre une autre compétence du même ensemble de compétences.
 ../TacticsCards/GOLIATH/Tempered in Battle.png;Tempered in Battle;Goliath Tactics;"Play this gang tactic when a friendly House
 Goliath fighter takes an enemy fighter
 
@@ -2513,7 +2513,7 @@ Fearsome skill. In addition, for the remainder of
 this battle, this fighter gains +1 XP when they
 take an enemy fighter Out of Action with either
 a close combat attack or by performing a Coup
-De Grace.";Trempé au combat;Goliath;Jouez cette tactique de gang lorsqu'une maison amicale Le combattant Goliath prend un combattant ennemi Hors de combat avec une attaque au corps à corps ou en exécutant un Coup de Grâce. Pour le reste de cette bataille, le combattant qui a pris le combattant ennemi Hors de combat gagne le Compétence redoutable. De plus, pour le reste de cette bataille, ce combattant gagne +1 XP lorsqu'il mettre un combattant ennemi hors de combat avec soit une attaque au corps à corps ou en effectuant un coup d'État De Grâce.
+De Grace.";Trempé au combat;Goliath;Jouez cette tactique lorsqu’un combattant Goliath met un combattant ennemi Out of action avec une attaque au corps à corps ou en exécutant un Coup de Grâce. Pour le reste de la bataille, ce combattant gagne la compétence Fearsome. De plus, pour le reste de la bataille, ce combattant gagne +1 XP lorsqu'il met un combattant ennemi Out of action avec une attaque au corps à corps ou en effectuant un Coup de Grâce.
 ../TacticsCards/GOLIATH/The Hand that Feeds You.png;The Hand that Feeds You;Goliath Tactics;"Play this card at the start of the Deployment step
 of the pre-battle sequence before any fighters
 have been deployed. The gang may recruit
@@ -2526,7 +2526,7 @@ free). If they do so, during the post-battle
 sequence the gang gains no credits from scenario
 rewards. If you do not have a model available to
 represent this House Agent, you may discard this
-card and select another.";La main qui vous nourrit;Goliath;Jouez cette carte au début de l'étape de déploiement de la séquence d'avant-bataille avant tout combattant ont été déployés. Le gang peut recruter un House Agent pour cette bataille sans avoir besoin de faire une pétition et sans avoir à payer des frais d'embauche (c'est-à-dire que cet agent immobilier est embauché pour gratuit). S'ils le font, pendant l'après-bataille séquence, le gang ne gagne aucun crédit du scénario récompenses. Si vous n'avez pas de modèle disponible pour représentez cet agent de maison, vous pouvez le défausser carte et sélectionnez-en une autre.
+card and select another.";La main qui vous nourrit;Goliath;Jouez cette tactique au début de l'étape de déploiement, avant que les combattants aient étés déployés. Le gang peut recruter gratuitement un House Agent pour cette bataille. Cependant, à la séquence d'après-bataille, le gang ne gagne aucun crédits parmi les récompenses du scénario.
 ../TacticsCards/GOLIATH/Unleash the Fear.png;Unleash the Fear;Goliath Tactics;"Play this gang tactic when a friendly Goliath
 fighter performs the Flex (Simple) action.
 
@@ -2537,14 +2537,14 @@ Flex (Simple) action must immediately make
 
 a Cool check. If the check is passed, this gang
 tactic has no further effect. If the check is failed,
-they become Broken.";Libérer la peur;Goliath;"Jouez cette tactique de gang lorsqu'un Goliath combattant allié effectue l’action Flex (Simple). Tous les combattants ennemis à moins de 6"" et avec une ligne de vue, le combattant effectuant le L'action flexible (simple) doit immédiatement faire un chèque cool. Si le test est réussi, ce gang la tactique n’a plus d’effet. Si le contrôle échoue, ils deviennent brisés."
+they become Broken.";Libérer la peur;Goliath;"Jouez cette tactique lorsqu'un Goliath effectue l’action Flex (Simple). Tous les combattants ennemis à au moins 6"" et avec une ligne de vue doivent immédiatement faire un test de Cool. Si le test est réussi, la tactique n’a aucun effet. Si le test échoue, ils deviennent Broken."
 ../TacticsCards/GOLIATH/Unstoppable Behemoth.png;Unstoppable Behemoth;Goliath Tactics;"| Play this card after an attack is made against
 on of your fighters, before the Injury roll
 (if any) is made.
 
 The attack has no further effect - no Injury
 roll is made. In addition, if your fighter is
-pinned, they immediately stand up.";Béhémoth imparable;Goliath;Jouez cette carte après une attaque contre sur l'un de vos combattants, avant le jet de Blessure (le cas échéant) est effectué. L'attaque n'a aucun autre effet - pas de blessure le rouleau est fait. De plus, si votre combattant est Bloqués, ils se relèvent immédiatement.
+pinned, they immediately stand up.";Béhémoth imparable;Goliath;Jouez cette tactique après une attaque contre l'un de vos combattants, avant l’Injury roll. L'attaque n'a aucun autre effet - n’effectuez pas d’Injury roll. De plus, si votre combattant est Pinned, il se relève immédiatement.
 ../TacticsCards/GOLIATH/Vat Twin.png;Vat Twin;Goliath Tactics;"Play this card at the start of the battle, after both
 sides have deployed but before the first round.
 Choose two Goliath fighters in your starting crew
@@ -2555,7 +2555,7 @@ Nerves of Steel and Unstoppable skills until the
 end of this battle. If both fighters are targeted by
 the same attack, fully resolve it against both
 before applying this card; both fighters may go
-Out of Action.";Jumeau de cuve;Goliath;"Jouez cette carte au début de la bataille, après les deux les équipes se sont déployées mais avant le premier tour. Choisissez deux chasseurs Goliath dans votre équipage de départ être des Vat Twins. Si, pendant la bataille, l'un des l'un est mis Hors de combat, l'autre le supprime toutes les Blessures Légères qu'il a et gagne Berserker, Des nerfs d'acier et des compétences imparables jusqu'au fin de cette bataille. Si les deux combattants sont visés par la même attaque, résolvez-la entièrement contre les deux avant d'appliquer cette carte ; les deux combattants peuvent partir Hors de combat."
+Out of Action.";Jumeau de cuve;Goliath;Jouez cette tactique au début de la bataille, après que les deux les équipes se sont déployées mais avant le premier tour. Choisissez deux combattants Goliath de votre gang pour devenir des Vat Twins. Si, pendant la bataille, l'un est mis Out of action, l'autre supprime toutes les Flesh wound qu'il a et gagne les traits Berserker, Nerve of steel et Unstoppable jusqu'au fin de la bataille. Si les deux combattants sont visés par la même attaque, résolvez-la entièrement avant d'appliquer cette carte.
 ../TacticsCards/GOLIATH/Walking Fortress.png;Walking Fortress;Goliath Tactics;"Play this gang tactic when activating any |
 friendly fighter.
 
@@ -2563,7 +2563,7 @@ Place a Furnace Barricade (see page 111 |
 of Necromunda: House of Chains) within
 
 1"" of the fighter. The fighter's activation ther
-ends.";Forteresse ambulante;Goliath;"Jouez cette tactique de gang lors de l'activation d'un combattant allié. Placez une barricade de fournaise (voir page 111 de Necromunda : Maison des Chaînes) à l'intérieur 1"" du combattant. L'activation du combattant là-bas se termine."
+ends.";Forteresse ambulante;Goliath;"Jouez cette tactique lors de l'activation d'un combattant allié. Placez une Furnace barricade (voir page 111 de Necromunda : House of chains) dans les 1"" du combattant. Puis l'activation du combattant se termine."
 ../TacticsCards/GOLIATH VEHICLES/'ead As Thick As.png;"""ead As Thick As Their Rig";Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 Wrecked before rolling on the Lasting Injury
 table for the crew.
