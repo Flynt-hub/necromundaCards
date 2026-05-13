@@ -2569,7 +2569,7 @@ Wrecked before rolling on the Lasting Injury
 table for the crew.
 
 Do not roll on the table; the result is
-automatically Out Cold.";Tête aussi dure que leur engin;Véhicules Goliath;"Jouez cette tactique de gang lorsqu'un véhicule allié est Naufragé avant de lancer sur la blessure durable table pour l'équipage. Ne roulez pas sur la table ; le résultat est automatiquement à froid."
+automatically Out Cold.";Tête aussi dure que leur engin;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est détruit, ne faite pas de test de Lasting injury pour l'équipage. Le résultat est automatiquement Out cold.
 ../TacticsCards/GOLIATH VEHICLES/Batter Up.png;Batter Up;Goliath Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition before
 performing any actions.
@@ -2577,47 +2577,47 @@ performing any actions.
 For the duration of this activation, any close
 combat attacks made by the fighter gain
 
-the Knockback trait.";À la batte;Véhicules Goliath;Jouez cette tactique de gang lors de l'activation d'un ami chasseur soumis à la condition Monté avant effectuer des actions. Pendant la durée de cette activation, toute clôture les attaques de combat effectuées par le combattant gagnent le trait Recul.
+the Knockback trait.";À la batte;Véhicules Goliath;Jouez cette tactique lors de l'activation d’un combattant allié Mounted, avant effectuer ses actions. Pendant la durée de cette activation, toutes les attaques de combat rapprochée du combattant gagnent le trait Knockback.
 ../TacticsCards/GOLIATH VEHICLES/Bowlin’ Action.png;| Bowlin’ Action;Goliath Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of this activation, the vehicle
 treats the Ram (Double) action as a Simple
-action.";Action de bowling;Véhicules Goliath;Jouez cette tactique de gang lors de l'activation d'un ami véhicule avant d’effectuer toute action. Pendant la durée de cette activation, le véhicule traite l'action Ram (Double) comme une simple actions.
+action.";Action de bowling;Véhicules Goliath;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer ses action. Pendant la durée de cette activation, le véhicule traite l'action Ram (Double) comme une action simple.
 ../TacticsCards/GOLIATH VEHICLES/Can Openers.png;Can Openers;Goliath Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
 For the duration of the battle, D3 weapons with
 the Melee trait add 1 to their Damage
-characteristic while targeting vehicles.";Ouvre-boîtes;Véhicules Goliath;Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, les armes D3 avec le trait Mêlée ajoute 1 à leurs Dégâts caractéristique tout en ciblant les véhicules.
+characteristic while targeting vehicles.";Ouvre-boîtes;Véhicules Goliath;Jouez cette tactique au début de la bataille avant le premier jet d’Initiative. Pour la durée de la bataille, D3 armes avec le trait Melee ajoute 1 à leurs caractéristique de dégâts lorsqu’elles ciblent les véhicules.
 ../TacticsCards/GOLIATH VEHICLES/Cheap Construction.png;Cheap Construction;Goliath Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when performing the Negotiate Repairs
 post-battle action.
 
 Reduce the cost of one Negotiate Repairs action
-by 50%, rounding up to the nearest 5 credits.";Construction bon marché;Véhicules Goliath;Jouez cette tactique de gang pendant l'après-bataille séquence lors de l’exécution de la négociation des réparations action d'après-bataille. Réduisez le coût d’une action de négociation de réparations de 50 %, en arrondissant aux 5 crédits les plus proches.
+by 50%, rounding up to the nearest 5 credits.";Construction bon marché;Véhicules Goliath;Jouez cette tactique pendant la séquence d’après-bataille, lors de la négociation des réparations. Réduisez le coût d’une action de réparation de 50 %, en arrondissant aux 5 crédits les plus proches.
 ../TacticsCards/GOLIATH VEHICLES/Drive It Off.png;Drive It Off;Goliath Vehicle Tactics;"Play this gang tactic after a friendly vehicle is hit
 by a ranged attack, before rolling to wound.
 The vehicle makes a Toughness check on the
 facing that is being hit; if the check is passed,
-the vehicle is not hit by the attack.";Repoussez-le;Véhicules Goliath;"Jouez cette tactique de gang après qu'un véhicule allié soit touché par une attaque à distance, avant de rouler pour blesser. Le véhicule effectue un test d'endurance sur le faire face à cela est frappé; si le test est réussi, le véhicule n'est pas touché par l'attaque."
+the vehicle is not hit by the attack.";Repoussez-le;Véhicules Goliath;"Jouez cette tactique après qu'un véhicule allié soit touché par une attaque à distance, avant le jet de blessure. Le véhicule effectue un test d'endurance avec la face touchée; si le test est réussi, le véhicule n'est pas affecté par l'attaque."
 ../TacticsCards/GOLIATH VEHICLES/Hardened Chassis.png;Hardened Chassis;Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 Wrecked before rolling on the Lasting Damage
 table.
 
 Do not roll on the table; the result is
-automatically a 1 - Persistent Rattle.";Châssis durci;Véhicules Goliath;"Jouez cette tactique de gang lorsqu'un véhicule allié est Détruit avant de lancer sur les dégâts durables tableau. Ne roulez pas sur la table ; le résultat est automatiquement un 1 - Hochet persistant."
+automatically a 1 - Persistent Rattle.";Châssis durci;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est détruit, ne faite de jet de Lasting injuries. Le résultat est automatiquement un 1 Persistent rattle.
 ../TacticsCards/GOLIATH VEHICLES/King of the Wastes.png;King of the Wastes;Goliath Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when receiving scenario rewards.
 If at least one cngy vehicle is still on the
-battlefield, add 1 to the gang’s Reputation.";Roi des Désolations;Véhicules Goliath;Jouez cette tactique de gang pendant l'après-bataille séquence lors de la réception des récompenses du scénario. Si au moins un véhicule GNV est toujours sur le champ de bataille, ajoutez 1 à la réputation du gang.
+battlefield, add 1 to the gang’s Reputation.";Roi des Désolations;Véhicules Goliath;Jouez cette tactique pendant la séquence d’après-bataille, lors de la réception des récompenses du scénario. Si au moins un véhicule allié non détruit est toujours sur le champ de bataille, ajoutez 1 à la réputation du gang.
 ../TacticsCards/GOLIATH VEHICLES/Last Gasp.png;Last Gasp;Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 Wrecked before rolling on the Lasting Damage
 table.
 
 The vehicle may immediately make a free
 
-Fire All (Basic) action.";Dernier souffle;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un véhicule allié est Détruit avant de lancer sur les dégâts durables tableau. Le véhicule peut immédiatement effectuer un tour gratuit Action Tirer tous (de base).
+Fire All (Basic) action.";Dernier souffle;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est détruit, avant de faire le jet de Lasting injuries. Le véhicule peut immédiatement effectuer une action gratuite Fire all (basic).
 ../TacticsCards/GOLIATH VEHICLES/Lotsa Ammo!.png;Lotsa Ammo!;Goliath Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
@@ -2625,37 +2625,37 @@ For the duration of the battle, D3 weapons with
 the Crew Operated trait lose the Scarce trait. If
 they don't have the Scarce trait, they gain
 
-the Plentiful trait instead.";Beaucoup de munitions !;Véhicules Goliath;Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, les armes D3 avec le trait Crew Operator perd le trait Rare. Si ils n'ont pas le trait Rare, ils gagnent le trait Abondant à la place.
+the Plentiful trait instead.";Beaucoup de munitions !;Véhicules Goliath;Jouez cette tactique au début de la bataille avant le premier jet d’Initiative. Pour la durée de la bataille, D3 armes avec le trait Crew Operated perdent le trait Scarce. Si elles n'ont pas le trait Scarce, elles gagnent le trait Plentiful.
 ../TacticsCards/GOLIATH VEHICLES/Not So Fast.png;Not So Fast;Goliath Vehicle Tactics;"Play this gang tactic when an enemy vehicle
 moves out of engagement range of a friendly
 fighter.
 
 The fighter may immediately make a free
-Reaction attack against the vehicle.";Pas si vite;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un véhicule ennemi s'éloigne de la portée d'engagement d'un combattant allié. Le combattant peut immédiatement effectuer un coup franc Attaque de réaction contre le véhicule.
+Reaction attack against the vehicle.";Pas si vite;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule ennemi s'éloigne de la portée d'engagement d'un combattant allié. Le combattant peut immédiatement effectuer un attaque de réaction contre le véhicule.
 ../TacticsCards/GOLIATH VEHICLES/Power Through.png;Power Through;Goliath Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition would become
 Pinned.
 
 The fighter makes a Strength check, if the check
-is passed they do not become Pinned.";Passer en force;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un combattant allié soumis à la condition Monté deviendrait Bloqué. Le combattant effectue un test de Force, si le test est réussi, ils ne sont pas Bloqués.
+is passed they do not become Pinned.";Passer en force;Véhicules Goliath;Jouez cette tactique lorsqu'un combattant allié Mounted deviendrait Pinned. Le combattant effectue un test de Force, si le test est réussi, il n’est pas Pinned.
 ../TacticsCards/GOLIATH VEHICLES/Reinforced Plates.png;Reinforced Plates;Goliath Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
 For the duration of the battle, a friendly vehicle
-increases its Front arc Toughness by 1.";Plaques renforcées;Véhicules Goliath;Jouez cette tactique de gang au début de la bataille avant le premier jet d’Initiative. Pendant toute la durée de la bataille, un véhicule allié augmente sa résistance à l'arc avant de 1.
+increases its Front arc Toughness by 1.";Plaques renforcées;Véhicules Goliath;Jouez cette tactique au début de la bataille, avant le premier jet d’Initiative. Choisissez un véhicule allié. Pour la durée de la bataille, ce véhicule augmente sa Toughness frontale de 1.
 ../TacticsCards/GOLIATH VEHICLES/Roaring To Life.png;Roaring To Life;Goliath Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle that is Stalled before performing any
 actions.
 
 The vehicle immediately changes its Status to
-Mobile.";Rugissement au démarrage;Véhicules Goliath;Jouez cette tactique de gang lors de l'activation d'un ami véhicule qui est calé avant d'effectuer toute actions. Le véhicule change immédiatement son statut en Mobile.
+Mobile.";Rugissement au démarrage;Véhicules Goliath;Jouez cette tactique lors de l'activation d'un véhicule allié qui est Stalled avant d'effectuer toute actions. Le véhicule change immédiatement son statut en Mobile.
 ../TacticsCards/GOLIATH VEHICLES/Superficial Damage.png;| Superficial Damage;Goliath Vehicle Tactics;"Play this gang tactic when a hit is being resolved
 against a friendly vehicle before rolling Damage
 dice.
 
 For the duration of the hit, reduce the number
 
-of Damage rolled by 1, to a minimum of 1.";Dégâts superficiels;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un coup est en cours de résolution contre un véhicule allié avant de lancer les dégâts dés. Pendant la durée du coup, réduisez le nombre de Dégâts obtenu par 1, jusqu'à un minimum de 1.
+of Damage rolled by 1, to a minimum of 1.";Dégâts superficiels;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est endommagé par une attaque, avant la résolution de dégâts. Réduisez le nombre de dégâts de 1, jusqu'à un minimum de 1.
 ../TacticsCards/GOLIATH VEHICLES/T-bone.png;T-bone;Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 involved in a vehicle collision before resolving
 hits.
@@ -2663,20 +2663,20 @@ hits.
 For the duration of the collision, increase
 
 the Strength of any hits caused by this vehicle
-by 2.";Collision latérale;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un véhicule allié est impliqué dans une collision de véhicules avant de résoudre frappe. Pendant la durée de la collision, augmentez la force de tout coup causé par ce véhicule par 2.
+by 2.";Collision latérale;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est impliqué dans une collision de véhicules, avant de résoudre les touches. Augmentez la force de tout coup causé par ce véhicule de 2.
 ../TacticsCards/GOLIATH VEHICLES/The Immovable Object.png;The Immovable Object;Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 involved in a vehicle collision before moving any
 models.
 
 The vehicle is not moved as a result of
 
-the collision.";L’objet immuable;Véhicules Goliath;Jouez cette tactique de gang lorsqu'un véhicule allié est impliqué dans une collision de véhicule avant de déplacer modèles. Le véhicule n'est pas déplacé en raison de la collision.
+the collision.";L’objet immuable;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est impliqué dans une collision de véhicule, avant de déplacer les modèles. Le véhicule n'est pas déplacé en raison de la collision.
 ../TacticsCards/GOLIATH VEHICLES/Wreck It!.png;Wreck It!;Goliath Vehicle Tactics;"Play this gang tactic at the beginning of any
 round before rolling for Initiative.
 
 Choose an nt vehicle; for the duration of the
 round, all friendly models can re-roll failed hit
-rolls against the vehicle.";Détruisez-le !;Véhicules Goliath;"Jouez cette tactique de gang au début de un tour avant de lancer pour l’Initiative. Choisissez un véhicule NT ; pour la durée du round, toutes les figurines amies peuvent relancer les coups ratés roule contre le véhicule."
+rolls against the vehicle.";Détruisez-le !;Véhicules Goliath;Jouez cette tactique au début d’un tour, avant de lancer pour l’Initiative. Choisissez un véhicule ennemi, pour la durée du round, toutes les figurines alliés peuvent relancer les touches ratés contre ce véhicule.
 ../TacticsCards/MISFITS/Blood Money.png;Blood Money;Venator Tactics;"| Play this card when an enemy Champion or
 Leader is taken Out of Action.
 
