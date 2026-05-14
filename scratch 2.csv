@@ -3084,7 +3084,7 @@ These fighters are not counted towards your
 maximum crew size - they are taken in addition
 to your starting crew. If you do not have models
 available to represent these Hive Scum, you may
-discard this gang tactic and select another.";Quelques amis;Outcasts;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Votre gang peut immédiatement recruter et déployer dans votre zone de déploiement D3+2 Hive Scum. Ces combattants sont recrutés gratuitement  Si vous ne disposez pas de figurines pour représenter ces Hive Scum, vous pouvez abandonner cette tactique de gang et en choisir une autre.
+discard this gang tactic and select another.";Quelques amis;Outcasts;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés. Votre gang peut immédiatement recruter et déployer dans votre zone de déploiement D3+2 Hive Scum. Ces combattants sont recrutés gratuitement et ne comptent pas dans le maximum de combattants autorisés pour ce scénario.
 ../TacticsCards/OUTCASTS/All or Nothing.png;All or Nothing;Outcasts Tactics;"Play this gang tactic when activating a friendly
 fighter.
 
@@ -3099,7 +3099,7 @@ The battle ends as if your gang had retreated
 from the battlefield. Friendly fighters who are
 Seriously Injured automatically recover and
 there is no chance for any fighters to be
-Captured.";Retour aux Badzones;Outcasts;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue ses tests de récupération. Le combat se termine comme si votre gang s'était retiré du champ de bataille. Les combattants alliés qui sont gravement blessés se rétablissent automatiquement et aucun combattant ne risque d'être capturé.
+Captured.";Retour aux Badzones;Outcasts;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue ses Recovery tests. Le combat se termine comme si votre gang s'était retiré du champ de bataille. Les combattants alliés qui sont Seriously injured se rétablissent automatiquement et aucun combattant ne risque d'être capturé.
 ../TacticsCards/OUTCASTS/Dirty Tactics.png;Dirty Tactics;Outcasts Tactics;"Play this gang tactic at the end of a friendly
 fighter's activation.
 
@@ -3111,13 +3111,13 @@ taken Out of Action.
 Do not make a Lasting Injury roll against the
 fighter. Instead, treat the fighter as being Out
 Cold, as if a roll of 12-26 on the Lasting Injury
-table had been made against them.";Combattre un autre jour;Outcasts;Utilisez cette tactique lorsqu'un combattant allié est mis Out of combat. Ne procédez pas à un jet de blessure permanente contre ce combattant. Considérez plutôt ce combattant comme étant inconscient, comme si un jet de 12 à 26 avait été obtenu contre lui sur la table des blessures permanentes.
+table had been made against them.";Combattre un autre jour;Outcasts;Utilisez cette tactique lorsqu'un combattant allié est mis Out of combat. Ne procédez pas à un Lasting injury roll pour ce combattant. Considérez le résultat comme Out cold, comme si un jet de 12 à 26 avait été obtenu contre lui sur la table des Lasting injuries.
 ../TacticsCards/OUTCASTS/Hard Rounds.png;Hard Rounds;Outcasts Tactics;"Play this gang tactic at the start of any round
 before players Roll for Priority.
 
 For the duration of both this round and the next,
 both players must roll 2D6 when taking a Bottle
-test, rather than the usual.";Munitions lourdes;Outcasts;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs ne lancent les dés pour déterminer l'ordre de jeu. Pendant toute la durée de ce tour et du suivant, les deux joueurs doivent lancer 2D6 lorsqu'ils effectuent un test de « bouteille », au lieu du nombre habituel.
+test, rather than the usual.";Munitions lourdes;Outcasts;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs ne lancent les dés pour déterminer l'ordre de jeu. Pendant toute la durée de ce tour et du suivant, les deux joueurs doivent lancer 2D6 lorsqu'ils effectuent un Bottle test.
 ../TacticsCards/OUTCASTS/Honourless Victory.png;Honourless Victory;Outcasts Tactics;"Play this gang tactic at the end of the scenario.
 Regardless of the scenario rewards, your gang
 does not suffer any loss of Reputation.";Victoire sans honneur;Outcasts;Jouez cette tactique à la fin du scénario. Quelles que soient les récompenses du scénario, votre gang ne subit aucune perte de réputation.
@@ -3128,12 +3128,12 @@ Choose one enemy fighter currently on the
 battlefield and mark them with a token. For the
 remainder of this battle, all friendly fighters add
 1 to any Weapon Skill or Ballistic Skill checks
-made against the marked fighter.";C'est personnel;Outcasts;Jouez cette tactique au début de n'importe quel round, avant que les joueurs ne lancent les dés pour déterminer la priorité. Choisissez un combattant ennemi actuellement présent sur le champ de bataille et marquez-le à l'aide d'un jeton. Pendant le reste de cette bataille, tous les combattant alliés ajoutent 1 à tous les tests de BS ou WS effectués contre le chasseur marqué.
+made against the marked fighter.";C'est personnel;Outcasts;Jouez cette tactique au début de n'importe quel round, avant que les joueurs ne lancent les dés pour déterminer la priorité. Choisissez un combattant ennemi actuellement présent sur le champ de bataille et marquez-le à l'aide d'un jeton. Pendant le reste de cette bataille, tous les combattant alliés ajoutent 1 à tous les tests de BS ou WS effectués contre le combattant marqué.
 ../TacticsCards/OUTCASTS/Lucky Score.png;Lucky Score;Outcasts Tactics;"Play this gang tactic at the end of the scenario.
 
 If the scenario included any reward in the form
 of credits, your gang adds an extra D6x10 credits
-in addition to those it won.";Coup de chance;Outcasts;Jouez cette tactique à la fin du scénario. Si le scénario prévoyait une récompense sous forme de crédits, votre gang gagne 10 crédits supplémentaires en plus de ceux qu'il a déjà remportés.
+in addition to those it won.";Coup de chance;Outcasts;Jouez cette tactique à la fin du scénario. Si le scénario prévoyait une récompense sous forme de crédits, votre gang gagne D6x10 crédits supplémentaires en plus de ceux qu'il a déjà remportés.
 ../TacticsCards/OUTCASTS/More Where They Came From.png;More Where They Came From;Outcasts Tactics;"Play this gang tactic during any End phase,
 before your opponent makes any Recovery tests.
 You may return to play D3 friendly
@@ -3143,7 +3143,7 @@ Action but did not suffer a Memorable Death
 result on the Lasting Injury table by placing
 them in your gang’s deployment zone. These
 fighters retain any injuries suffered for going Out
-of Action but discard any Flesh Wounds.";Il y en a d’autres;Outcasts;Jouez cette tactique pendant n’importe quelle phase de fin, avant que votre adversaire n’effectue ses tests de récupération. Vous pouvez remettre en jeu D3 membres de votre gang / jeunes qui ont été mis Out of combat mais qui n’ont pas subi de résultat « Mort mémorable » sur la table des blessures durables, en les plaçant dans la zone de déploiement de votre gang. Ces combattants conservent toutes les blessures subies lors de leur mise Out of combat, mais défaussent toutes les blessures superficielles.
+of Action but discard any Flesh Wounds.";Il y en a d’autres;Outcasts;Jouez cette tactique pendant n’importe quelle phase de fin, avant que votre adversaire n’effectue ses Recovery rolls. Vous pouvez remettre en jeu D3 gangers / Juves qui ont été mis Out of combat mais qui n’ont pas subi de résultat Memorable death sur la table des Lasting injuries, en les plaçant dans la zone de déploiement de votre gang. Ces combattants conservent toutes les Lasting injuries subies lors de leur mise Out of combat, mais défaussent toutes les Flesh wound.
 ../TacticsCards/OUTCASTS/No Masters.png;No Masters;Outcasts Tactics;"Play this gang tactic when a friendly fighter is
 required to make a Leadership, Cool, Intelligence
 or Willpower check.
@@ -3151,7 +3151,7 @@ or Willpower check.
 The fighter can use the Leadership, Cool,
 Intelligence or Willpower of your gang's Leader,
 even if the Leader is not currently on the
-battlefield.";Pas de maître;Outcasts;Utilisez cette tactique lorsqu'un combattant allié doit effectuer un test de Commandement, de Sang-froid, d'Intelligence ou de Volonté. Le combattant peut alors utiliser le Commandement, le Sang-froid, l'Intelligence ou la Volonté du chef de votre gang, même si celui-ci ne se trouve pas actuellement sur le champ de bataille.
+battlefield.";Pas de maître;Outcasts;Utilisez cette tactique lorsqu'un combattant allié doit effectuer un test de Leadership, de Cool, d'Intelligence ou de Willpower. Le combattant peut alors utiliser le Leadership, le Cool, l'Intelligence ou le Willpower du leader de votre gang, même si celui-ci ne se trouve pas actuellement sur le champ de bataille.
 ../TacticsCards/OUTCASTS/Old Faithful.png;Old Faithful;Outcasts Tactics;"Play this gang tactic when a friendly fighter
 targets an enemy fighter with a ranged or close
 combat attack.
@@ -3159,13 +3159,13 @@ combat attack.
 Choose either a ranged or a melee weapon from
 the Trading Post with a Rarity of 9 or less.
 Count this attack as if the fighter was armed
-with the chosen weapon.";Le vieux fidèle;Outcasts;Utilisez cette tactique lorsqu'un combattant allié vise un combattant ennemi avec une attaque à distance ou au corps à corps. Choisissez une arme à distance ou de mêlée au comptoir, d'une rareté de 9 ou moins. Considérez cette attaque comme si le combattant était armé de l'arme choisie.
+with the chosen weapon.";Le vieux fidèle;Outcasts;Utilisez cette tactique lorsqu'un combattant allié vise un combattant ennemi avec une attaque à distance ou au corps à corps. Choisissez une arme à distance ou de mêlée au Trading post, d'une rareté de 9 ou moins. Considérez cette attaque comme si le combattant était armé de l'arme choisie.
 ../TacticsCards/OUTCASTS/Rise from the Ashes.png;Rise from the Ashes;Outcasts Tactics;"Play this gang tactic at the start of any round
 before players Roll for Priority.
 
 For the duration of this round and the following
 two rounds, your gang automatically passes all
-Bottle tests.";Renaître des cendres;Outcasts;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs ne lancent les dés pour déterminer l'ordre de jeu. Pendant ce tour et les deux tours suivants, votre gang réussit automatiquement tous les tests de « bouteille ».
+Bottle tests.";Renaître des cendres;Outcasts;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs ne lancent les dés pour déterminer l'ordre de jeu. Pendant ce tour et les deux tours suivants, votre gang réussit automatiquement tous les Bottle tests.
 ../TacticsCards/OUTCASTS/Temporary Alliance.png;Temporary Alliance;Outcasts Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -3191,7 +3191,7 @@ taken Out of Action.
 The fighter automatically suffers a Memorable
 Death, as if a roll of 66 had been made against
 them on the Lasting Injury table. The fighter's
-cost in credits is then added to your gang's Stash.";On ne l’a jamais vraiment aimé;Outcasts;Joue cette tactique lorsqu'un combattant allié est mis Out of combat. Le combattant subit automatiquement une mort mémorable, comme si un jet de 66 avait été obtenu contre lui sur la table des blessures durables. Le coût en crédits du combattant est ensuite ajouté à la cagnotte de ton gang.
+cost in credits is then added to your gang's Stash.";On ne l’a jamais vraiment aimé;Outcasts;Joue cette tactique lorsqu'un combattant allié est mis Out of combat. Le combattant subit automatiquement une Memorable death, comme si un jet de 66 avait été obtenu pour lui sur la table des Lasting injuries. Le coût en crédits du combattant est ensuite ajouté à la cagnotte de ton gang.
 ../TacticsCards/OUTCASTS/Worthless.png;Worthless;Outcasts Tactics;"Play this gang tactic when a friendly fighter is
 taken Out of Action.
 
@@ -3211,7 +3211,7 @@ then ends:
 Chronomancy - Freeze Time (Double),
 Divination - Misfortune (Basic),
 
-Pyromancy - Molten Bolt (Basic).";Manifestation Wyrd;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant effectue immédiatement l'une des actions de Wyrd Power suivantes (sans avoir à passer de test de Volonté). Son activation prend alors fin : Chronomancie - Gel du temps (Double), Divination - Malchance (Basique), Pyromancie - Éclair en fusion (Basique).
+Pyromancy - Molten Bolt (Basic).";Manifestation Wyrd;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant effectue immédiatement l'une des actions de Wyrd Power suivantes (sans avoir à passer de test de Willpower). Son activation prend alors fin : Chronomancy - Freeze Time (Double), Divination - Misfortune (Basic), Pyromancy - Molten Bolt (Basic).
 ../TacticsCards/SLAVE OGRYNS/Avenging Ogryn.png;Avenging Ogryn;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter is taken Out of Action by an attack made
 by an enemy fighter. Choose a friendly Slave
