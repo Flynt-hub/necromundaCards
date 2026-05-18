@@ -244,7 +244,7 @@ already included in your crew.";Appel aux fidèles;Cawdor;Jouez cette tactique u
 ../TacticsCards/CAWDOR/Deadmen Walking.png;Deadmen Walking;Cawdor Tactics;"Play at the start of any End phase. |
 If your gang is required to make a Bottle test |
 during this End phase, it will |
-automatically pass.";Morts en marche;Cawdor;Jouez au début d’une phase de fin. Si votre gang doit faire un test de cran au cours de cette phase de fin, le test passe automatiquement.
+automatically pass.";Morts en marche;Cawdor;Jouez au début d’une phase de fin. Si votre gang doit faire un Bottle test au cours de cette phase de fin, le test passe automatiquement.
 ../TacticsCards/CAWDOR/Divine Avatar (redacted).png;Divine Avatar;Cawdor Tactics;"Play at the start of the Deployment step of the
 Pre-battle sequence, before any fighters have
 been deployed. Choose a friendly House Cawdor
@@ -255,12 +255,12 @@ performing a Fight (Basic) or Shoot (Basic) action
 that targets this fighter. If they fail, they can't perform
 the action and their action ends. If, at any span, the
 chosen fighter is Seriously Injured, this card has no
-effect for the rest of the battle.";Avatar divin;Cawdor;Jouez au début de l'étape de déploiement de la Séquence pré-bataille, avant que les combattants n'aient été déployé. Choisissez un Champion ou Leader Cawdor. Jusqu'à la fin de cette bataille, ils gagnent la règle Terrifiant. Si, à un moment donné, le combattant choisi est Seriously injured, cette carte n'a plus d’effet pour le reste de la bataille.
+effect for the rest of the battle.";Avatar divin;Cawdor;Jouez au début de l'étape de déploiement de la Séquence pré-bataille, avant que les combattants n'aient été déployé. Choisissez un Champion ou Leader Cawdor. Jusqu'à la fin de cette bataille, ils gagnent la règle Fearsome. Si, à un moment donné, le combattant choisi est Seriously injured, cette carte n'a plus d’effet pour le reste de la bataille.
 ../TacticsCards/CAWDOR/Divine Guidance.png;Divine Guidance;Cawdor Tactics;"Play this gang tactic when activating a friendly
 House Cawdor fighter.
 
 Until the end of the fighter's activation, this
-fighter may re-roll dice rolls of a natural 1.";Guidance divine;Cawdor;Jouez cette tactique lors de l'activation d'un combattant Cawdor allié. Jusqu'à la fin de l'activation du combattant, ce Le combattant peut relancer les jets de dés d’un 1 naturel.
+fighter may re-roll dice rolls of a natural 1.";Guidance divine;Cawdor;Jouez cette tactique lors de l'activation d'un combattant Cawdor allié. Jusqu'à la fin de l'activation du combattant, ce combattant peut relancer les jets de dés d’un 1 naturel.
 ../TacticsCards/CAWDOR/Divine Motivation.png;Divine Motivation;Cawdor Tactics;"Play at the start of the game after both sides have
 deployed.
 
@@ -276,7 +276,7 @@ a board tile. For the duration of this turn, any
 models entering or beginning their turns in the
 affected area must roll to see if they catch fire,
 just as if they had been hit by a weapon with the
-Blaze trait";Effigie des damnés;Cawdor;"Jouez au début d’un tour. Choisissez un élément de terrain d'au moins 6"" de diamètre ou une tuile de plateau. Pendant toute la durée de ce tour, les figurines entrant ou commençant leur tour dans le la zone affectée doivent jeter un dé pour voir si elle prennent feu, comme si elles avaient été touchées par une arme avec le Trait feu"
+Blaze trait";Effigie des damnés;Cawdor;"Jouez au début d’un tour. Choisissez un élément de terrain d'au moins 6"" de diamètre ou une tuile de plateau. Pendant toute la durée de ce tour, les figurines entrant ou commençant leur tour dans le la zone affectée doivent jeter un dé pour voir si elle prennent feu, comme si elles avaient été touchées par une arme avec le trait Blaze"
 ../TacticsCards/CAWDOR/Faith Through Fear.png;Faith Through Fear;Cawdor Tactics;"Play this card when a fighter fails a Cool |
 check.
 
@@ -284,7 +284,7 @@ Instead of suffering the normal effects |
 of failing a Cool check, the fighter
 immediately charges the nearest enemy
 model. If there are no enemy models in |
-range, they become Pinned. |";La foi à travers la peur;Cawdor;Jouez cette tactique lorsqu'un combattant échoue à un test de Cool. Au lieu de subir les effets normaux d'avoir échoué à un test de Cool, le combattant charge immédiatement l'ennemi le plus proche. S'il n'y a aucune figurine ennemie dans portée, ils deviennent Cloué.
+range, they become Pinned. |";La foi à travers la peur;Cawdor;Jouez cette tactique lorsqu'un combattant échoue à un test de Cool. Au lieu de subir les effets normaux d'avoir échoué à un test de Cool, le combattant charge immédiatement l'ennemi le plus proche. S'il n'y a aucune figurine ennemie dans portée, ils deviennent Pinned.
 ../TacticsCards/CAWDOR/Faith Through Fire.png;Faith Through Fire;Cawdor Tactics;"| Play at the start of any round.
 
 |
@@ -325,7 +325,7 @@ a free Shoot (Basic) action with an incendiary
 charge; this attack is made even if the es is
 not equipped with incendiary a ae e Blast
 marker must be centred on this fighter and does
-not scatter.";Feu et zèle;Cawdor;"Jouez cette tactique lors de l'activation d'un combattant allié. Jusqu'au début de sa prochaine activation, ce le combattant devient soumis à la condition Insane. De plus, le combattant fait immédiatement une action Tir (Basique) gratuite avec une charge incendiaire; cette attaque est faite même si le combattant n’est pas équipé d’une charge incendiaire ; le marqueur Blast doit être centré sur ce combattant et ne dévie pas"
+not scatter.";Feu et zèle;Cawdor;"Jouez cette tactique lors de l'activation d'un combattant allié. Jusqu'au début de sa prochaine activation, ce combattant devient soumis à la condition Insane. De plus, le combattant fait immédiatement une action Shoot (basic) gratuite avec une Incendiary charge; cette attaque est faite même si le combattant n’est pas équipé d’une Incendiary charge ; le marqueur Blast doit être centré sur ce combattant et ne dévie pas."
 ../TacticsCards/CAWDOR/Followers of the Path.png;Followers of the Path;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -341,7 +341,7 @@ Champion or Leader can add +1 to their
 Strength and Attacks characteristic, to
 
 a maximum of +3. These effects last until
-the end of the round.";Pour les Perdus !;Cawdor;Jouez au début d’un tour. Pour chaque figurine alliée qui a été mise Hors de combat dans la bataille jusqu'à présent, un Champion ou le Leader peut ajouter +1 à sa caractéristique de Force et d'attaques, jusque’à un maximum de +3. Ces effets durent jusqu'à la fin du round.
+the end of the round.";Pour les Perdus !;Cawdor;Jouez au début d’un tour. Pour chaque figurine alliée qui a été mise Out of action dans la bataille jusqu'à présent, un Champion ou le Leader peut ajouter +1 à sa caractéristique de Strenght et d'attaques, jusqu’à un maximum de +3. Ces effets durent jusqu'à la fin du round.
 ../TacticsCards/CAWDOR/Keeper of Sacred Vermin.png;Keeper of Sacred Vermin;Cawdor Tactics;"Play this gang tactic when a friendly House
 Cawdor fighter deploys a bomb delivery rat.
 This fighter automatically passes their
@@ -364,7 +364,7 @@ This fighter's activation then ends.";Lumière de l'Empereur;Cawdor;"Jouez cette
 For the duration of the End phase, Seriously
 Injured enemy models making Recovery |
 tests must roll two Injury dice and pick the
-worst result.";Pas de prisonniers !;Cawdor;Jouez au début d’une phase de fin. Pendant toute la durée de la phase de fin, Les figurines ennemies Gravement blessées effectuant un test de récupération doivent lancer deux dés de blessure et choisir le pire résultat.
+worst result.";Pas de prisonniers !;Cawdor;Jouez au début d’une phase de fin. Pendant toute la durée de la phase de fin, Les figurines ennemies Seriously injured effectuant un Recovery test doivent lancer deux dés et choisir le pire résultat.
 ../TacticsCards/CAWDOR/Preacher Amongst Us.png;Preacher Amongst Us;Cawdor Tactics;"Play this gang tactic at the start of
 
 the Deployment step of the Pre-battle sequence,
@@ -373,7 +373,7 @@ before any fighters have been deployed.
 Choose a friendly House Cawdor fighter that is
 not a Champion or Leader. Until the end of this
 battle, that fighter gains the Group Activation (1)
-special rule.";Prédicateur parmi nous;Cawdor;Jouez cette tactique au début de l'étape de Déploiement de la séquence Pré-bataille, avant que des combattants aient été déployés. Choisissez un combattant Cawdor allié  qui n’est pas un champion ou un leader. Jusqu'à la fin de ça bataille, ce combattant gagne règle spéciale activation de groupe (1).
+special rule.";Prédicateur parmi nous;Cawdor;Jouez cette tactique au début de l'étape de Déploiement de la séquence Pré-bataille, avant que des combattants aient été déployés. Choisissez un combattant Cawdor allié  qui n’est pas un champion ou un leader. Jusqu'à la fin de ça bataille, ce combattant gagne règle spéciale Group activation (1).
 ../TacticsCards/CAWDOR/Purification Through Blood.png;Purification Through Blood;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -388,14 +388,14 @@ Cawdor fighter makes a Shoot (Basic) or Fight
 (Basic) action using a weapon with the Blaze trait
 Until the end of the fighter's activation, hit
 targets become subject to the Blaze condition on
-a 2+, rather than the usual 4+.";La pureté par le feu;Cawdor;Jouez cette tactique lorsqu’un combattant allié Cawdor effectue un Tir (Basique) ou un combat (Basique) utilisant une arme avec le trait Blaze. Jusqu'à la fin de l'activation du combattant, ses cibles deviennent soumises à la condition Blaze sur un 2+, plutôt que le 4+ habituel.
+a 2+, rather than the usual 4+.";La pureté par le feu;Cawdor;Jouez cette tactique lorsqu’un combattant allié Cawdor effectue un Shoot (basic) ou un Combat (basic) utilisant une arme avec le trait Blaze. Jusqu'à la fin de l'activation du combattant, ses cibles deviennent soumises à la condition Blaze sur un 2+, plutôt que le 4+ habituel.
 ../TacticsCards/CAWDOR/Redemption.png;| Redemption;Cawdor Tactics;"| Play when a friendly fighter is taken Out of
 Action.
 
 Centre the 3” Blast marker on the fighter |
 that has just been taken Out of Action. All
 models under the marker count as being hit
-by a frag grenade.";Rachat;Cawdor;"Jouez lorsqu'un combattant allié est retiré mis Out of Action. Centrez le marqueur Blast de 3"" sur le combattant qui vient d'être mis Hors de combat. Tout les figurines touchées par le gabarit comptent comme étant touchées par une grenade à fragmentation."
+by a frag grenade.";Rachat;Cawdor;"Jouez lorsqu'un combattant allié est mis Out of Action. Centrez le marqueur Blast de 3"" sur le combattant qui vient d'être mis Out of action. Tout les figurines touchées par le gabarit comptent comme étant touchées par une Frag grenade."
 ../TacticsCards/CAWDOR/Reformation.png;Reformation;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -421,13 +421,13 @@ Injured friendly fighter.
 This Fgh tes regains a single Wound and is no
 longer Seriously Injured; instead the fighter
 becomes Standing and Active. This fighter's
-activation then ends.";Renaître;Cawdor;"Jouez cette tactique lors de l'activation d'un combattant allié sérieusement blessé. Ce combattant regagne un point de vie et n'est pas plus Seriously injured; à la place le combattant devient Debout et Actif. L’activation de ce combattant se termine alors."
+activation then ends.";Renaître;Cawdor;"Jouez cette tactique lors de l'activation d'un combattant allié Seriously injured. Ce combattant regagne un point de vie et n'est pas plus Seriously injured; à la place le combattant devient Debout et Actif. L’activation de ce combattant se termine alors."
 ../TacticsCards/CAWDOR/Shielded by Faith.png;Shielded by Faith;Cawdor Tactics;"Play this gang tactic when a friendly House
 Cawdor fighter is hit by a Blast weapon.
 
 Roll a D6. On a 2+, the hit has no effect against
 the chosen fighter. On a 1, they are affected as
-normal but this gang tactic is not discarded.";Protégé par la foi;Cawdor;Jouez cette tactique lorsqu’un combattant allié Cawdor est touché par une arme Blast. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, il est affecté normalement mais cette tactiquement pas défaussée.
+normal but this gang tactic is not discarded.";Protégé par la foi;Cawdor;Jouez cette tactique lorsqu’un combattant allié Cawdor est touché par une arme Blast. Lancez un D6. Sur 2+, le coup n'a aucun effet contre le combattant choisi. Sur 1, il est affecté normalement mais cette tactique n’est pas défaussée.
 ../TacticsCards/CAWDOR/Stirring Oration.png;Stirring Oration;Cawdor Tactics;"Play at the start of any round.
 
 Choose one fen Leader or Champion model.
@@ -435,7 +435,7 @@ For the duration of the round, the Leading by
 Example rule applies as long as the fighter can
 draw line of sight to the chosen model. For this
 round, the chosen Leader or Champion cannot
-benefit from the effects of cover.";Harangue inspirante;Cawdor;Jouez au début d’un tour. Choisissez un Leader ou Champion. Pendant toute la durée du round, la règle « leading by example » s'applique tant qu’un combattant peut tracez une ligne de vue vers le modèle choisi. Pour ce tour, le Leader ou le Champion choisi ne peut pas bénéficier des effets des couverts.
+benefit from the effects of cover.";Harangue inspirante;Cawdor;Jouez au début d’un tour. Choisissez un Leader ou un Champion. Pendant toute la durée du round, la règle Leading by example s'applique tant qu’un combattant peut tracez une ligne de vue vers le modèle choisi. Pour ce tour, le Leader ou le Champion choisi ne peut pas bénéficier des effets des couverts.
 ../TacticsCards/CAWDOR/The Emperor Protects (redacted).png;The Emperor Protects;Cawdor Tactics;"Play this card during the Priority phase of
 
 any round, after Roll for Priority, but before
@@ -447,7 +447,7 @@ be modified in any way. However, if a fighter
 attempts to use this save but the roll is failed, any
 Injury dice that are subsequently rolled treat rolls
 of Seriously Injured as Out of Action. A House
-Cawdor fighter can choose not to make this save.";L'Empereur protège;Cawdor;Jouez cette tactique pendant la phase de Priorité d’un round, après le jet de Priorité mais avant l’activation des combattant. Jusqu’à la fin de ce round, tous les combattants Cawdor alliés gagnent une sauvegarde de 5+ qui ne peut être modifiée d’aucune manière. Toutefois, si un combattant tente d’utiliser cette sauvegarde et échoue, il traite les blessures grave comme des résultats « out of combat ».
+Cawdor fighter can choose not to make this save.";L'Empereur protège;Cawdor;Jouez cette tactique pendant la phase de Priorité d’un round, après le jet de Priorité mais avant l’activation des combattant. Jusqu’à la fin de ce round, tous les combattants Cawdor alliés gagnent une sauvegarde de 5+ qui ne peut être modifiée d’aucune manière. Toutefois, si un combattant tente d’utiliser cette sauvegarde et échoue, il traite les blessures grave comme des résultats Out of action.
 ../TacticsCards/CAWDOR/The Price of Avarice.png;The Price of Avarice;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -457,7 +457,7 @@ that are within 4"" of a friendly House Cawdor
 fighter must re-roll successful Ammo checks to
 see if their weapon goes Out of Ammo (they do
 not have to re-roll Ammo checks made as part
-of the Reload action).";Le prix de l’avarice;Cawdor;"Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants. Jusqu'à la fin de ce tour, tous les combattants ennemis qui se trouvent à au moins 4"" d’un combattant Cawdor allié le combattant doit relancer ses tests de munitions (ils ne de relance si le test est effectué dans le cadre de l'action Recharger)."
+of the Reload action).";Le prix de l’avarice;Cawdor;"Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants. Jusqu'à la fin de ce tour, tous les combattants ennemis qui se trouvent à au moins 4"" d’un combattant Cawdor doivent relancer leur tests de munitions (ils ne font pas de relance si le test est effectué dans le cadre de l'action Reload)."
 ../TacticsCards/CAWDOR/Unyielding Zeal.png;Unyielding Zeal;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -544,7 +544,7 @@ Death result. For the remainder of the battle,
 all friendly models apply a +1 modifier to any
 rolls to wound the enemy model, and friendly
 models earn an additional D3 XP if they take
-the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Hors de combat.
+the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Out of action.
 ../TacticsCards/CAWDOR VEHICLES/Prayer Wagon.png;Prayer Wagon;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 
@@ -588,7 +588,7 @@ sequence during the Receive Rewards step.
 Add D3x5 credits to your gang’s Stash for each
 Wrecked enemy vehicle and enemy fighter
 subject to the Mounted condition who was taken
-Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, pendant l’étape recevoir les récompenses. Ajoutez des D3x5 crédits à la réserve de votre gang pour chaque véhicule ennemi détruit et combattant ennemi Monté qui a été mis Hors de combat.
+Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, pendant l’étape recevoir les récompenses. Ajoutez des D3x5 crédits à la réserve de votre gang pour chaque véhicule ennemi détruit et combattant ennemi Monté qui a été mis Out of action.
 ../TacticsCards/CORPSE GRINDERS/Blessed by Death.png;Blessed by Death;Corpse Grinders Tactics;"Play this card when a fighter in your gang
 
 takes an enemy fighter Out of Action with
@@ -621,7 +621,7 @@ Remove anumber of Flesh Wounds from |
 the fighter equal to the Wounds
 characteristic of the enemy fighter taken
 
-Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un nombre de Blessures Légères de ce combattant égal aux à la caractéristique de Wounds du combattant ennemi mis Hors de combat par le coup de grâce.
+Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un nombre de Blessures Légères de ce combattant égal aux à la caractéristique de Wounds du combattant ennemi mis Out of action par le coup de grâce.
 ../TacticsCards/CORPSE GRINDERS/Frenzy.png;| Frenzy;Corpse Grinders Tactics;"Play this card instead of activating a fighter.
 Choose a single Ready enemy fighter within 9""
 and line of sight of one of your fighters. The
@@ -664,7 +664,7 @@ Choose a friendly Standing and Engaged |
 fighter within 9"" and line of sight of the
 fighter taken Out of Action. They may
 immediately make a Fight (Basic) action,
-even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Hors de combat. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of Action. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
+even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Out of action. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of Action. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
 ../TacticsCards/CORPSE GRINDERS/The Red Hunt.png;The Red Hunt;Corpse Grinders Tactics;"| Play this card during any Action phase, after
 Fleeing the battlefield but before Activate
 Fighters.
@@ -1206,7 +1206,7 @@ attack made by a friendly fighter. |
 After completing the current fighter's
 activation, immediately activate a friendly
 fighter within 12"" of the fighter who just
-activated. |";Sororité de la violence;Escher;"Jouez cette tactique lorsqu'un combattant ennemi est mis Hors de combat à la suite d'un attaque effectuée par un combattant allié. À la fin de l’activation de ce combattant, activez immédiatement un combattant allié à au moins 12""."
+activated. |";Sororité de la violence;Escher;"Jouez cette tactique lorsqu'un combattant ennemi est mis Out of action à la suite d'un attaque effectuée par un combattant allié. À la fin de l’activation de ce combattant, activez immédiatement un combattant allié à au moins 12""."
 ../TacticsCards/ESCHER/Stealthy Advance.png;Stealthy Advance;Escher Tactics;"| Play this card after both gangs have been
 set up at the start of the battle, before the
 first round begins.
@@ -1373,7 +1373,7 @@ they are taken Out of Action during this action
 (for example, due to Reaction attacks) do not roll
 an additional time on the Lasting Injury table,
 though the enemy model will gain XP as normal
-for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié Montée et mis Hors de combat, avant de le retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action puis il est retiré du champ de bataille. Si ils sont mis Out of Action pendant cette action (par exemple, en raison d'attaques de réaction) ne faite pas un jet supplémentaire sur le tableau Lasting injuries, cependant la figurine ennemie gagnera de l'XP comme d'habitude pour l’avoir mis Out of Action.
+for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié Montée et mis Out of action, avant de le retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action puis il est retiré du champ de bataille. Si ils sont mis Out of Action pendant cette action (par exemple, en raison d'attaques de réaction) ne faite pas un jet supplémentaire sur le tableau Lasting injuries, cependant la figurine ennemie gagnera de l'XP comme d'habitude pour l’avoir mis Out of Action.
 ../TacticsCards/ESCHER VEHICLES/Wheels Down.png;Wheels Down;Escher Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition falls, before
 resolving any hits for falling.
@@ -1692,7 +1692,7 @@ Out of Action.
 
 For the rest of the game, any nerve checks |
 made for enemy fighters within 8"" of them
-have a -2 modifier.";Réputation redoutable;Générique;"Jouez cette tactique après qu'un de vos combattant ai mis un ennemi Hors de combat. Pour le reste de la bataille, tout Nerve test fait par les combattants ennemis dans les 8"" de ce combattant subit un malus de -2."
+have a -2 modifier.";Réputation redoutable;Générique;"Jouez cette tactique après qu'un de vos combattant ai mis un ennemi Out of action. Pour le reste de la bataille, tout Nerve test fait par les combattants ennemis dans les 8"" de ce combattant subit un malus de -2."
 ../TacticsCards/GENERIC CARDS/Fire Discipline.png;Fire Discipline;Gang Tactics;"| Play this card at the start of the battle, after
 setting up your gang.
 
@@ -1824,7 +1824,7 @@ a ranged attack. If they are equipped with a
 grenade that has the Blast trait, and the Blast
 marker is centred on them, it will not scatter. As
 soon as the attack has been resolved, the fighter
-is removed from play.";Dernier souffle;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Hors de combat. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une attaque de mêlée s'il est Engagés, sinon c'est une attaque à distance. S'il est équipé d'un grenade qui a le trait Blast, le gabarit est centré sur lui et ne se dispersera pas. Dès que l'attaque est résolue, le combattant est retiré du jeu.
+is removed from play.";Dernier souffle;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of action. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une attaque de mêlée s'il est Engagés, sinon c'est une attaque à distance. S'il est équipé d'un grenade qui a le trait Blast, le gabarit est centré sur lui et ne se dispersera pas. Dès que l'attaque est résolue, le combattant est retiré du jeu.
 ../TacticsCards/GENERIC CARDS/Last Round.png;Last Round;Gang Tactics;"Play this card when activating a fighter that has
 one or more Out of Ammo markers on them.
 Choose one of this fighter's ranged weapons
