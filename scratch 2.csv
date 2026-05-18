@@ -3620,7 +3620,7 @@ may be added to your starting crew. Nominate
 a Leader or Champion within your crew. For the
 duration of this battle, the chosen Gang Fighter
 (X) follows the rules for Exotic Beasts, as if they
-were owned by the chosen Leader and Champion";Garde du corps;Van Saar;Jouez cette tactique au début de l’étape de déploiement de la séquence d’avant-bataille, avant que les combattants ne soient déployés. Un combattant doté de la compétence « Combattant de gang » (X) appartenant à votre gang et ne faisant pas partie de votre équipe de départ peut être ajouté à votre équipe de départ. Désignez un chef ou un champion au sein de votre équipe. Pendant toute la durée de cette bataille, le combattant de gang (X) choisi suit les règles applicables aux bêtes exotiques, comme s’il appartenait au chef et au champion désignés.
+were owned by the chosen Leader and Champion";Garde du corps;Van Saar;Jouez cette tactique au début de l’étape de déploiement de la séquence d’avant-bataille, avant que les combattants ne soient déployés. Un combattant doté de la compétence Gang fighter (X) de votre gang et ne faisant pas partie de votre gang de départ peut être ajouté à votre gang de départ. Désignez un leader ou un champion au sein de votre équipe. Pendant toute la durée de cette bataille, le Gang fighter (X) choisi suit les règles applicables aux bêtes exotiques, comme s’il appartenait au leader et au champion désignés.
 ../TacticsCards/VAN SAAR/Ablative Mesh.png;Ablative Mesh;Yan Saar Tactics;"Play this gang tactic when a friendly Van Saar
 fighter suffers a hit from any weapon with
 
@@ -3629,7 +3629,7 @@ a Strength characteristic other than '~’.
 Treat this hit as having been caused by a weapon
 with the Knockback trait but do not resolve
 
-the hit itself. Instead, the hit is discarded.";Maille ablative;Van Saar;Utilisez cette tactique lorsqu'un combattant allié de Van Saar subit un coup porté par une arme dont la caractéristique de Force n'est pas « ~ ». Considérez ce coup comme ayant été infligé par une arme dotée de la caractéristique « Repoussement », mais ne résolvez pas le coup lui-même. Au lieu de cela, le coup est ignoré.
+the hit itself. Instead, the hit is discarded.";Maille ablative;Van Saar;Utilisez cette tactique lorsqu'un combattant allié Van Saar subit un coup porté par une arme dont la caractéristique de Force n'est pas « ~ ». Considérez ce coup comme ayant été infligé par une arme dotée du trait Knockback, mais ne résolvez pas le coup lui-même. Au lieu de cela, le coup est ignoré.
 ../TacticsCards/VAN SAAR/Ammo Dump.png;Ammo Dump;Yan Saar Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Place an additional
@@ -3640,7 +3640,7 @@ that has a weapon that is currently Out of
 Ammo may immediately make a free Reload
 (Simple) action. A fighter can make this action
 even if they would normally be unable to do so,
-e.g., if an Out of Ammo weapon has Scarce trait.";Dépôt de munitions;Van Saar;"Jouez cette tactique au début de la phase de déploiement, avant que le moindre combattant n'ait été déployé. Placez une caisse de munitions supplémentaire n'importe où sur le champ de bataille. Tout combattant qui s'active alors qu'il se trouve à au moins 3"" de cette caisse de munitions, qui n'est pas Seriously injured  peut immédiatement effectuer une action de rechargement (simple). Un combattant peut effectuer cette action même s’il ne serait normalement pas en mesure de le faire, par exemple si une arme à court de munitions possède le trait « Rare »."
+e.g., if an Out of Ammo weapon has Scarce trait.";Dépôt de munitions;Van Saar;"Jouez cette tactique au début de la phase de déploiement, avant que le moindre combattant n'ait été déployé. Placez une caisse de munitions supplémentaire n'importe où sur le champ de bataille. Tout combattant qui s'active alors qu'il se trouve à au moins 3"" de cette caisse de munitions, qui n'est pas Seriously injured  peut immédiatement effectuer une action de Reload (simple). Un combattant peut effectuer cette action même s’il ne serait normalement pas en mesure de le faire, par exemple si une arme à court de munitions possède le trait Scarce."
 ../TacticsCards/VAN SAAR/Arachni-ropes.png;Arachni-ropes;Yan Saar Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -3649,7 +3649,7 @@ For the duration of this battle, D6 friendly
 fighters of your choice in your starting crew
 count as being equipped with a grav chute
 (make a note of this on the chosen fighters'
-Fighter cards).";Arachni-cordes;Van Saar;Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Pendant toute la durée de cette bataille, D6 combattant alliés de votre choix parmi votre escadron de départ sont considérés comme équipés d'un parachute gravitationnel.
+Fighter cards).";Arachni-cordes;Van Saar;Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Pendant toute la durée de cette bataille, D6 combattant alliés de votre choix parmi votre gang de départ sont considérés comme équipés d’un Grav chute.
 ../TacticsCards/VAN SAAR/Auto-Healer.png;Auto-Healer;Van Saar Tactics;"| Play this card at the start of any End phase.
 
 |
@@ -3663,21 +3663,21 @@ become Pinned.
 
 |
 
-|";Guérisseur automatique;Van Saar;Jouez cette tactique au début de n'importe quelle phase de fin. Choisissez un combattant Seriously injured. Au lieu de lancer le dé de blessure, vous pouvez choisir de faire subir à ce combattant une blessure superficielle et de le rendre Cloué.
+|";Guérisseur automatique;Van Saar;Jouez cette tactique au début de n'importe quelle phase de fin. Choisissez un combattant Seriously injured. Au lieu de faire le Injury roll, vous pouvez choisir de faire subir à ce combattant une Flesh wound et de le rendre Pinned.
 ../TacticsCards/VAN SAAR/Blood Cleanser.png;Blood Cleanser;Van Saar Tactics;"| Play at the start of any turn.
 
 For the duration of the round, all friendly
 models count their Toughnessas higher |
 when affected by weapons with the Toxin
 
-or Gas traits.";Purificateur sanguin;Van Saar;À jouer au début de n'importe quel tour. Pendant toute la durée du round, tous les modèles alliés voient leur Endurance augmentée lorsqu'ils sont touchés par des armes dotées des traits Toxine ou Gaz.
+or Gas traits.";Purificateur sanguin;Van Saar;À jouer au début de n'importe quel tour. Pendant toute la durée du round, tous les modèles alliés voient leur Toughness augmentée lorsqu'ils sont touchés par des armes dotées des traits Toxin ou Gas.
 ../TacticsCards/VAN SAAR/Comm Burst.png;Comm Burst;Van Saar Tactics;"| Play at the start of any turn.
 
 For this round, your gang's Leader can make
 Rally actions for Broken fighters anywhere |
 on the board. In addition, the range of
 Leading by Example is increased to 18"" for
-Leaders and 12"" for Champions.";Salve de communication;Van Saar;Jouez cette tactique au début d'un tour. Pendant ce tour, le chef de votre gang peut effectuer des actions de ralliement pour les combattants à terre n'importe où sur le plateau. De plus, la portée de « Montrer l'exemple » est portée à 18 pouces pour les chefs et à 12 pouces pour les champions.
+Leaders and 12"" for Champions.";Salve de communication;Van Saar;Jouez cette tactique au début d'un tour. Pendant ce tour, le chef de votre gang peut effectuer des actions de ralliement pour les combattants Broken n'importe où sur le plateau. De plus, la portée de Lead by example est portée à 18 pouces pour le leader et à 12 pouces pour les champions.
 ../TacticsCards/VAN SAAR/Cortical Stimulants.png;Cortical Stimulants;Van Saar Tactics;"Play at the start of the game, after |
 deployment.
 
@@ -3696,7 +3696,7 @@ reading your opponent's gang tactics, choose one.
 Your opponent must immediately discard
 
 the chosen gang tactic and randomly select
-another.";Extraction de données;Van Saar;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Votre adversaire doit immédiatement vous dévoiler ses tactiques  de gang restantes et non encore jouées. Après avoir pris connaissance des tactiques de gang de votre adversaire, choisissez-en une. Votre adversaire doit immédiatement défausser la tactique de gang choisie et en sélectionner une autre au hasard.
+another.";Extraction de données;Van Saar;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Votre adversaire doit immédiatement vous dévoiler ses tactiques restantes et non encore jouées. Après avoir pris connaissance des tactiques de gang de votre adversaire, choisissez-en une. Votre adversaire doit immédiatement défausser la tactique choisie et en sélectionner une autre au hasard.
 ../TacticsCards/VAN SAAR/Defensive Protocols.png;Defensive Protocols;Yan Saar Tactics;"Play this gang tactic when a Leader or Champion
 belonging to your gang is hit by a ranged attack,
 before the hit is resolved.
@@ -3705,7 +3705,7 @@ You may choose to transfer the hit and all of its
 effects onto any friendly fighter with the Gang
 Fighter (X) special rule that is within 2"" of
 
-the Leader or Champion that was hit.";Protocoles défensifs;Van Saar;"Jouez cette tactique lorsqu'un leader ou un champion de votre gang est touché par une attaque à distance, avant que le coup ne soit résolu. Vous pouvez choisir de transférer le hit et l'ensemble de ses effets sur tout combattant allié du Gang Règle spéciale Combattant (X) qui se trouve à au moins 2"" de le leader ou le champion qui a été touché."
+the Leader or Champion that was hit.";Protocoles défensifs;Van Saar;"Jouez cette tactique lorsqu'un leader ou un champion de votre gang est touché par une attaque à distance, avant que le coup ne soit résolu. Vous pouvez choisir de transférer le hit et l'ensemble de ses effets sur tout combattant allié avec la règle spéciale Gang fighter (X) qui se trouve à au moins 2"" du leader ou du champion qui a été touché."
 ../TacticsCards/VAN SAAR/Enhanced Auspexes.png;Enhanced Auspexes;Van Saar Tactics;"| Play instead of activating a fighter.
 
 For the remainder of the round, friendly
@@ -3716,11 +3716,7 @@ barricades, but NOT through any
 impassable terrain. These shots suffer a -2
 penalty to hit and the target's armour save
 
-is increased by 1.";Auspex améliorés;Van Saar;"Jouer cette carte au lieu d'activer un combattant.
-Pendant le reste du tour, les combattants alliés
-peuvent tirer à travers des obstacles
-bloquant la ligne de vue, tels que des portes et 
-des barricades, mais PAS à travers un terrain infranchissable. Ces tirs subissent une pénalité de -2 pour toucher et la sauvegarde d'armure de la cible est augmentée de 1."
+is increased by 1.";Auspex améliorés;Van Saar;Jouer cette carte au lieu d'activer un combattant. Pendant le reste du tour, les combattants alliés peuvent tirer à travers des obstacles bloquant la ligne de vue, tels que des portes et des barricades, mais PAS à travers un  terrain infranchissable. Ces tirs subissent une pénalité de -2 pour toucher et la sauvegarde d'armure de la cible est augmentée de 1.
 ../TacticsCards/VAN SAAR/Enhanced Cyberteknika.png;Enhanced Cyberteknika;Yan Saar Tactics;"Play this gang tactic at the start of Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. For the duration
@@ -3732,10 +3728,7 @@ equipped with a piece of Alpha Cyberteknika
 counts as being equipped with the Gamma level
 equivalent for the duration of this battle.
 Fighters equipped with Omega level
-Cyberteknika gain no benefit.";Cyberteknika améliorée;Van Saar;"Jouez cette tactique au début de la phase de déploiement
-de la séquence d'avant-bataille, avant que
-le moindre combattant n'ait été déployé. Pendant toute la durée
-de cette bataille, tout combattant de votre gang équipé d'un élément de Cyberteknika peut considérer cet élément comme étant du niveau supérieur. Par exemple, un combattant équipé d'un élément de Cyberteknika de niveau Alpha est considéré comme étant équipé de l'équivalent de niveau Gamma pendant toute la durée de cette bataille. Les combattants équipés d’un équipement Cyberteknika de niveau Omega ne bénéficient d’aucun avantage."
+Cyberteknika gain no benefit.";Cyberteknika améliorée;Van Saar;Jouez cette tactique au début de la phase de déploiement de la séquence d'avant-bataille, avant que le moindre combattant n'ait été déployé. Pour la durée de cette bataille, tout combattant de votre gang équipé d’un élément de Cyberteknika peut considérer cet élément comme étant du niveau supérieur. Les combattants équipés d’un équipement Cyberteknika de niveau Omega ne bénéficient d’aucun avantage.
 ../TacticsCards/VAN SAAR/Experimental Rig.png;Experimental Rig;Van Saar Tactics;"Play at the start of the game, after both sides
 have deployed.
 
@@ -3744,9 +3737,7 @@ fighter. For the duration of the game, this
 weapon increases its Long range by 6"" and its
 Strength by 1, but loses the Plentiful trait if it
 has it, and gains the Scarce trait if it doesn't
-have it.";Harnais expérimental;Van Saar;"Jouez cette tactique au début de la partie, une fois que les deux camps
-se sont déployés.
-Choisissez une arme détenue par un combattant allié. Pendant toute la durée de la partie, cette arme voit sa portée longue augmentée de 6 pouces et sa puissance augmentée de 1, mais perd le trait « Abondant » si elle en dispose, et gagne le trait « Rare » si elle n'en dispose pas."
+have it.";Harnais expérimental;Van Saar;Jouez cette tactique au début de la partie, une fois que les deux camps se sont déployés. Choisissez une arme détenue par un combattant allié. Pendant toute la durée de la partie, cette arme voit sa portée longue augmentée de 6 pouces et sa Strength augmentée de 1, mais perd le trait Plentiful si elle en dispose, et gagne le trait Scarce si elle n'en dispose pas.
 ../TacticsCards/VAN SAAR/Feigned Nobility.png;Feigned Nobility;Yan Saar Tactics;"Play this tactic at the start of Deployment step of
 the pre-battle sequence, before deploying any
 fighters. You may recruit either a House Agent
@@ -3757,7 +3748,7 @@ and select another. If this fighter is taken OoA,
 every friendly fighter suffers a -2 modifier to
 their Cool for the rest of this battle. If this is a
 campaign battle, your gang loses 5 Rep and the
-gang that takes this fighter OoA gains 3 Rep.";Noblesse feinte;Van Saar;Jouez cette tactique au début de la phase de déploiement, avant de déployer tout combattant. Vous pouvez recruter soit un agent de la Maison, soit un personnage de la distribution pour cette bataille. Ils s'ajoutent à votre équipage de départ. Si vous n'avez pas de figurine, vous pouvez écarter cette tactique et en choisir une autre. Si ce chasseur est mis Out of Action (OoA), tous les chasseurs amis subissent un modificateur de -2 à leur Cool pour le reste de cette bataille. S'il s'agit d'une bataille de campagne, votre gang perd 5 points de réputation et le gang qui met ce chasseur Out of Action (OoA) gagne 3 points de réputation.
+gang that takes this fighter OoA gains 3 Rep.";Noblesse feinte;Van Saar;Jouez cette tactique au début de la phase de déploiement, avant de déployer tout combattant. Vous pouvez recruter soit un House agent, soit un Dramatis Personae pour cette bataille. Ils s'ajoutent à votre gang de départ. Si ce combattant est mis Out of Action, tous les combattants alliés subissent un modificateur de -2 à leur Cool pour le reste de cette bataille. S'il s'agit d'une bataille de campagne, votre gang perd 5 points de réputation et le gang qui met ce combattant Out of Action gagne 3 points de réputation.
 ../TacticsCards/VAN SAAR/Hyper Auto-Loader.png;| Hyper Auto-Loader;Van Saar Tactics;"Play when a fighter makes a ranged attack.
 
 If the fighter is using a weapon with the Rapid
@@ -3765,7 +3756,7 @@ Fire trait, they may roll 2 extra Firepower dice.
 After working out the effects of the shot, their
 ranged weapon automatically counts as having
 failed an Ammo check, regardless of the results
-of the Firepower dice.";Hyper chargeur automatique;Van Saar;À jouer lorsqu'un combattant effectue une attaque à distance. Si le combattant utilise une arme dotée de la caractéristique « Tir rapide », il peut lancer 2 dés de puissance de tir supplémentaires, mais subit les effet ayant échoué à un test de munitions quelque soit le résultat des dés.
+of the Firepower dice.";Hyper chargeur automatique;Van Saar;À jouer lorsqu'un combattant effectue une attaque à distance. Si le combattant utilise une arme dotée de la caractéristique Rapid fire (X), il peut lancer 2 dés de puissance de tir supplémentaires, mais considère son arme Out of ammo et en subit les effets concomitant (Unstable par exemple)
 ../TacticsCards/VAN SAAR/Longshot.png;| Longshot;Yan Saar Tactics;"Play this gang tactic when a friendly Van Saar
 fighter makes a Shoot (Basic) action, before
 rolling any dice.
@@ -3775,7 +3766,7 @@ is 2+. In addition, for the duration of this action,
 this fighter ignores all negative modifiers that
 may apply to their hit rolls. However, after
 resolving the attack, the weapon is immediately
-Out of Ammo.";Tir longue distance;Van Saar;Jouez cette tactique lorsqu'un combattant Van Saar allié effectue une action de Tir (Basique), avant de lancer les dés. Pendant la durée de l'action,  la bs est de 2+. De plus, ce combattant ignore tous les modificateurs négatifs qui pourraient s'appliquer à ses jets d'attaque. Après l'attaque, l'arme est immédiatement à court de munitions.
+Out of Ammo.";Tir longue distance;Van Saar;Jouez cette tactique lorsqu'un combattant Van Saar allié effectue une action de Shoot (Basic), avant de lancer les dés. Pendant la durée de l'action, la BS est de 2+. De plus, ce combattant ignore tous les modificateurs négatifs qui pourraient s'appliquer à ses jets d'attaque. Après l'attaque, l'arme est immédiatement Out of ammo.
 ../TacticsCards/VAN SAAR/Medical Intervention.png;Medical Intervention;Yan Saar Tactics;"Play this gang tactic during any End phase,
 before making any Recovery tests.
 
@@ -3783,32 +3774,31 @@ Choose one Seriously Injured friendly Van Saar
 fighter. Do not make a Recovery test for this
 fighter. Instead, this fighter immediately
 recovers, exactly as if a Flesh Wound result had
-been rolled for them.";Intervention médicale;Van Saar;Jouez cette tactique pendant n'importe quelle phase de fin, avant d'effectuer tout test de récupération. Choisissez un combattant Van Saar allié Seriously injured. N'effectuez pas de test de récupération pour ce combattant. À la place, ce combattant se rétablit immédiatement, exactement comme si un résultat « Blessure superficielle » avait été obtenu pour lui.
+been rolled for them.";Intervention médicale;Van Saar;Jouez cette tactique pendant n'importe quelle phase de fin, avant d'effectuer tout Recovery test. Choisissez un combattant Van Saar allié Seriously injured. N'effectuez pas de Recovery test pour ce combattant. À la place, ce combattant se rétablit immédiatement, exactement comme si un résultat Flesh wound avait été obtenu pour lui.
 ../TacticsCards/VAN SAAR/Medical Protocols.png;Medical Protocols;Van Saar Tactics;"| Play at the start of any End phase.
 
 For the duration of this End phase, when
 any fighter assists a friendly fighter's |
 Recovery test, roll an extra Injury dice, then
-choose one to keep.";Protocoles médicaux;Van Saar;Jouez cette tactique au début de n'importe quelle phase de fin. Pendant toute la durée de cette phase de fin, lorsqu'un combattant aide un combattant allié à effectuer un test de Récupération, lancez un dé de Blessure supplémentaire, puis choisissez-en un à conserver.
+choose one to keep.";Protocoles médicaux;Van Saar;Jouez cette tactique au début de n'importe quelle phase de fin. Pendant toute la durée de cette phase de fin, lorsqu'un combattant aide un combattant allié à effectuer un Recovery test, lancez un dé d’Injury supplémentaire, puis choisissez-en un à conserver.
 ../TacticsCards/VAN SAAR/Mesh Underlay.png;Mesh Underlay;Van Saar Tactics;"| Play when a fighter is hit by a ranged attack.
 For the remainder of the battle, the chosen
 fighter's armour saves are not modified by |
-AP when hit by a ranged attack.";Sous-couche en maille;Van Saar;À jouer lorsqu'un combattant est touché par une attaque à distance. Pendant le reste du combat, les jets de sauvegarde d'armure du combattant choisi ne sont pas modifiés par les points d'armure (PA) lorsqu'il est touché par une attaque à distance.
+AP when hit by a ranged attack.";Sous-couche en maille;Van Saar;À jouer lorsqu'un combattant est touché par une attaque à distance. Pendant le reste du combat, les jets de sauvegarde d'armure du combattant choisi ne sont pas modifiés par l’AP lorsqu'il est touché par une attaque à distance.
 ../TacticsCards/VAN SAAR/Overcharge.png;Overcharge;Van Saar Tactics;"Play when a fighter makes a ranged attack. |
 For the duration of the fighter's activation, _
 one of their Las or Plasma ranged weapons |
-increases its Strength by 2.";Surcharge;Van Saar;Jouez cette tactique lorsqu'un combattant effectue une attaque à distance. Pendant toute la durée de l'activation du combattant, l'une de ses armes à distance à laser ou à plasma voit sa Force augmentée de 2.
+increases its Strength by 2.";Surcharge;Van Saar;Jouez cette tactique lorsqu'un combattant effectue une attaque à distance. Pendant toute la durée de l'activation du combattant, l'une de ses armes à distance à laser ou plasma voit sa Strength augmentée de 2.
 ../TacticsCards/VAN SAAR/Pneumatic Injectors.png;Pneumatic [njectors;Van Saar Tactics;"Play when a fighter makes a melee attack.
 For the duration of the fighter's activation,
 one of their melee weapons increases its
-Strength by 2.";Injecteurs pneumatiques;Van Saar;À jouer lorsqu'un combattant effectue une attaque au corps à corps. Pendant toute la durée de l'activation du combattant, l'une de ses armes de corps à corps voit sa Force augmentée de 2.
+Strength by 2.";Injecteurs pneumatiques;Van Saar;À jouer lorsqu'un combattant effectue une attaque au corps à corps. Pendant toute la durée de l'activation du combattant, l'une de ses armes de corps à corps voit sa Strength augmentée de 2.
 ../TacticsCards/VAN SAAR/Power Up.png;Power Up;Yan Saar Tactics;"Play this gang tactic when afriendly Van
 Saar fighter makes an attack using any form
 
 of 'las' weapon. |
 For the duration of this action, the Strength
-characteristic of the weapon used is doubled";Mise sous tension;Van Saar;"Utilisez cette tactique lorsqu'un combattant VanSaar allié lance une attaque à l'aide d'une arme de type « laser ». Pendant toute la durée de cette action, la caractéristique
-Force de l'arme utilisée est doublée"
+characteristic of the weapon used is doubled";Mise sous tension;Van Saar;Utilisez cette tactique lorsqu'un combattant VanSaar allié lance une attaque à l'aide d'une arme de type laser. Pendant toute la durée de cette action, la caractéristique de Strength de l'arme utilisée est doublée
 ../TacticsCards/VAN SAAR/Rad-clouds.png;Rad-clouds;Yan Saar Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round. Place D3 markers anywhere on the
@@ -3820,7 +3810,7 @@ markers. On a 5 or 6, that fighter immediately
 suffers a Flesh Wound. At the start of each End
 phase, roll a D6 for each marker. On a 1,
 
-the marker is removed.";Nuages rad;Van Saar;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Placez D3 marqueurs n'importe où sur le champ de bataille, à plus de 6"" d'un combattant ennemi. Lancez un D6 pour tout combattant, ami ou ennemi, qui n'appartient pas à la Maison Van Saar et qui termine son activation à au moins 3"" du centre de l'un de ces marqueurs. Sur un 5 ou un 6, ce combattant subit immédiatement une blessure superficielle. Au début de chaque phase de fin, lancez un D6 pour chaque marqueur. Sur un 1, le marqueur est retiré."
+the marker is removed.";Nuages rad;Van Saar;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Placez D3 marqueurs n'importe où sur le champ de bataille, à plus de 6"" d'un combattant ennemi. Lancez un D6 pour tout combattant, allié ou ennemi, qui n'appartient pas à la Maison Van Saar et qui termine son activation à au moins 3"" du centre de l'un de ces marqueurs. Sur un 5 ou un 6, ce combattant subit immédiatement une Flesh wound. Au début de chaque phase de fin, lancez un D6 pour chaque marqueur. Sur un 1, le marqueur est retiré."
 ../TacticsCards/VAN SAAR/Rapid Fire.png;Rapid Fire;Van Saar Tactics;"| Play this card when activating a fighter.
 This fighter can perform a free Shoot (Basic)
 action during its activation. This free action |
@@ -3836,7 +3826,7 @@ terminal on the battlefield immediately ceases
 
 to function (and may be removed). If there are
 fewer than three doors on the battlefield, you
-may discard this tactic and select another.";Contournement de sécurité;Van Saar;Si votre gang est l'attaquant, jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité, mais avant la phase « Préparer les combattants ». Si votre gang n'est pas l'attaquant, défaussez cette tactique et choisissez-en une autre. Toutes les portes fermées sur le champ de bataille s'ouvrent immédiatement. Toutes les portes verrouillées se déverrouillent et s'ouvrent immédiatement. Tous les terminaux de porte sur le  champ de bataille cessent immédiatement de fonctionner (et peuvent être retirés). S'il y a moins de trois portes sur le champ de bataille, vous pouvez défausser cette tactique et en choisir une autre.
+may discard this tactic and select another.";Contournement de sécurité;Van Saar;Si votre gang est l'attaquant, jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité. Si votre gang n'est pas l'attaquant, défaussez cette tactique et choisissez-en une autre. Toutes les portes fermées sur le champ de bataille s'ouvrent immédiatement. Toutes les portes verrouillées se déverrouillent et s'ouvrent immédiatement. Tous les terminaux de porte sur le champ de bataille cessent immédiatement de fonctionner (et peuvent être retirés). S'il y a moins de trois portes sur le champ de bataille, vous pouvez défausser cette tactique et en choisir une autre.
 ../TacticsCards/VAN SAAR/Shut-in.png;Shut-in;Yan Saar Tactics;"If you are the defender, play this tactic during
 the Priority phase of any round, after Roll for
 Priority, but before Ready Fighters. If you aren't
@@ -3847,7 +3837,7 @@ doors without a terminal also become locked but
 can only be opened by force, either by targeting
 with attacks or by performing a Force Door
 (Basic) action. If there are fewer than three doors
-you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité, mais avant la phase « Préparer les combattants ». Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la force, soit en les ciblant avec des attaques, soit en effectuant une action « Forcer la porte » (Basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
+you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité. Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la force, soit en les ciblant avec des attaques, soit en effectuant une action Force door (Basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
 ../TacticsCards/VAN SAAR/Tracer Fire.png;Tracer Fire;Yan Saar Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -3856,7 +3846,7 @@ For the duration of this round, any friendly
 fighter that performs a Shoot (Basic) or Shoot
 (Double) action as part of a Group Activation
 may apply a +1 modifier to their Ballistic Skill
-for the duration of their activation.";Feu traceur;Van Saar;Jouez cette tactique pendant la phase de priorité de n'importe quel tour, après le jet de priorité. Pendant toute la durée de ce tour, tout combattant allié qui effectue une action de tir (basique) ou de tir (double) dans le cadre d'une activation de groupe peut appliquer un modificateur de +1 à sa compétence balistique pendant toute la durée de son activation.
+for the duration of their activation.";Feu traceur;Van Saar;Jouez cette tactique pendant la phase de priorité de n'importe quel tour, après le jet de priorité. Pendant toute la durée de ce tour, tout combattant allié qui effectue une action de Shoot (basic) ou de Shoot (double) dans le cadre d'une activation de groupe peut appliquer un modificateur de +1 à sa BS pendant toute la durée de son activation.
 ../TacticsCards/VAN SAAR/Unexpected Allies.png;Unexpected Allies;Yan Saar Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Your gang may
@@ -3867,7 +3857,7 @@ or two laspistols. These fighters aren't counted
 towards your maximum crew size - they're taken
 in addition to your starting crew. If you don't
 have models available, you may discard this tactic
-and select another.";Des alliés inattendus;Van Saar;Jouez cette tactique au début de l'étape de Déploiement de la séquence d'avant-bataille, avant que le moindre combattant n'ait été déployé. Votre gang peut recruter immédiatement jusqu'à trois Subteks. Ils sont recrutés gratuitement, mais quitteront le gang à la fin de cette bataille. Chaque Subtek est équipé d’un lasgun ou de deux laspistols. Ces combattants ne sont pas pris en compte dans la taille maximale de votre équipage : ils s’ajoutent à votre équipage de départ. Pas de figurines disponibles, vous pouvez ignorer cette tactique et en choisir une autre.
+and select another.";Des alliés inattendus;Van Saar;Jouez cette tactique au début de l'étape de Déploiement de la séquence d'avant-bataille, avant le déploiement des combattants. Votre gang peut recruter immédiatement jusqu'à trois Subteks. Ils sont recrutés gratuitement, mais quitteront le gang à la fin de cette bataille. Chaque Subtek est équipé d’un lasgun ou de deux laspistols. Ces combattants ne sont pas pris en compte dans la taille maximale de votre gang.
 ../TacticsCards/VAN SAAR/Warforge.png;Warforge;Van Saar Tactics;"| Play at the start of the game, after both sides
 have deployed.
 
@@ -3881,7 +3871,7 @@ to the enemy gang. Your opponent must roll one
 extra Injury dice when making a Recovery test for
 this fighter. In addition, you may choose which
 Injury dice result is resolved and which are
-discarded.";Physiologie affaiblie;Van Saar;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue ses tests de récupération. Choisissez un combattant Seriously injured appartenant au gang ennemi. Votre adversaire doit lancer un dé de blessure supplémentaire lorsqu'il effectue un test de récupération pour ce combattant. De plus, vous pouvez choisir quel résultat de dé de blessure est pris en compte et lesquels sont écartés.
+discarded.";Physiologie affaiblie;Van Saar;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue ses Recovery test. Choisissez un combattant Seriously injured appartenant au gang ennemi. Votre adversaire doit lancer un dé de blessure supplémentaire lorsqu'il effectue un Recovery test pour ce combattant. De plus, vous pouvez choisir quel résultat de dé de blessure est pris en compte et lesquels sont écartés.
 ../TacticsCards/VAN SAAR/Weapon Drill.png;Weapon Drill;Yan Saar Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before
 
@@ -3899,7 +3889,7 @@ battle, they do not gain the Revealed condition
 for moving or firing a weapon. At the end of each
 of the vehicle's activations, roll a D6. On a result
 of a 1, the auspex bafflers stop working and have
-no further effect.";Brouilleurs d’auspex;Véhicules Van Saar;Utilisez cette tactique au début de la bataille, avant le premier jet de Priorité. Choisissez un véhicule allié. Pendant toute la durée de cette bataille, celui-ci ne se retrouve pas en état « Détecté » lorsqu’il se déplace ou tire avec une arme. À la fin de chacune des activations du véhicule, lancez un D6. Si le résultat est 1, les brouilleurs d’auspex cessent de fonctionner et n’ont plus aucun effet.
+no further effect.";Brouilleurs d’auspex;Véhicules Van Saar;Utilisez cette tactique au début de la bataille, avant le premier jet de Priorité. Choisissez un véhicule allié. Pendant toute la durée de cette bataille, celui-ci ne se retrouve pas en état Revealed lorsqu’il se déplace ou tire avec une arme. À la fin de chacune des activations du véhicule, lancez un D6. Si le résultat est 1, les brouilleurs d’auspex cessent de fonctionner et n’ont plus aucun effet.
 ../TacticsCards/VAN SAAR VEHICLES/Auto-righting Stabilisers.png;Auto-righting Stabilisers;Van Saar Vehicle Tactics;"Play this gang tactic at the start of the battle
 before the first roll for Priority. Select D3
 friendly fighters subject to the Mounted
@@ -3907,13 +3897,13 @@ condition.
 
 For the duration of the battle, they treat their
 Initiative characteristic as 2+ when performing
-the Stand Up (Basic) action.";Stabilisateurs auto-redresseurs;Véhicules Van Saar;Utilisez cette tactique au début de la bataille, avant le premier jet de Priorité. Choisissez D3 combattants alliés soumis à la condition « Monté ». Pendant toute la durée de la bataille, ils considèrent que leur caractéristique d’Initiative est de 2+ lorsqu’ils effectuent l’action « Se relever » (de base).
+the Stand Up (Basic) action.";Stabilisateurs auto-redresseurs;Véhicules Van Saar;Utilisez cette tactique au début de la bataille, avant le premier jet de Priorité. Choisissez D3 combattants alliés Mounted. Pendant toute la durée de la bataille, ils considèrent que leur caractéristique d’Initiative est de 2+ lorsqu’ils effectuent l’action Stand up (basic).
 ../TacticsCards/VAN SAAR VEHICLES/Automantic Kill-switch.png;Automantic Kill-switch;Van Saar Vehicle Tactics;"Play this gang tactic instead of activating
 
 a friendly model.
 
 Select a Mobile enemy vehicle. Change its Status
-to Stationary and Stalled.";Coupe-circuit automatique;Véhicules Van Saar;Utilisez cette tactique au lieu d'activer une figurine alliée. Sélectionnez un véhicule ennemi en mouvement. Modifiez son statut pour le rendre immobile et en panne.
+to Stationary and Stalled.";Coupe-circuit automatique;Véhicules Van Saar;Utilisez cette tactique au lieu d'activer une figurine alliée. Sélectionnez un véhicule ennemi en mouvement. Modifiez son statut pour le rendre Stationnary et Stalled.
 ../TacticsCards/VAN SAAR VEHICLES/Automantic Override.png;Automantic Override;Van Saar Vehicle Tactics;"Play this gang tactic instead of activating
 
 a friendly model.
@@ -3921,7 +3911,7 @@ a friendly model.
 Select a weapon with the Crew Operated trait
 mounted on an enemy vehicle. The enemy
 vehicle suffers an automatic hit in the Side from
-the selected weapon.";Contournement automatique;Véhicules Van Saar;Utilisez cette tactique au lieu d'activer une figurine alliée. Choisissez une arme dotée de la caractéristique « Manœuvrée par l'équipage » montée sur un véhicule ennemi. Le véhicule ennemi subit automatiquement un tir sur le flanc provenant de l'arme choisie.
+the selected weapon.";Contournement automatique;Véhicules Van Saar;Utilisez cette tactique au lieu d'activer une figurine alliée. Choisissez une arme dotée du trait Crew operated montée sur un véhicule ennemi. Le véhicule ennemi subit automatiquement un tir sur le flanc provenant de l'arme choisie.
 ../TacticsCards/VAN SAAR VEHICLES/Automated Repair.png;Automated Repair;Van Saar Vehicle Tactics;"Play this gang tactic at the start of the battle
 before the first roll for Priority.
 
@@ -3929,7 +3919,7 @@ Select a friendly vehicle. For the duration of the
 battle, roll a D6 for the vehicle during the
 Recovery and Restart step of the End phase; on
 a 5+ the vehicle regains 1 Hull Point lost earlier
-in the battle.";Réparation automatisée;Véhicules Van Saar;"Jouez cette tactique au début de la bataille, avant le premier jet de dé pour déterminer la priorité. Choisissez un véhicule allié. Pendant toute la durée de la bataille, lancez un D6 pour ce véhicule lors de l’ étape « Récupération et redémarrage » de la phase de fin ; sur un résultat de 5 ou plus, le véhicule regagne 1 point de coque perdu plus tôt au cours de la bataille."
+in the battle.";Réparation automatisée;Véhicules Van Saar;"Jouez cette tactique au début de la bataille, avant le premier jet de dé pour déterminer la priorité. Choisissez un véhicule allié. Pendant toute la durée de la bataille, lancez un D6 pour ce véhicule lors de l’ étape Recovery and restart de la phase de fin ; sur un résultat de 5 ou plus, le véhicule regagne 1 point de coque perdu plus tôt au cours de la bataille."
 ../TacticsCards/VAN SAAR VEHICLES/Custom Upgrade.png;Custom Upgrade;Van Saar Vehicle Tactics;"Play this gang tactic at the start of the battle
 before the first roll for Priority.
 
@@ -3940,13 +3930,13 @@ or less for free for the duration of this battle.";Amélioration personnalisée;
 been wounded before rolling to save.
 
 For the duration of this attack, the vehicle gains
-a 4+ field armour save.";Champ de dispersion d'énergie;Véhicules Van Saar;Utilisez cette tactique lorsqu'un véhicule allié a été touché avant de lancer son jet de sauvegarde. Pendant toute la durée de cette attaque, le véhicule bénéficie d'une sauvegarde de blindage de terrain de 4+.
+a 4+ field armour save.";Champ de dispersion d'énergie;Véhicules Van Saar;Utilisez cette tactique lorsqu'un véhicule allié a été blessé, avant de lancer son jet de sauvegarde. Pendant toute la durée de cette attaque, le véhicule bénéficie d'une sauvegarde de blindage de terrain de 4+.
 ../TacticsCards/VAN SAAR VEHICLES/Holo-projector.png;Holo-projector;Van Saar Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition is declared the
 target of a shooting attack before rolling to hit.
 The target of the attack may immediately move
 up to D6"". If they are no longer a valid target for
-the shooting attack, the action is wasted.";Holo-projecteur;Véhicules Van Saar;Utilisez cette tactique lorsqu'un combattant allié soumis à l'état « Monté » est désigné comme cible d'une attaque à distance avant le jet de tir. La cible de l'attaque peut immédiatement se déplacer jusqu'à D6 pouces. Si elle n'est plus une cible valable pour l'attaque à distance, l'action est perdue.
+the shooting attack, the action is wasted.";Holo-projecteur;Véhicules Van Saar;Utilisez cette tactique lorsqu'un combattant allié Mounted est désigné comme cible d'une attaque à distance avant le jet de tir. La cible de l'attaque peut immédiatement se déplacer jusqu'à D6 pouces. Si elle n'est plus une cible valable pour l'attaque à distance, l'action est perdue.
 ../TacticsCards/VAN SAAR VEHICLES/Hydraulic Repulsion Bar.png;Hydraulic Repulsion Bar;Van Saar Vehicle Tactics;"Play this gang tactic at the start of the battle
 before the first roll for Priority.
 
@@ -3958,8 +3948,7 @@ fighter subject to the Mounted condition before
 performing any actions.
 
 For the duration of this activation, the fighter's
-Movement characteristic is increased by 2"".";Puissance aux moteurs;Véhicules Van Saar;"Jouez cette tactique lorsque vous activez un combattant allié
-soumis à la condition « Monté » avant d'effectuer toute action. Pendant toute la durée de cette activation, la caractéristique de Déplacement du combattant est augmentée de 2""."
+Movement characteristic is increased by 2"".";Puissance aux moteurs;Véhicules Van Saar;Jouez cette tactique lorsque vous activez un combattant allié Mounted avant d'effectuer toute action. Pendant toute la durée de cette activation, la caractéristique de Déplacement du combattant est augmentée de 2 ».
 ../TacticsCards/VAN SAAR VEHICLES/Rad Vents.png;Rad Vents;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
@@ -3967,47 +3956,47 @@ For the duration of this activation, any fighter
 (friend or foe) who comes within 1"" of this
 vehicle at any point during its activation must
 test as if they had been hit by a weapon with
-the Rad-phage trait.";Évents rad;Véhicules Van Saar;Utilisez cette tactique lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de cette activation, tout combattant (allié ou ennemi) qui s'approche à au moins 1 pouce de ce véhicule à n'importe quel moment de son activation doit passer un test comme s'il avait été touché par une arme dotée de la caractéristique « Rad-phage ».
+the Rad-phage trait.";Évents rad;Véhicules Van Saar;Utilisez cette tactique lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de cette activation, tout combattant (allié ou ennemi) qui s'approche à au moins 1 pouce de ce véhicule à n'importe quel moment de son activation doit passer un test comme s'il avait été touché par une arme dotée de la caractéristique Rad-phage.
 ../TacticsCards/VAN SAAR VEHICLES/Rad-rounds.png;Rad-rounds;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of this activation, all of the
 vehicle's weapons with the Crew Operated
-trait also gain the Rad-phage trait.";Munitions rad;Véhicules Van Saar;Utilisez cette tactique de gang lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de cette activation, toutes les armes du véhicule dotées de la caractéristique « Manœuvré par l'équipage » acquièrent également la caractéristique « Rad-phage ».
+trait also gain the Rad-phage trait.";Munitions rad;Véhicules Van Saar;Utilisez cette tactique de gang lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de cette activation, toutes les armes du véhicule dotées du trait Crew operated acquièrent également le trait Rad-phage.
 ../TacticsCards/VAN SAAR VEHICLES/Ram Run.png;Ram Run;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition before
 performing any actions.
 
 For the duration of its activation, any Ride-by
 attacks performed by the fighter are resolved at
-$4, AP-1, D2 with the Knockback trait.";Course d’éperonnage;Véhicules Van Saar;Jouez cette tactique lors de l'activation d'un ami chasseur soumis à la condition Monté avant effectuer des actions. Pendant la durée de son activation, tout Ride-by les attaques effectuées par le combattant sont résolues à S4, AP-1, D2 avec le trait Knockback.
+$4, AP-1, D2 with the Knockback trait.";Course d’éperonnage;Véhicules Van Saar;Jouez cette tactique lors de l'activation d'un combattant allié Mounted avant effectuer des actions. Pendant la durée de son activation, toute attaque Ride-by effectuées par le combattant sont résolues à S4, AP-1, D2 avec le trait Knockback.
 ../TacticsCards/VAN SAAR VEHICLES/Redirect Power.png;Redirect Power;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of its activation, the vehicle
 cannot move; however, the Strength of any of its
 'las' weapons with the Crew Operated trait is
-increased by 2.";Rediriger la puissance;Véhicules Van Saar;"Utilisez cette tactique lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de son activation, le véhicule ne peut pas se déplacer ; cependant, la Puissance de n'importe laquelle de ses armes « laser » dotées de la caractéristique « Manœuvrée par l'équipage » est augmentée de 2."
+increased by 2.";Rediriger la puissance;Véhicules Van Saar;"Utilisez cette tactique lorsque vous activez un véhicule allié avant d'effectuer toute action. Pendant toute la durée de son activation, le véhicule ne peut pas se déplacer ; cependant, la Strength de n'importe laquelle de ses armes laser dotées du trait Crew operated est augmentée de 2."
 ../TacticsCards/VAN SAAR VEHICLES/Refined Fuel Coils.png;Refined Fuel Coils;Van Saar Vehicle Tactics;"Play this gang tactic at the start of the battle
 before the first roll for Priority.
 
 Select D3 friendly fighters subject to the
 Mounted condition. They may each perform
 a free Move (Simple) action, but cannot move
-further than 6"".";Bobines de combustible raffiné;Véhicules Van Saar;"Jouez cette tactique au début de la bataille avant le premier lancer pour la Priorité. Choisissez des combattants alliés D3 ayant l'Etat monté. Ils peuvent chacun effectuer une action de Déplacement (Simple) gratuite, mais ne peut pas bouger plus loin que 6""."
+further than 6"".";Bobines de combustible raffiné;Véhicules Van Saar;"Jouez cette tactique au début de la bataille avant le premier lancer pour la Priorité. Choisissez D3 combattants alliés Mounted. Ils peuvent chacun effectuer une action de Move (Simple) gratuite, mais ne peuvent pas bouger de plus de 6""."
 ../TacticsCards/VAN SAAR VEHICLES/Reinforced Superstructure.png;Reinforced Superstructure;Van Saar Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 Wrecked before rolling on the Lasting Damage
 table.
 
 Roll twice on the Lasting Damage table and
-choose which result to apply.";Superstructure renforcée;Véhicules Van Saar;Jouez cette tactique lorsqu'un véhicule allié est Détruit avant de lancer sur le tableau des dégâts durables, lancez deux fois sur le tableau des dégâts durables et choisissez le résultat à appliquer.
+choose which result to apply.";Superstructure renforcée;Véhicules Van Saar;Jouez cette tactique lorsqu'un véhicule allié est détruit avant de lancer sur le tableau Lasting damage, lancez deux fois sur le tableau des dégâts durables et choisissez le résultat à appliquer.
 ../TacticsCards/VAN SAAR VEHICLES/Targeting Relay.png;Targeting Relay;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing an action.
 
 Select an enemy model within 12"" of the vehicle.
 For the remainder of the round, friendly models
 apply a +1 modifier to hit the enemy model with
-shooting attacks.";Relais de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un ami véhicule avant d’effectuer une action. Choisissez un ennemie à au moins 12"" du véhicule. Pour la suite du round, les modèles aliées ont un modificateur de +1 pour toucher cet ennemie avec les attaques de tir."
+shooting attacks.";Relais de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un ami véhicule avant d’effectuer une action. Choisissez un ennemi à au moins 12"" du véhicule. Pour la suite du round, les modèles alliés ont un modificateur de +1 pour toucher cet ennemi avec les attaques de tir."
 ../TacticsCards/VAN SAAR VEHICLES/Targeting Scramblers.png;Targeting Scramblers;Van Saar Vehicle Tactics;"Play this gang tactic when activating a friendly
 model before performing any actions.
 
@@ -4016,7 +4005,7 @@ may perform the Jam (Basic) action.
 
 Jam (Basic): Select an enemy vehicle within 12"".
 For the remainder of the round, they suffer a -1
-modifier to all hit rolls.";Brouilleurs de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un ami modèle avant d’effectuer toute action. Pendant la durée de cette activation, le modèle peut effectuer l’action Jam (Basique). Jam (Basique) : Choisissez un véhicule ennemi dans un rayon de 12"". Pour le reste du round, ils subissent un -1 modificateur à tous les jets de touche."
+modifier to all hit rolls.";Brouilleurs de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un modèle ami avant d’effectuer toute action. Pendant la durée de cette activation, le modèle peut effectuer l’action Jam (Basic). Jam (Basic) : Choisissez un véhicule ennemi dans un rayon de 12"". Pour le reste du round, ils subissent un -1 modificateur à tous les jets de touche."
 ../TacticsCards/ZONE MORTALIS/Ambush Alley.png;Ambush Alley;Zone Mortalis Tactics;"Play this gang tactic when an enemy fighter
 performs the Operate Door (Simple), Access
 Terminal (Basic) or Force Door (Basic) action.
