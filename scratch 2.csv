@@ -55,7 +55,7 @@ fighter.
 
 For the duration of this activation, increase the
 Long range of the fighter's weapons without
-either the Melee or Grenade trait by 6"".";Maître tireur d'élite;Clans nomades;Jouez cette tactique lors de l'activation d’un combattant. Pendant la durée de cette activation, augmentez la longue portée des armes du combattant sans le trait Mêlée ou Grenade de 6.
+either the Melee or Grenade trait by 6"".";Maître tireur d'élite;Clans nomades;Jouez cette tactique lors de l'activation d’un combattant. Pendant la durée de cette activation, augmentez la longue portée des armes du combattant sans le trait Melee ou Grenade de 6.
 ../TacticsCards/ASH WASTE NOMADS/Mined!.png;Mined!;Ash Waste Nomads Tactics;"Play this gang tactic after an enemy vehicle has
 completed its activation.
 
@@ -133,7 +133,7 @@ model rejoins the fight in a Rolling Roads
 scenario, before rolling the dice.
 
 The model automatically passes the Intelligence
-check to rejoin the battle.";Retour à la mêlée !;Désolations cendrées;Jouez cette tactique lorsque vous vérifiez si un figurine alliée rejoint le combat dans un Rolling Roads scénario, avant de lancer les dés. La figurine réussit automatiquement le test d'Intelligence pour rejoindre la bataille.
+check to rejoin the battle.";Retour à la Melee !;Désolations cendrées;Jouez cette tactique lorsque vous vérifiez si un figurine alliée rejoint le combat dans un Rolling Roads scénario, avant de lancer les dés. La figurine réussit automatiquement le test d'Intelligence pour rejoindre la bataille.
 ../TacticsCards/ASH WASTES/Belching Smoke.png;Belching Smoke;Ash Wastes Tactics;"Play this tactic at the start of around, before
 rolling for Initiative.
 
@@ -298,7 +298,7 @@ they still take damage as normal. In addition,
 
 | all their melee attacks gain the Blaze trait.
 
-|";La foi par le feu;Cawdor;Jouez au début d’un round. Pendant toute la durée de ce round, les figurines alliées portant un marqueur Blaze peuvent se déplacer et agir normalement. Elles subissent toutefois toujours les dégâts normalement. De plus, toutes leurs attaques de mêlée gagnent le trait Blaze.
+|";La foi par le feu;Cawdor;Jouez au début d’un round. Pendant toute la durée de ce round, les figurines alliées portant un marqueur Blaze peuvent se déplacer et agir normalement. Elles subissent toutefois toujours les dégâts normalement. De plus, toutes leurs attaques de Melee gagnent le trait Blaze.
 ../TacticsCards/CAWDOR/Faithful Masses.png;Faithful Masses;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -414,7 +414,7 @@ engaged in melee must charge the nearest enemy
 model if possible, or use their entire
 
 activation to move as close to the enemy as
-possible.";Jour de justice;Cawdor;Jouez au début d’un tour. Pendant toute la durée du round, tous les jets de blessure effectués et réussis contre un combattant allié doivent être relancé. Cependant, les combattants alliés non engagé en mêlée doivent charger l'ennemi le plus proche possible, ou utiliser l'intégralité de leur activation pour se rapprocher le plus possible de l’ennemi le plus proche.
+possible.";Jour de justice;Cawdor;Jouez au début d’un tour. Pendant toute la durée du round, tous les jets de blessure effectués et réussis contre un combattant allié doivent être relancé. Cependant, les combattants alliés non engagé en Melee doivent charger l'ennemi le plus proche possible, ou utiliser l'intégralité de leur activation pour se rapprocher le plus possible de l’ennemi le plus proche.
 ../TacticsCards/CAWDOR/Rise Anew.png;Rise Anew;Cawdor Tactics;"Play this gang tactic when activating a Seriously
 Injured friendly fighter.
 
@@ -476,7 +476,7 @@ Select a friendly vehicle.
 
 For the duration of this battle, while this vehicle
 is not Wrecked, all friendly models within 9""
-may apply a +1 modifier to all Cool checks.";Phare de la foi;Véhicules Cawdor;"Jouez cette tactique une fois que les deux gangs sont déployés mais avant le premier jet de Priorité. Choisissez un véhicule allié. Pendant toute la durée de cette bataille, tant que ce véhicule n'est pas détruit, toutes les figurines amies dans un rayon de 9"" peuvent appliquer un modificateur de +1 à tous les tests de Cool."
+may apply a +1 modifier to all Cool checks.";Phare de la foi;Véhicules Cawdor;"Jouez cette tactique une fois que les deux gangs sont déployés mais avant le premier jet de Priorité. Choisissez un véhicule allié. Pendant toute la durée de cette bataille, tant que ce véhicule n'est pas détruit, toutes les figurines alliés dans un rayon de 9"" peuvent appliquer un modificateur de +1 à tous les tests de Cool."
 ../TacticsCards/CAWDOR VEHICLES/Blessed Dodge.png;Blessed Dodge;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly fighter fails
 an Initiative check to avoid being run over by
 
@@ -500,17 +500,17 @@ perform any actions.
 For the duration of the fighter's activation, one
 of their weapons with the Melee trait gains
 
-the Blaze trait.";Arrosé de Prométhium;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant monté avant d'être effectuer des actions. Pendant toute la durée d'activation du combattant, une de ses armes avec les gains du trait Mêlée le trait Blaze.
+the Blaze trait.";Arrosé de Prométhium;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant Mounted avant d’effectuer des actions. Pendant toute la durée d'activation du combattant, une de ses armes avec le trait Melee gagne le trait Blaze.
 ../TacticsCards/CAWDOR VEHICLES/Fateful Swerve.png;fateful Swerve;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly vehicle
 suffers a Penetrating Hit or Catastrophic Hit.
-The vehicle suffers a Glancing Hit instead.";Ecart fatidique;Véhicules Cawdor;Jouez cette tactique lorsqu'un véhicule allié subit un coup pénétrant ou catastrophique (Penetrating or Catastrophic Hit). Le véhicule subit à la place un coup superficiel (Glancing Hit).
+The vehicle suffers a Glancing Hit instead.";Ecart fatidique;Véhicules Cawdor;Jouez cette tactique lorsqu'un véhicule allié subit un coup Penetrating ou Catastrophic. Le véhicule subit à la place un Glancing Hit.
 ../TacticsCards/CAWDOR VEHICLES/Fury of Righteous Convictions.png;Fury of Righteous Convictions;Cawdor Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition before
 performing any actions.
 
 For the duration of their activation, they gain +2
 Strength and all of their weapons gain the
-Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant allié soumis Monté, avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Strength et toutes ses armes gagnent le trait Reckless.
+Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant allié Mounted, avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Strength et toutes ses armes gagnent le trait Reckless.
 ../TacticsCards/CAWDOR VEHICLES/Incendiary Ram.png;Incendiary Ram;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly vehicle has
 a head-on collision during its activation, before
 resolving the collision.
@@ -527,7 +527,7 @@ normally.";Bélier incendiaire;Véhicules Cawdor;"Jouez cette tactique lorsqu'un
 subject to the Mounted condition causes
 an enemy vehicle to become Wrecked.
 
-The fighter gains an additional D3 XP.";Joute;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié monté détruit un véhicule ennemi. Le combattant gagne D3 XP supplémentaires.
+The fighter gains an additional D3 XP.";Joute;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié Mounted détruit un véhicule ennemi. Le combattant gagne D3 XP supplémentaires.
 ../TacticsCards/CAWDOR VEHICLES/Judgement Due.png;Judgement Due;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 Select an enemy vehicle. If it is Wrecked
@@ -544,7 +544,7 @@ Death result. For the remainder of the battle,
 all friendly models apply a +1 modifier to any
 rolls to wound the enemy model, and friendly
 models earn an additional D3 XP if they take
-the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Out of action.
+the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action par un combattant ennemie. Ne faite pas de lancer sur le tableau des Lasting injuries - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils mettent un ennemi Out of action.
 ../TacticsCards/CAWDOR VEHICLES/Prayer Wagon.png;Prayer Wagon;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 
@@ -579,7 +579,7 @@ All models, both friend and foe, within 5"" of
 the vehicle suffer a S6, AP-1, D1 hit as if from
 a weapon with the Blaze trait. The activated
 vehicle is then Wrecked, add 1 to the roll on
-the Lasting Damage table.";Autodestruction;Véhicules Cawdor;"Jouez cette tactique à tout moment pendant l'activation d'un véhicule allié. Toutes les figurines, amies et ennemies, à au moins 5"" de le véhicule subissent un impact S6, AP-1, D1 avec le trait Blaze. Le véhicule est alors détruit, ajoutez 1 au jet le tableau des dégâts durables."
+the Lasting Damage table.";Autodestruction;Véhicules Cawdor;"Jouez cette tactique à tout moment pendant l'activation d'un véhicule allié. Toutes les figurines, amies et ennemies, à au moins 5"" de le véhicule subissent un impact S6, AP-1, D1 avec le trait Blaze. Le véhicule est alors détruit, ajoutez 1 au jet le tableau des Lasting damages."
 ../TacticsCards/CAWDOR VEHICLES/Weak Spot.png;Weak Spot;Cawdor Vehicle Tactics;"Play this gang tactic before rolling Damage dice.
 Roll one additional Damage dice.";Point faible;Véhicules Cawdor;Jouez cette tactique avant de lancer les dés de dégâts. Lancez un dé de dégâts supplémentaire.
 ../TacticsCards/CAWDOR VEHICLES/Where There’s Scrap....png;Where There’s Scrap...;Cawdor Vehicle Tactics;"Play this gang tactic during the post-battle
@@ -588,7 +588,7 @@ sequence during the Receive Rewards step.
 Add D3x5 credits to your gang’s Stash for each
 Wrecked enemy vehicle and enemy fighter
 subject to the Mounted condition who was taken
-Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, pendant l’étape recevoir les récompenses. Ajoutez des D3x5 crédits à la réserve de votre gang pour chaque véhicule ennemi détruit et combattant ennemi Monté qui a été mis Out of action.
+Out of Action.";Là où il y a de la ferraille...;Véhicules Cawdor;Jouez cette tactique pendant la séquence d’après-bataille, pendant l’étape recevoir les récompenses. Ajoutez des D3x5 crédits à la réserve de votre gang pour chaque véhicule ennemi détruit et combattant ennemi Mounted qui a été mis Out of action.
 ../TacticsCards/CORPSE GRINDERS/Blessed by Death.png;Blessed by Death;Corpse Grinders Tactics;"Play this card when a fighter in your gang
 
 takes an enemy fighter Out of Action with
@@ -600,7 +600,7 @@ the remainder of the battle, the fighter
 
 | gains +1 WS.
 
-|";Béni par la mort;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang met un combattant ennemi Out of Action avec une arme avec un trait Mêlée. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 WS."
+|";Béni par la mort;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang met un combattant ennemi Out of Action avec une arme avec un trait Melee. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 WS."
 ../TacticsCards/CORPSE GRINDERS/Blood Surge.png;Blood Surge;Corpse Grinders Tactics;"Play this card when a Standing and Active
 
 ‘fighter in your gang is hit by a ranged attack.
@@ -614,21 +614,21 @@ Instead they may immediately make a Move
 
 | this action even if they are not Ready.
 
-|";Afflux de sang;Corspe grinders;Jouez cette tactique lorsqu'un combattant debout est touché par une attaque à distance. Le combattant n’est pas Bloqué. Au lieu de cela, il peut immédiatement effectuer une action de mouvement (Simple). Le combattant peut effectuer cette action même s'ils n’est pas Ready.
+|";Afflux de sang;Corspe grinders;Jouez cette tactique lorsqu'un combattant debout est touché par une attaque à distance. Le combattant n’est pas Pinned. Au lieu de cela, il peut immédiatement effectuer une action de Move (Simple). Le combattant peut effectuer cette action même s'ils n’est pas Ready.
 ../TacticsCards/CORPSE GRINDERS/Bountiful Feast.png;Bountiful Feast;Corpse Grinders Tactics;"| Play immediately after a fighter in your gang
 performs a Coup de Grace (Simple) action.
 Remove anumber of Flesh Wounds from |
 the fighter equal to the Wounds
 characteristic of the enemy fighter taken
 
-Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un nombre de Blessures Légères de ce combattant égal aux à la caractéristique de Wounds du combattant ennemi mis Out of action par le coup de grâce.
+Out of Action by the Coup de Grace.";Festin abondant;Corspe grinders;Jouez immédiatement après un combattant de votre gang effectue une action Coup de Grâce (Simple). Supprimez un nombre de Flesh wound de ce combattant égal aux à la caractéristique de Wounds du combattant ennemi mis Out of action par le coup de grâce.
 ../TacticsCards/CORPSE GRINDERS/Frenzy.png;| Frenzy;Corpse Grinders Tactics;"Play this card instead of activating a fighter.
 Choose a single Ready enemy fighter within 9""
 and line of sight of one of your fighters. The
 chosen fighter must make a Cool check. If they
 fail, they lose their Ready marker and must
 immediately make a Move (Simple) action,
-moving as if subject to the Broken condition.";Frénésie;Corspe grinders;"Jouez cette tactique au lieu d'activer un combattant. Choisissez un seul combattant ennemi prêt dans un rayon de 9"" et en ligne de vue d'un de vos combattants. Le combattant choisi doit faire un test de Cool. S'ils échouent, il perd son marqueur Prêt et doit effectuez immédiatement une action Déplacement (Simple), se déplaçant comme s’il était soumis à la condition Broken."
+moving as if subject to the Broken condition.";Frénésie;Corspe grinders;"Jouez cette tactique au lieu d'activer un combattant. Choisissez un seul combattant ennemi prêt dans un rayon de 9"" et en ligne de vue d'un de vos combattants. Le combattant choisi doit faire un test de Cool. S'ils échouent, il perd son marqueur Prêt et doit effectuez immédiatement une action Move (Simple), se déplaçant comme s’il était soumis à la condition Broken."
 ../TacticsCards/CORPSE GRINDERS/Infamous Butcher.png;Infamous Butcher;Corpse Grinders Tactics;"| Play this card at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed.
@@ -643,13 +643,13 @@ with a weapon with the Melee trait.
 Tuck this card under the fighter's card. When
 this fighter makes a group activation, they may
 include one more fighter than normal as part of
-the group.";Règne du sang;Corspe grinders;Jouez cette tactique lorsqu'un Leader ou un Champion votre gang met un combattant ennemi Out of Action avec une arme avec le trait Mêlée. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus.
+the group.";Règne du sang;Corspe grinders;Jouez cette tactique lorsqu'un Leader ou un Champion votre gang met un combattant ennemi Out of Action avec une arme avec le trait Melee. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus.
 ../TacticsCards/CORPSE GRINDERS/Rend and Tear.png;Rend and Tear!;Corpse Grinders Tactics;"| Play this card at the start of any Action
 phase.
 
 Until the End phase of this round, all |
 weapons with the Melee trait used by
-friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette tactique au début de la phase d’action. Jusqu'à la phase de fin de ce tour, toutes armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Rending.
+friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette tactique au début de la phase d’action. Jusqu'à la phase de fin de ce tour, toutes armes avec le trait Melee utilisées par les combattants alliés acquièrent le trait Rending.
 ../TacticsCards/CORPSE GRINDERS/Savage Brutality.png;Savage Brutality;Corpse Grinders Tactics;"Play when an enemy fighter is Seriously Injured
 or taken Out of Action by a Melee attack.
 
@@ -657,14 +657,14 @@ All enemy fighters within 12"" that can draw line
 of sight to the target must take Nerve tests. Any
 fighters not within 3"" become Broken as normal
 if they fail, but automatically rally in the End
-phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez cette tactique lorsqu'un combattant ennemi est grièvement blessé ou mis Out of Action par une attaque de mêlée. Tous les combattants ennemis à au moins 12"" pouvant tracer une ligne de vue sur la cible doivent passer un Nerve test. S'ils échouent il subissent la condition Broken, mais se rallient automatiquement à la phase de fin du round."
+phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez cette tactique lorsqu'un combattant ennemi est Seriously injures ou mis Out of Action par une attaque de Melee. Tous les combattants ennemis à au moins 12"" pouvant tracer une ligne de vue sur la cible doivent passer un Nerve test. S'ils échouent il subissent la condition Broken, mais se rallient automatiquement à la phase de fin du round."
 ../TacticsCards/CORPSE GRINDERS/Scent of Blood.png;Scent of Blood;Corpse Grinders Tactics;"| Play this card when a fighter in your gang is
 taken Out of Action.
 Choose a friendly Standing and Engaged |
 fighter within 9"" and line of sight of the
 fighter taken Out of Action. They may
 immediately make a Fight (Basic) action,
-even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Out of action. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of Action. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
+even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Out of action. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of Action. Cet allié peut effectuer immédiatement une action Combat (Basic), même s'il n’est pas prêts."
 ../TacticsCards/CORPSE GRINDERS/The Red Hunt.png;The Red Hunt;Corpse Grinders Tactics;"| Play this card during any Action phase, after
 Fleeing the battlefield but before Activate
 Fighters.
@@ -683,7 +683,7 @@ until the End phase of this turn, any fighter
 from your gang that performs a Charge
 
 | (Basic) action reduces their Weapon Skill
-characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette tactique au début d’une phase d’action. Jusqu'à la phase de fin de ce tour, les combattants de votre gang traitent l'action de Charge comme (Basique) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une l’action Charge (basique) subit un malus de -1 à sa WS.
+characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette tactique au début d’une phase d’action. Jusqu'à la phase de fin de ce tour, les combattants de votre gang traitent l'action de Charge comme (basic) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une l’action Charge (basique) subit un malus de -1 à sa WS.
 ../TacticsCards/CORPSE GRINDERS/Whirlwind of Blows.png;Whirlwind of Blows;Corpse Grinders Tactics;"| Play this card when activating a fighter in
 your gang that is Standing and Engaged.
 
@@ -701,7 +701,7 @@ before they can make a Charge (Double) action
 targeting an enemy Delaque fighter. If the check
 is failed, the fighter cannot perform the action
 and must declare another. If the check is passed,
-the fighter may perform the action as normal.";Une dette à payer;Delaque;Jouez cette tactique au début de la bataille, après les deux camps soient déployés, mais avant le premier rond. Choisissez un Ganger ou un Juve ennemi. Ce combattant a une dette envers votre gang. Pendant la durée de ce bataille, ce combattant doit passer un test de Willpower avant de pouvoir effectuer une action Charge (Double) visant un combattant Delaque. Si le test est un échec, le combattant ne peut pas effectuer l'action et doit en déclarer un autre. Si le test est réussi, le combattant peut effectuer l'action normalement.
+the fighter may perform the action as normal.";Une dette à payer;Delaque;Jouez cette tactique au début de la bataille, après les deux camps soient déployés, mais avant le premier round. Choisissez un Ganger ou un Juve ennemi. Ce combattant a une dette envers votre gang. Pour la durée de la bataille, ce combattant doit passer un test de Willpower avant de pouvoir effectuer une action Charge (Double) visant un combattant Delaque. Si le test est un échec, le combattant ne peut pas effectuer l'action et doit en déclarer une autre.
 ../TacticsCards/DELAQUE/Assassins.png;Assassins;Delaque Tactics;"Play instead of activating a fighter. |
 For the remainder of this round, any ranged —
 attacks made by a fighter that is outside of
@@ -730,7 +730,7 @@ wish to use that weapon, they must first make an
 Intelligence check. If the check is passed, they
 may use the weapon as normal. If the check is
 failed, their WS is treated as 6+ when making
-attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette tactique au début de la bataille, après les deux les équipes soient déployées, mais avant le premier tour. Choisissez un combattant parmi l'équipe de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur sur sa carte. Choisissez une arme de mêlée dont il est équipé. Durant cette bataille, lorsqu’il utilise cette arme, il doit d'abord faire un test d’Intelligence. Si le test est réussi, ils peut utiliser l’arme normalement. Si le test est échoué, sa WS est traité comme 6+.
+attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette tactique au début de la bataille, après les deux les équipes soient déployées, mais avant le premier tour. Choisissez un combattant parmi l'équipe de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur sur sa carte. Choisissez une arme de Melee dont il est équipé. Durant cette bataille, lorsqu’il utilise cette arme, il doit d'abord faire un test d’Intelligence. Si le test est réussi, ils peut utiliser l’arme normalement. Si le test est échoué, sa WS est traité comme 6+.
 ../TacticsCards/DELAQUE/Dancing Shadows.png;Dancing Shadows;Delaque Tactics;"| Play this card when an enemy fighter makes
 a ranged attack.
 
@@ -804,7 +804,7 @@ the board. These fighters swap positions,
 even if they are Engaged in melee. Leaders,
 Champions, Brutes, Hired Guns, and
 Seriously Injured fighters may not be moved
-using this card.";Sans visage;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Choisissez deux de vos combattants n'importe où sur le champs de bataille. Ces combattants échangent leurs positions, même s'ils sont engagés en mêlée. Leader, Champions, brutes, mercenaires et Les combattants grièvement blessés ne peuvent pas être déplacés en utilisant cette carte.
+using this card.";Sans visage;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Choisissez deux de vos combattants n'importe où sur le champs de bataille. Ces combattants échangent leurs positions, même s'ils sont engagés en Melee. Leader, Champions, brutes, mercenaires et Les combattants grièvement blessés ne peuvent pas être déplacés en utilisant cette carte.
 ../TacticsCards/DELAQUE/Faces in the Gloom.png;Faces in the Gloom;Delaque Tactics;"Play this gang tactic when an enemy fighter
 performs a Shoot (Basic) action.
 
@@ -920,7 +920,7 @@ after failing a Bottle test.
 
 Remove all friendly models from the board, |
 even if they are Engaged in melee. The game
-then ends.";Disparaître;Delaque;Jouez cet tactique pendant une phase de fin, immédiatement après avoir échoué à un Bottle test. Supprimez toutes les figurines amies du plateau, même si elles sont engagées en mêlée. La partie se termine.
+then ends.";Disparaître;Delaque;Jouez cet tactique pendant une phase de fin, immédiatement après avoir échoué à un Bottle test. Supprimez toutes les figurines amies du plateau, même si elles sont engagées en Melee. La partie se termine.
 ../TacticsCards/DELAQUE/Web Traps.png;Web Traps;Delaque Tactics;"Play this gang tactic instead of activating a fighter
 Place a Web trap marker anywhere within 2"" of
 one of your penters: When triggered roll a D6,
@@ -959,7 +959,7 @@ gain one additional attack. This attack must be
 made with a weapon with the Melee trait and
 cannot be made with a weapon with the Sidearm
 trait. Roll for this attack separately and, if it hits,
-is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Mêlée et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
+is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Melee et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
 ../TacticsCards/ENFORCERS/Big Red Key.png;Big Red Key;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, any Strength |
 Door (Basic) actions taken by friendly |
@@ -968,7 +968,7 @@ fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactiqu
 
 Untul the End phase of this round, all
 weapons with the Melee trait used by |
-friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Concussion.
+friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, tous armes avec le trait Melee utilisées par les combattants alliés acquièrent le trait Concussion.
 ../TacticsCards/ENFORCERS/Don_t Trip.png;Don't Trip!;Enforcers Tactics;"Play this card when an enemy fighter that has
 used a Move (Simple) action to climb finishes
 the action.
@@ -1235,7 +1235,7 @@ For the remainder of the round, all weapons
 with the Melee trait gain Parry - if they did
 not already have it - and increase their AP
 
-by -1.";Ultra-violence;Escher;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Mêlée, gagnez la parade - s'ils l'ont fait ne l'ont pas déjà - et augmentent leur AP de 1.
+by -1.";Ultra-violence;Escher;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Melee, gagnez la parade - s'ils l'ont fait ne l'ont pas déjà - et augmentent leur AP de 1.
 ../TacticsCards/ESCHER/Unexpected Help.png;Unexpected Help;Escher Tactics;"Play this gang tactic at the start of the End |
 phase.
 Choose a fighter in your gang who was not |
@@ -1541,7 +1541,7 @@ Action with a Melee attack.
 
 The activating fighter can move up to D6"" _—
 and make a Fight Basic action. Their
-activation then immediately ends.";Attaques en chaîne;Générique;Jouez cet tactique quand un combattant met un ennemi Out of Action avec une attaque de mêlée. Le combattant peut se déplacer de jusqu'à D6 », effectuer une action Combat (Basic). Son activation se termine alors immédiatement.
+activation then immediately ends.";Attaques en chaîne;Générique;Jouez cet tactique quand un combattant met un ennemi Out of Action avec une attaque de Melee. Le combattant peut se déplacer de jusqu'à D6 », effectuer une action Combat (Basic). Son activation se termine alors immédiatement.
 ../TacticsCards/GENERIC CARDS/Click.png;«Click!;Gang Tactics;"Play this card after an enemy fighter
 completes an attack with a ranged weapon.
 The weapon immediately runs Out of Ammo,
@@ -1813,7 +1813,7 @@ fighter. For the duration of the game, increase
 its AP by 1.
 
 For Gee a weapon with an AP of -1 will
-have an AP of -2.";Tranchant affûté;Générique;Jouez cette tactique au début du jeu une fois que les deux gangs sont déployés. Choisissez une arme de mêlée possédée par un combattant allié. Pendant toute la durée de la partie, augmentez son AP de 1.
+have an AP of -2.";Tranchant affûté;Générique;Jouez cette tactique au début du jeu une fois que les deux gangs sont déployés. Choisissez une arme de Melee possédée par un combattant allié. Pendant toute la durée de la partie, augmentez son AP de 1.
 ../TacticsCards/GENERIC CARDS/Last Gasp.png;Last Gasp;Gang Tactics;"Play this card when one of your active fighters is
 taken Out of Action.
 
@@ -1824,7 +1824,7 @@ a ranged attack. If they are equipped with a
 grenade that has the Blast trait, and the Blast
 marker is centred on them, it will not scatter. As
 soon as the attack has been resolved, the fighter
-is removed from play.";Dernier souffle;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of action. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une attaque de mêlée s'il est Engagés, sinon c'est une attaque à distance. S'il est équipé d'un grenade qui a le trait Blast, le gabarit est centré sur lui et ne se dispersera pas. Dès que l'attaque est résolue, le combattant est retiré du jeu.
+is removed from play.";Dernier souffle;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of action. Avant que le combattant ne soit retiré du jeu, il peut immédiatement lancer une attaque. C'est une attaque de Melee s'il est Engagés, sinon c'est une attaque à distance. S'il est équipé d'un grenade qui a le trait Blast, le gabarit est centré sur lui et ne se dispersera pas. Dès que l'attaque est résolue, le combattant est retiré du jeu.
 ../TacticsCards/GENERIC CARDS/Last Round.png;Last Round;Gang Tactics;"Play this card when activating a fighter that has
 one or more Out of Ammo markers on them.
 Choose one of this fighter's ranged weapons
@@ -1908,7 +1908,7 @@ Choose an enemy fighter. For the rest of
 
 the battle, add 1 to result of any hit rolls for |
 fighters from your gang when they target
-that fighter with a Melee weapon.";Marqué pour la mort;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche pour les combattants de votre gang lorsqu'ils ciblent ce combattant avec une arme de mêlée.
+that fighter with a Melee weapon.";Marqué pour la mort;Générique;Jouez cette tactique au lieu d'activer un combattant. Choisissez un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche pour les combattants de votre gang lorsqu'ils ciblent ce combattant avec une arme de Melee.
 ../TacticsCards/GENERIC CARDS/Master Switch.png;Master Switch;Gang Tactics;"Zone Mortalis only. |
 Play this card instead of activating a fighter. |
 Every door on the board that does not have
@@ -2279,7 +2279,7 @@ attacks made by this fighter against the
 nominated enemy gain +1 on the wound roll.
 The fighter can only make ranged and melee
 attacks against the nominated enemy until that
-enemy has been taken Out of Action.";Toi !;Générique;Jouez cette tactique lors de l'activation d'un combattant. Choisissez un combattant ennemi avec une ligne de vue vers le combattant que vous venez d'activer. Pour le reste de la bataille, les attaques à distance ou en mêlée menées par ce combattant contre le l'ennemi désigné gagne +1 au jet de blessure (wound roll). Le combattant ne faire des attaques a distances ou en mêlées que contre cette ennemi, jusque’à ce qu’il ait été mis hors combat.
+enemy has been taken Out of Action.";Toi !;Générique;Jouez cette tactique lors de l'activation d'un combattant. Choisissez un combattant ennemi avec une ligne de vue vers le combattant que vous venez d'activer. Pour le reste de la bataille, les attaques à distance ou en Melee menées par ce combattant contre le l'ennemi désigné gagne +1 au jet de blessure (wound roll). Le combattant ne faire des attaques a distances ou en mêlées que contre cette ennemi, jusque’à ce qu’il ait été mis hors combat.
 ../TacticsCards/GENERIC CARDS/You’re coming with Me!.png;You're coming with Me!;Gang Tactics;"| Play when a fighter is taken Out of Action
 
 by aclose combat attack.
@@ -2287,7 +2287,7 @@ by aclose combat attack.
 The chosen fighter may make a single close ©
 combat attack against the enemy that took
 them Out of Action. They are then removed
-from play as normal.";Tu viens avec moi !;Générique;Jouez cette tactique lorsqu'un combattant est mis Out of Action par une attaque de combat rapproché. Le combattant choisi peut effectuer une seule attaque de mêlée contre l'ennemi qui l’a mis hors combat. Il est ensuite retiré du jeu normalement.
+from play as normal.";Tu viens avec moi !;Générique;Jouez cette tactique lorsqu'un combattant est mis Out of Action par une attaque de combat rapproché. Le combattant choisi peut effectuer une seule attaque de Melee contre l'ennemi qui l’a mis hors combat. Il est ensuite retiré du jeu normalement.
 ../TacticsCards/GOLIATH/ They’re only Bullets!.png;| They're only Bullets!;Goliath Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority but before
 Ready Fighters.
@@ -3159,7 +3159,7 @@ combat attack.
 Choose either a ranged or a melee weapon from
 the Trading Post with a Rarity of 9 or less.
 Count this attack as if the fighter was armed
-with the chosen weapon.";Le vieux fidèle;Outcasts;Utilisez cette tactique lorsqu'un combattant allié vise un combattant ennemi avec une attaque à distance ou au corps à corps. Choisissez une arme à distance ou de mêlée au Trading post, d'une rareté de 9 ou moins. Considérez cette attaque comme si le combattant était armé de l'arme choisie.
+with the chosen weapon.";Le vieux fidèle;Outcasts;Utilisez cette tactique lorsqu'un combattant allié vise un combattant ennemi avec une attaque à distance ou au corps à corps. Choisissez une arme à distance ou de Melee au Trading post, d'une rareté de 9 ou moins. Considérez cette attaque comme si le combattant était armé de l'arme choisie.
 ../TacticsCards/OUTCASTS/Rise from the Ashes.png;Rise from the Ashes;Outcasts Tactics;"Play this gang tactic at the start of any round
 before players Roll for Priority.
 
