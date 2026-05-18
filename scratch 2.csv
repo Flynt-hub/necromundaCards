@@ -226,14 +226,14 @@ the End phase of any round, such Bonepicker isn't
 within 6"" of a friendly Cawdor Champion er Leader,
 it immediately goes OOA. If you lack models,
 
-you may discard this card and select another.";Apostats;Cawdor;"Jouez au début de l’étape de Déploiement de la séquence Pré-bataille, avant de déployer les combattants. Vous pouvez recruter gratuitement jusqu’à trois Bonepickers. Ils quitteront le gang après cette bataille. Chacun possède un couteau de combat et un couperet et un pistolet automatique récupéré. Ils sont recrutés en plus de votre équipage de départ et ne comptent pas dans la taille maximale de votre équipe. Si, pendant la phase de Fin d’un round, l’un de ces Bonepickers n’est pas à 6"" ou moins d’un Champion ou Leader Cawdor allié, il est immédiatement mis Hors de combat."
+you may discard this card and select another.";Apostats;Cawdor;"Jouez au début de l’étape de Déploiement de la séquence Pré-bataille, avant de déployer les combattants. Vous pouvez recruter gratuitement jusqu’à trois Bonepickers. Ils quitteront le gang après cette bataille. Chacun possède un combat knife ou un cleaver et un reclaimed autopistol. Ils ne comptent pas dans la taille maximale de votre équipe. Si, pendant la phase de fin d’un round, l’un de ces Bonepickers n’est pas à 6"" ou moins d’un Champion ou Leader Cawdor allié, il est immédiatement mis Out of action."
 ../TacticsCards/CAWDOR/Blessed Visions.png;Blessed Visions;Cawdor Tactics;"| Play at the start of the game after both sides
 have deployed.
 
 For the duration of the game, the gang’s |
 fighters may use their normal BS when
 making Blind Fire ranged attacks or ranged
-attack through Ductways.";Visions bénies;Cawdor;Jouer en début de partie après que les deux gangs soient déployés. Pendant toute la durée de la partie, les combattants alliés peuvent utiliser leur BS normal lorsque effectuer des attaques à distance Blind Fire ou à travers les conduits.
+attack through Ductways.";Visions bénies;Cawdor;Jouer en début de partie après que les deux gangs soient déployés. Pendant toute la durée de la partie, les combattants alliés peuvent utiliser leur BS normal lorsque ils effectuent des attaques à distance Blind Fire ou à travers les conduits.
 ../TacticsCards/CAWDOR/Call the Faithful.png;Call the Faithful;Cawdor Tactics;"| Play this card after both sides have deployed.
 You may add an extra D3 fighters to your
 crew (potentially exceeding the normal crew |
@@ -244,7 +244,7 @@ already included in your crew.";Appel aux fidèles;Cawdor;Jouez cette tactique u
 ../TacticsCards/CAWDOR/Deadmen Walking.png;Deadmen Walking;Cawdor Tactics;"Play at the start of any End phase. |
 If your gang is required to make a Bottle test |
 during this End phase, it will |
-automatically pass.";Morts en marche;Cawdor;Jouez au début d’une phase de Fin. Si votre gang doit faire un test de cran au cours de cette phase de fin, le test passe automatiquement.
+automatically pass.";Morts en marche;Cawdor;Jouez au début d’une phase de fin. Si votre gang doit faire un test de cran au cours de cette phase de fin, le test passe automatiquement.
 ../TacticsCards/CAWDOR/Divine Avatar (redacted).png;Divine Avatar;Cawdor Tactics;"Play at the start of the Deployment step of the
 Pre-battle sequence, before any fighters have
 been deployed. Choose a friendly House Cawdor
@@ -649,7 +649,7 @@ phase.
 
 Until the End phase of this round, all |
 weapons with the Melee trait used by
-friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette tactique au début de la phase d’action. Jusqu'à la phase de Fin de ce tour, toutes armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Rending.
+friendly fighters gain the Rending trait.";Lacérer et déchirer !;Corspe grinders;Jouez cette tactique au début de la phase d’action. Jusqu'à la phase de fin de ce tour, toutes armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Rending.
 ../TacticsCards/CORPSE GRINDERS/Savage Brutality.png;Savage Brutality;Corpse Grinders Tactics;"Play when an enemy fighter is Seriously Injured
 or taken Out of Action by a Melee attack.
 
@@ -920,7 +920,7 @@ after failing a Bottle test.
 
 Remove all friendly models from the board, |
 even if they are Engaged in melee. The game
-then ends.";Disparaître;Delaque;Jouez cet tactique pendant une phase de Fin, immédiatement après avoir échoué à un Bottle test. Supprimez toutes les figurines amies du plateau, même si elles sont engagées en mêlée. La partie se termine.
+then ends.";Disparaître;Delaque;Jouez cet tactique pendant une phase de fin, immédiatement après avoir échoué à un Bottle test. Supprimez toutes les figurines amies du plateau, même si elles sont engagées en mêlée. La partie se termine.
 ../TacticsCards/DELAQUE/Web Traps.png;Web Traps;Delaque Tactics;"Play this gang tactic instead of activating a fighter
 Place a Web trap marker anywhere within 2"" of
 one of your penters: When triggered roll a D6,
@@ -968,7 +968,7 @@ fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactiqu
 
 Untul the End phase of this round, all
 weapons with the Melee trait used by |
-friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez cette tactique au début d’un tour. Jusqu'à la phase de Fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Concussion.
+friendly fighters gain the Concussion trait.";Répression;Enforcers;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, tous armes avec le trait Mêlée utilisées par les combattants alliés acquièrent le trait Concussion.
 ../TacticsCards/ENFORCERS/Don_t Trip.png;Don't Trip!;Enforcers Tactics;"Play this card when an enemy fighter that has
 used a Move (Simple) action to climb finishes
 the action.
@@ -1552,7 +1552,7 @@ Untul the End phase of this round, your
 opponent's Leader suffers a-2 modifier to _
 any Cool checks they must make. If your
 opponent's Leader is not available for this
-battle, discard this card.";Près de la retraite;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de Fin de ce tour, le chef de l'adversaire subit un malus de -2 à tous les test de Cool qu'il doit effectuer. Si le chef de l'adversaire n'est pas présent durant la bataille, défaussez cette carte.
+battle, discard this card.";Près de la retraite;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, le chef de l'adversaire subit un malus de -2 à tous les test de Cool qu'il doit effectuer. Si le chef de l'adversaire n'est pas présent durant la bataille, défaussez cette carte.
 ../TacticsCards/GENERIC CARDS/Combat Drugs.png;Combat Drugs;Gang Tactics;"| Play when a fighter makes a melee attack.
 
 |
@@ -2121,14 +2121,14 @@ this gang count the Fight (Basic) action asa |
 Fight (Simple) action.";Fureur d'acier;Générique;Jouez cette tactique au début d’un tour. Pour la durée de ce round, les combattants de votre gang considère l'action Combat (Basique) comme Combat (simple).
 ../TacticsCards/GENERIC CARDS/Sterner Stuff.png;Sterner Stuff;Gang Tactics;"| Play this card instead of activating a fighter.
 Make a Rally check for each Broken fighter
-in your gang, as though it was the End phase.";Plus solide qu’il n’y paraît;Générique;Jouez cette tactique au lieu d'activer un combattant. Effectuez un test de Ralliement (Rally check) pour chaque combattant Broken dans votre gang, comme si c'était la phase de Fin.
+in your gang, as though it was the End phase.";Plus solide qu’il n’y paraît;Générique;Jouez cette tactique au lieu d'activer un combattant. Effectuez un test de Ralliement (Rally check) pour chaque combattant Broken dans votre gang, comme si c'était la phase de fin.
 ../TacticsCards/GENERIC CARDS/Stop Resisting.png;Stop Resisting;Gang Tactics;"| Play this card when a friendly Standing and
 Engaged fighter makes a Fight (Basic) action,
 (including as part of a Charge (Double)
 action). |
 Untul the End phase of this round, enemy
 fighters cannot make Reaction attacks against
-this fighter.";Arrêtez de résister;Générique;Jouez cette tactique lorsqu’un combattant allié engagé effectue une action Combat (Basic), (y compris dans le cadre d'une Charge (Double)). Jusqu'à la phase de Fin de ce tour, les combattants ennemis ne peuvent pas effectuer d'attaques de réaction contre ce combattant.
+this fighter.";Arrêtez de résister;Générique;Jouez cette tactique lorsqu’un combattant allié engagé effectue une action Combat (Basic), (y compris dans le cadre d'une Charge (Double)). Jusqu'à la phase de fin de ce tour, les combattants ennemis ne peuvent pas effectuer d'attaques de réaction contre ce combattant.
 ../TacticsCards/GENERIC CARDS/Sump Slump.png;Sump Slump;Gang Tactics;"Play at the start of any turn.
 Immediately remove D3 Barricades of your
 choice from anywhere on the board.";Affaissement du puisard;Générique;Jouez cette tactique au début d’un tour. Retirez immédiatement D3 barricades de votre choix n’importe où sur le plateau.
@@ -3304,7 +3304,7 @@ may transfer any successful hits that result from
 that action to a friendly Slave Osryn fignter
 within 3"" of the fighter with the Gang Leader
 special rule. Hits caused by a weapon with the
-Blast (3"" /5"" /*) trait are unaffected by this tactic.";Non, c’est moi Smarticus !;Esclaves Ogryns;"Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité. Jusqu'à la phase de Fin de ce tour, lancez un D6 chaque fois qu'un combattant Ogryn esclave allié doté de la règle spéciale gang leader est la cible d'une action de Shoot (basic). Sur un résultat de 3 ou plus, vous pouvez transférer tous les coups réussis résultant de cette action à un combattant Slave Ogryn allié situé à au moins 3"" du combattant doté de la règle spéciale gang leader. Les coups infligés par une arme dotée du trait Blast (3"" / 5"" /*) ne sont pas affectés par cette tactique."
+Blast (3"" /5"" /*) trait are unaffected by this tactic.";Non, c’est moi Smarticus !;Esclaves Ogryns;"Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité. Jusqu'à la phase de fin de ce tour, lancez un D6 chaque fois qu'un combattant Ogryn esclave allié doté de la règle spéciale gang leader est la cible d'une action de Shoot (basic). Sur un résultat de 3 ou plus, vous pouvez transférer tous les coups réussis résultant de cette action à un combattant Slave Ogryn allié situé à au moins 3"" du combattant doté de la règle spéciale gang leader. Les coups infligés par une arme dotée du trait Blast (3"" / 5"" /*) ne sont pas affectés par cette tactique."
 ../TacticsCards/SLAVE OGRYNS/Not Today!.png;Not Today!;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter is taken Out of Action by an attack made
 with a ranged weapon.
@@ -3327,7 +3327,7 @@ a Hurl (Simple) action for this fighter. Any
 enemy fighter that is the target of this action
 must take a Strength check rather than an
 Initiative check; if they fail, the enemy fighter is
-hurled.";Hors de mon chemin !;Esclaves Ogryns;"Jouez cette tactique lorsque vous activez un combattant Ogryn esclave allié. Jusqu’à la phase de Fin de ce tour, le combattant acquiert la compétence Hurl s’il ne la possédait pas déjà. De plus, l'action Hurl (Basic) devient une action Hurl (Simple) pour ce combattant. Tout combattant ennemi qui est la cible de cette action doit effectuer un test de Strength plutôt qu'un test d'Initiative ; s'il échoue, le combattant ennemi est projeté."
+hurled.";Hors de mon chemin !;Esclaves Ogryns;"Jouez cette tactique lorsque vous activez un combattant Ogryn esclave allié. Jusqu’à la phase de fin de ce tour, le combattant acquiert la compétence Hurl s’il ne la possédait pas déjà. De plus, l'action Hurl (Basic) devient une action Hurl (Simple) pour ce combattant. Tout combattant ennemi qui est la cible de cette action doit effectuer un test de Strength plutôt qu'un test d'Initiative ; s'il échoue, le combattant ennemi est projeté."
 ../TacticsCards/SLAVE OGRYNS/Quicker Than They Look.png;Quicker Than They Look;Slave Ogryns Tactics;"Play this gang tactic when activating |
 a friendly Slave Ogryn fighter.
 
@@ -3394,7 +3394,7 @@ end of this fighter's activation, the weapon
 immediately goes Out of Ammo as if they rolled
 the Ammo symbol on the Firepower dice; this
 counts as an additional roll of the Ammo symbol
-for the purposes of Storm-welder's Unstable trait";Libérez la tempête;Esclaves Ogryns;"Jouez cette tactique lorsqu'un combattant Ogryn esclave allié effectue une attaque avec un Storm-welder, avant de lancer les dés. Jusqu'à la phase de Fin de ce tour, le Storm-welder perd le trait Reckless. Cependant, à la fin de l'activation de ce combattant, l'arme se retrouve immédiatement à Out of ammo; Cela compte comme un jet supplémentaire du symbole Munitions aux fins du trait Unstable du Storm-welder"
+for the purposes of Storm-welder's Unstable trait";Libérez la tempête;Esclaves Ogryns;"Jouez cette tactique lorsqu'un combattant Ogryn esclave allié effectue une attaque avec un Storm-welder, avant de lancer les dés. Jusqu'à la phase de fin de ce tour, le Storm-welder perd le trait Reckless. Cependant, à la fin de l'activation de ce combattant, l'arme se retrouve immédiatement à Out of ammo; Cela compte comme un jet supplémentaire du symbole Munitions aux fins du trait Unstable du Storm-welder"
 ../TacticsCards/SQUAT PROSPECTORS/Ancestral Weapon.png;Ancestral Weapon;Squat Prospectors Tactics;"Play this gang tactic when making a ranged attack
 with a friendly fighter.
 
@@ -4087,7 +4087,7 @@ Pitch Black rules or if the fighter moves outside
 this section. A fighter who loses it can't gain it
 again this round. During the End phase of this
 round, all fighters discard Hidden markers
-caused by this tactic and it's discarded.";Chasseur dans le noir;Zone Mortalis (Venators);"Jouez cette tactique pendant la phase de priorité d’un tour, après le lancer pour la priorité. Choisissez une section de 12""x12"" du champ de bataille. Les combattants à l'intérieur et s'y déplaçant ce tour gagne immédiatement la condition Hidden, comme s'ils étaient affectés par les règles de Pitch Black. La condition peut être perdue comme décrit dans les règles Pitch Black ou si le combattant se déplace à l'extérieur cette section. Un combattant qui perd la condition ne peut pas la gagner encore ce tour. Pendant la phase de Fin de ce round, tous les combattants Hidden perdent la condition"
+caused by this tactic and it's discarded.";Chasseur dans le noir;Zone Mortalis (Venators);"Jouez cette tactique pendant la phase de priorité d’un tour, après le lancer pour la priorité. Choisissez une section de 12""x12"" du champ de bataille. Les combattants à l'intérieur et s'y déplaçant ce tour gagne immédiatement la condition Hidden, comme s'ils étaient affectés par les règles de Pitch Black. La condition peut être perdue comme décrit dans les règles Pitch Black ou si le combattant se déplace à l'extérieur cette section. Un combattant qui perd la condition ne peut pas la gagner encore ce tour. Pendant la phase de fin de ce round, tous les combattants Hidden perdent la condition"
 ../TacticsCards/ZONE MORTALIS/Improvised Cover.png;Improvised Cover;Zone Mortalis Tactics;"Play this gang tactic instead of activating
 
 a fighter.
@@ -4149,7 +4149,7 @@ Action phase.
 
 Unul the End phase of this round, all
 fighters in your crew gain the Spring Up
-skill.";Levez-vous, frères et sœurs !;Zone Mortalis (Hilotes du Chaos);Jouez cette tactique au début de un Phase d'action. Jusqu'à la phase de Fin de ce tour, tous les combattants de votre gang obtiennent la compétence Spring Up.
+skill.";Levez-vous, frères et sœurs !;Zone Mortalis (Hilotes du Chaos);Jouez cette tactique au début de un Phase d'action. Jusqu'à la phase de fin de ce tour, tous les combattants de votre gang obtiennent la compétence Spring Up.
 ../TacticsCards/ZONE MORTALIS/Sparky... SMASH!.png;Sparky... SMASH!;Zone Mortalis Tactics (Slave Ogryns);"Play this gang tactic when a friendly fighter
 activates within 1"" of a closed Door.
 
