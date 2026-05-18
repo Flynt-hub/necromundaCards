@@ -75,7 +75,7 @@ did not suffer a Memorable Death result on the
 Lasting Injury table by placing them in your
 gang’s deployment zone. These fighters retain
 any injuries suffered for going Out of Action
-but discard any Flesh Wounds.";Sans fin;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un test de récupération. Vous pouvez faire revenir à D3 Gangers /Juves qui ont été mis Out of combat sans subir de résultat de mort mémorable en les plaçant dans la zone de déploiement du gang. Ces combattants conservent toute séquelle subie suite à une mise hors combat mais retire toutes les blessures légères.
+but discard any Flesh Wounds.";Sans fin;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un test de récupération. Vous pouvez faire revenir à D3 Gangers /Juves qui ont été mis Out of Action sans subir de résultat de mort mémorable en les plaçant dans la zone de déploiement du gang. Ces combattants conservent toute séquelle subie suite à une mise hors combat mais retire toutes les blessures légères.
 ../TacticsCards/ASH WASTE NOMADS/Overcharge!.png;Overcharge!;Ash Waste Nomads Tactics;"Play this gang tactic when a friendly fighter
 makes a ranged attack before rolling the dice.
 For the duration of this attack, the Shock trait
@@ -395,7 +395,7 @@ Action.
 Centre the 3” Blast marker on the fighter |
 that has just been taken Out of Action. All
 models under the marker count as being hit
-by a frag grenade.";Rachat;Cawdor;"Jouez lorsqu'un combattant allié est retiré mis Out of combat. Centrez le marqueur Blast de 3"" sur le combattant qui vient d'être mis Hors de combat. Tout les figurines touchées par le gabarit comptent comme étant touchées par une grenade à fragmentation."
+by a frag grenade.";Rachat;Cawdor;"Jouez lorsqu'un combattant allié est retiré mis Out of Action. Centrez le marqueur Blast de 3"" sur le combattant qui vient d'être mis Hors de combat. Tout les figurines touchées par le gabarit comptent comme étant touchées par une grenade à fragmentation."
 ../TacticsCards/CAWDOR/Reformation.png;Reformation;Cawdor Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -544,7 +544,7 @@ Death result. For the remainder of the battle,
 all friendly models apply a +1 modifier to any
 rolls to wound the enemy model, and friendly
 models earn an additional D3 XP if they take
-the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of combat par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Hors de combat.
+the enemy model Out of Action.";Martyre;Véhicules Cawdor;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action par une figurine ennemie, avant lancer sur la table des Blessures Durables. Ne lancez pas de jet sur le tableau des Blessures Durables - le combattant subit automatiquement le résultat Memorable death. Pour le reste de la bataille, toutes les figurines allié appliquent un bonus de +1 sur les jets pour blesser les ennemies, de plus les combattant alliés gagnent D3 XP supplémentaire s'ils prennent mettent un ennemi Hors de combat.
 ../TacticsCards/CAWDOR VEHICLES/Prayer Wagon.png;Prayer Wagon;Cawdor Vehicle Tactics;"Play this gang tactic after both gangs have
 deployed, before the first roll for Priority.
 
@@ -600,7 +600,7 @@ the remainder of the battle, the fighter
 
 | gains +1 WS.
 
-|";Béni par la mort;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang met un combattant ennemi Out of combat avec une arme avec un trait Mêlée. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 WS."
+|";Béni par la mort;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang met un combattant ennemi Out of Action avec une arme avec un trait Mêlée. Glissez cette carte sous la carte du combattant ; pour le reste de la bataille, le combattant gagne +1 WS."
 ../TacticsCards/CORPSE GRINDERS/Blood Surge.png;Blood Surge;Corpse Grinders Tactics;"Play this card when a Standing and Active
 
 ‘fighter in your gang is hit by a ranged attack.
@@ -643,7 +643,7 @@ with a weapon with the Melee trait.
 Tuck this card under the fighter's card. When
 this fighter makes a group activation, they may
 include one more fighter than normal as part of
-the group.";Règne du sang;Corspe grinders;Jouez cette tactique lorsqu'un Leader ou un Champion votre gang met un combattant ennemi Out of combat avec une arme avec le trait Mêlée. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus.
+the group.";Règne du sang;Corspe grinders;Jouez cette tactique lorsqu'un Leader ou un Champion votre gang met un combattant ennemi Out of Action avec une arme avec le trait Mêlée. Glissez cette carte sous la carte du combattant. Quand ce combattant effectue une activation de groupe, il peut inclure un combattant de plus.
 ../TacticsCards/CORPSE GRINDERS/Rend and Tear.png;Rend and Tear!;Corpse Grinders Tactics;"| Play this card at the start of any Action
 phase.
 
@@ -657,14 +657,14 @@ All enemy fighters within 12"" that can draw line
 of sight to the target must take Nerve tests. Any
 fighters not within 3"" become Broken as normal
 if they fail, but automatically rally in the End
-phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez cette tactique lorsqu'un combattant ennemi est grièvement blessé ou mis Out of combat par une attaque de mêlée. Tous les combattants ennemis à au moins 12"" pouvant tracer une ligne de vue sur la cible doivent passer un Nerve test. S'ils échouent il subissent la condition Broken, mais se rallient automatiquement à la phase de fin du round."
+phase of the round.";Brutalité sauvage;Corspe grinders;"Jouez cette tactique lorsqu'un combattant ennemi est grièvement blessé ou mis Out of Action par une attaque de mêlée. Tous les combattants ennemis à au moins 12"" pouvant tracer une ligne de vue sur la cible doivent passer un Nerve test. S'ils échouent il subissent la condition Broken, mais se rallient automatiquement à la phase de fin du round."
 ../TacticsCards/CORPSE GRINDERS/Scent of Blood.png;Scent of Blood;Corpse Grinders Tactics;"| Play this card when a fighter in your gang is
 taken Out of Action.
 Choose a friendly Standing and Engaged |
 fighter within 9"" and line of sight of the
 fighter taken Out of Action. They may
 immediately make a Fight (Basic) action,
-even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Hors de combat. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of combat. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
+even if they are not Ready.";Odeur du sang;Corspe grinders;"Jouez cette tactique lorsqu'un combattant de votre gang est mis Hors de combat. Choisissez un allié debout, engagé, à au moins 9"" et en ligne de vue du combattant mis Out of Action. Cet allié peut effectuer immédiatement une action Combat (Basique), même s'il n’est pas prêts."
 ../TacticsCards/CORPSE GRINDERS/The Red Hunt.png;The Red Hunt;Corpse Grinders Tactics;"| Play this card during any Action phase, after
 Fleeing the battlefield but before Activate
 Fighters.
@@ -713,7 +713,7 @@ Before the fighter is removed from play, place
 
 a large 5"" Blast marker, centred on the fighter.
 All fighters touched by the marker are hit as if by
-a weapon with the Flash trait.";Des révélations aveuglantes;Delaque;"Jouez cette tactique lorsqu'un combattant Delaque allié est mis Out of combat en combat rapproché ou par une action Coup de Grâce (Simple). Avant que le combattant ne soit retiré du jeu, placez un grand marqueur Blast de 5"", centré sur le combattant. Tous les combattants touchés par le marqueur sont touchés comme par une arme avec le trait Flash."
+a weapon with the Flash trait.";Des révélations aveuglantes;Delaque;"Jouez cette tactique lorsqu'un combattant Delaque allié est mis Out of Action en combat rapproché ou par une action Coup de Grâce (Simple). Avant que le combattant ne soit retiré du jeu, placez un grand marqueur Blast de 5"", centré sur le combattant. Tous les combattants touchés par le marqueur sont touchés comme par une arme avec le trait Flash."
 ../TacticsCards/DELAQUE/Cloying Darkness.png;Cloying Darkness;Delaque Tactics;"Play this gang tactic when an enemy fighter
 performs a Fight (Basic) action.
 
@@ -874,7 +874,7 @@ an attack as part of a Charge (Double) action.
 If the fighter is no longer Engaged, they may
 immediately make a free Move (Simple) action.
 If the fighter is Engaged, they may immediately
-make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié met un combattant ennemi Out of combat avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Déplacement (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez une action gratuite Combat (Basique).
+make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié met un combattant ennemi Out of Action avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Déplacement (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez une action gratuite Combat (Basique).
 ../TacticsCards/DELAQUE/Shape Shifting.png;Shape Shifting;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter becomes Seriously Injured.
 
@@ -1090,7 +1090,7 @@ can move up to D6"". If the fighter goes Out of
 Action before making this action, roll a D6. On a
 1, the trap triggered (centred on the fighter's base)
 On a 2-3, place a Gas Trap marker where the
-fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez cette tactique au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous sa carte. Une fois pendant le jeu, le combattant, peut déposer un piège à gaz (double) - Placer un marqueur piège à gaz à 1"" ou moins du combattant. Ensuite, il peut avancer jusqu'à D6"". Si le combattant est mis Out of combat avant d'effectuer cette action, lancez 1D6. Sur un 1, le piège est déclenché (centrez le gabarit sur le socle du combattant) Sur 2-3, placez un marqueur Piège à Gaz à l'endroit où se trouvais le combattant. Sur 4+, défaussez cette carte."
+fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez cette tactique au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous sa carte. Une fois pendant le jeu, le combattant, peut déposer un piège à gaz (double) - Placer un marqueur piège à gaz à 1"" ou moins du combattant. Ensuite, il peut avancer jusqu'à D6"". Si le combattant est mis Out of Action avant d'effectuer cette action, lancez 1D6. Sur un 1, le piège est déclenché (centrez le gabarit sur le socle du combattant) Sur 2-3, placez un marqueur Piège à Gaz à l'endroit où se trouvais le combattant. Sur 4+, défaussez cette carte."
 ../TacticsCards/ESCHER/Gifts of the Matron.png;Gifts of the Matron;Escher Tactics;"Play this gang tactic when activating
 
 a fighter.
@@ -1113,7 +1113,7 @@ your gang’s Leader earns XP equal to the number
 chosen if she's part of your crew for this battle.
 If your crew doesn't include a fighter with the
 Leader (Escher) special rule, you may discard
-this gang tactic and select another.";Décompte des victimes;Escher;Jouez cette tactique au début de la phase d'action. Choisissez un numéro entre 1 et 6. Si ce nombre de combattants ennemis est grièvement blessé ou mis Out of combat à la suite d'attaques lancées par vos combattants ce tour (les combattants fuyant la bataille ne compte pas), alors le leader de votre gang gagne un nombre d’XP égal au nombre choisi s’il fait partie de votre gang pour cette bataille. Si votre gang ne comprend pas de combattant avec le Règle spéciale Leader (Escher), vous pouvez vous défausser cette tactique de gang et en choisir une autre.
+this gang tactic and select another.";Décompte des victimes;Escher;Jouez cette tactique au début de la phase d'action. Choisissez un numéro entre 1 et 6. Si ce nombre de combattants ennemis est grièvement blessé ou mis Out of Action à la suite d'attaques lancées par vos combattants ce tour (les combattants fuyant la bataille ne compte pas), alors le leader de votre gang gagne un nombre d’XP égal au nombre choisi s’il fait partie de votre gang pour cette bataille. Si votre gang ne comprend pas de combattant avec le Règle spéciale Leader (Escher), vous pouvez vous défausser cette tactique de gang et en choisir une autre.
 ../TacticsCards/ESCHER/Mistress of Death.png;Mistress of Death;Escher Tactics;"Play this gang tactic when a friendly |
 Death-maiden takes an enemy fighter Out
 of Action. |
@@ -1137,7 +1137,7 @@ Necromunda Rulebook.";Phyrr prédateur;Escher;Jouez cette tactique au début de 
 
 Any Seriously Injured enemy fighters that
 are within 2” of an Active fighter from this _
-gang are immediately taken Out of Action.";Abattez-les !;Escher;"Jouez cette tactique à la fin de une phase d’action. Tout combattant ennemi Seriously injured à au moins 2"" d'un combattant actif de ce le gang est immédiatement mis Out of combat."
+gang are immediately taken Out of Action.";Abattez-les !;Escher;"Jouez cette tactique à la fin de une phase d’action. Tout combattant ennemi Seriously injured à au moins 2"" d'un combattant actif de ce le gang est immédiatement mis Out of Action."
 ../TacticsCards/ESCHER/Queen of the Hive.png;Queen of the Hive;Escher Tactics;"Play this gang tactic at the start of the Action
 phase. For the duration of this round, enemy
 fighters must pass a Willpower check if they wish
@@ -1173,7 +1173,7 @@ Enemy fighters must make a Nerve testif
 they are within 9"" rather than 3"" (they must
 still be visible). In addition, subtract 2 from
 the result of any Nerve tests made for
-fighters within 3"".";Buter;Escher;"Jouez cette tactique après qu'un de vos combattants ait mis un ennemi Out of combat au corps à corps. Les combattants ennemis doivent faire un Nerve test s’ils sont à au moins 9"" plutôt que de 3"" (il doivent toujours être en ligne de vue). De plus, appliquez un malus de -2 de tout Nerve test effectué pour combattants à au moins 3""."
+fighters within 3"".";Buter;Escher;"Jouez cette tactique après qu'un de vos combattants ait mis un ennemi Out of Action au corps à corps. Les combattants ennemis doivent faire un Nerve test s’ils sont à au moins 9"" plutôt que de 3"" (il doivent toujours être en ligne de vue). De plus, appliquez un malus de -2 de tout Nerve test effectué pour combattants à au moins 3""."
 ../TacticsCards/ESCHER/Search and Scrag.png;Search and Scrag;Escher Tactics;"Play this gang tactic when an enemy fighter fails
 a Nerve test.
 
@@ -1266,7 +1266,7 @@ sequence when receiving scenario rewards.
 
 Add D3x5 credits to your oe Stash for each
 enemy fighter subject to the Mounted condition
-taken Out of Action during this battle.";Prime de motard;Véhicules Escher;Jouez cette tactique pendant la phase d'après-bataille lors de la réception des récompenses du scénario. Ajoutez des crédits D3x5 à votre réserve d'origine pour chaque combattant ennemi Monté mis Out of combat au cours de cette bataille.
+taken Out of Action during this battle.";Prime de motard;Véhicules Escher;Jouez cette tactique pendant la phase d'après-bataille lors de la réception des récompenses du scénario. Ajoutez des crédits D3x5 à votre réserve d'origine pour chaque combattant ennemi Monté mis Out of Action au cours de cette bataille.
 ../TacticsCards/ESCHER VEHICLES/Chem Exhausts.png;Chem Exhausts;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 Mobile vehicle before performing any actions.
 Once the vehicle's activation has finished, any
@@ -1373,7 +1373,7 @@ they are taken Out of Action during this action
 (for example, due to Reaction attacks) do not roll
 an additional time on the Lasting Injury table,
 though the enemy model will gain XP as normal
-for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié Montée et mis Hors de combat, avant de le retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action puis il est retiré du champ de bataille. Si ils sont mis Out of combat pendant cette action (par exemple, en raison d'attaques de réaction) ne faite pas un jet supplémentaire sur le tableau Lasting injuries, cependant la figurine ennemie gagnera de l'XP comme d'habitude pour l’avoir mis Out of combat.
+for taking them Out of Action.";La dernière chevauchée;Véhicules Escher;Jouez cette tactique lorsqu'un combattant allié Montée et mis Hors de combat, avant de le retirer du champ de bataille. Le combattant change immédiatement son statut en Debout et peut effectuer une action puis il est retiré du champ de bataille. Si ils sont mis Out of Action pendant cette action (par exemple, en raison d'attaques de réaction) ne faite pas un jet supplémentaire sur le tableau Lasting injuries, cependant la figurine ennemie gagnera de l'XP comme d'habitude pour l’avoir mis Out of Action.
 ../TacticsCards/ESCHER VEHICLES/Wheels Down.png;Wheels Down;Escher Vehicle Tactics;"Play this gang tactic when a friendly fighter
 subject to the Mounted condition falls, before
 resolving any hits for falling.
@@ -1484,7 +1484,7 @@ For the rest of the battle, add 1 to the result
 of any hit rolls for fighters from your gang
 
 when they target the attacker. Tuck this card
-under the attacker's Fighter card as a reminder.";Dette de sang;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of combat par un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche des combattants de votre gang lorsqu'ils ciblent cet ennemi.
+under the attacker's Fighter card as a reminder.";Dette de sang;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of Action par un combattant ennemi. Pour le reste de la bataille, ajoutez 1 au résultat de tous les jets de touche des combattants de votre gang lorsqu'ils ciblent cet ennemi.
 ../TacticsCards/GENERIC CARDS/Blood Fury.png;Blood Fury;Gang Tactics;"| Play when one of your fighters loses
 
 a Wound.
@@ -1541,7 +1541,7 @@ Action with a Melee attack.
 
 The activating fighter can move up to D6"" _—
 and make a Fight Basic action. Their
-activation then immediately ends.";Attaques en chaîne;Générique;Jouez cet tactique quand un combattant met un ennemi Out of combat avec une attaque de mêlée. Le combattant peut se déplacer de jusqu'à D6 », effectuer une action Combat (Basic). Son activation se termine alors immédiatement.
+activation then immediately ends.";Attaques en chaîne;Générique;Jouez cet tactique quand un combattant met un ennemi Out of Action avec une attaque de mêlée. Le combattant peut se déplacer de jusqu'à D6 », effectuer une action Combat (Basic). Son activation se termine alors immédiatement.
 ../TacticsCards/GENERIC CARDS/Click.png;«Click!;Gang Tactics;"Play this card after an enemy fighter
 completes an attack with a ranged weapon.
 The weapon immediately runs Out of Ammo,
@@ -1592,7 +1592,7 @@ activation continues. If the Initiative test is
 failed, the fighter falls into the crater and is
 immediately taken Out of Action. The pitfall
 Crater remains in place for the duration of the
-battle.";Terrain dangereux;Générique;Jouez cette tactique lorsque votre adversaire active un combattant. Placez immédiatement un marqueur Pitfall Crater sous le combattant, ce dernier doit faire un test d’Initiative. Si le test est réussi, le combattant effectue une action de déplacement vers le bord le plus proche et continue son activation. Si le test d’Initiative est échoué, le combattant tombe dans le cratère et est immédiatement mis Out of combat. Le piège reste en place pour la durée du bataille.
+battle.";Terrain dangereux;Générique;Jouez cette tactique lorsque votre adversaire active un combattant. Placez immédiatement un marqueur Pitfall Crater sous le combattant, ce dernier doit faire un test d’Initiative. Si le test est réussi, le combattant effectue une action de déplacement vers le bord le plus proche et continue son activation. Si le test d’Initiative est échoué, le combattant tombe dans le cratère et est immédiatement mis Out of Action. Le piège reste en place pour la durée du bataille.
 ../TacticsCards/GENERIC CARDS/Deadlock.png;| Deadlock;Gang Tactics;"Zone Mortalis only. |
 Play this card at the start of any round. |
 Choose a closed door anywhere on
@@ -1716,7 +1716,7 @@ they can move up to D6"", If the fighter goes Out
 of Action before making this action, roll a D6.
 On a 1, the trap triggered (centred on the
 fighter's base). On a 2-3, place a marker where
-the fighter stood. On a 4+, discard this card.";Piège à fragments;Générique;"Jouez cette tactique au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous la sienne. Une fois pendant la partie, le combattant peut poser un piège à fragmentation (double) - Placez un Marqueur Frag Trap à 1"" ou moins du combattant. Puis ils peuvent avancer de D6"", si le combattant est mis Out of combat avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le base de combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant était. Sur 4+, défaussez cette carte."
+the fighter stood. On a 4+, discard this card.";Piège à fragments;Générique;"Jouez cette tactique au début de la bataille, lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous la sienne. Une fois pendant la partie, le combattant peut poser un piège à fragmentation (double) - Placez un Marqueur Frag Trap à 1"" ou moins du combattant. Puis ils peuvent avancer de D6"", si le combattant est mis Out of Action avant d’effectuer cette action, lancez un D6. Sur un 1, le piège se déclenche (centré sur le base de combattant). Sur un 2-3, placez un marqueur à l'endroit le combattant était. Sur 4+, défaussez cette carte."
 ../TacticsCards/GENERIC CARDS/Got Your Back.png;Got Your Back;Gang Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, fighters
@@ -2143,7 +2143,7 @@ attack.
 
 A friendly fighter can immediately make
 a free Shoot (Basic) action against the
-attacker.";Justice rapide;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of combat par l’attaque d’un combattant ennemi. Un combattant allié peut immédiatement faire une action Tir (Basique) gratuite contre le attaquant.
+attacker.";Justice rapide;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of Action par l’attaque d’un combattant ennemi. Un combattant allié peut immédiatement faire une action Tir (Basique) gratuite contre le attaquant.
 ../TacticsCards/GENERIC CARDS/Tactical Deployment.png;Tactical Deployment;Gang Tactics;"Play during the pre-battle sequence during
 
 Step 5. Choose Crews.
@@ -2287,7 +2287,7 @@ by aclose combat attack.
 The chosen fighter may make a single close ©
 combat attack against the enemy that took
 them Out of Action. They are then removed
-from play as normal.";Tu viens avec moi !;Générique;Jouez cette tactique lorsqu'un combattant est mis Out of combat par une attaque de combat rapproché. Le combattant choisi peut effectuer une seule attaque de mêlée contre l'ennemi qui l’a mis hors combat. Il est ensuite retiré du jeu normalement.
+from play as normal.";Tu viens avec moi !;Générique;Jouez cette tactique lorsqu'un combattant est mis Out of Action par une attaque de combat rapproché. Le combattant choisi peut effectuer une seule attaque de mêlée contre l'ennemi qui l’a mis hors combat. Il est ensuite retiré du jeu normalement.
 ../TacticsCards/GOLIATH/ They’re only Bullets!.png;| They're only Bullets!;Goliath Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority but before
 Ready Fighters.
@@ -2682,7 +2682,7 @@ Leader is taken Out of Action.
 
 Your gang immediately addsanumberof |
 credits equal to half the Champion's or
-Leader's cost (rounding up) to its stash.";L'argent du sang;Venator;Jouez cette tactique lorsqu'un champion ou un chef ennemi est mis Out of combat. Votre gang ajoute immédiatement à son butin un nombre de crédits égal à la moitié du coût du champion ou du chef (en arrondissant à l'unité supérieure).
+Leader's cost (rounding up) to its stash.";L'argent du sang;Venator;Jouez cette tactique lorsqu'un champion ou un chef ennemi est mis Out of Action. Votre gang ajoute immédiatement à son butin un nombre de crédits égal à la moitié du coût du champion ou du chef (en arrondissant à l'unité supérieure).
 ../TacticsCards/MISFITS/Cult Ambush.png;Cult Ambush;Genestealer Cult Tactics;"Play this card immediately before |
 deployment.
 
@@ -2699,7 +2699,7 @@ a Chaos Spawn. During the Wrap-up step, the
 Chaos Spawn is removed from play and you must
 test to see if the Demagogue succumbs their
 injuries, as if they were Seriously Injured when
-the battle ended.";Bénédictions sombres;Hilotes du Chaos;Jouez cette tactique lorsque votre Démagogue est Seriously injured ou mis Out of combat, mais avant de le retirer du plateau. Effectuez un test de Willpower pour le Démagogue. Si le test est réussi, remplacez le par un Engeance du Chaos. A la fin de la bataille, l’Engeance du Chaos est retirée du jeu et vous devez vérifier si le Démagogue succombe à ses blessures, comme s’il avait été Seriously injured à la fin de la bataille.
+the battle ended.";Bénédictions sombres;Hilotes du Chaos;Jouez cette tactique lorsque votre Démagogue est Seriously injured ou mis Out of Action, mais avant de le retirer du plateau. Effectuez un test de Willpower pour le Démagogue. Si le test est réussi, remplacez le par un Engeance du Chaos. A la fin de la bataille, l’Engeance du Chaos est retirée du jeu et vous devez vérifier si le Démagogue succombe à ses blessures, comme s’il avait été Seriously injured à la fin de la bataille.
 ../TacticsCards/ORLOCK/Ambition.png;Ambition;Orlock Tactics;"Play this card when it is your turn to activate a
 fighter.
 
@@ -2838,7 +2838,7 @@ Injured fighter.
 This fighter immediately becomes |
 Standing and Active. At the end of this
 fighter's activation, they go Out of Action
-and are removed from play.";Dernier souffle;Orlock;Jouez cette tactique lorsque vous activez un combattant Seriously injured. Ce combattant redevient immédiatement debout et actif. À la fin de l'activation de ce combattant, il est mis Out of combat et est retiré du jeu.
+and are removed from play.";Dernier souffle;Orlock;Jouez cette tactique lorsque vous activez un combattant Seriously injured. Ce combattant redevient immédiatement debout et actif. À la fin de l'activation de ce combattant, il est mis Out of Action et est retiré du jeu.
 ../TacticsCards/ORLOCK/Lead by Example.png;Lead by Example;Orlock Tactics;"| Play this when a Leader or Champion from
 your gang takes an enemy model Out of
 Action in close combat.
@@ -2847,7 +2847,7 @@ Any Broken fighter from your gang
 immediately rally. In addition, any Pinned
 fighters from your gang within 6"" of the
 Leader or Champion can immediately return
-to standing.";Montrer l’exemple;Orlock;"Jouez cette tactique lorsqu'un leader ou un champion de votre gang met un combattant ennemi Out of combat lors d'un corps à corps. Tous les combattants Broken de votre gang se Rally immédiatement. De plus, tous les combattants Pinned de votre gang situés à au moins 6"" du leader ou du champion peuvent immédiatement se remettre debout."
+to standing.";Montrer l’exemple;Orlock;"Jouez cette tactique lorsqu'un leader ou un champion de votre gang met un combattant ennemi Out of Action lors d'un corps à corps. Tous les combattants Broken de votre gang se Rally immédiatement. De plus, tous les combattants Pinned de votre gang situés à au moins 6"" du leader ou du champion peuvent immédiatement se remettre debout."
 ../TacticsCards/ORLOCK/Protection Duty.png;Protection Duty;Orlock Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Your gang may
@@ -2858,7 +2858,7 @@ model, select another card, If this Rebel Lord is
 taken OOA, every friendly fighter suffers a -2 to
 Cool for the rest of this battle. In campaign battl
 your gang loses 5 Rep. (to a min. of 0), and the
-gang that takes the Rebel Lord OOA gains 3 Rep.";Devoir de protection;Orlock;Jouez cette tactique au début de la phase de déploiement, avant que les combattants n'aient été déployé. Votre gang peut prendre un Rebel lord pour cette bataille. Il s'ajoute à votre gang de départ et ne compte pas dans la taille maximale de votre équipe. Si ce Rebel lord est mis Out of combat, tous les combattant alliés subissent un malus de -2 au Cool pour le reste de cette bataille. Votre gang perd 5 de réputation (avec un minimum de 0), et le gang qui met le Rebel lord Out of combat gagne 3 de réputation.
+gang that takes the Rebel Lord OOA gains 3 Rep.";Devoir de protection;Orlock;Jouez cette tactique au début de la phase de déploiement, avant que les combattants n'aient été déployé. Votre gang peut prendre un Rebel lord pour cette bataille. Il s'ajoute à votre gang de départ et ne compte pas dans la taille maximale de votre équipe. Si ce Rebel lord est mis Out of Action, tous les combattant alliés subissent un malus de -2 au Cool pour le reste de cette bataille. Votre gang perd 5 de réputation (avec un minimum de 0), et le gang qui met le Rebel lord Out of Action gagne 3 de réputation.
 ../TacticsCards/ORLOCK/Quick Trick.png;Quick Trick;Orlock Tactics;"Play this gang tactic when an enemy fighter
 declares a Charge (Double) action and moves
 within 1"" of a friendly Orlock fighter.
@@ -2885,7 +2885,7 @@ If the fighter is no longer Engaged, they may
 immediately make a second, free Charge
 (Double) action. If the fighter is Engaged, they
 may immediately make a free Fight (Basic)
-action instead.";Showboating;Orlock;Utilisez cette tactique lorsqu'un combattant Orlock allié met un combattant ennemi Out of combat à la suite d'une attaque effectuée dans le cadre d'une Charge (Double). Si le combattant n'est plus engagé, il peut immédiatement effectuer une deuxième Charge (Double) gratuite. Si le combattant est engagé, il peut à la place effectuer immédiatement une action Combat (Basic) gratuite.
+action instead.";Showboating;Orlock;Utilisez cette tactique lorsqu'un combattant Orlock allié met un combattant ennemi Out of Action à la suite d'une attaque effectuée dans le cadre d'une Charge (Double). Si le combattant n'est plus engagé, il peut immédiatement effectuer une deuxième Charge (Double) gratuite. Si le combattant est engagé, il peut à la place effectuer immédiatement une action Combat (Basic) gratuite.
 ../TacticsCards/ORLOCK/Solidarity.png;Solidarity;Orlock Tactics;"| Play at the start of any round.
 
 For the duration of the round, fighters from
@@ -2902,7 +2902,7 @@ battle, or until the chosen fighter is taken Out of
 Action, the chosen fighter replaces their Gang
 Hierarchy (Champion) and Group Activation (1)
 special rules with the Gang Hierarchy (Leader)
-and Group Activation (2) special rules.";Prendre ses responsabilités;Orlock;Jouez cette tactique lorsqu'un combattant Orlock allié doté du trait Gang hierarchy (leader) est mis Out of combat. Choisissez un combattant Orlock allié présent sur le champ de bataille et doté de la compétence Gang hierarchy (champion).  Jusqu'à la fin de cette bataille, ou jusqu'à ce que le combattant choisi soit mis Out of combat, le combattant choisi remplace les règles spéciales Gang hierarchy (champion) et Group activation (1) par les règles spéciales Gang hierarchy (leader) et Group activation (2).
+and Group Activation (2) special rules.";Prendre ses responsabilités;Orlock;Jouez cette tactique lorsqu'un combattant Orlock allié doté du trait Gang hierarchy (leader) est mis Out of Action. Choisissez un combattant Orlock allié présent sur le champ de bataille et doté de la compétence Gang hierarchy (champion).  Jusqu'à la fin de cette bataille, ou jusqu'à ce que le combattant choisi soit mis Out of Action, le combattant choisi remplace les règles spéciales Gang hierarchy (champion) et Group activation (1) par les règles spéciales Gang hierarchy (leader) et Group activation (2).
 ../TacticsCards/ORLOCK/Strength of Arms.png;Strength of Arms;Orlock Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -3092,7 +3092,7 @@ The fighter (who may be Seriously Injured),
 immediately becomes Standing and Active and
 may perform up to three actions during this
 activation. Once their activation ends, they
-immediately go Out of Action.";Tout ou rien;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant (qui peut être Seriously injured) redevient immédiatement debout et actif et peut effectuer jusqu'à trois actions pendant cette activation. Une fois son activation terminée, il est immédiatement mis Out of combat.
+immediately go Out of Action.";Tout ou rien;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant (qui peut être Seriously injured) redevient immédiatement debout et actif et peut effectuer jusqu'à trois actions pendant cette activation. Une fois son activation terminée, il est immédiatement mis Out of Action.
 ../TacticsCards/OUTCASTS/Back to the Badzones.png;Back to the Badzones;Outcasts Tactics;"Play this gang tactic during any End phase,
 before your opponent makes any Recovery tests.
 The battle ends as if your gang had retreated
@@ -3111,7 +3111,7 @@ taken Out of Action.
 Do not make a Lasting Injury roll against the
 fighter. Instead, treat the fighter as being Out
 Cold, as if a roll of 12-26 on the Lasting Injury
-table had been made against them.";Combattre un autre jour;Outcasts;Utilisez cette tactique lorsqu'un combattant allié est mis Out of combat. Ne procédez pas à un Lasting injury roll pour ce combattant. Considérez le résultat comme Out cold, comme si un jet de 12 à 26 avait été obtenu contre lui sur la table des Lasting injuries.
+table had been made against them.";Combattre un autre jour;Outcasts;Utilisez cette tactique lorsqu'un combattant allié est mis Out of Action. Ne procédez pas à un Lasting injury roll pour ce combattant. Considérez le résultat comme Out cold, comme si un jet de 12 à 26 avait été obtenu contre lui sur la table des Lasting injuries.
 ../TacticsCards/OUTCASTS/Hard Rounds.png;Hard Rounds;Outcasts Tactics;"Play this gang tactic at the start of any round
 before players Roll for Priority.
 
@@ -3143,7 +3143,7 @@ Action but did not suffer a Memorable Death
 result on the Lasting Injury table by placing
 them in your gang’s deployment zone. These
 fighters retain any injuries suffered for going Out
-of Action but discard any Flesh Wounds.";Il y en a d’autres;Outcasts;Jouez cette tactique pendant n’importe quelle phase de fin, avant que votre adversaire n’effectue ses Recovery rolls. Vous pouvez remettre en jeu D3 gangers / Juves qui ont été mis Out of combat mais qui n’ont pas subi de résultat Memorable death sur la table des Lasting injuries, en les plaçant dans la zone de déploiement de votre gang. Ces combattants conservent toutes les Lasting injuries subies lors de leur mise Out of combat, mais défaussent toutes les Flesh wound.
+of Action but discard any Flesh Wounds.";Il y en a d’autres;Outcasts;Jouez cette tactique pendant n’importe quelle phase de fin, avant que votre adversaire n’effectue ses Recovery rolls. Vous pouvez remettre en jeu D3 gangers / Juves qui ont été mis Out of Action mais qui n’ont pas subi de résultat Memorable death sur la table des Lasting injuries, en les plaçant dans la zone de déploiement de votre gang. Ces combattants conservent toutes les Lasting injuries subies lors de leur mise Out of Action, mais défaussent toutes les Flesh wound.
 ../TacticsCards/OUTCASTS/No Masters.png;No Masters;Outcasts Tactics;"Play this gang tactic when a friendly fighter is
 required to make a Leadership, Cool, Intelligence
 or Willpower check.
@@ -3184,14 +3184,14 @@ characteristics profile with that of any friendly
 fighter that is currently on the battlefield. At the
 end of their activation, this fighter goes
 
-Out of Action.";Agent infiltré;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant peut choisir d'échanger son profil de caractéristiques avec celui de n'importe quel combattant allié se trouvant actuellement sur le champ de bataille. À la fin de son activation, ce combattant est mis Out of combat.
+Out of Action.";Agent infiltré;Outcasts;Utilisez cette tactique lorsque vous activez un combattant allié. Le combattant peut choisir d'échanger son profil de caractéristiques avec celui de n'importe quel combattant allié se trouvant actuellement sur le champ de bataille. À la fin de son activation, ce combattant est mis Out of Action.
 ../TacticsCards/OUTCASTS/We Never Liked Him Anyway.png;We Never Liked Him Anyway;Outcasts Tactics;"Play this gang tactic when a friendly fighter is
 taken Out of Action.
 
 The fighter automatically suffers a Memorable
 Death, as if a roll of 66 had been made against
 them on the Lasting Injury table. The fighter's
-cost in credits is then added to your gang's Stash.";On ne l’a jamais vraiment aimé;Outcasts;Joue cette tactique lorsqu'un combattant allié est mis Out of combat. Le combattant subit automatiquement une Memorable death, comme si un jet de 66 avait été obtenu pour lui sur la table des Lasting injuries. Le coût en crédits du combattant est ensuite ajouté à la cagnotte de ton gang.
+cost in credits is then added to your gang's Stash.";On ne l’a jamais vraiment aimé;Outcasts;Joue cette tactique lorsqu'un combattant allié est mis Out of Action. Le combattant subit automatiquement une Memorable death, comme si un jet de 66 avait été obtenu pour lui sur la table des Lasting injuries. Le coût en crédits du combattant est ensuite ajouté à la cagnotte de ton gang.
 ../TacticsCards/OUTCASTS/Worthless.png;Worthless;Outcasts Tactics;"Play this gang tactic when a friendly fighter is
 taken Out of Action.
 
@@ -3199,7 +3199,7 @@ No XP is gained for the fighter being taken
 
 Out of Action. In addition, do not count this
 fighter as having been taken Out of Action when
-determining scenario rewards.";Sans valeur;Outcasts;Jouez cette tactique lorsqu'un combattant allié est mis Out of combat. Aucun XP n'est gagné pour le combattant mis Out of combat. De plus, ne considérez pas ce combattant comme ayant été mis Out of combat lors de la détermination des récompenses du scénario.
+determining scenario rewards.";Sans valeur;Outcasts;Jouez cette tactique lorsqu'un combattant allié est mis Out of Action. Aucun XP n'est gagné pour le combattant mis Out of Action. De plus, ne considérez pas ce combattant comme ayant été mis Out of Action lors de la détermination des récompenses du scénario.
 ../TacticsCards/OUTCASTS/Wyrd Occurrence.png;Wyrd Occurrence;Outcasts Tactics;"Play this gang tactic when activating a friendly
 fighter.
 
@@ -3224,7 +3224,7 @@ Nerve tests it has to make. In addition,
 the fighter immediately activates, interrupting
 the enemy fighter's turn, and performs their
 activation as normal. This fighter then loses their
-Ready marker.";Ogryn vengeur;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn esclave allié est mis Out of combat par une attaque lancée par un combattant ennemi. Choisissez un Ogryn esclave allié Ready, debout et actif. Jusqu'à la fin de ce tour, ce combattant réussit automatiquement tous les Nerve tests qu'il doit effectuer. De plus, le combattant s'active immédiatement, interrompant le tour du combattant ennemi, et effectue son activation comme d'habitude. Ce combattant perd alors son marqueur Ready.
+Ready marker.";Ogryn vengeur;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn esclave allié est mis Out of Action par une attaque lancée par un combattant ennemi. Choisissez un Ogryn esclave allié Ready, debout et actif. Jusqu'à la fin de ce tour, ce combattant réussit automatiquement tous les Nerve tests qu'il doit effectuer. De plus, le combattant s'active immédiatement, interrompant le tour du combattant ennemi, et effectue son activation comme d'habitude. Ce combattant perd alors son marqueur Ready.
 ../TacticsCards/SLAVE OGRYNS/Chain Breaker.png;Chain Breaker;Slave Ogryns Tactics;"Play this tactic at the start of the battle, after bot .
 sides have deployed, but before the first round.
 Until the end of battle, don't roll Recovery for
@@ -3248,7 +3248,7 @@ The Slave Ogryn is then immediately moved 1""
 directly away from the fighter performing the
 action and is placed Prone and Pinned - they
 
-are no longer Seriously Injured.";Mourir debout;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de cette bataille, lorsqu’un combattant allié est la cible d’une action Coup de grâce (simple), il subit D3 blessures légères au lieu d’être mis Out of combat. L'Ogryn esclave est alors immédiatement déplacé de 1"" à l’opposé du combattant effectuant l'action et est placé Pinned et Prone. Il n'est plus Seriously injured."
+are no longer Seriously Injured.";Mourir debout;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de cette bataille, lorsqu’un combattant allié est la cible d’une action Coup de grâce (simple), il subit D3 blessures légères au lieu d’être mis Out of Action. L'Ogryn esclave est alors immédiatement déplacé de 1"" à l’opposé du combattant effectuant l'action et est placé Pinned et Prone. Il n'est plus Seriously injured."
 ../TacticsCards/SLAVE OGRYNS/Freedom in Death.png;Freedom in Death;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter is taken Out of Action.
 
@@ -3258,7 +3258,7 @@ action with a weapon with the Grenade trait they
 are equipped with that has the Blast (3 ""/5""/*)
 trait. The central hole of the Blast marker must
 be centered over this fighter and the attack
-automatically hits.";La liberté dans la mort;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat. Avant de retirer ce combattant du champ de bataille, il peut immédiatement effectuer une action de Shoot (basic) gratuite avec une arme dotée des traits Grenade et Blast dont il est équipé. Le trou central du gabarit doit être centré sur ce combattant et l'attaque touche automatiquement.
+automatically hits.";La liberté dans la mort;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of Action. Avant de retirer ce combattant du champ de bataille, il peut immédiatement effectuer une action de Shoot (basic) gratuite avec une arme dotée des traits Grenade et Blast dont il est équipé. Le trou central du gabarit doit être centré sur ce combattant et l'attaque touche automatiquement.
 ../TacticsCards/SLAVE OGRYNS/Gene-Bred.png;Gene- Bred;Slave Ogryns Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Choose a Slave
@@ -3315,7 +3315,7 @@ make a free Charge (Double) action. Immediately
 after this action, and ay subsequent Fight (Basic
 action made as part of the Charge (Double)
 action, is resolved, the fighter goes Out of Action
-as normal.";Pas aujourd'hui !;Esclaves Ogryns;Utilisez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat par une attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, celui-ci peut immédiatement se remettre debout et effectuer une action de Charge (Double) gratuite. Immédiatement après cette action, et une fois que tout combat a été résolu, le combattant est mis Out of combat.
+as normal.";Pas aujourd'hui !;Esclaves Ogryns;Utilisez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of Action par une attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, celui-ci peut immédiatement se remettre debout et effectuer une action de Charge (Double) gratuite. Immédiatement après cette action, et une fois que tout combat a été résolu, le combattant est mis Out of Action.
 ../TacticsCards/SLAVE OGRYNS/Out of My Way!.png;Out of my Way!;Slave Ogryns Tactics;"Play this gang tactic when activating a friendly
 Slave Ogryn fighter.
 
@@ -3423,7 +3423,7 @@ an enemy fighter as a result of an attack made
 by a friendly model, after rolling the Injury dice.
 If you roll two or more results of Seriously
 Injured, the enemy fighter is taken Out of Action
-instead.";Coup fatal !;Prospecteurs squat;Jouez cette tactique lors du calcul des dégâts infligés à un combattant ennemi à la suite d'une attaque menée par un alliée, après avoir lancé le test d’Injury. Si vous obtenez au moins deux résultats Seriously injured, le combattant ennemi est mis Out of combat à la place.
+instead.";Coup fatal !;Prospecteurs squat;Jouez cette tactique lors du calcul des dégâts infligés à un combattant ennemi à la suite d'une attaque menée par un alliée, après avoir lancé le test d’Injury. Si vous obtenez au moins deux résultats Seriously injured, le combattant ennemi est mis Out of Action à la place.
 ../TacticsCards/SQUAT PROSPECTORS/Finest Craftsmanship.png;Finest Craftsmanship;Squat Prospectors Tactics;"Play this gang tactic when making a ranged attack
 with a friendly model, before rolling to hit.
 
@@ -3501,7 +3501,7 @@ been taken Out of Action by an enemy model.
 
 A friendly fighter with line of sight to the enemy
 fighter may immediately make a Shoot (Basic)
-action targeting the enemy fighter.";Vengeance de l’Ironhead !;Prospecteurs squat;Utilisez cette tactique après qu'un combattant allié a été mis Out of combat par un ennemi. Un allié ayant une ligne de vue sur l'ennemi peut immédiatement effectuer une action de Shoot (basic) en ciblant ce dernier.
+action targeting the enemy fighter.";Vengeance de l’Ironhead !;Prospecteurs squat;Utilisez cette tactique après qu'un combattant allié a été mis Out of Action par un ennemi. Un allié ayant une ligne de vue sur l'ennemi peut immédiatement effectuer une action de Shoot (basic) en ciblant ce dernier.
 ../TacticsCards/SQUAT PROSPECTORS/Veteran of the Wastes.png;Veteran of the Wastes;Squat Prospectors Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -3516,13 +3516,13 @@ If, at the end of the battle, this fighter has been
 taken Out of Action by an enemy Champion or
 Leader, this fighter gains D3 Experience points
 ae 2D6x10 credits are added to your gang's
-tash.";Leurre;Underdog;Au cours de l'étape 7 de la séquence d’avant combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant a été mis Out of combat par un Champion ou un leader ennemi, ce combattant gagne D3 points d'expérience et 2D6x10 crédits sont ajoutés à la caisse de votre gang.
+tash.";Leurre;Underdog;Au cours de l'étape 7 de la séquence d’avant combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant a été mis Out of Action par un Champion ou un leader ennemi, ce combattant gagne D3 points d'expérience et 2D6x10 crédits sont ajoutés à la caisse de votre gang.
 ../TacticsCards/UNDERDOG/Giant Killer.png;Giant Killer;Underdog Tactics;"| Play this card at the start of the battle, before
 the first round.
 
 For the duration of the battle, all of your |
 fighters gain 1 extra Experience point for
-taking an enemy fighter Out of Action.";Tueur géant;Underdog;Jouez cette tactique au début du combat, avant le premier tour. Pendant toute la durée du combat, tous vos combattants gagnent 1 point d'expérience supplémentaire lorsqu'ils mettent un combattant ennemi Out of combat.
+taking an enemy fighter Out of Action.";Tueur géant;Underdog;Jouez cette tactique au début du combat, avant le premier tour. Pendant toute la durée du combat, tous vos combattants gagnent 1 point d'expérience supplémentaire lorsqu'ils mettent un combattant ennemi Out of Action.
 ../TacticsCards/UNDERDOG/Grateful Trader.png;Grateful Trader;Underdog Tactics;"Play this card during Step 7 of the pre-battle
 sequence.
 
@@ -3540,8 +3540,7 @@ When the fighter activates for the first time,
 reveal this card. You may immediately give this
 fighter one Primary skill and one Secondary skill
 of your choice. These skills last until the end of
-the battle.";Entraînement intensif;Underdog;"Au cours de l'étape 7 de la séquence précédant le combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Lorsque ce combattant s'active pour la première fois, montrez cette carte. Vous pouvez immédiatement attribuer à ce combattant une compétence principale et une compétence secondaire
-de votre choix. Ces compétences restent actives jusqu'à  la fin du combat."
+the battle.";Entraînement intensif;Underdog;Au cours de l'étape 7 de la séquence d’avant combat, placez cette carte sous celle de l’un de vos combattant, mais ne la montrez pas à votre adversaire. Lorsque ce combattant s'active pour la première fois, montrez cette carte. Vous pouvez immédiatement attribuer à ce combattant une compétence principale et une compétence secondaire de votre choix. Ces compétences restent actives jusqu'à  la fin du combat.
 ../TacticsCards/UNDERDOG/Miraculous Recovery.png;Miraculous Recovery;Underdog Tactics;"Play this card during Step 7 of the pre-battle
 sequence.
 
@@ -3549,46 +3548,45 @@ Choose one of your fighters who is in |
 recovery. The fighter makes a sudden
 recovery and is no longer in Recovery. You
 may immediately swap this fighter for |
-another fighter in your crew. |";Récupération miraculeuse;Underdog;"Jouez cette tactique à l'étape 7 de la séquence préalable au combat. Choisissez l'un de vos combattants qui est en récupération. Ce combattant se remet soudainement
-et n'est plus en récupération. Vous pouvez immédiatement échanger ce combattant contre un autre combattant de votre équipe."
+another fighter in your crew. |";Récupération miraculeuse;Underdog;Jouez cette tactique à l'étape 7 de la séquence d’avant combat. Choisissez l'un de vos combattants qui est en Recovery. Ce combattant se remet soudainement et n'est plus en Recovery. Vous pouvez immédiatement échanger ce combattant contre un autre combattant de votre équipe.
 ../TacticsCards/UNDERDOG/Old Wound.png;Old Wound;Underdog Tactics;"| Play this card during Step 7 of the pre-battle
 sequence.
 
 Choose one of your opponent's fighters. |
 This fighter begins the game with a Flesh
-Wound.";Vieille blessure;Underdog;Jouez cette tactique à l'étape 7 de la séquence préalable au combat. Choisissez l'un des combattants de votre adversaire. Ce combattant commence la partie avec une blessure superficielle.
+Wound.";Vieille blessure;Underdog;Jouez cette tactique à l'étape 7 de la séquence d’avant combat. Choisissez l'un des combattants de votre adversaire. Ce combattant commence la partie avec une Flesh wound.
 ../TacticsCards/UNDERDOG/Paid in Full.png;Paid in Full;Underdog Tactics;"| Play this card during Step 3 of the post-
 battle sequence.
 
 For each friendly fighter who was taken Out |
 of Action, add D6x10 credits to your gang's
-Stash.";Payé rubis sur l’ongle;Underdog;Jouez cette tactique lors de l'étape 3 de la séquence d'après-combat. Pour chaque combattant allié qui a été mis Out of combat, ajoutez D6×10 crédits au butin de votre gang.
+Stash.";Payé rubis sur l’ongle;Underdog;Jouez cette tactique lors de l'étape 3 de la séquence d'après-combat. Pour chaque combattant allié qui a été mis Out of Action, ajoutez D6×10 crédits au butin de votre gang.
 ../TacticsCards/UNDERDOG/Secret Stash.png;Secret Stash;Underdog Tactics;"| Play this card during Step 3 of the post-
 battle sequence.
 
 If at least one of your fighters survived the |
 battle without going Out of Action, add
-3D6x10 credits to your gang’s Stash.";Cachette secrète;Underdog;Jouez cette tactique lors de l'étape 3 de la séquence d'après-combat. Si au moins un de vos combattants a survécu au combat sans être mis Out of combat, ajoutez 3D6 × 10 crédits au magot de votre gang.
+3D6x10 credits to your gang’s Stash.";Cachette secrète;Underdog;Jouez cette tactique lors de l'étape 3 de la séquence d'après-combat. Si au moins un de vos combattants a survécu au combat sans être mis Out of Action, ajoutez 3D6 × 10 crédits au magot de votre gang.
 ../TacticsCards/UNDERDOG/Sudden Death.png;Sudden Death;Underdog Tactics;"| During Step 7 of the pre-battle sequence,
 tuck this card under the Fighter card of one
 of your fighters, but do not reveal it to your
 opponent. |
 Should this fighter take and enemy
 Champion or Leader Out of Action, your
-gang gains +6 Reputation.";Mort subite;Underdog;À l'étape 7 de la séquence d'avant-combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si ce combattant met Out of combat un Champion ou un Chef ennemi, votre gang gagne +6 en Réputation.
+gang gains +6 Reputation.";Mort subite;Underdog;À l'étape 7 de la séquence d'avant-combat, placez cette carte sous celle de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si ce combattant met Out of Action un champion ou un leader ennemi, votre gang gagne +6 en Réputation.
 ../TacticsCards/UNDERDOG/Survivalist.png;Survivalist;Underdog Tactics;"During Step 7 of the pre-battle sequence, tuck
 this card under the Fighter card of one of your
 fighters, but do not reveal it to your opponent.
 If, at the end of the battle, this fighter has not
 gone Out of Action or succumbed to their
-injuries, they gain D6 Experience points.";Survivaliste;Underdog;Au cours de l'étape 7 de la séquence précédant le combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant n'est pas sorti de combat ou n'a pas succombé à ses blessures, il gagne D6 points d'expérience.
+injuries, they gain D6 Experience points.";Survivaliste;Underdog;Au cours de l'étape 7 de la séquence d’avant combat, placez cette carte sous celle de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant n’a pas été mis Out of Action, il gagne D6 points d'expérience.
 ../TacticsCards/UNDERDOG/Wandering Doc.png;Wandering Doc;Underdog Tactics;"| Play this card during Step 5 of the post-
 battle sequence.
 
 You may make one Medical Escort action
 without having to pay the Doc's fee of
 
-2D6x 10 credits from your gang's Stash.";Doc errant;Underdog;Jouez cette tactique lors de l'étape 5 de la séquence d'après-combat. Vous pouvez effectuer une action d'« Escorte médicale » sans avoir à payer les honoraires du Doc.
+2D6x 10 credits from your gang's Stash.";Doc errant;Underdog;Jouez cette tactique lors de l'étape 5 de la séquence d'après-combat. Vous pouvez effectuer une action de Medical escort sans avoir à payer les honoraires du Doc.
 ../TacticsCards/UNDERDOG/Welcome Stranger 1.png;Welcome Stranger;Underdog Tactics;"Play this card during Step 7 of the pre-battle
 sequence.
 
@@ -3599,7 +3597,7 @@ If no suitable model is available, discard this card
 and draw another.
 
 Note that this card is included twice in this deck,
-potentially allowing two Hired Guns to be fielde";Bienvenue, étranger;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence préalable au combat. Votre gang peut immédiatement engager gratuitement un mercenaire eG d'une valeur maximale de 200 crédits. « Ce combattant est ajouté à votre équipe avant le déploiement. Si aucun figurine ne correspond, défaussez cette carte et piochez-en une autre. Notez que cette carte est incluse deux fois dans ce paquet, ce qui permet potentiellement d'aligner deux mercenaires.
+potentially allowing two Hired Guns to be fielde";Bienvenue, étranger;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence d’avant combat. Votre gang peut immédiatement engager gratuitement un mercenaire d'une valeur maximale de 200 crédits. Ce combattant est ajouté à votre équipe avant le déploiement.
 ../TacticsCards/UNDERDOG/Welcome Stranger 2.png;Welcome Stranger;Underdog Tactics;"Play this card during Step 7 of the pre-battle
 sequence.
 
@@ -3610,7 +3608,7 @@ If no suitable model is available, discard this card
 and draw another.
 
 Note that this card is included twice in this deck,
-potentially allowing two Hired Guns to be fielde";Bienvenue, étranger;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence préalable au combat. Votre gang peut immédiatement engager gratuitement un mercenaire eG d'une valeur maximale de 200 crédits. « Ce combattant est ajouté à votre équipe avant le déploiement. Si aucun figurine ne correspond, défaussez cette carte et piochez-en une autre. Notez que cette carte est incluse deux fois dans ce paquet, ce qui permet potentiellement d'aligner deux mercenaires.
+potentially allowing two Hired Guns to be fielde";Bienvenue, étranger;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence d’avant combat. Votre gang peut immédiatement engager gratuitement un mercenaire d'une valeur maximale de 200 crédits. Ce combattant est ajouté à votre équipe avant le déploiement.
 ../TacticsCards/VAN SAAR/ Bodyguard.png;| Bodyguard;Yan Saar Tactics;"Play this gang tactic at the start of the
 Deployment step of the pre-battle sequence,
 before any fighters have been deployed.
@@ -3759,7 +3757,7 @@ and select another. If this fighter is taken OoA,
 every friendly fighter suffers a -2 modifier to
 their Cool for the rest of this battle. If this is a
 campaign battle, your gang loses 5 Rep and the
-gang that takes this fighter OoA gains 3 Rep.";Noblesse feinte;Van Saar;Jouez cette tactique au début de la phase de déploiement, avant de déployer tout combattant. Vous pouvez recruter soit un agent de la Maison, soit un personnage de la distribution pour cette bataille. Ils s'ajoutent à votre équipage de départ. Si vous n'avez pas de figurine, vous pouvez écarter cette tactique et en choisir une autre. Si ce chasseur est mis Out of combat (OoA), tous les chasseurs amis subissent un modificateur de -2 à leur Cool pour le reste de cette bataille. S'il s'agit d'une bataille de campagne, votre gang perd 5 points de réputation et le gang qui met ce chasseur Out of combat (OoA) gagne 3 points de réputation.
+gang that takes this fighter OoA gains 3 Rep.";Noblesse feinte;Van Saar;Jouez cette tactique au début de la phase de déploiement, avant de déployer tout combattant. Vous pouvez recruter soit un agent de la Maison, soit un personnage de la distribution pour cette bataille. Ils s'ajoutent à votre équipage de départ. Si vous n'avez pas de figurine, vous pouvez écarter cette tactique et en choisir une autre. Si ce chasseur est mis Out of Action (OoA), tous les chasseurs amis subissent un modificateur de -2 à leur Cool pour le reste de cette bataille. S'il s'agit d'une bataille de campagne, votre gang perd 5 points de réputation et le gang qui met ce chasseur Out of Action (OoA) gagne 3 points de réputation.
 ../TacticsCards/VAN SAAR/Hyper Auto-Loader.png;| Hyper Auto-Loader;Van Saar Tactics;"Play when a fighter makes a ranged attack.
 
 If the fighter is using a weapon with the Rapid
