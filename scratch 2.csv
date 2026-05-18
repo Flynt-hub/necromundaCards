@@ -3416,34 +3416,34 @@ the Charge (Double) action, before the enemy
 fighter rolls any dice to attack.
 
 For the duration of this attack, add 1 to any save
-rolls made by the friendly fighter.";Préparez-vous à l’impact !;Prospecteurs squat;Utilisez cette tactique après qu'un combattant allié a été pris à partie par un combattant ennemi effectuant l'action « Charge (Double) », avant que le combattant ennemi ne lance ses dés pour attaquer. Pendant toute la durée de cette attaque, ajoutez 1 à tous les jets de sauvegarde effectués par le combattant allié.
+rolls made by the friendly fighter.";Préparez-vous à l’impact !;Prospecteurs squat;Utilisez cette tactique après qu'un combattant allié ait été engagé par un combattant ennemi effectuant l'action Charge (Double), avant que le combattant ennemi ne lance ses dés pour attaquer. Pendant toute la durée de cette attaque, ajoutez 1 à tous les jets de sauvegarde effectués par le combattant allié.
 ../TacticsCards/SQUAT PROSPECTORS/Deathblow!.png;| Deathblow!;Squat Prospectors Tactics;"Play this gang tactic when resolving damage on
 an enemy fighter as a result of an attack made
 
 by a friendly model, after rolling the Injury dice.
 If you roll two or more results of Seriously
 Injured, the enemy fighter is taken Out of Action
-instead.";Coup fatal !;Prospecteurs squat;Jouez cette tactique lors du calcul des dégâts infligés à un combattant ennemi à la suite d'une attaque menée par un alliée, après avoir lancé les dés de blessure. Si vous obtenez au moins deux résultats « Gravement blessé », le combattant ennemi est mis Out of combat à la place.
+instead.";Coup fatal !;Prospecteurs squat;Jouez cette tactique lors du calcul des dégâts infligés à un combattant ennemi à la suite d'une attaque menée par un alliée, après avoir lancé le test d’Injury. Si vous obtenez au moins deux résultats Seriously injured, le combattant ennemi est mis Out of combat à la place.
 ../TacticsCards/SQUAT PROSPECTORS/Finest Craftsmanship.png;Finest Craftsmanship;Squat Prospectors Tactics;"Play this gang tactic when making a ranged attack
 with a friendly model, before rolling to hit.
 
 For the duration of this attack, either the Hit roll
-or Wound roll may be re-rolled.";Artisanat d’exception;Prospecteurs squat;Jouez cette tactique lorsque vous effectuez une attaque à distance avec une figurine alliée, avant de lancer le dé pour toucher. Pendant toute la durée de cette attaque, vous pouvez relancer soit le dé de toucher, soit le dé de blessure.
+or Wound roll may be re-rolled.";Artisanat d’exception;Prospecteurs squat;Jouez cette tactique lorsque vous effectuez une attaque à distance avec un combattant allié, avant de lancer le dé pour toucher. Pendant toute la durée de cette attaque, vous pouvez relancer soit le dé de toucher, soit le dé de blessure.
 ../TacticsCards/SQUAT PROSPECTORS/Fire in the Hole!.png;Fire in the Hole!;Squat Prospectors Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
 
 For the duration of this battle, D3 friendly
 fighters of your choice count as being equipped
-with blasting charges.";Grenade !;Prospecteurs squat;Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de cette bataille, D3 combattants alliés de votre choix sont considérés comme équipés de charges explosives.
+with blasting charges.";Grenade !;Prospecteurs squat;Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de cette bataille, D3 combattants alliés de votre choix sont considérés comme équipés de Blasting charges.
 ../TacticsCards/SQUAT PROSPECTORS/Get Back!.png;Get Back!;Squat Prospectors Tactics;"Play this gang tactic when a friendly fighter is
 making Reaction attacks, before rolling any dice.
 For the duration of this attack, the fighter's
-attacks gain the Knockback trait.";Reculez !;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié effectue des attaques de réaction, avant de lancer les dés. Pendant toute la durée de cette attaque, les attaques du combattant bénéficient de la caractéristique « Repoussement ».
+attacks gain the Knockback trait.";Reculez !;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié effectue des attaques de réaction, avant de lancer les dés. Pendant toute la durée de cette attaque, les attaques du combattant bénéficient de la caractéristique Knockback.
 ../TacticsCards/SQUAT PROSPECTORS/Honour the Ancestors.png;Honour the Ancestors;Squat Prospectors Tactics;"Play this gang tactic when making a Cool check
 for a friendly fighter, before rolling any dice.
 The fighter automatically passes the Cool check;
-there is no need to roll any dice.";Honorez les ancêtres;Prospecteurs squat;Utilisez cette tactique lors d'un test de sang-froid pour un combattant allié, avant de lancer les dés. Le combattant réussit automatiquement le test de sang-froid, il n'est pas nécessaire de lancer les dés.
+there is no need to roll any dice.";Honorez les ancêtres;Prospecteurs squat;Utilisez cette tactique lors d'un test de Cool pour un combattant allié, avant de lancer les dés. Le combattant réussit automatiquement le test de Cool, il n'est pas nécessaire de lancer les dés.
 ../TacticsCards/SQUAT PROSPECTORS/Listen to your Elders!.png;Listen to your Elders!;Squat Prospectors Tactics;"Play this gang tactic when making a Group
 Activation.
 
@@ -3455,18 +3455,17 @@ first round.
 
 For the duration of this battle, a friendly fighter
 of your choice reduces the AP of all attacks
-targeting them by 1.";Fait pour encaisser;Prospecteurs squat;Utilisez cette tactique au début du combat, une fois que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de ce combat, un combattant allié de votre choix réduit de 1 la puissance d'attaque (AP) de toutes les attaques qui le visent.
+targeting them by 1.";Fait pour encaisser;Prospecteurs squat;Utilisez cette tactique au début du combat, une fois que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de ce combat, un combattant allié de votre choix réduit de 1 l’AP de toutes les attaques qui le visent.
 ../TacticsCards/SQUAT PROSPECTORS/Mother Lode!.png;Mother Lode!;Squat Prospectors Tactics;"Play this gang tactic during the Wrap-up phase
 of the post- battle sequence.
 
 If your gang won the scenario, add 2D6x10
-credits to your gang's Stash.";Filon mère !;Prospecteurs squat;Jouez cette tactique pendant la phase de conclusion de la séquence d'après-combat. Si votre gang a remporté le scénario, ajoutez 2D6 × 10 crédits à la cagnotte de votre gang.
+credits to your gang's Stash.";Filon mère !;Prospecteurs squat;Jouez cette tactique pendant la séquence d'après-combat. Si votre gang a remporté le scénario, ajoutez 2D6 × 10 crédits à la cagnotte de votre gang.
 ../TacticsCards/SQUAT PROSPECTORS/Running Repairs.png;Running Repairs;Squat Prospectors Tactics;"Play this gang tactic when activating a friendly
 vehicle.
 
 The vehicle immediately regains D3 HP lost
-earlier in battle.";Réparations en marche;Prospecteurs squat;"Utilisez cette tactique lorsque vous activez un
-véhicule allié. Le véhicule regagne immédiatement D3 points de vie perdus plus tôt au cours du combat."
+earlier in battle.";Réparations en marche;Prospecteurs squat;Utilisez cette tactique lorsque vous activez un véhicule allié. Le véhicule regagne immédiatement D3 points de vie perdus plus tôt au cours du combat.
 ../TacticsCards/SQUAT PROSPECTORS/Running on Vapours.png;Running on Vapours;Squat Prospectors Tactics;"Play this gang tactic at the start of any round,
 before rolling for Initiative.
 
@@ -3474,8 +3473,7 @@ One enemy vehicle of your choice changes its
 Status to Stationary and Stalled. If the enemy
 gang doesn't have any vehicles in its starting
 crew, you may discard this gang tactic and
-select another.";Sur les vapeurs;Prospecteurs squat;"Jouez cette tactique au début de n'importe quel tour, avant de lancer les dés pour l'initiative. 
-Un véhicule ennemi de votre choix passe aux états « Immobilisé » et « Calé ». Si le gang ennemi ne dispose d'aucun véhicule dans son équipage de départ, vous pouvez défausser cette tactique de gang et en choisir une autre."
+select another.";Sur les vapeurs;Prospecteurs squat;Jouez cette tactique au début de n'importe quel tour, avant de lancer les dés pour l’initiative. Un véhicule ennemi de votre choix passe aux états Stationnary et Stalled. Si le gang ennemi ne dispose d'aucun véhicule dans son gang de départ, vous pouvez défausser cette tactique de gang et en choisir une autre.
 ../TacticsCards/SQUAT PROSPECTORS/Scrapper’s Delight.png;Scrapper’s Delight;Squat Prospectors Tactics;"Play this gang tactic when a friendly fighter
 opens a Loot casket, before rolling to determine
 the casket's contents.
@@ -3483,7 +3481,7 @@ the casket's contents.
 Instead of rolling to determine the Loot casket's
 contents, add D3x10 credits to your gang's Stash
 and then remove the Loot casket from the
-battlefield.";Délice de ferrailleur;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié ouvre un coffre de butin, avant de lancer les dés pour déterminer son contenu. Au lieu de lancer les dés pour déterminer le contenu du coffre de butin, ajoutez D3 × 10 crédits à la réserve de votre gang, puis retirez le coffre de butin du champ de bataille.
+battlefield.";Délice de ferrailleur;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié ouvre un Loot casket, avant de lancer les dés pour déterminer son contenu. Au lieu de lancer les dés pour déterminer le contenu du coffre de butin, ajoutez D3 × 10 crédits à la réserve de votre gang, puis retirez le coffre de butin du champ de bataille.
 ../TacticsCards/SQUAT PROSPECTORS/Thermal Visor.png;Thermal Visor;Squat Prospectors Tactics;"Play this gang tactic when activating a friendly
 model.
 
@@ -3491,13 +3489,13 @@ For the duration of this activation, increase the
 value of the Visibility (X"") rule by 6"". If the
 Visibility CX"") rule is not in effect for this battle,
 you may discard this gang tactic and select
-another.";Visière thermique;Prospecteurs squat;"Utilisez cette tactique lorsque vous activez un alliée. Pendant toute la durée de cette activation, augmentez la valeur de la règle de Visibilité (X« ) de 6 ». Si la règle de Visibilité (CX"") n'est pas en vigueur pour ce combat, vous pouvez défausser cette tactique de gang et en choisir une autre."
+another.";Visière thermique;Prospecteurs squat;Utilisez cette tactique lorsque vous activez un alliée. Pendant toute la durée de cette activation, augmentez la valeur de la règle de Visibilité (X) de 6. Si la règle de Visibilité (X) n'est pas en vigueur pour ce combat, vous pouvez défausser cette tactique de gang et en choisir une autre.
 ../TacticsCards/SQUAT PROSPECTORS/Too Stubborn to Die.png;Too Stubborn to Die;Squat Prospectors Tactics;"Play this gang tactic when damage is inflicted
 upon a friendly fighter, after Injury dice are
 rolled.
 
 Discard one Injury dice of your choice before
-applying the effects.";Trop têtu pour mourir;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié subit des dégâts, après avoir lancé les dés de blessure. Défaussez un dé de blessure de votre choix avant d'appliquer les effets.
+applying the effects.";Trop têtu pour mourir;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié subit des dégâts, après avoir lancé les dés d’Injury. Défaussez un dé d’Injury de votre choix avant d'appliquer les effets.
 ../TacticsCards/SQUAT PROSPECTORS/Vengeance of the Ironhead!.png;Vengeance of the lronhead!;Squat Prospectors Tactics;"Play this gang tactic after a friendly fighter has
 been taken Out of Action by an enemy model.
 
@@ -3518,7 +3516,7 @@ If, at the end of the battle, this fighter has been
 taken Out of Action by an enemy Champion or
 Leader, this fighter gains D3 Experience points
 ae 2D6x10 credits are added to your gang's
-tash.";Leurre;Underdog;Au cours de l'étape 7 de la séquence précédant le combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant a été mis Out of combat par un Champion ou un Chef ennemi, ce combattant gagne D3 points d'expérience et 2D6x10 crédits sont ajoutés à la caisse de votre gang.
+tash.";Leurre;Underdog;Au cours de l'étape 7 de la séquence d’avant combat, placez cette carte sous la carte Combattant de l'un de vos combattants, mais ne la montrez pas à votre adversaire. Si, à la fin du combat, ce combattant a été mis Out of combat par un Champion ou un leader ennemi, ce combattant gagne D3 points d'expérience et 2D6x10 crédits sont ajoutés à la caisse de votre gang.
 ../TacticsCards/UNDERDOG/Giant Killer.png;Giant Killer;Underdog Tactics;"| Play this card at the start of the battle, before
 the first round.
 
@@ -3534,7 +3532,7 @@ Post, up to a value of 3D6x10 credits with
 a Rarity of 10 or less. For the duration of this
 game, you may equip one of your fighters with
 the item. If you win the battle, that fighter may
-Keep the item.";Commerçant reconnaissant;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence préalable au combat. Choisissez un équipement au Comptoir, d'une valeur maximale de 3D6×10 crédits et d'une rareté de 10 ou moins. Pendant toute la durée de cette partie, vous pouvez équiper l'un de vos combattants avec cet équipement. Si vous remportez le combat, ce combattant peut conserver l'équipement.
+Keep the item.";Commerçant reconnaissant;Underdog;Jouez cette tactique lors de l'étape 7 de la séquence d’avant combat. Choisissez un équipement au Trading post, d'une valeur maximale de 3D6×10 crédits et d'une rareté de 10 ou moins. Pendant toute la durée de cette partie, vous pouvez équiper l'un de vos combattants avec cet équipement. Si vous remportez le combat, ce combattant peut conserver l'équipement.
 ../TacticsCards/UNDERDOG/Hard Training.png;Hard Training;Underdog Tactics;"During Step 7 of the pre-battle sequence, tuck
 this card under the Fighter card of one of your
 fighters, but do not reveal it to your opponent.
