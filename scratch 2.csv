@@ -151,17 +151,17 @@ within 2"" of a friendly vehicle's rear arc.
 
 The coe vehicle must immediately make
 
-a Loss of Control test with a -2 modifier.";Déversement de crasse;Désolations cendrées;"Jouez cette tactique lorsqu'un véhicule ennemi se déplace à au moins 2"" de l'arc arrière d'un véhicule allié. Ce véhicule ennemi doit immédiatement faire un test de perte de contrôle avec un modificateur de -2."
+a Loss of Control test with a -2 modifier.";Déversement de crasse;Désolations cendrées;"Jouez cette tactique lorsqu'un véhicule ennemi se déplace à au moins 2"" de l'arc arrière d'un véhicule allié. Ce véhicule ennemi doit immédiatement faire un test de Loss of control avec un modificateur de -2."
 ../TacticsCards/ASH WASTES/Hidden in the Ash.png;Hidden in the Ash;Ash Wastes Tactics;"Play this tactic at the start of the battle before
 deploying gangs.
 D3 of your fighters gain the Infiltrate skill.";Caché dans les cendres;Désolations cendrées;Jouez cette tactique au début de la bataille avant déployer des gangs. D3 de vos combattants acquièrent la compétence Infiltration.
 ../TacticsCards/ASH WASTES/It'll Hold!.png;It'll Hold!;Ash Wastes Tactics;"Play this tactic when a friendly vehicle loses a HP
-The vehicle loses one less HP.";Ça tiendra !;Désolations cendrées;Jouez cette tactique lorsqu'un véhicule allié perd un PV. Le véhicule perd un PV de moins.
+The vehicle loses one less HP.";Ça tiendra !;Désolations cendrées;Jouez cette tactique lorsqu'un véhicule allié perd des PVs. Le véhicule perd un PV de moins.
 ../TacticsCards/ASH WASTES/Lightning Strike.png;Lightning Strike;Ash Wastes Tactics;"Play this tactic when a friendly fighter subject to
 the Mounted condition makes a Ride By attack
 before resolving Reaction attacks.
 
-Any Reaction attacks have a -1 modifier to hit.";Coup de foudre;Désolations cendrées;Jouez cette tactique lorsqu'un combattant allié Monté effectue une attaque Ride By, avant de résoudre les attaques de réaction. Toutes les attaques de réaction ont un modificateur de -1 pour toucher.
+Any Reaction attacks have a -1 modifier to hit.";Coup de foudre;Désolations cendrées;Jouez cette tactique lorsqu'un combattant allié Mounted effectue une attaque Ride By, avant de résoudre les attaques de réaction. Toutes les attaques de réaction ont un modificateur de -1 pour toucher.
 ../TacticsCards/ASH WASTES/Look Out Below!.png;Look Out Below!;Ash Wastes Tactics;"Play this tactic when a friendly fighter is jumping
 from one vehicle to another.
 Add 1 to the Agility test to make the jump.";Attention en dessous !;Désolations cendrées;Jouez cette tactique lorsqu'un combattant allié saute d'un véhicule à l'autre. Ajoutez 1 au test d'Agilité pour faire le saut.
@@ -170,7 +170,7 @@ Wrecked, before rolling on the Lasting Damage
 table.
 
 Roll twice on the Lasting Damage table and
-choose which result to apply.";Mécanos déments;Désolations cendrées;Jouez cette tactique lorsqu'un véhicule allié est détruit, avant de lancer sur les dégâts durables tableau. Lancez deux fois sur le tableau des dégâts durables et choisissez le résultat à appliquer.
+choose which result to apply.";Mécanos déments;Désolations cendrées;Jouez cette tactique lorsqu'un véhicule allié est détruit, avant de lancer sur les dégâts durables tableau. Lancez deux fois sur le tableau des Lasting damages et choisissez le résultat à appliquer.
 ../TacticsCards/ASH WASTES/Mag Lock Handholds.png;Mag Lock Handholds;Ash Wastes Tactics;"Play this tactic at the start of the battle, after
 gangs are deployed but before the first roll for
 Initiative.
@@ -185,29 +185,29 @@ table.
 Place the 5"" Blast template so that its central
 hole is entirely over the vehicle. All models
 touched by the template take a Strength 4, AP -1,
-Damage | hit.";Surcharge des cellules nitro !;Désolations cendrées;"Jouez cette tactique lorsqu'un véhicule allié est détruit, avant de lancer sur les dégâts durables tableau. Placez le gabarit Blast 5"" de manière à ce que sa partie centrale soit entièrement au-dessus du véhicule. Toutes les figurines touchées par le gabarit subissent une touche Force 4, AP -1"
+Damage | hit.";Surcharge des cellules nitro !;Désolations cendrées;"Jouez cette tactique lorsqu'un véhicule allié est détruit, avant de lancer sur les Lasting damages tableau. Placez le gabarit Blast 5"" de manière à ce que sa partie centrale soit entièrement au-dessus du véhicule. Toutes les figurines touchées par le gabarit subissent une touche Strength 4, AP -1"
 ../TacticsCards/ASH WASTES/One with the Road.png;One with the Road;Ash Wastes Tactics;"Play this tactic when a friendly vehicle needs to
 make a Loss of Control test, before any dice are
 rolled.
 
 The vehicle automatically passes the Loss of
-Control test.";Faire corps avec la route;Désolations cendrées;Jouez cette tactique lorsqu’un véhicule allié doit effectuer un test de Perte de contrôle, avant de lancer les dés. Le véhicule réussit automatiquement le test de Perte de contrôle.
+Control test.";Faire corps avec la route;Désolations cendrées;Jouez cette tactique lorsqu’un véhicule allié doit effectuer un test de Loss of control, avant de lancer les dés. Le véhicule réussit automatiquement le test de Loss of control.
 ../TacticsCards/ASH WASTES/Ramming Speed!.png;Ramming Speed!;Ash Wastes Tactics;"Play this tactic after a friendly vehicle has had
 
 a head-on collision with an enemy vehicle, before
 determining the Strength of the hit.
 
 Increase the Strength, AP and Damage of the hit
-suffered by the enemy vehicle by 1.";Vitesse d’éperonnage !;Désolations cendrées;Jouez cette tactique après qu'un véhicule allié ait eu une collision frontale avec un véhicule ennemi, avant déterminer la force du coup. Augmente la Force, les AP et les Dégâts du coup subi par le véhicule ennemi de 1.
+suffered by the enemy vehicle by 1.";Vitesse d’éperonnage !;Désolations cendrées;Jouez cette tactique après qu'un véhicule allié ait eu une collision frontale avec un véhicule ennemi, avant déterminer la Strength du coup. Augmente la Strength, les AP et les Damages du coup subi par le véhicule ennemi de 1.
 ../TacticsCards/ASH WASTES/Spring Back.png;Spring Back;Ash Wastes Tactics;"Play this card when activating a friendly fighter
 with the Mounted condition who is Prone and
 Pinned.
 
 The fighter becomes Standing and Active at the
-cost of one action - no Agility test is required.";Rétablissement;Désolations cendrées;Jouez cette tactique lors de l'activation d'un combattant allié Montée qui est À Terre et Cloué. Le combattant devient Debout et Actif au coût d'une action - aucun test d'Agilité n'est requis.
+cost of one action - no Agility test is required.";Rétablissement;Désolations cendrées;Jouez cette tactique lors de l'activation d'un combattant allié Mounted Prone et Pinned. Le combattant devient Debout et Actif au coût d'une action - aucun test d'Agilité n'est requis.
 ../TacticsCards/ASH WASTES/Survival Gear.png;Survival Gear;Ash Wastes Tactics;"Play this tactic after gangs have deployed but
 before the first round begins.
-D3 fighters gain the benefits of a Respirator.";Équipement de survie;Désolations cendrées;Utilisez cette tactique après le déploiement des gangs, mais avant le début du premier tour. D3 combattants bénéficient des avantages d'un respirateur.
+D3 fighters gain the benefits of a Respirator.";Équipement de survie;Désolations cendrées;Utilisez cette tactique après le déploiement des gangs, mais avant le début du premier tour. D3 combattants bénéficient des avantages d'un Respirator.
 ../TacticsCards/ASH WASTES/The Ash is in my Blood.png;The Ash is in my Blood;Ash Wastes Tactics;"Play this tactic at the start of the battle, after
 gangs have deployed but before the first round
 begins.
@@ -341,7 +341,7 @@ Champion or Leader can add +1 to their
 Strength and Attacks characteristic, to
 
 a maximum of +3. These effects last until
-the end of the round.";Pour les Perdus !;Cawdor;Jouez au début d’un tour. Pour chaque figurine alliée qui a été mise Out of action dans la bataille jusqu'à présent, un Champion ou le Leader peut ajouter +1 à sa caractéristique de Strenght et d'attaques, jusqu’à un maximum de +3. Ces effets durent jusqu'à la fin du round.
+the end of the round.";Pour les Perdus !;Cawdor;Jouez au début d’un tour. Pour chaque figurine alliée qui a été mise Out of action dans la bataille jusqu'à présent, un Champion ou le Leader peut ajouter +1 à sa caractéristique de Strength et d'attaques, jusqu’à un maximum de +3. Ces effets durent jusqu'à la fin du round.
 ../TacticsCards/CAWDOR/Keeper of Sacred Vermin.png;Keeper of Sacred Vermin;Cawdor Tactics;"Play this gang tactic when a friendly House
 Cawdor fighter deploys a bomb delivery rat.
 This fighter automatically passes their
@@ -510,7 +510,7 @@ performing any actions.
 
 For the duration of their activation, they gain +2
 Strength and all of their weapons gain the
-Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant allié soumis Monté, avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Force et toutes ses armes gagnent le trait Reckless.
+Reckless trait.";Fureur des convictions justes;Véhicules Cawdor;Jouez cette tactique lors de l'activation d'un combattant allié soumis Monté, avant effectuer des actions. Pendant toute la durée de son activation, ils gagnent +2 Strength et toutes ses armes gagnent le trait Reckless.
 ../TacticsCards/CAWDOR VEHICLES/Incendiary Ram.png;Incendiary Ram;Cawdor Vehicle Tactics;"Play this gang tactic when a friendly vehicle has
 a head-on collision during its activation, before
 resolving the collision.
@@ -952,18 +952,18 @@ place of making Shoot (Basic) actions with
 any other ranged weapon. If the Ammo symbol
 is rolled on the Firepower dice, the card is
 discarded.";Étui de cheville;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. tant qu’elle est là, le combattant peut utiliser son stub gun pour faire des actions de shoot (simple) ainsi que ou une action Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur le firepower dice, la carte est défaussée.
-../TacticsCards/ENFORCERS/Appropriate Force.png;Appropriate Force;Enforcers Tactics;"Play this card when activating a fighter.
+../TacticsCards/ENFORCERS/Appropriate Strength.png;Appropriate Strength;Enforcers Tactics;"Play this card when activating a fighter.
 
 If this fighter makes a Fight (Basic) action, they
 gain one additional attack. This attack must be
 made with a weapon with the Melee trait and
 cannot be made with a weapon with the Sidearm
 trait. Roll for this attack separately and, if it hits,
-is resolved at +1 Damage.";Force appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Mêlée et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
+is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Mêlée et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
 ../TacticsCards/ENFORCERS/Big Red Key.png;Big Red Key;Enforcers Tactics;"Play at the start of any round. |
-For the duration of this round, any Force |
+For the duration of this round, any Strength |
 Door (Basic) actions taken by friendly |
-fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactique au début d’un tour. Pendant la durée de ce tour, une action Force door (basic) faite par un combattant allié réussi automatiquement.
+fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactique au début d’un tour. Pendant la durée de ce tour, une action Strength door (basic) faite par un combattant allié réussi automatiquement.
 ../TacticsCards/ENFORCERS/Crackdown.png;| Crackdown;Enforcers Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, all
@@ -1012,11 +1012,11 @@ Every open door on the board that does not have
 a door terminal closes. Every closed door on the
 board that does not have a door terminal
 becomes locked and can only be opened with
-force, either by targeting them with attacks or by
-performing a Force Door (Basic) action against
+Strength, either by targeting them with attacks or by
+performing a Strength Door (Basic) action against
 them.
 
-Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez cette tactique au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal se verrouille et ne peut être ouvert qu’en la forçant, soit en la ciblant avec des attaques, soit en effectuant une action Force door (basic). Les portes avec terminaux ne sont pas concernées par cette carte.
+Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez cette tactique au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal se verrouille et ne peut être ouvert qu’en la forçant, soit en la ciblant avec des attaques, soit en effectuant une action Strength door (basic). Les portes avec terminaux ne sont pas concernées par cette carte.
 ../TacticsCards/ENFORCERS/Shock and Awe.png;Shock and Awe;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, D3+1 |
 fighters of the controlling player's choice |
@@ -1306,7 +1306,7 @@ marker may immediately activate. During this
 activation the vehicle may only perform one
 action and it must be a Move (Simple) action.
 After the vehicle has finished its activation, make
-a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule allié qui n'a pas de marqueur Ready peut s’activer immédiatement. Pendant cette activation, le véhicule ne peut effectuer qu'une seule action et il doit s'agir d'une action de déplacement (simple). Une fois que le véhicule a terminé son activation, effectuez un test de perte de contrôle du véhicule.
+a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule allié qui n'a pas de marqueur Ready peut s’activer immédiatement. Pendant cette activation, le véhicule ne peut effectuer qu'une seule action et il doit s'agir d'une action de déplacement (simple). Une fois que le véhicule a terminé son activation, effectuez un test de Loss of control du véhicule.
 ../TacticsCards/ESCHER VEHICLES/IT’S GONNA BLOW!!!.png;IT’S GONNA BLOW!!!;Escher Vehicle Tactics;"Play this gang tactic after a friendly vehicle is
 Wrecked, before rolling on the Lasting Damage
 table.
@@ -1521,10 +1521,10 @@ Cool but -1 to their Ballistic Skill and
 Willpower.";Né pour le massacre;Générique;Jouez cette tactique immédiatement après qu'elle ait été tiré lors de l'étape 7 de la séquence pré-bataille. Nommez un combattant de votre gang de départ. Pour la durée de cette bataille, ce le combattant gagne +1 en WS et Cool et -1 en BS et Willpower.
 ../TacticsCards/GENERIC CARDS/Breach and Clear.png;Breach and Clear;Gang Tactics;"| Play after a friendly fighter makes an
 Operate Door (Simple) action or successful
-Force Door (Basic) action.
+Strength Door (Basic) action.
 
 The fighter may immediately make a free
-Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Force door (basic). Ce combattant peut immédiatement effectuer une action de Tir (Basique) gratuite.
+Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Strength door (basic). Ce combattant peut immédiatement effectuer une action de Tir (Basique) gratuite.
 ../TacticsCards/GENERIC CARDS/Bullet Magnet.png;Bullet Magnet;Gang Tactics;"| Play this card when a fighter fires a weapon
 with the Rapid Fire trait.
 
@@ -1839,7 +1839,7 @@ make only one shot.";Dernière cartouche;Générique;Jouez cette tactique lorsqu
 Untul the End phase of this round, friendly
 fighters count as having +1 Strength for |
 the purposes of determining the Long range
-of a grenade.";Bras long;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, les combattants alliés comptent comme ayant +1 en Force pour déterminer la portée des grenades.
+of a grenade.";Bras long;Générique;Jouez cette tactique au début d’un tour. Jusqu'à la phase de fin de ce tour, les combattants alliés comptent comme ayant +1 en Strength pour déterminer la portée des grenades.
 ../TacticsCards/GENERIC CARDS/Look the Other Way.png;Look the Other Way;Gang Tactics;"Play this card when a sentry spots |
 an attacker.
 
@@ -2209,7 +2209,7 @@ the action.
 
 Centre the 3” blast marker on the enemy
 fighter. All models under the marker suffer a
-Strength 3, AP -, Damage 1 hit.";Console piégée;Générique;"Jouez cette tactique lorsqu'un combattant ennemi interagit avec une console, avant la fin de l'action. Centrez le gabarit 3"" sur ce combattant. Toutes les figurines sous le gabarit subissent une touche automatique Force 3, AP -, Dégâts 1."
+Strength 3, AP -, Damage 1 hit.";Console piégée;Générique;"Jouez cette tactique lorsqu'un combattant ennemi interagit avec une console, avant la fin de l'action. Centrez le gabarit 3"" sur ce combattant. Toutes les figurines sous le gabarit subissent une touche automatique Strength 3, AP -, Dégâts 1."
 ../TacticsCards/GENERIC CARDS/Trusty Backup.png;Trusty Backup;Gang Tactics;"| Play this card when activating a fighter.
 Put this card under the active fighter's
 Fighter card. Until the end of the battle, |
@@ -2303,7 +2303,7 @@ play this card.
 
 Tuck this card under the fighter's card. |
 While it is there, the fighter’s unarmed
-attacks receive +1 strength and AP -1.";Tout est une arme;Goliath;Un de vos combattants peut dépenser une action pour jouez cette carte. Glissez cette carte sous celle du combattant. Tant qu'elle est là, les attaques non armées du combattant gagnent +1 en force et AP -1.
+attacks receive +1 strength and AP -1.";Tout est une arme;Goliath;Un de vos combattants peut dépenser une action pour jouez cette carte. Glissez cette carte sous celle du combattant. Tant qu'elle est là, les attaques non armées du combattant gagnent +1 en Strength et AP -1.
 ../TacticsCards/GOLIATH/Apprentice.png;Apprentice;Goliath Tactics;"Play after both sides have deployed, but before
 the first round. Choose a friendly Goliath
 Champion and Juve /Prospect. For this battle the
@@ -2637,7 +2637,7 @@ subject to the Mounted condition would become
 Pinned.
 
 The fighter makes a Strength check, if the check
-is passed they do not become Pinned.";Passer en force;Véhicules Goliath;Jouez cette tactique lorsqu'un combattant allié Mounted deviendrait Pinned. Le combattant effectue un test de Force, si le test est réussi, il n’est pas Pinned.
+is passed they do not become Pinned.";Passer en Strength;Véhicules Goliath;Jouez cette tactique lorsqu'un combattant allié Mounted deviendrait Pinned. Le combattant effectue un test de Strength, si le test est réussi, il n’est pas Pinned.
 ../TacticsCards/GOLIATH VEHICLES/Reinforced Plates.png;Reinforced Plates;Goliath Vehicle Tactics;"Play this gang tactic at the beginning of the battle
 before the first roll for Initiative.
 
@@ -2663,7 +2663,7 @@ hits.
 For the duration of the collision, increase
 
 the Strength of any hits caused by this vehicle
-by 2.";Collision latérale;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est impliqué dans une collision de véhicules, avant de résoudre les touches. Augmentez la force de tout coup causé par ce véhicule de 2.
+by 2.";Collision latérale;Véhicules Goliath;Jouez cette tactique lorsqu'un véhicule allié est impliqué dans une collision de véhicules, avant de résoudre les touches. Augmentez la Strength de tout coup causé par ce véhicule de 2.
 ../TacticsCards/GOLIATH VEHICLES/The Immovable Object.png;The Immovable Object;Goliath Vehicle Tactics;"Play this gang tactic when a friendly vehicle is
 involved in a vehicle collision before moving any
 models.
@@ -2911,7 +2911,7 @@ Until the End phase of this round, attacks made
 by friendly Orlock fighters made with a weapon
 that has the Melee trait gain +15 for each
 additional friendly fighter that is also Engaged
-with the target, to a maximum of +3.";Force des armes;Orlock;Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de dés pour déterminer la priorité. Jusqu'à la phase de fin de ce tour, les attaques lancées par des combattants Orlock alliés utilisant une arme dotée du trait Melee bénéficient d'un bonus de +1 force pour chaque combattant allié supplémentaire également engagé avec la cible, dans la limite de +3.
+with the target, to a maximum of +3.";Strength des armes;Orlock;Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de dés pour déterminer la priorité. Jusqu'à la phase de fin de ce tour, les attaques lancées par des combattants Orlock alliés utilisant une arme dotée du trait Melee bénéficient d'un bonus de +1 Strength pour chaque combattant allié supplémentaire également engagé avec la cible, dans la limite de +3.
 ../TacticsCards/ORLOCK/Tough as Nails.png;Tough as Nails;Orlock Tactics;"Play this tactic during the Priority phase of any
 round, after Roll for Priority, before Ready
 Fighters. Choose a friendly Orlock gutee with
@@ -2996,7 +2996,7 @@ are equipped with increase their Strength
 characteristic by 1 when ae vehicle. If
 your gang has no weapons with the Melee trait,
 you may discard this gang tactic and select
-another.";Ouvre-boîtes;Véhicules Orlock;"Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant allié ; pendant toute la durée de cette bataille, toutes les armes dotées du trait Melee dont il est équipé augmentent sa caractéristique de Force de 1 lorsqu’il est à bord d’un véhicule."
+another.";Ouvre-boîtes;Véhicules Orlock;"Utilisez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant allié ; pendant toute la durée de cette bataille, toutes les armes dotées du trait Melee dont il est équipé augmentent sa caractéristique de Strength de 1 lorsqu’il est à bord d’un véhicule."
 ../TacticsCards/ORLOCK VEHICLES/Drive By.png;Drive By;Orlock Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle.
 
@@ -3029,7 +3029,7 @@ Sidearm trait at any point while making a Ram
 failed a Loss of Control test.
 
 The vehicle is instead considered to have passed
-the Loss of Control test.";Ça tiendra !;Véhicules Orlock;Utilisez cette tactique après qu'un véhicule allié ait échoué à un test de perte de contrôle. Le véhicule est alors considéré comme ayant réussi le test de perte de contrôle.
+the Loss of Control test.";Ça tiendra !;Véhicules Orlock;Utilisez cette tactique après qu'un véhicule allié ait échoué à un test de Loss of control. Le véhicule est alors considéré comme ayant réussi le test de Loss of control.
 ../TacticsCards/ORLOCK VEHICLES/King of the Road.png;King of the Road;Orlock Vehicle Tactics;"Play this gang tactic during the Wrap-up phase
 of the post- battle sequence.
 
@@ -3045,7 +3045,7 @@ performing a Move (Simple) action.";Dérapage contrôlé;Véhicules Orlock;Utili
 attack before rolling to Hit.
 
 Increase the Strength of any hits inflicted by the
-attack by 1.";Écrasez-les !;Véhicules Orlock;Jouez cette tactique lors de la résolution d'une attaque Ride By avant de lancer les dés pour déterminer si l'attaque touche. Augmentez de 1 la force de tous les coups infligés par l'attaque.
+attack by 1.";Écrasez-les !;Véhicules Orlock;Jouez cette tactique lors de la résolution d'une attaque Ride By avant de lancer les dés pour déterminer si l'attaque touche. Augmentez de 1 la Strength de tous les coups infligés par l'attaque.
 ../TacticsCards/ORLOCK VEHICLES/Road Warriors.png;Road Warriors;Orlock Vehicle Tactics;"Play this gang tactic at the start of a Rolling
 Roads battle, after both sides have deployed, but
 before the first round.
@@ -3629,7 +3629,7 @@ a Strength characteristic other than '~’.
 Treat this hit as having been caused by a weapon
 with the Knockback trait but do not resolve
 
-the hit itself. Instead, the hit is discarded.";Maille ablative;Van Saar;Utilisez cette tactique lorsqu'un combattant allié Van Saar subit un coup porté par une arme dont la caractéristique de Force n'est pas « ~ ». Considérez ce coup comme ayant été infligé par une arme dotée du trait Knockback, mais ne résolvez pas le coup lui-même. Au lieu de cela, le coup est ignoré.
+the hit itself. Instead, the hit is discarded.";Maille ablative;Van Saar;Utilisez cette tactique lorsqu'un combattant allié Van Saar subit un coup porté par une arme dont la caractéristique de Strength n'est pas « ~ ». Considérez ce coup comme ayant été infligé par une arme dotée du trait Knockback, mais ne résolvez pas le coup lui-même. Au lieu de cela, le coup est ignoré.
 ../TacticsCards/VAN SAAR/Ammo Dump.png;Ammo Dump;Yan Saar Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Place an additional
@@ -3834,10 +3834,10 @@ the defender, discard this tactic and select another
 Open doors on the battlefield immediately close.
 Doors with a terminal become locked. Closed
 doors without a terminal also become locked but
-can only be opened by force, either by targeting
-with attacks or by performing a Force Door
+can only be opened by Strength, either by targeting
+with attacks or by performing a Strength Door
 (Basic) action. If there are fewer than three doors
-you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité. Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la force, soit en les ciblant avec des attaques, soit en effectuant une action Force door (Basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
+you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité. Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la Strength, soit en les ciblant avec des attaques, soit en effectuant une action Strength door (Basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
 ../TacticsCards/VAN SAAR/Tracer Fire.png;Tracer Fire;Yan Saar Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -4008,14 +4008,14 @@ For the remainder of the round, they suffer a -1
 modifier to all hit rolls.";Brouilleurs de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un modèle ami avant d’effectuer toute action. Pendant la durée de cette activation, le modèle peut effectuer l’action Jam (Basic). Jam (Basic) : Choisissez un véhicule ennemi dans un rayon de 12"". Pour le reste du round, ils subissent un -1 modificateur à tous les jets de touche."
 ../TacticsCards/ZONE MORTALIS/Ambush Alley.png;Ambush Alley;Zone Mortalis Tactics;"Play this gang tactic when an enemy fighter
 performs the Operate Door (Simple), Access
-Terminal (Basic) or Force Door (Basic) action.
+Terminal (Basic) or Strength Door (Basic) action.
 After the enemy fighter completes the action,
 choose a friendly fighter with line of sight to that
 enemy fighter. The friendly fighter may
 immediately perform a free Shoot (Basic) action.
 If the enemy fighter is still Standing and Active,
 they may perform a second action (if they have
-not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l’action Operate door (simple), Access terminal (basic) ou Force door (basic). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Shoot (basic) gratuite. Si le combattant ennemi est toujours Debout et Actif, il peut continuer son activation.
+not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l’action Operate door (simple), Access terminal (basic) ou Strength door (basic). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Shoot (basic) gratuite. Si le combattant ennemi est toujours Debout et Actif, il peut continuer son activation.
 ../TacticsCards/ZONE MORTALIS/Call the Beast.png;Call the Beast;Zone Mortalis Tactics;"| 1
 Play this gang tactic when an enemy fighter |
 performs a Move (Simple) action. |
