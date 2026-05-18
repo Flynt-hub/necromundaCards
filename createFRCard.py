@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 INPUT_CSV = Path("scratch.csv")
 OUTPUT_DIR = Path("translated_cards")
-OUTPUT_DIR.mkdir(exist_ok=True)
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 zones = {
     "title": (28, 28, 345, 53),
@@ -13,7 +13,7 @@ zones = {
     "text": (29, 330, 340, 480),
 }
 
-# À adapter selon les polices disponibles chez toi
+# May vary based on the available fonts. Adjust if needed.
 TITLE_FONT = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf", 18)
 TYPE_FONT = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf", 15)
 TEXT_FONT = ImageFont.truetype("/System/Library/Fonts/Supplemental/Times New Roman.ttf", 13)
@@ -61,10 +61,6 @@ def draw_wrapped_text(draw, text, box, font, line_spacing=3, padding_left=0, pad
             draw.text((x1, y), line, font=font, fill=TEXT_COLOR)
             y += line_height
 
-        # 👇 espace entre paragraphes
-        y += paragraph_spacing    
-        x1, y1, x2, y2 = box
-    max_width = x2 - x1
     y = y1
 
     words = text.split()
@@ -95,6 +91,18 @@ def draw_wrapped_text(draw, text, box, font, line_spacing=3, padding_left=0, pad
 def clear_box(draw, box, fill):
     draw.rectangle(box, fill=fill)
 
+def sanitize_folder_name(name):
+    invalid_chars = '<>:"/\\|?*'
+    for char in invalid_chars:
+        name = name.replace(char, "_")
+
+    name = name.strip()
+
+    if not name:
+        name = "Unknown"
+
+    return name
+
 with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
     reader = csv.DictReader(f, delimiter=';')
     rows = list(reader)
@@ -118,7 +126,13 @@ for row in rows:
         line_spacing=3,
     )
 
-    output = OUTPUT_DIR / f"{Path(row['file']).stem}_fr.png"
+    folder_name = sanitize_folder_name(row["type_fr"])
+
+    card_output_dir = OUTPUT_DIR / folder_name
+    card_output_dir.mkdir(parents=True, exist_ok=True)
+
+    output = card_output_dir / f"{Path(row['file']).stem}_fr.png"
+
     img.save(output)
 
     print(f"Carte générée : {output}")
