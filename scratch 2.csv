@@ -3224,7 +3224,7 @@ Nerve tests it has to make. In addition,
 the fighter immediately activates, interrupting
 the enemy fighter's turn, and performs their
 activation as normal. This fighter then loses their
-Ready marker.";Ogryn vengeur;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn esclave allié est mis Out of combat par une attaque lancée par un combattant ennemi. Choisissez un Ogryn esclave ami qui est debout et actif, et qui porte un marqueur « Prêt ». Jusqu'à la fin de ce tour, ce combattant réussit automatiquement tous les tests de Nerve qu'il doit effectuer. De plus, le combattant s'active immédiatement, interrompant le tour du combattant ennemi, et effectue son activation comme d'habitude. Ce combattant perd alors son marqueur « Prêt ».
+Ready marker.";Ogryn vengeur;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn esclave allié est mis Out of combat par une attaque lancée par un combattant ennemi. Choisissez un Ogryn esclave allié Ready, debout et actif. Jusqu'à la fin de ce tour, ce combattant réussit automatiquement tous les Nerve tests qu'il doit effectuer. De plus, le combattant s'active immédiatement, interrompant le tour du combattant ennemi, et effectue son activation comme d'habitude. Ce combattant perd alors son marqueur Ready.
 ../TacticsCards/SLAVE OGRYNS/Chain Breaker.png;Chain Breaker;Slave Ogryns Tactics;"Play this tactic at the start of the battle, after bot .
 sides have deployed, but before the first round.
 Until the end of battle, don't roll Recovery for
@@ -3235,7 +3235,7 @@ doesn't have any fighters with Web weapons, you
 may discard this gang tactic and select another.
 Alternatively, if it's a campaign battle, friendly
 fighters can't be captured; any captured fighter
-counts as having rolled an Out Cold result.";Brise-chaîne;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de  a bataille, ne lancez pas de dé de Récupération pour les Ogryns esclaves amis qui sont pris dans une toile. Considérez-les comme ayant obtenu un résultat « Blessure superficielle » et ils se remettent immédiatement debout. Si votre adversaire n’a aucun combattant équipé d’armes à toile, vous pouvez écarter cette tactique de gang et  n choisir une autre. Sinon, s'il s'agit d'une bataille de campagne, les combattants amis ne peuvent pas être capturés ; tout combattant capturé est considéré comme ayant obtenu un résultat « K.O. »."
+counts as having rolled an Out Cold result.";Brise-chaîne;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de  a bataille, ne faites pas de tests de recovery pour les Ogryns esclaves alliés qui sont Webbed. Lorsqu’ils devraient tester, considérez le résultat comme ayant obtenu un résultat Flesh wound. Si votre adversaire n’a aucun combattant équipé avec le trait Web, vous pouvez écarter cette tactique et en choisir une autre. Sinon, s'il s'agit d'une bataille de campagne, les combattants amis ne peuvent pas être capturés ; tout combattant capturé est considéré comme ayant obtenu un résultat « K.O. »."
 ../TacticsCards/SLAVE OGRYNS/Die on Your Feet.png;Die on Your Feet;Slave Ogryns Tactics;"Play this gang tactic at the start of the battle, afte
 both sides have deployed, but before the first
 round. Until the end of this battle, when
@@ -3248,7 +3248,7 @@ The Slave Ogryn is then immediately moved 1""
 directly away from the fighter performing the
 action and is placed Prone and Pinned - they
 
-are no longer Seriously Injured.";Mourir debout;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de cette bataille, lorsqu’un combattant allier est la cible d’une action « Coup de grâce » (simple), il subit D3 blessures légères au lieu d’être mis Out of combat. L'Ogryn esclave est alors immédiatement déplacé de 1"" directement loin du combattant effectuant l' action et est placé à terre et immobilisé - il n'est plus Seriously injured."
+are no longer Seriously Injured.";Mourir debout;Esclaves Ogryns;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier tour. Jusqu’à la fin de cette bataille, lorsqu’un combattant allié est la cible d’une action Coup de grâce (simple), il subit D3 blessures légères au lieu d’être mis Out of combat. L'Ogryn esclave est alors immédiatement déplacé de 1"" à l’opposé du combattant effectuant l'action et est placé Pinned et Prone. Il n'est plus Seriously injured."
 ../TacticsCards/SLAVE OGRYNS/Freedom in Death.png;Freedom in Death;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter is taken Out of Action.
 
@@ -3258,7 +3258,7 @@ action with a weapon with the Grenade trait they
 are equipped with that has the Blast (3 ""/5""/*)
 trait. The central hole of the Blast marker must
 be centered over this fighter and the attack
-automatically hits.";La liberté dans la mort;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat. Avant de retirer ce combattant du champ de bataille, il peut immédiatement effectuer une action de Shoot (basic) gratuite avec une arme dotée de la caractéristique « Grenade » dont il est équipé et qui possède la caractéristique « Explosion » (3« /5 »/*) . Le trou central du marqueur « Explosion » doit être centré sur ce combattant et l'attaque touche automatiquement.
+automatically hits.";La liberté dans la mort;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat. Avant de retirer ce combattant du champ de bataille, il peut immédiatement effectuer une action de Shoot (basic) gratuite avec une arme dotée des traits Grenade et Blast dont il est équipé. Le trou central du gabarit doit être centré sur ce combattant et l'attaque touche automatiquement.
 ../TacticsCards/SLAVE OGRYNS/Gene-Bred.png;Gene- Bred;Slave Ogryns Tactics;"Play this tactic at the start of the Deployment
 step of the pre-battle sequence, before any
 fighters have been deployed. Choose a Slave
@@ -3270,19 +3270,19 @@ chosen from the Unborn Gene-smithed
 Upgrades but do not affect the fighter's Credit
 cost. Any upgrade that affects the fighter during
 the post-battle sequence will affect the Slave
-Ogryn fighter before upgrades is removed.";Élevé en cuve;Esclaves Ogryns;Jouez cette tactique au début de l'étape de Déploiement, avant que le moindre combattant n'ait été déployé. Choisissez un combattant Ogryn esclave dans votre équipe de départ. Jusqu’à la fin de cette bataille, ce combattant gagne jusqu’à deux améliorations génétiques. Celles-ci doivent être choisies parmi les améliorations génétiques « Unborn », mais n’affectent pas le coût en crédits du combattant. Toute amélioration affectant le combattant pendant la séquence post-bataille affectera le combattant Ogryn esclave avant que les améliorations ne soient retirées.
+Ogryn fighter before upgrades is removed.";Élevé en cuve;Esclaves Ogryns;Jouez cette tactique au début de l'étape de Déploiement, avant le déploiement des combattants. Choisissez un combattant Ogryn esclave de votre gang. Jusqu’à la fin de cette bataille, ce combattant gagne jusqu’à deux améliorations génétiques. Celles-ci doivent être choisies parmi les améliorations génétiques Unborn, mais n’affectent pas le coût en crédits du combattant. Toute amélioration affectant le combattant pendant la séquence post-bataille affectera le combattant avant qu’elle ne soient retirées.
 ../TacticsCards/SLAVE OGRYNS/Hidden Loyalties.png;Hidden Loyalties;Slave Ogryns Tactics;"Play this gang tactic at the start of the |
 Deployment step of the pre-battle sequence,
 before any fighters have been deployed. |
 Choose a fighter from your starting crew.
 Unul the end of this battle, that fighter
-gains the Infiltrate skill. |";Loyautés cachées;Esclaves Ogryns;Jouez cette tactique au début de la phase de déploiement, avant que le moindre combattant n'ait été déployé. Choisissez un combattant parmi votre équipe de départ.Jusqu'à la fin de cette bataille, ce combattant acquiert la compétence « Infiltration ».
+gains the Infiltrate skill. |";Loyautés cachées;Esclaves Ogryns;Jouez cette tactique au début de la phase de déploiement, avant le déploiement des combattants. Choisissez un combattant parmi de votre gang. Jusqu'à la fin de cette bataille, ce combattant acquiert la compétence Infiltration.
 ../TacticsCards/SLAVE OGRYNS/Limb from Limb.png;Limb from Limb;Slave Ogryns Tactics;"Play this gang tactic when activating |
 a friendly Slave Ogryn fighter.
 
 Unul the End phase of this round, |
 any weapon with the Melee trait the fighter
-carries gains the Sever trait.";Membre par membre;Esclaves Ogryns;Utilise cette tactique lorsque tu actives un combattant Ogryn esclave allié. À la fin de ce tour, toutes les armes dotées de la caractéristique « Mêlée » que le combattant porte acquièrent la caractéristique « Tranchant (sever) ».
+carries gains the Sever trait.";Membre par membre;Esclaves Ogryns;Utilisez cette tactique lorsque vous activer un combattant Ogryn esclave allié. À la fin de ce tour, toutes les armes dotées de la caractéristique Melee que le combattant porte acquièrent la caractéristique Severe.
 ../TacticsCards/SLAVE OGRYNS/Looted Gear.png;Looted Gear;Slave Ogryns Tactics;"Play this gang tactic at the start of the
 Deployment step of the pre-battle sequence,
 before any fighters have been deployed.
@@ -3293,7 +3293,7 @@ fighter's card. Until the end of this battle, a singl
 weapon that fighter is epee with loses one
 of the following Traits: Reckless, Scarce,
 Unwieldy. You may choose which weapon is
-affected by this tactic and which Trait is lost.";Équipement pillé;Esclaves Ogryns;Jouez cette tactique au début de l' étape de déploiement de la séquence d'avant-bataille, avant que les combattants ne soient déployés. Choisissez un combattant de votre équipe de départ qui se trouve sur le champ de bataille et placez un marqueur sur la carte de ce combattant. Jusqu’à la fin de cette bataille, une seule arme dont ce combattant est équipé perd l’un des traits suivants : Téméraire, Rare, Encombrant. Vous pouvez choisir quelle arme est affectée par cette tactique et quel trait est perdu.
+affected by this tactic and which Trait is lost.";Équipement pillé;Esclaves Ogryns;Jouez cette tactique au début de l'étape de déploiement de la séquence d'avant-bataille, avant que les combattants ne soient déployés. Choisissez un combattant de votre gang de départ qui se trouve sur le champ de bataille et placez un marqueur sur la carte de ce combattant. Jusqu’à la fin de cette bataille, une seule arme dont ce combattant est équipé perd l’un des traits suivants :Reckless, Scarce, Unwiedly. Vous pouvez choisir quelle arme est affectée par cette tactique et quel trait est perdu.
 ../TacticsCards/SLAVE OGRYNS/No, I’m Smarticus! .png;No, I'm Smarticus!;Slave Ogryns Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters. Until the End phase of this
@@ -3304,7 +3304,7 @@ may transfer any successful hits that result from
 that action to a friendly Slave Osryn fignter
 within 3"" of the fighter with the Gang Leader
 special rule. Hits caused by a weapon with the
-Blast (3"" /5"" /*) trait are unaffected by this tactic.";Non, c’est moi Smarticus !;Esclaves Ogryns;"Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité. Jusqu'à la phase de Fin de ce tour, lancez un D6 chaque fois qu'un combattant Slave Ogryn allié doté de la règle spéciale Chef de gang est la cible d'une action de Tir (de base). Sur un résultat de 3 ou plus, vous pouvez transférer tous les coups réussis résultant de cette action à un combattant Slave Ogryn allié situé à au moins 3"" du combattant doté de la règle spéciale Chef de gang. Les coups infligés par une arme dotée de la caractéristique Explosion (3"" / 5"" /*) ne sont pas affectés par cette tactique."
+Blast (3"" /5"" /*) trait are unaffected by this tactic.";Non, c’est moi Smarticus !;Esclaves Ogryns;"Jouez cette tactique pendant la phase de Priorité de n'importe quel tour, après le jet de Priorité. Jusqu'à la phase de Fin de ce tour, lancez un D6 chaque fois qu'un combattant Ogryn esclave allié doté de la règle spéciale gang leader est la cible d'une action de Shoot (basic). Sur un résultat de 3 ou plus, vous pouvez transférer tous les coups réussis résultant de cette action à un combattant Slave Ogryn allié situé à au moins 3"" du combattant doté de la règle spéciale gang leader. Les coups infligés par une arme dotée du trait Blast (3"" / 5"" /*) ne sont pas affectés par cette tactique."
 ../TacticsCards/SLAVE OGRYNS/Not Today!.png;Not Today!;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter is taken Out of Action by an attack made
 with a ranged weapon.
@@ -3315,7 +3315,7 @@ make a free Charge (Double) action. Immediately
 after this action, and ay subsequent Fight (Basic
 action made as part of the Charge (Double)
 action, is resolved, the fighter goes Out of Action
-as normal.";Pas aujourd'hui !;Esclaves Ogryns;Utilisez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat par une attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, celui-ci peut immédiatement se remettre debout et effectuer une action de Charge (Double) gratuite. Immédiatement après cette action, et une fois que tout combat a été résolu, le combattant est mis Out of combat comme d'habitude.
+as normal.";Pas aujourd'hui !;Esclaves Ogryns;Utilisez cette tactique lorsqu'un combattant Ogryn Esclave allié est mis Out of combat par une attaque effectuée avec une arme à distance. Avant de retirer le combattant du champ de bataille, celui-ci peut immédiatement se remettre debout et effectuer une action de Charge (Double) gratuite. Immédiatement après cette action, et une fois que tout combat a été résolu, le combattant est mis Out of combat.
 ../TacticsCards/SLAVE OGRYNS/Out of My Way!.png;Out of my Way!;Slave Ogryns Tactics;"Play this gang tactic when activating a friendly
 Slave Ogryn fighter.
 
@@ -3327,7 +3327,7 @@ a Hurl (Simple) action for this fighter. Any
 enemy fighter that is the target of this action
 must take a Strength check rather than an
 Initiative check; if they fail, the enemy fighter is
-hurled.";Hors de mon chemin !;Esclaves Ogryns;"Jouez cette tactique lorsque vous activez un combattant Ogryn esclave allié. Jusqu’à la phase de Fin de ce tour, le combattant acquiert la compétence Hur! s’il ne la possédait pas déjà. De plus, l'action Hurl (Basique) devient une action Hurl (Simple) pour ce combattant. Tout combattant ennemi qui est la cible de cette action doit effectuer un test de Force plutôt qu'un test d'Initiative ; s'il échoue, le combattant ennemi est projeté."
+hurled.";Hors de mon chemin !;Esclaves Ogryns;"Jouez cette tactique lorsque vous activez un combattant Ogryn esclave allié. Jusqu’à la phase de Fin de ce tour, le combattant acquiert la compétence Hurl s’il ne la possédait pas déjà. De plus, l'action Hurl (Basic) devient une action Hurl (Simple) pour ce combattant. Tout combattant ennemi qui est la cible de cette action doit effectuer un test de Strength plutôt qu'un test d'Initiative ; s'il échoue, le combattant ennemi est projeté."
 ../TacticsCards/SLAVE OGRYNS/Quicker Than They Look.png;Quicker Than They Look;Slave Ogryns Tactics;"Play this gang tactic when activating |
 a friendly Slave Ogryn fighter.
 
@@ -3343,14 +3343,14 @@ Wounds and becomes Standing and Active.
 However, until the end of this battle, decrease
 this Lobo-slave's Weapon Skill and Attacks
 characteristics by 1, to a minimum of 6+ and 1
-respectively";Redémarrage;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant esclave de Lobo allié Seriously injured est activé. Cet esclave de Lobo se débarrasse immédiatement de toutes ses blessures superficielles et redevient debout et actif. Cependant, jusqu'à la fin de cette bataille, réduisez les caractéristiques de Maîtrise des armes et d'Attaques de cet esclave de Lobo de 1, jusqu'à un minimum de 6+ et 1 respectivement
+respectively";Redémarrage;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant Lobo-slave allié Seriously injured est activé. Ce Lobo-slave se débarrasse immédiatement de toutes ses Flesh wound, redevient debout et actif. Cependant, jusqu'à la fin de cette bataille, réduisez les caractéristiques de WS et d’Attaques de cet esclave de Lobo de 1, jusqu'à un minimum de 6+ et 1 respectivement
 ../TacticsCards/SLAVE OGRYNS/Resurgent Threat.png;Resurgent Threat;Slave Ogryns Tactics;"Play this gang tactic during the End phase, |
 before making any Bottle tests.
 
 Your gang immediately passes their Bottle |
 test, without the need to roll a D6. In
 addition, you can choose who wins Priority
-in the next round. |";Menace résurgente;Esclaves Ogryns;Jouez cette tactique pendant la phase de fin, avant d'effectuer tout test de bouteille. Votre gang réussit immédiatement son test de bouteille, sans avoir à lancer un D6. De plus, vous pouvez choisir qui remporte la priorité au tour suivant.
+in the next round. |";Menace résurgente;Esclaves Ogryns;Jouez cette tactique pendant la phase de fin, avant d'effectuer tout Bottle test. Votre gang réussit immédiatement son Bottle test, sans avoir à lancer un D6. De plus, vous pouvez choisir qui remporte la priorité au tour suivant.
 ../TacticsCards/SLAVE OGRYNS/Slave Becomes Master.png;Slave Becomes Master;Slave Ogryns Tactics;"Play this tactic at the start of the Deployment step
 of the pre-battle sequence, before any fighters
 have been deployed. Your gang may immediately
@@ -3362,7 +3362,7 @@ aren't counted towards your max crew size
 
 - they're taken in addition to your starting crew.
 If you don't have models available, you may
-discard this gang tactic and select another.";L’esclave devient maître;Esclaves Ogryns;Jouez cette tactique au début de la phase de Déploiement de la séquence d’avant-bataille, avant que les combattants aient été déployés. Votre gang peut immédiatement recruter gratuitement jusqu’à deux Goliath Juves ou un Goliath Ganger. Ils quitteront le gang à la fin de cette bataille. Chaque combattant est équipé d’un collier Frenzon et soit d’unstub gun, soit d’une masse et d’une hache. Ils ne sont pas pris en compte dans la taille maximale de votre équipe : ils s’ajoutent à votre équipe de départ. Si vous ne disposez pas de figurines, vous pouvez abandonner cette tactique de gang et en choisir une autre.
+discard this gang tactic and select another.";L’esclave devient maître;Esclaves Ogryns;Jouez cette tactique au début de la phase de Déploiement de la séquence d’avant-bataille, avant que les combattants aient été déployés. Votre gang peut immédiatement recruter gratuitement jusqu’à deux Goliath Juves ou un Goliath Ganger. Ils quitteront le gang à la fin de cette bataille. Chaque combattant est équipé d’un Frenzon collar et soit d’un stub gun, soit d’un Maul ou d’une Axe. Ils ne sont pas pris en compte dans la taille maximale de votre équipe : ils s’ajoutent à votre équipe de départ.
 ../TacticsCards/SLAVE OGRYNS/Strong and Steady.png;Strong and Steady;Slave Ogryns Tactics;"Play this gang tactic when a friendly fighter is hit
 by a ranged attack, before they become Prone
 and Pinned.
@@ -3372,7 +3372,7 @@ If it is passed, they do not become Pinned.
 
 This gang tactic can be played after a fighter has
 failed a Cool check as part of the Nerves of Steel
-skill.";Fort et stable;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant allié est touché par une attaque à distance, avant qu'il ne se retrouve à terre et immobilisé. Effectuez immédiatement un test de Force pour le combattant. S'il réussit, il ne se retrouve pas immobilisé. Cette tactique de gang peut être jouée après qu'un combattant a échoué à un test de Sang-froid dans le cadre de la compétence « Nerfs d'acier ».
+skill.";Fort et stable;Esclaves Ogryns;Jouez cette tactique lorsqu'un combattant allié est touché par une attaque à distance, avant qu'il ne se retrouve Prone et Pinned. Effectuez immédiatement un test de Strength pour le combattant. S'il réussit, il ne se retrouve pas Pinned. Cette tactique de gang peut être jouée après qu'un combattant ai échoué à un test de Cool dans le cadre de la compétence Nerves of steel.
 ../TacticsCards/SLAVE OGRYNS/Tools of the Trade.png;Tools of the Trade;Slave Ogryns Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -3383,7 +3383,7 @@ Fighter card. Choose one weapon with the Melee
 trait that the fighter is equipped with. For the
 duration of this battle, the Fehtet's Weapon Skill
 is treated as 2+ when making attacks with that
-weapon.";Outils du métier;Esclaves Ogryns;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant de votre équipe de départ qui se trouve sur le champ de bataille et placez un marqueur sur sa carte de combattant. Choisissez une arme dotée de la caractéristique Mêlée dont le combattant est équipé. Pendant toute la durée de cette bataille, la Compétence d'arme du Fehtet est considérée comme étant de 2+ lorsqu'il effectue des attaques avec cette arme.
+weapon.";Outils du métier;Esclaves Ogryns;Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant de votre gang de départ qui se trouve sur le champ de bataille et placez un marqueur sur sa carte de combattant. Choisissez une arme dotée de la caractéristique Melee dont le combattant est équipé. Pendant toute la durée de cette bataille, la WS du combattant est considérée comme étant de 2+ lorsqu'il effectue des attaques avec cette arme.
 ../TacticsCards/SLAVE OGRYNS/Unleash the Storm.png;Unleash the Storm;Slave Ogryns Tactics;"Play this gang tactic when a friendly Slave Ogryn
 fighter makes an attack with a Storm-welder,
 before rolling any dice.
@@ -3394,12 +3394,12 @@ end of this fighter's activation, the weapon
 immediately goes Out of Ammo as if they rolled
 the Ammo symbol on the Firepower dice; this
 counts as an additional roll of the Ammo symbol
-for the purposes of Storm-welder's Unstable trait";Libérez la tempête;Esclaves Ogryns;"Jouez cette tactique lorsqu'un combattant Ogryn esclave allié effectue une attaque avec un Storm-welder, avant de lancer les dés. Jusqu'à la phase de Fin de ce tour, le Storm-welder perd le trait Imprudent. Cependant, à la fin de l'activation de ce combattant, l'arme se retrouve immédiatement à court de munitions; Cela compte comme un jet supplémentaire du symbole Munitions aux fins du trait Instable du Storm-welder"
+for the purposes of Storm-welder's Unstable trait";Libérez la tempête;Esclaves Ogryns;"Jouez cette tactique lorsqu'un combattant Ogryn esclave allié effectue une attaque avec un Storm-welder, avant de lancer les dés. Jusqu'à la phase de Fin de ce tour, le Storm-welder perd le trait Reckless. Cependant, à la fin de l'activation de ce combattant, l'arme se retrouve immédiatement à Out of ammo; Cela compte comme un jet supplémentaire du symbole Munitions aux fins du trait Unstable du Storm-welder"
 ../TacticsCards/SQUAT PROSPECTORS/Ancestral Weapon.png;Ancestral Weapon;Squat Prospectors Tactics;"Play this gang tactic when making a ranged attack
 with a friendly fighter.
 
 For the duration of this attack, increase the
-fighter's BS by 1.";Arme ancestrale;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié déclare une attaque à distance. Pendant toute la durée de cette attaque, augmente la maîtrise de tir du combattant de 1.
+fighter's BS by 1.";Arme ancestrale;Prospecteurs squat;Jouez cette tactique lorsqu'un combattant allié déclare une attaque à distance. Pendant toute la durée de cette attaque, augmente la BS du combattant de 1.
 ../TacticsCards/SQUAT PROSPECTORS/Assault Tunnel.png;Assault Tunnel;Squat Prospectors Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round. Select a friendly fighter that is not
@@ -3409,7 +3409,7 @@ round, before rolling for Initiative, the fighter
 may be placed anywhere on the battlefield that
 is at least 12"" away from any enemy models. If
 there are no eligible fighters in your gang, you
-may discard this gang tactic and select another.";Tunnel d'assaut;Prospecteurs squat;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant allié qui ne fait pas partie de votre équipe de départ et qui n’est pas soumis à la condition « Monté ». Au début du troisième tour, avant de lancer les dés pour l’Initiative, le combattant peut être placé n’importe où sur le champ de bataille, à au moins 12"" de tout figurine ennemie. S’il n’y a aucun combattant éligible dans votre gang, vous pouvez abandonner cette tactique de gang et en choisir une autre."
+may discard this gang tactic and select another.";Tunnel d'assaut;Prospecteurs squat;"Jouez cette tactique au début de la bataille, une fois que les deux camps se sont déployés, mais avant le premier round. Choisissez un combattant allié qui ne fait pas partie de votre gang de départ et qui n’est pas Mounted. Au début du troisième tour, avant de lancer les dés pour l’Initiative, le combattant peut être placé n’importe où sur le champ de bataille, à au moins 12"" de tout figurine ennemie. S’il n’y a aucun combattant éligible dans votre gang, vous pouvez abandonner cette tactique de gang et en choisir une autre."
 ../TacticsCards/SQUAT PROSPECTORS/Brace for Impact!.png;Brace for Impact!;Squat Prospectors Tactics;"Play this gang tactic after a friendly fighter has
 been Engaged by an enemy fighter performing
 the Charge (Double) action, before the enemy
