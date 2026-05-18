@@ -15,19 +15,19 @@ before rolling for Initiative.
 All fighters on the Battlefield Surface must pass
 an Initiative test or become Prone and Pinned.
 Any Ash Waste Nomads fighter gets +2 to this
-test.";Séisme de cendres !;Clans nomades;Jouez cette tactique au début de n'importe quel tour avant de lancer le jet d’Initiative. Tous les combattants sur la surface du champ de bataille doivent réussir un test d'initiative ou devenez couché et cloué. Tout combattant Ash Waste Nomads obtient +2 à ce test.
+test.";Séisme de cendres !;Clans nomades;Jouez cette tactique au début de n'importe quel tour avant de lancer le jet d’Initiative. Tous les combattants sur la surface du champ de bataille doivent réussir un test d'initiative ou devenez Pinned et Prone. Tout combattant Ash Waste Nomads obtient +2 à ce test.
 ../TacticsCards/ASH WASTE NOMADS/Bait and Switch.png;Bait and Switch;Ash Waste Nomads Tactics;"Play this gang tactic at the start of any round,
 before players have rolled for Initiative.
 
 Select two friendly fighters on the battlefield,
 neither of which is Engaged. Swap the position
-of the two fighters.";Appât et diversion;Clans nomades;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs n’aient lancés le jet d’Initiative. Sélectionnez deux combattants amis sur le champ de bataille, aucun ne doit être engagé. Échanger la position des deux combattants.
+of the two fighters.";Appât et diversion;Clans nomades;Jouez cette tactique au début de n'importe quel tour, avant que les joueurs n’aient lancés le jet d’Initiative. Sélectionnez deux combattants alliés sur le champ de bataille, aucun ne doit être engagé. Échanger la position des deux combattants.
 ../TacticsCards/ASH WASTE NOMADS/Beseech the Great Spirits.png;Beseech the Great Spirits;Ash Waste Nomads Tactics;"Great Spirits Play this gen vecnc during any
 End phase, before making Recovery tests.
 
 You may re-roll any Recovery tests you make this
 round, but must keep the second result even if it
-is worse.";Implorez les Grands Esprits;Clans nomades;Jouez cette tactique pendant n'importe quel phase finale, avant de faire des tests de récupération. Vous pouvez relancer tous les tests de récupération que vous effectuez à ce tour, mais vous devez conserver le deuxième résultat même s’il c'est pire.
+is worse.";Implorez les Grands Esprits;Clans nomades;Jouez cette tactique pendant n'importe quel phase finale, avant de faire des Recovery tests. Vous pouvez relancer tous les Recovery tests que vous effectuez à ce tour, mais vous devez conserver le deuxième résultat même s’il c'est pire.
 ../TacticsCards/ASH WASTE NOMADS/Blessed by the Storm.png;Blessed by the Storm;Ash Waste Nomads Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -43,7 +43,7 @@ The battle ends as if your gang had retreated
 from the battlefield. Friendly fighters who are
 Seriously Injured automatically recover and
 there is no chance for any fighters to be
-Captured.";Retour aux cendres;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un test de récupération. La bataille se termine comme si votre gang s'était retiré du champ de bataille. Les gangers et alliés qui sont blessés graves récupèrent automatiquement, aucun d’entre eux ne peut être capturé.
+Captured.";Retour aux cendres;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un Recovery test. La bataille se termine comme si votre gang s'était retiré du champ de bataille. Les gangers et alliés qui sont Seriously injured récupèrent automatiquement, aucun d’entre eux ne peut être capturé.
 ../TacticsCards/ASH WASTE NOMADS/Ghosts on the Ash.png;Ghosts on the Ash;Ash Waste Nomads Tactics;"Play this gang tactic at the beginning of any
 round, before rolling for Initiative.
 
@@ -55,18 +55,18 @@ fighter.
 
 For the duration of this activation, increase the
 Long range of the fighter's weapons without
-either the Melee or Grenade trait by 6"".";Maître tireur d'élite;Clans nomades;Jouez cette tactique lors de l'activation d’un combattant. Pendant la durée de cette activation, augmentez la longue portée des armes du combattant sans le trait Mêlée ou Grenade de 6 ».
+either the Melee or Grenade trait by 6"".";Maître tireur d'élite;Clans nomades;Jouez cette tactique lors de l'activation d’un combattant. Pendant la durée de cette activation, augmentez la longue portée des armes du combattant sans le trait Mêlée ou Grenade de 6.
 ../TacticsCards/ASH WASTE NOMADS/Mined!.png;Mined!;Ash Waste Nomads Tactics;"Play this gang tactic after an enemy vehicle has
 completed its activation.
 
 The enemy vehicle must immediately take a Loss
-of Control test.";Miné !;Clans nomades;Jouez à cette tactique de gang après qu'un véhicule ennemi ait terminé son activation. Le véhicule ennemi doit immédiatement faire un test de perte de contrôle.
+of Control test.";Miné !;Clans nomades;Jouez à cette tactique de gang après qu'un véhicule ennemi ait terminé son activation. Le véhicule ennemi doit immédiatement faire un Loss of control test.
 ../TacticsCards/ASH WASTE NOMADS/Now You See Me….png;Now You See Me...;Ash Waste Nomads Tactics;"Play this gang tactic at the start of a friendly
 fighter's activation.
 
 Remove the fighter from the battlefield and set it
 up again within 9"" of its initial position and more
-than 1"" away from any enemy model.";Maintenant vous me voyez...;Clans nomades;"Jouez cette tactique à l’activation d’un combattant allié retirez le combattant du champ de bataille et placez-le à nouveau à au moins 9"" de sa position initiale et plus à plus de 1"" de toute figurine ennemie."
+than 1"" away from any enemy model.";Maintenant vous me voyez...;Clans nomades;"Jouez cette tactique à l’activation d’un combattant allié, retirez le combattant du champ de bataille et placez-le à nouveau à au moins 9"" de sa position initiale et plus à plus de 1"" de toute figurine ennemie."
 ../TacticsCards/ASH WASTE NOMADS/Numbers without End.png;Numbers without End;Ash Waste Nomads Tactics;"Play this gang tactic during any End phase,
 before your opponent makes any Recovery tests.
 You may return to play D3 sendy Gangers /
@@ -75,11 +75,11 @@ did not suffer a Memorable Death result on the
 Lasting Injury table by placing them in your
 gang’s deployment zone. These fighters retain
 any injuries suffered for going Out of Action
-but discard any Flesh Wounds.";Sans fin;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un test de récupération. Vous pouvez faire revenir à D3 Gangers /Juves qui ont été mis Out of Action sans subir de résultat de mort mémorable en les plaçant dans la zone de déploiement du gang. Ces combattants conservent toute séquelle subie suite à une mise hors combat mais retire toutes les blessures légères.
+but discard any Flesh Wounds.";Sans fin;Clans nomades;Jouez cette tactique pendant n'importe quelle phase de fin, avant que votre adversaire n'effectue un Recovery test. Vous pouvez faire revenir à D3 Gangers /Juves qui ont été mis Out of Action sans subir de résultat de Memorable death en les plaçant dans la zone de déploiement du gang. Ces combattants conservent toute séquelle subie suite à une mise Out of action mais retire toutes les Flesh wound.
 ../TacticsCards/ASH WASTE NOMADS/Overcharge!.png;Overcharge!;Ash Waste Nomads Tactics;"Play this gang tactic when a friendly fighter
 makes a ranged attack before rolling the dice.
 For the duration of this attack, the Shock trait
-activates on a Hit roll of 5+ instead of 6+.";Surcharge !;Clans nomades;Jouez à cette tactique de gang lorsqu'un combattant amical effectue une attaque à distance avant de lancer les dés. Pendant toute la durée de cette attaque, le trait Choc s'active sur un jet de Touche de 5+ au lieu de 6+.
+activates on a Hit roll of 5+ instead of 6+.";Surcharge !;Clans nomades;Jouez à cette tactique de gang lorsqu'un combattant allié effectue une attaque à distance, avant de lancer les dés. Pendant toute la durée de cette attaque, le trait Shock s'active sur un jet de Touche de 5+ au lieu de 6+.
 ../TacticsCards/ASH WASTE NOMADS/Raiders without Equal.png;Raiders without Equal;Ash Waste Nomads Tactics;"Play this gang tactic during the Wrap-up phase
 of the post-battle sequence.
 
@@ -93,14 +93,14 @@ For the duration of this round, friendly fighters
 can attempt to rejoin the battle regardless of their
 Movement characteristic. If the scenario being
 played does not use the Rolling Roads rules, you
-may discard this gang tactic and select another.";Chemins secrets;Clans nomades;Jouez cette tactique pendant la phase de rolling road d'une bataille Rolling Roads avant de faire le jet permettant de savoir si les figurines rejoignent la bataille. Pendant toute la durée de ce round, des combattants alliés peuvent tenter de rejoindre la bataille quel que soit leur caractéristique du mouvement. Si le scénario joué n'utilise pas les règles de Rolling Roads, vous pouvez abandonner cette tactique de gang et en choisir une autre.
+may discard this gang tactic and select another.";Chemins secrets;Clans nomades;Jouez cette tactique pendant la phase de rolling road d'une bataille Rolling Roads, avant de faire le jet permettant de savoir si les figurines rejoignent la bataille. Pendant toute la durée de ce round, des combattants alliés peuvent tenter de rejoindre la bataille quel que soit leur caractéristique du mouvement. Si le scénario joué n'utilise pas les règles de Rolling Roads, vous pouvez abandonner cette tactique de gang et en choisir une autre.
 ../TacticsCards/ASH WASTE NOMADS/Spineroach Venom.png;Spineroach Venom;Ash Waste Nomads Tactics;"Play this gang tactic when a friendly fighter
 makes a close combat attack before rolling the
 dice.
 
 For the duration of this attack, one of the
 fighter's weapons with the Melee trait gains the
-Toxin trait.";Venin de Spineroach;Clans nomades;Jouez à cette tactique de gang lorsqu'un combattant allié effectue une attaque de combat rapproché, avant de lancer le dés. Pendant toute la durée de cette attaque, l'une des armes du combattant avec le trait Mêlée gagnent le trait de toxine.
+Toxin trait.";Venin de Spineroach;Clans nomades;Jouez à cette tactique de gang lorsqu'un combattant allié effectue une attaque de combat rapproché, avant de lancer le dés. Pendant toute la durée de cette attaque, l'une des armes du combattant avec le trait Melee gagnent le trait de Toxin.
 ../TacticsCards/ASH WASTE NOMADS/Survival Suits.png;Survival Suits;Ash Waste Nomads Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
@@ -108,26 +108,26 @@ first round.
 For the duration of this battle, D3 friendly
 fighters of your choice in your starting crew
 
-are immune to the effects of the Rad-phage trait.";Combinaisons de survie;Clans nomades;Jouez cette tactique au début de la bataille, après que les deux camps se soient déployés, mais avant le premier tour. Pendant toute la durée de cette bataille, D3 combattants allié de votre choix de votre équipe de départ sont immunisés contre les effets du trait Rad-phage.
+are immune to the effects of the Rad-phage trait.";Combinaisons de survie;Clans nomades;Jouez cette tactique au début de la bataille, après que les deux camps se soient déployés, mais avant le premier tour. Pendant toute la durée de cette bataille, D3 combattants allié de votre choix de votre gang de départ sont immunisés contre les effets du trait Rad-phage.
 ../TacticsCards/ASH WASTE NOMADS/War of Attrition.png;War of Attrition;Ash Waste Nomads Tactics;"Play this gang tactic during the Wrap-up phase
 of the post-battle sequence.
 
 If your gang has fewer fighters taken Out of
 Action than the opposing gang, your gang gains
-D3 Reputation.";Guerre d'usure;Clans nomades;Jouez cette tactique pendant la phase de wrap-up de la séquence d’après-bataille. Si votre gang a moins de combattants hors de combats que le gang adverse, votre gang gagne D3 Réputation.
+D3 Reputation.";Guerre d'usure;Clans nomades;Jouez cette tactique pendant la phase de wrap-up de la séquence d’après-bataille. Si votre gang a moins de combattants Out of action que le gang adverse, votre gang gagne D3 Réputation.
 ../TacticsCards/ASH WASTE NOMADS/Will-o’-the-Wastes.png;Will-o'-the-Wastes;Ash Waste Nomads Tactics;"Play this gang tactic at the start of the battle,
 after both sides have deployed, but before the
 first round.
 
 For the duration of this battle, D3 friendly
 fighters of your choice in your starting crew gain
-the Dodge skill.";Feu follet des Désolations;Clans nomades;Jouez cette tactique au début de la bataille, après que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de cette bataille, D3 combattants alliés de votre équipe de départ gagnent la compétence Esquive.
+the Dodge skill.";Feu follet des Désolations;Clans nomades;Jouez cette tactique au début de la bataille, après que les deux camps se sont déployés, mais avant le premier round. Pendant toute la durée de cette bataille, D3 combattants alliés de votre équipe de départ gagnent la compétence Dodge.
 ../TacticsCards/ASH WASTES/Always Carry a Spare.png;Always Carry a Spare;Ash Wastes Tactics;"Play this tactic when activating a friendly model
 with a weapon that is Out of Ammo.
 
 One of the model's weapons is automatically
 reloaded at the cost of one action - no Ammo
-check is required,";Ayez toujours une pièce de rechange;Désolations cendrées;Jouez cette tactique lors de l'activation d'un figurine alliée avec une arme à court de munitions. L'une des armes du modèle est automatiquement rechargé au prix d'une action - Aucun test de munitions n’est requis
+check is required,";Ayez toujours une pièce de rechange;Désolations cendrées;Jouez cette tactique lors de l'activation d'un figurine alliée avec une arme à Out of ammo. L'une des armes du modèle est automatiquement rechargé au prix d'une action - Aucun test de munitions n’est requis
 ../TacticsCards/ASH WASTES/Back to the Fray!.png;Back to the Fray!;Ash Wastes Tactics;"Play this tactic when checking to see if a friendly
 model rejoins the fight in a Rolling Roads
 scenario, before rolling the dice.
