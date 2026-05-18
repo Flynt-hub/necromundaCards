@@ -4015,7 +4015,7 @@ enemy fighter. The friendly fighter may
 immediately perform a free Shoot (Basic) action.
 If the enemy fighter is still Standing and Active,
 they may perform a second action (if they have
-not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l'opération de porte (simple), l'accès Action du terminal (de base) ou de la porte forcée (de base). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Tir (Basique) gratuite. Si le combattant ennemi est toujours Debout et Actif, ils peuvent effectuer une deuxième action (s'ils ont pas déjà fait).
+not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l’action Operate door (simple), Access terminal (basic) ou Force door (basic). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Shoot (basic) gratuite. Si le combattant ennemi est toujours Debout et Actif, il peut continuer son activation.
 ../TacticsCards/ZONE MORTALIS/Call the Beast.png;Call the Beast;Zone Mortalis Tactics;"| 1
 Play this gang tactic when an enemy fighter |
 performs a Move (Simple) action. |
@@ -4024,13 +4024,13 @@ After the enemy fighter completes their |
 the battlefield. For the remainder of this |
 battle, this Vent counts as a Beast's Lair as
 described in the Necromunda Rulebook.
-|";Appeler la bête;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant ennemi effectue une action de déplacement (simple). Une fois que le combattant ennemi a terminé son ""mouvement, nommez un évent n'importe où sur - le champ de bataille. Pour le reste de ce bataille, cet évent compte comme un repaire de bête décrit dans le livre de règles de Necromunda."
+|";Appeler la bête;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue une action de Move (simple). Une fois que le combattant ennemi a terminé son mouvement, nommez un évent n'importe où sur le champ de bataille. Pour le reste de ce bataille, cet évent compte comme un Beast lair comme décrit dans le livre de règles de Necromunda.
 ../TacticsCards/ZONE MORTALIS/Cometh the Harvest Lord!.png;Cometh the Harvest Lord!;Zone Mortalis Tactics (Corpse Grinder;"Play this gang tactic when a friendly fighter |
 activates within 1"" of a closed Door.
 
 The fighter may perform a free Fight (Basic)
 action against one enemy fighter within 1""
-of the other side of the Door.";Voici venir le Seigneur de la moisson !;Zone Mortalis (Corspe grinders);"Jouez cette tactique lorsqu’un combattant allié s’active à 1"" ou moins d’une porte fermée. Ce combattant peut effectuer gratuitement une action Combat (Basique) contre un combattant ennemi situé à 1"" ou moins de l’autre côté de la porte."
+of the other side of the Door.";Voici venir le Seigneur de la moisson !;Zone Mortalis (Corspe grinders);"Jouez cette tactique lorsqu’un combattant allié s’active à 1"" ou moins d’une porte fermée. Ce combattant peut effectuer gratuitement une action Combat (basic) contre un combattant ennemi situé à 1"" ou moins de l’autre côté de la porte."
 ../TacticsCards/ZONE MORTALIS/Emergency Repulsors.png;Emergency Repulsors;Zone Mortalis Tactics;"Play this gang tactic when a friendly fighter falls
 or jumps down from a ledge, but before working
 out the effects of the fall or jump.
@@ -4038,7 +4038,7 @@ Place a 5"" Blast marker anywhere on the
 battlefield and leave it in place for the remainder
 of this round. Fighters falling or jumping down
 one this marker take no damage and are not
-inned.";Répulseurs d'urgence;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant allié tombe ou saute d'un rebord, mais avant de travailler les effets de la chute ou du saut. Placez un marqueur Blast de 5"" n'importe où sur le champ de bataille et laissez-le en place pour le reste de ce tour. Combattants tombant ou sautant celui de ce marqueur ne subit aucun dégât et ne sont pas inné."
+inned.";Répulseurs d'urgence;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant allié tombe ou saute d'un rebord, mais avant d’appliquer les effets de la chute ou du saut. Placez un gabarit Blast de 5"" n'importe où sur le champ de bataille et laissez-le en place pour le reste de ce tour. Les combattants tombant ou sautant sur ce gabarit ne subissent aucun dégât et ne sont pas Pinned."
 ../TacticsCards/ZONE MORTALIS/Fighting Reatreat.png;Fighting Retreat;Zone Mortalis Tactics (Orlock);"Play this gang tactic when your gang fails
 
 a Bottle test.
@@ -4050,7 +4050,7 @@ in your gang may treat the Operate Door |
 (Simple) action as a free action once during _
 
 their activation.
-|";Retraite de combat;Zone Mortalis (Orlock);Jouez cette tactique lorsque votre gang échoue un test en bouteille. Pour le reste de cette bataille, tous les combattants dans votre gang peut traiter la porte Operate action (Simple) comme action gratuite une fois pendant son activation.
+|";Retraite de combat;Zone Mortalis (Orlock);Jouez cette tactique lorsque votre gang échoue un Bottle test. Pour le reste de cette bataille, tous les combattants de votre gang peuvent traiter l’action Operate door (simple) comme action gratuite une fois pendant leur activation.
 ../TacticsCards/ZONE MORTALIS/From Below.png;From Below;Zone Mortalis Tactics;"Play this gang tactic after rolling for
 Reinforcements but before placing reinforcement
 fighters on the battlefield.
@@ -4058,7 +4058,7 @@ fighters on the battlefield.
 Friendly fighters arriving via the Reinforcement
 rules can be deployed in the same manner as
 fighters with the Infiltrate skill, as long as they
-are deployed within 2"" of a Pipe or Vent.";D'en bas;Zone Mortalis;"Jouez cette tactique après avoir lancé le jet pour Renforts mais avant de placer le renfort combattants sur le champ de bataille. combattants alliés arrivant via les Renforts les règles peuvent être déployées de la même manière que combattants dotés de la compétence Infiltration, à condition qu'ils sont déployés à au moins 2"" d'un tuyau ou d'un évent."
+are deployed within 2"" of a Pipe or Vent.";D'en bas;Zone Mortalis;"Jouez cette tactique après avoir tester pour les renforts mais avant de placer les renforts sur le champ de bataille. Les combattants alliés arrivant via les règles de renforts peuvent être déployées de la même manière que combattants dotés de la compétence Infiltration, à condition qu'ils soient déployés à au moins 2"" d'un tuyau ou d'un évent."
 ../TacticsCards/ZONE MORTALIS/Hidden Swarm.png;Hidden Swarm;Zone Mortalis Tactics (Genestealer Cu;"Play this gang tactic during the End phase of any
 round, before deploying any Reinforcements.
 Your gang may immediately deploy up to D3
@@ -4069,14 +4069,14 @@ placed within 1"" of a Vent and at least 1"" from
 any enemy fighter. No additional Reinforcements
 can arrive this round. If a fighter cannot be
 placed in this manner, the fighter is deployed as
-normal instead.";Essaim caché;Zone Mortalis (Culte Genestealer);"Jouez cette tactique pendant la phase de fin de un tour, avant de déployer des renforts. Votre gang peut se déployer immédiatement jusqu'à D3 Des renforts de ces combattants dans votre Pont de renfort à au moins 3"" d'un ami Leader ou Champion. Ces combattants doivent être placé à au moins 1"" d'un évent et à au moins 1"" de un combattant ennemi. Pas de renforts supplémentaires peut arriver ce tour. Si un combattant ne peut pas être placé de cette manière, le chasseur est déployé comme normal à la place."
+normal instead.";Essaim caché;Zone Mortalis (Culte Genestealer);"Jouez cette tactique pendant la phase de fin de un tour, avant de déployer des renforts. Votre gang peut se déployer immédiatement jusqu'à D3 combattant en renforts à au moins 3"" d'un leader ou d’un champion allié. Ces combattants doivent être placé à au moins 1"" d'un évent et à au moins 1"" de un combattant ennemi. Aucun renforts supplémentaires ne peut arriver ce tour. Si un combattant ne peut pas être placé de cette manière, le combattant est déployé normalement à la place."
 ../TacticsCards/ZONE MORTALIS/Hidden Vent.png;Hidden Vent;Zone Mortalis Tactics;"Play this gang tactic when a friendly fighter |
 performs Move (Simple) action.
 
 During their movement, this fighter may
 pass through Impassable terrain, provided
 they end their movement with no part of
-their base within the Impassable terrain.";Conduit caché;Zone Mortalis;Jouez cette tactique lorsqu'un combattant allié effectue une action de déplacement (simple). Lors de son déplacement, ce combattant peut traverser un terrain infranchissable, à condition ils terminent leur mouvement sans aucune partie de leur base dans le terrain infranchissable.
+their base within the Impassable terrain.";Conduit caché;Zone Mortalis;Jouez cette tactique lorsqu'un combattant allié effectue une action de Move (simple). Lors de son déplacement, ce combattant peut traverser un terrain infranchissable, à condition ils terminent leur mouvement sans aucune partie de sa base dans le terrain infranchissable.
 ../TacticsCards/ZONE MORTALIS/Hunter in the Dark.png;Hunter in the Dark;Zone Mortalis Tactics (Venators);"Play this tactic during the Priority phase of any
 round, after Roll for Priority, but before Ready
 Fighters. Choose a 12""x12"" section of the
@@ -4087,7 +4087,7 @@ Pitch Black rules or if the fighter moves outside
 this section. A fighter who loses it can't gain it
 again this round. During the End phase of this
 round, all fighters discard Hidden markers
-caused by this tactic and it's discarded.";Chasseur dans le noir;Zone Mortalis (Venators);"Jouez cette tactique pendant la phase de priorité de un tour, après Lancer pour la Priorité, mais avant Prêt les combattants. Choisissez une section de 12""x12"" du champ de bataille. Des combattants à l'intérieur et s'y déplaçant ce tour gagne immédiatement Caché, comme s'il était affecté par les règles de Pitch Black. Il peut être perdu comme décrit dans Pitch Black règne ou si le combattant se déplace à l'extérieur cette rubrique. Un combattant qui le perd ne peut pas le gagner encore ce tour. Pendant la phase de Fin de ce round, tous les combattants défaussent les marqueurs cachés causé par cette tactique et il est rejeté."
+caused by this tactic and it's discarded.";Chasseur dans le noir;Zone Mortalis (Venators);"Jouez cette tactique pendant la phase de priorité d’un tour, après le lancer pour la priorité. Choisissez une section de 12""x12"" du champ de bataille. Les combattants à l'intérieur et s'y déplaçant ce tour gagne immédiatement la condition Hidden, comme s'ils étaient affectés par les règles de Pitch Black. La condition peut être perdue comme décrit dans les règles Pitch Black ou si le combattant se déplace à l'extérieur cette section. Un combattant qui perd la condition ne peut pas la gagner encore ce tour. Pendant la phase de Fin de ce round, tous les combattants Hidden perdent la condition"
 ../TacticsCards/ZONE MORTALIS/Improvised Cover.png;Improvised Cover;Zone Mortalis Tactics;"Play this gang tactic instead of activating
 
 a fighter.
@@ -4101,7 +4101,7 @@ Ready Fighters.
 For the duration of this round, enemy fighters
 may not make, or be part of, Group Activations
 unless they can draw line of sight to a model in
-their crew with the Gang Leader special rule.";Klaxon;Zone Mortalis (Enforcers);Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants Prêts. Pendant toute la durée de ce round, les combattants ennemis ne peut pas effectuer ou participer à des activations de groupe à moins qu'ils ne puissent tracer une ligne de vue vers une figurine dans leur équipage avec la règle spéciale Gang Leader.
+their crew with the Gang Leader special rule.";Klaxon;Zone Mortalis (Enforcers);Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité. Pendant toute la durée de ce round, les combattants ennemis ne peuvent pas effectuer ou participer à des activations de groupe à moins qu'ils ne puissent tracer une ligne de vue vers une figurine dans leur gang avec la règle spéciale Gang Leader.
 ../TacticsCards/ZONE MORTALIS/Knock! Knock!.png;Knock! Knock!;Zone Mortalis Tactics (Goliath);"Play this gang tactic instead of activating
 a fighter.
 
@@ -4113,7 +4113,7 @@ Action phase.
 
 All doors on the battlefield close if they are
 open, and then become locked, as detailed
-in the Necromunda Rulebook.";Confinement;Zone Mortalis;Jouez cette tactique au début de un Phase d'action. Toutes les portes du champ de bataille se ferment si elles sont s'ouvrir, puis se verrouiller, comme détaillé dans le livre de règles de Necromunda.
+in the Necromunda Rulebook.";Confinement;Zone Mortalis;Jouez cette tactique au début de un Phase d'action. Toutes les portes du champ de bataille se ferment si elles sont ouvertes, puis se verrouillent, comme détaillé dans le livre de règles de Necromunda.
 ../TacticsCards/ZONE MORTALIS/Long Shadows.png;Long Shadows;Zone Mortalis Tactics (Delaque);"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -4125,7 +4125,7 @@ to perform a ranged attack targeting any of
 
 your fighters that are both at Long range and
 
-in cover.";Longues ombres;Zone Mortalis (Delaque);Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité, mais avant activation des combattants Prêts. Pendant la durée de ce round, les combattants ennemis doivent effectuer une test d’Intelligence s'ils le souhaitent pour effectuer une attaque à distance ciblant l'un des vos combattants qui sont à la fois à longue portée et en couverture.
+in cover.";Longues ombres;Zone Mortalis (Delaque);Jouez cette tactique pendant la phase de Priorité de un tour, après le lancer de priorité. Pendant la durée de ce round, les combattants ennemis doivent effectuer une test d’Intelligence s'ils souhaitent effectuer une attaque à distance ciblant l'un des vos combattants qui sont à la fois à longue portée et en couverture.
 ../TacticsCards/ZONE MORTALIS/Lucky Ricochet.png;Lucky Ricochet;Zone Mortalis Tactics;"Play this gang tactic when a friendly fighter hits
 with a ranged attack, and their target was within
 2"" of a piece of Impassable terrain.
@@ -4134,7 +4134,7 @@ After working out the effects of the hit, and if the
 hit fighter has not been removed from play. roll
 
 a D6 to see if that hit fighter s hit by a Stray Shot
-from the same weapon.";Ricochet chanceux;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant allié frappe avec une attaque à distance, et leur cible était à portée 2"" d'un morceau de terrain infranchissable. Après avoir calculé les effets du coup, et si le Le combattant à succès n'a pas été retiré du jeu. rouler un D6 pour voir si le combattant touché est touché par un tir errant de la même arme."
+from the same weapon.";Ricochet chanceux;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant allié effectue une attaque à distance et que leur cible est dans les 2"" d'un terrain infranchissable. Après avoir résolu les effets du coup, et si le combattant n'a pas été retiré du jeu. Lancer un D6 pour voir si le combattant touché est touché par un Stray shot de la même arme."
 ../TacticsCards/ZONE MORTALIS/Rat Warren.png;Rat Warren;Zone Mortalis Tactics;"Play this gang tactic after your opponent activates
 one of their fighters.
 If the fighter they have just activated does not
@@ -4143,13 +4143,13 @@ must make an Intelligence check. If this check is
 failed, you may place that fighter anywhere
 within 6"" of their current location. You may not
 piece that fighter within 3"" of any of your
-ighters.";Terrier de rats;Zone Mortalis;"Jouez cette tactique après l'activation de votre adversaire un de leurs combattants. Si le combattant qu'ils viennent d'activer ne le fait pas ont une ligne de vue sur tous les combattants alliés, ils doit effectuer un test d'Intelligence. Si ce chèque est échoué, vous pouvez placer ce combattant n'importe où à au moins 6"" de leur emplacement actuel. Vous ne pouvez pas morceau ce combattant à au moins 3"" de l'un de vos briquets."
+ighters.";Terrier de rats;Zone Mortalis;"Jouez cette tactique après l'activation d’un combattant de votre adversaire. Si le combattant qu'il vient d'activer n’a de ligne de vue sur un de ses alliés, ils doit effectuer un test d'Intelligence. Si ce test est échoué, vous pouvez placer ce combattant n'importe où à au moins 6"" de son emplacement actuel. Vous ne pouvez pas placer ce combattant à au moins 3"" de l'un de vos combattants."
 ../TacticsCards/ZONE MORTALIS/Rise Up, Brothers and Sisters!.png;Rise Up, Brothers and Sisters!;Zone Mortalis Tactics (Chaos Helots);"Play this gang tactic at the start of any
 Action phase.
 
 Unul the End phase of this round, all
 fighters in your crew gain the Spring Up
-skill.";Levez-vous, frères et sœurs !;Zone Mortalis (Hilotes du Chaos);Jouez cette tactique au début de un Phase d'action. Jusqu'à la phase de Fin de ce tour, tous les combattants de votre équipage obtiennent le Spring Up compétence.
+skill.";Levez-vous, frères et sœurs !;Zone Mortalis (Hilotes du Chaos);Jouez cette tactique au début de un Phase d'action. Jusqu'à la phase de Fin de ce tour, tous les combattants de votre gang obtiennent la compétence Spring Up.
 ../TacticsCards/ZONE MORTALIS/Sparky... SMASH!.png;Sparky... SMASH!;Zone Mortalis Tactics (Slave Ogryns);"Play this gang tactic when a friendly fighter
 activates within 1"" of a closed Door.
 
@@ -4159,18 +4159,18 @@ fighter, friend or foe, that was within 2"" of
 the other side of the Door must pass
 
 an Initiative check or become Prone and Pinned.
-This fighter's activation then ends.";Sparky... Écrase !;Zone Mortalis (Ogryns esclaves);"Jouez cette tactique lorsqu’un combattant allié s’active à 1"" ou moins d’une porte fermée. Retirez la porte du champ de bataille. Tout combattant, allié ou ennemi, qui se trouvait à 2"" ou moins de l’autre côté de la porte doit réussir un test d’Initiative ou devenir À Terre et Bloqué. L’activation de ce combattant prend alors fin."
+This fighter's activation then ends.";Sparky... Écrase !;Zone Mortalis (Ogryns esclaves);"Jouez cette tactique lorsqu’un combattant allié s’active à 1"" ou moins d’une porte fermée. Retirez la porte du champ de bataille. Tout combattant, allié ou ennemi, qui se trouvait à 2"" ou moins de l’autre côté de la porte doit réussir un test d’Initiative ou devenir Pinned et Prone. L’activation de ce combattant prend alors fin."
 ../TacticsCards/ZONE MORTALIS/Stairs Trap.png;Stairs Trap;Zone Mortalis Tactics (Van Saar);"Play this gang tactic instead of activating a fighter
 Choose a set of Stairs anywhere on the battlefield
 All fighters on the chosen Stairs immediately fall
 (place them within 2"" of the foot of the Stairs in
 an order chosen by the player whose gang tactic
 this is). The fighters are then Pinned and suffer
-damage from falling as normal.";Piège d’escalier;Zone Mortalis (Van Saar);"Jouez cette tactique au lieu d'activer un combattant Choisissez un ensemble d'escaliers n'importe où sur le champ de bataille Tous les combattants sur les escaliers choisis tombent immédiatement (placez-les à au moins 2"" du pied des escaliers dans un ordre choisi par le joueur dont la tactique de gang c'est). Les combattants sont alors Bloqués et subissent dommages dus à une chute normale."
+damage from falling as normal.";Piège d’escalier;Zone Mortalis (Van Saar);"Jouez cette tactique au lieu d'activer un combattant. Choisissez un ensemble d'escaliers n'importe où sur le champ de bataille Tous les combattants sur les escaliers choisis tombent immédiatement (placez-les à au moins 2"" du pied des escaliers dans un ordre choisi par vous). Les combattants sont alors Pinned et subissent les dommages dus à une chute normale."
 ../TacticsCards/ZONE MORTALIS/Trip Wire.png;Trip Wire;Zone Mortalis Tactics;"Play this gang tactic when an enemy fighter
 ascends or descends a ladder or Stairs.
 Once the enemy fighter completes their
-Move action, they become Pinned.";Fil-piège;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi monte ou descend une échelle ou un escalier. Une fois que le combattant ennemi a terminé son Déplacez l'action, ils deviennent Bloqués.
+Move action, they become Pinned.";Fil-piège;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi monte ou descend une échelle ou un escalier. Une fois que le combattant ennemi a terminé son déplacement, il devient Pinned.
 ../TacticsCards/ZONE MORTALIS/Underhive Gloom.png;Underhive Gloom;Zone Mortalis Tactics;"Play this gang tactic at the start of the battle,
 after both crews have been deployed.
 
@@ -4179,7 +4179,7 @@ For the duration of this battle, the hit rolls
 for ranged attacks made through open doorways
 or against fighters on a different level to the
 attacker suffer an additional -2 modifier to the to
-hit roll.";Obscurité du Sous-Monde;Zone Mortalis;Jouez cette tactique au début de la bataille, une fois les deux équipages déployés. Pendant toute la durée de cette bataille, les jets de touche pour les attaques à distance effectuées à travers des portes ouvertes ou contre des combattants d'un niveau différent du l'attaquant subit un modificateur supplémentaire de -2 au to frapper le rouleau.
+hit roll.";Obscurité du Sous-Monde;Zone Mortalis;Jouez cette tactique au début de la bataille, une fois les deux gangs déployés. Pendant toute la durée de cette bataille, les jets de touche pour les attaques à distance effectuées à travers des portes ouvertes (ou des encadrements de portes) ou contre des combattants d'un niveau différent de l'attaquant subissent un modificateur supplémentaire de -2 aux tests de touche.
 ../TacticsCards/ZONE MORTALIS/Unwashed Horde.png;Unwashed Horde;Zone Mortalis Tactics (Cawdor);"Play this gang tactic at the start of the first round
 of the battle, before Priority is rolled. Your gang
 may immediately deploy D3 Cawdor (Juve)
@@ -4190,7 +4190,7 @@ and a fighting knife. These fighters must be
 pieced within 1"" of a Vent and have at least 1""
 rom any other fighter: If you do not have models
 available to represent these fighters, you may
-discard this gang tactic and select another.";Horde crasseuse;Zone Mortalis (Cawdor);"Jouez cette tactique au début du premier tour de la bataille, avant que la priorité ne soit lancée. Votre bande peut déployer immédiatement D3 Cawdor (Juve) combattants. Ces combattants sont recrutés gratuitement mais quittera le gang à la fin de cette bataille. Chacun le chasseur est équipé d'un pistolet automatique récupéré et un couteau de combat. Ces combattants doivent être reconstitué à au moins 1"" d'un évent et avoir au moins 1"" de un autre combattant : Si vous n'avez pas de modèles disponible pour représenter ces combattants, vous pouvez abandonnez cette tactique de gang et sélectionnez-en une autre."
+discard this gang tactic and select another.";Horde crasseuse;Zone Mortalis (Cawdor);"Jouez cette tactique au début du premier tour de la bataille, avant que la priorité ne soit lancée. Votre bande peut déployer immédiatement D3 Cawdor Juve. Ces combattants sont recrutés gratuitement mais quitteront le gang à la fin de cette bataille. Chaque combattant est équipé d'un reclaimed autopistol et d’un combat knife. Ces combattants doivent être placés à au moins 1"" d'un évent et être à au moins 1"" d’un autre combattant."
 ../TacticsCards/ZONE MORTALIS/Wall Breach.png;Wall Breach;Zone Mortalis Tactics;"Play this gang tactic when a friendly fighter |
 makes a ranged attack. |
 |The fighter can choose targets that are out |
@@ -4198,9 +4198,9 @@ _of their line of sight, provided they are not
 using a weapon with the Template or |
 ‘Blast CX"") traits. Attacks against these
 
-targets suffer a -2 modifier to their hit roll.";Brèche murale;Zone Mortalis;"Jouez cette tactique lorsqu'un combattant allié effectue une attaque à distance. Le combattant peut choisir des cibles qui sont hors _de leur champ de vision, à condition qu'ils ne soient pas utiliser une arme avec le modèle ou ""Blast CX""). Les attaques contre ces caractéristiques les cibles subissent un modificateur de -2 à leur jet de touche."
+targets suffer a -2 modifier to their hit roll.";Brèche murale;Zone Mortalis;Jouez cette tactique lorsqu'un combattant allié effectue une attaque à distance. Le combattant peut choisir des cibles qui sont hors de leur champ de vision, à condition qu'il n’utilise pas une arme avec les traits Template ou Blast. Les attaques contre ces cibles subissent un modificateur de -2 à leur jet de touche.
 ../TacticsCards/ZONE MORTALIS/Wall Walking.png;Wall Walking;Zone Mortalis Tactics (Escher);"Play this gang tactic at the start of any
 Action phase.
 
 Unul the End phase of this round, all
-fighters in your gang gain the Clamber skill.";Marche-muraille;Zone Mortalis (Escher);Jouez cette tactique au début d’une phase d’Action. Jusqu’à la phase de Fin de ce round, tous les combattants de votre gang gagnent la compétence Grimpeur.
+fighters in your gang gain the Clamber skill.";Marche-muraille;Zone Mortalis (Escher);Jouez cette tactique au début d’une phase d’Action. Jusqu’à la phase de fin de ce round, tous les combattants de votre gang gagnent la compétence Clamber.
