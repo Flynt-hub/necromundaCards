@@ -683,7 +683,7 @@ until the End phase of this turn, any fighter
 from your gang that performs a Charge
 
 | (Basic) action reduces their Weapon Skill
-characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette tactique au début d’une phase d’action. Jusqu'à la phase de fin de ce tour, les combattants de votre gang traitent l'action de Charge comme (basic) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une l’action Charge (basique) subit un malus de -1 à sa WS.
+characteristic by -1.";Visions de massacre;Corspe grinders;Jouez cette tactique au début d’une phase d’action. Jusqu'à la phase de fin de ce tour, les combattants de votre gang traitent l'action de Charge comme (basic) plutôt que (Double). Cependant, jusqu'à la phase de fin de ce tour, un combattant de votre gang qui effectue une l’action Charge (basic) subit un malus de -1 à sa WS.
 ../TacticsCards/CORPSE GRINDERS/Whirlwind of Blows.png;Whirlwind of Blows;Corpse Grinders Tactics;"| Play this card when activating a fighter in
 your gang that is Standing and Engaged.
 
@@ -719,7 +719,7 @@ performs a Fight (Basic) action.
 
 Darkness swirls around the enemy fighter,
 seeming to grasp at their weapons. Apply a -D3
-modifier to the fighter's Hit roll.";Ténèbres suffocantes;Delaque;Jouez cette tactique lorsqu’un combattant ennemi effectue une action Combat (Basique). Les ténèbres tourbillonnent autour du combattant ennemi et semblent s’agripper à ses armes. Appliquez un modificateur de -D3 au jet de Touche de ce combattant.
+modifier to the fighter's Hit roll.";Ténèbres suffocantes;Delaque;Jouez cette tactique lorsqu’un combattant ennemi effectue une action Combat (Basic). Les ténèbres tourbillonnent autour du combattant ennemi et semblent s’agripper à ses armes. Appliquez un modificateur de -D3 au jet de touche de ce combattant.
 ../TacticsCards/DELAQUE/Confusion (redacted).png;Confusion;Delaque Tactics;"Play this card at the start of the battle, after both
 sides have deployed, but before the first round.
 Choose a fighter from opponent's starting crew
@@ -730,7 +730,7 @@ wish to use that weapon, they must first make an
 Intelligence check. If the check is passed, they
 may use the weapon as normal. If the check is
 failed, their WS is treated as 6+ when making
-attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette tactique au début de la bataille, après les deux les équipes soient déployées, mais avant le premier tour. Choisissez un combattant parmi l'équipe de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur sur sa carte. Choisissez une arme de Melee dont il est équipé. Durant cette bataille, lorsqu’il utilise cette arme, il doit d'abord faire un test d’Intelligence. Si le test est réussi, ils peut utiliser l’arme normalement. Si le test est échoué, sa WS est traité comme 6+.
+attacks with that wapon during this activation.";Confusion;Delaque;Jouez cette tactique au début de la bataille, après les deux les équipes soient déployée. Choisissez un combattant parmi l'équipe de départ de l'adversaire qui se trouve sur le champ de bataille et placez un marqueur sur sa carte. Choisissez une arme de Melee dont il est équipé. Durant cette bataille, lorsqu’il utilise cette arme, il doit d'abord faire un test d’Intelligence. Si le test est échoué, sa WS est traité comme 6+.
 ../TacticsCards/DELAQUE/Dancing Shadows.png;Dancing Shadows;Delaque Tactics;"| Play this card when an enemy fighter makes
 a ranged attack.
 
@@ -795,7 +795,7 @@ goggles may instead ignore cover when making
 a Shoot (Basic) action targeting a Standing and
 Active enemy fighter. Note that this does not
 apply if the action would be (Simple) or
-(Double) for any reason.";Des yeux dans le noir;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé Priorité. Pendant toute la durée du round, tous les combattants alliés sont traités comme ayant des photo-goggles. Les combattants alliés déjà équipés de photo-goggles peuvent à la place ignorer la couverture lors d’une action Tir (Basique) ciblant un Personnage Debout. Notez que cela s’applique pas si l'action est (Simple) ou (Double) pour quel que raison que ce soit.
+(Double) for any reason.";Des yeux dans le noir;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé Priorité. Pendant toute la durée du round, tous les combattants alliés sont traités comme ayant des photo-goggles. Les combattants alliés déjà équipés de photo-goggles peuvent à la place ignorer la couverture lors d’une action Shoot (Basic) ciblant un Personnage Debout. Notez que cela s’applique pas si l'action est (Simple) ou (Double) pour quel que raison que ce soit.
 ../TacticsCards/DELAQUE/Faceless.png;Faceless;Delaque Tactics;"| Play at the start of any round, after rolling
 for Priority.
 
@@ -804,14 +804,14 @@ the board. These fighters swap positions,
 even if they are Engaged in melee. Leaders,
 Champions, Brutes, Hired Guns, and
 Seriously Injured fighters may not be moved
-using this card.";Sans visage;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Choisissez deux de vos combattants n'importe où sur le champs de bataille. Ces combattants échangent leurs positions, même s'ils sont engagés en Melee. Leader, Champions, brutes, mercenaires et Les combattants grièvement blessés ne peuvent pas être déplacés en utilisant cette carte.
+using this card.";Sans visage;Delaque;Jouez cette tactique au début d’un tour, après avoir lancé pour la Priorité. Choisissez deux de vos combattants n'importe où sur le champs de bataille. Ces combattants échangent leurs positions, même s'ils sont engagés en Melee. Leader, Champions, brutes, mercenaires et Les combattants Seriously injured ne peuvent pas être déplacés en utilisant cette carte.
 ../TacticsCards/DELAQUE/Faces in the Gloom.png;Faces in the Gloom;Delaque Tactics;"Play this gang tactic when an enemy fighter
 performs a Shoot (Basic) action.
 
 Faces loom from the darkness of the underhive,
 making the fighter think they are surrounded by
 enemies. Apply a -D3 modifier to the fighter's
-Hit roll.";Visages dans la pénombre;Delaque;Jouez cette tactique lorsqu'un combattant ennemi effectue une action Tir (Basique). Des visages surgissent des ténèbres du sous-monde, faisant croire au combattant qu'il est entouré de ennemis. Appliquez un modificateur de -D3 au jet de touche du combattant.
+Hit roll.";Visages dans la pénombre;Delaque;Jouez cette tactique lorsqu'un combattant ennemi effectue une action Shoot (Basic). Des visages surgissent des ténèbres du sous-monde, faisant croire au combattant qu'il est entouré de ennemis. Appliquez un modificateur de -D3 au jet de touche du combattant.
 ../TacticsCards/DELAQUE/Friend or Foe_.png;Friend or Foe?;Delaque Tactics;"Play at the start of any round, after rolling for
 Priority.
 
@@ -860,7 +860,7 @@ the Infiltrate skill";Infiltration massive;Delaque;Jouez cette tactique pendant 
 Instead of moving normally, the chosen |
 enemy fighter moves D6"" in a direction
 chosen by you, stopping if they come into
-contact with any terrain. |";Par ici...;Delaque;"Jouez cette tactique lorsqu'une figurine ennemie effectue un mouvement action (Simple). Au lieu de se déplacer normalement, le combattant ennemi se déplace de D6"" dans une direction choisis par vous, s'arrêtant s'il entre contact avec un terrain."
+contact with any terrain. |";Par ici...;Delaque;"Jouez cette tactique lorsqu'une figurine ennemie effectue un Move (Simple). Au lieu de se déplacer normalement, le combattant ennemi se déplace de D6"" dans une direction choisis par vous, s'arrêtant s'il entre contact avec un terrain."
 ../TacticsCards/DELAQUE/Perfect Disguises.png;Perfect Disguises;Delaque Tactics;"Play during the pre-battle sequence, during Step
 Five: Choose Crews.
 
@@ -874,7 +874,7 @@ an attack as part of a Charge (Double) action.
 If the fighter is no longer Engaged, they may
 immediately make a free Move (Simple) action.
 If the fighter is Engaged, they may immediately
-make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié met un combattant ennemi Out of Action avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Déplacement (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez une action gratuite Combat (Basique).
+make a free Fight (Basic) action instead.";Rapide comme l’ombre;Delaque;Jouez cette tactique lorsqu'un combattant Delaque allié met un combattant ennemi Out of Action avec une attaque dans le cadre d’une action Charge (Double). Si le combattant n'est plus Engagé, il peut effectuez immédiatement une action de Move (Simple) gratuite. Si le combattant est Engagé, il peut immédiatement effectuez une action gratuite Combat (Basic).
 ../TacticsCards/DELAQUE/Shape Shifting.png;Shape Shifting;Delaque Tactics;"Play this gang tactic when a friendly Delaque
 fighter becomes Seriously Injured.
 
@@ -959,11 +959,11 @@ gain one additional attack. This attack must be
 made with a weapon with the Melee trait and
 cannot be made with a weapon with the Sidearm
 trait. Roll for this attack separately and, if it hits,
-is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (Basique), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Melee et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
+is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (basic), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Melee et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
 ../TacticsCards/ENFORCERS/Big Red Key.png;Big Red Key;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, any Strength |
 Door (Basic) actions taken by friendly |
-fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactique au début d’un tour. Pendant la durée de ce tour, une action Strength door (basic) faite par un combattant allié réussi automatiquement.
+fighters automatically succeed.";Grosse clé rouge;Enforcers;Jouez cette tactique au début d’un tour. Pendant la durée de ce tour, une action Force door (basic) faite par un combattant allié réussi automatiquement.
 ../TacticsCards/ENFORCERS/Crackdown.png;| Crackdown;Enforcers Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, all
@@ -977,7 +977,7 @@ The enemy fighter must immediately pass an
 Initiative check. If they fail, they will fall and are
 placed back where they started. If the enemy
 fighter climbed pane a ladder or stairs, they gain
-a+2 modifier to the Initiative check.";Ne trébuchez pas !;Enforcers;Jouez cette tactique lorsqu'un combattant ennemi qui a utilisé une action de déplacement (simple) pour grimper se termine. Le combattant ennemi doit immédiatement passer un d'initiative. S'il échoue, il tombe et est replacé là où il a commencé son action. Si le combattant ennemi a grimpé par une échelle ou un escalier, il gagne un modificateur de +2 au test d’Initiative.
+a+2 modifier to the Initiative check.";Ne trébuchez pas !;Enforcers;Jouez cette tactique lorsqu'un combattant ennemi qui a utilisé une action de Move (simple) pour grimper se termine. Le combattant ennemi doit immédiatement passer un d'initiative. S'il échoue, il tombe et est replacé là où il a commencé son action. Si le combattant ennemi a grimpé par une échelle ou un escalier, il gagne un modificateur de +2 au test d’Initiative.
 ../TacticsCards/ENFORCERS/Excellent Reconnaissance.png;Excellent Reconnaissance;Enforcers Tactics;"| Play this card at the start of the Deployment
 step of the Pre-battle sequence, before any
 fighters have been deployed.
@@ -1102,7 +1102,7 @@ phase.
 
 Choose three of your fighters. These
 fighters may make a free Move (Simple)
-action or a Retreat (Basic) action.";Frappe et fuite;Escher;Jouez cette tactique au début de la phase de fin. Choisissez trois de vos combattants. Ces les combattants peuvent effectuer un mouvement gratuit (simple) ou une action Retraite (Basique).
+action or a Retreat (Basic) action.";Frappe et fuite;Escher;Jouez cette tactique au début de la phase de fin. Choisissez trois de vos combattants. Ces les combattants peuvent effectuer un mouvement gratuit (simple) ou une action Retraite (basic).
 ../TacticsCards/ESCHER/Kill Count.png;Kill Count;Escher Tactics;"Play this tactic at the start of the Action phase.
 Choose a number between | and 6. If this
 number of enemy fighters are Seriously Injured
@@ -1150,7 +1150,7 @@ Leader (E.) special rule for the purposes of the
 Target Priority rule. If your crew doesn't
 
 include a fighter with the Leader (E.) special
-rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique au début de la phase d’action. Pour la durée de ce tour, les combattants ennemis doivent réussir un test de Willpower s'ils souhaitent cibler un combattant de votre gang avec la règle Leader (Escher) avec un Tir ou un Combat (Basique). Si le test échoue, il peut choisir une cible différente, ignorant le combattant avec la règle spéciale Leader pour les besoins de la règle Target priority. Si votre gang n’inclue pas de combattant avec le spécial Leader (), vous pouvez défausser cette tactique et en sélectionner une autre.
+rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique au début de la phase d’action. Pour la durée de ce tour, les combattants ennemis doivent réussir un test de Willpower s'ils souhaitent cibler un combattant de votre gang avec la règle Leader (Escher) avec un Tir ou un Combat (basic). Si le test échoue, il peut choisir une cible différente, ignorant le combattant avec la règle spéciale Leader pour les besoins de la règle Target priority. Si votre gang n’inclue pas de combattant avec le spécial Leader (), vous pouvez défausser cette tactique et en sélectionner une autre.
 ../TacticsCards/ESCHER/Rain of Blades.png;Rain of Blades;Escher Tactics;"| 1
 Play this gang tactic when activating |
 _a fighter. |
@@ -1306,7 +1306,7 @@ marker may immediately activate. During this
 activation the vehicle may only perform one
 action and it must be a Move (Simple) action.
 After the vehicle has finished its activation, make
-a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule allié qui n'a pas de marqueur Ready peut s’activer immédiatement. Pendant cette activation, le véhicule ne peut effectuer qu'une seule action et il doit s'agir d'une action de déplacement (simple). Une fois que le véhicule a terminé son activation, effectuez un test de Loss of control du véhicule.
+a Loss of Control test for the vehicle.";Plein gaz !;Véhicules Escher;Jouez cette tactique pendant la phase d'action au lieu d'activer un modèle. Un véhicule allié qui n'a pas de marqueur Ready peut s’activer immédiatement. Pendant cette activation, le véhicule ne peut effectuer qu'une seule action et il doit s'agir d'une action de Move (simple). Une fois que le véhicule a terminé son activation, effectuez un test de Loss of control du véhicule.
 ../TacticsCards/ESCHER VEHICLES/IT’S GONNA BLOW!!!.png;IT’S GONNA BLOW!!!;Escher Vehicle Tactics;"Play this gang tactic after a friendly vehicle is
 Wrecked, before rolling on the Lasting Damage
 table.
@@ -1340,14 +1340,14 @@ attacks are made.
 The fighter may immediately perform a free
 Retreat (Basic) action. Reaction attacks can only
 be made if the fighter is still Engaged with the
-enemy fighter.";Décrochage rapide;Véhicules Escher;Jouez cette tactique après qu’un combattant allié Monté ait fait une action de Combat (Basique), mais avant les attaques de réaction. Le combattant peut immédiatement effectuer un action de Retraite (Basique). Les attaques de réaction ne peuvent être effectuées que si le combattant est toujours engagé avec le combattant ennemi.
+enemy fighter.";Décrochage rapide;Véhicules Escher;Jouez cette tactique après qu’un combattant allié Monté ait fait une action de Combat (basic), mais avant les attaques de réaction. Le combattant peut immédiatement effectuer un action de Retraite (basic). Les attaques de réaction ne peuvent être effectuées que si le combattant est toujours engagé avec le combattant ennemi.
 ../TacticsCards/ESCHER VEHICLES/Reckless Driving.png;Reckless Driving;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 vehicle before performing any actions.
 
 For the duration of this activation, when
 performing a Move (Simple) action, the vehicle
 may make an extra pivot of up to 90 degrees at
-any point before, during or after its move.";Conduite imprudente;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, lorsque il effectue une action de déplacement (simple), le véhicule peut effectuer un pivot supplémentaire allant jusqu'à 90 degrés à tout moment avant, pendant ou après son déplacement.
+any point before, during or after its move.";Conduite imprudente;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, lorsque il effectue une action de Move (simple), le véhicule peut effectuer un pivot supplémentaire allant jusqu'à 90 degrés à tout moment avant, pendant ou après son déplacement.
 ../TacticsCards/ESCHER VEHICLES/Roaring Charge.png;Roaring Charge;Escher Vehicle Tactics;"Play this gang tactic when activating a friendly
 fighter subject to the Mounted condition, before
 performing any actions.
@@ -1385,7 +1385,7 @@ vehicle before performing any actions.
 
 For the duration of this activation, the vehicle
 treats the Move & Shoot action as a Simple
-action instead of a Basic action.";Fureur de la ligne blanche;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, le véhicule traite l'action Move & Shoot comme (simple) action au lieu de (basique).
+action instead of a Basic action.";Fureur de la ligne blanche;Véhicules Escher;Jouez cette tactique lors de l'activation d'un véhicule allié, avant d’effectuer toute action. Pendant la durée de cette activation, le véhicule traite l'action Move & Shoot comme (simple) action au lieu de (basic).
 ../TacticsCards/ESCHER VEHICLES/Wreckin' Crew.png;Wreckin' Crew;Escher Vehicle Tactics;"Play this gang tactic during the post-battle
 sequence when receiving scenario rewards.
 
@@ -1524,7 +1524,7 @@ Operate Door (Simple) action or successful
 Strength Door (Basic) action.
 
 The fighter may immediately make a free
-Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Strength door (basic). Ce combattant peut immédiatement effectuer une action de Tir (Basique) gratuite.
+Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Strength door (basic). Ce combattant peut immédiatement effectuer une action de Shoot (basic) gratuite.
 ../TacticsCards/GENERIC CARDS/Bullet Magnet.png;Bullet Magnet;Gang Tactics;"| Play this card when a fighter fires a weapon
 with the Rapid Fire trait.
 
@@ -1656,7 +1656,7 @@ This turn, the fighter may make two Fire
 (Basic) actions, provided they use the same _
 Basic or Pistol weapon for both. After
 resolving these actions, the fighter may move
-| DBE";À couvert !;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basique), à condition qu'elles utilisent la même arme de base ou pistolet pour les deux (Basic or pistol weapon). Après ces actions, le combattant peut se déplacer de D3
+| DBE";À couvert !;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basic), à condition qu'elles utilisent la même arme de base ou pistolet pour les deux (Basic or pistol weapon). Après ces actions, le combattant peut se déplacer de D3
 ../TacticsCards/GENERIC CARDS/Eager for Battle.png;Eager for Battle;Gang Tactics;"| Play this card during the End phase, before
 drawing any cards to determine which
 fighters become available as
@@ -1754,7 +1754,7 @@ Engaged as part of an enemy Charge
 (Double) action. |
 Your fighter may immediately make a free
 Fight (Basic) action, interrupting the
-opposing fighter's activation. |";Arrêt brutal;Générique;Jouez cette tactique quand l'un de vos combattants devient Engagé dans le cadre d'une action de charge ennemie (Double). Votre combattant peut immédiatement effectuer une Action de combat (basique), interrompant l’activation du combattant adverse.
+opposing fighter's activation. |";Arrêt brutal;Générique;Jouez cette tactique quand l'un de vos combattants devient Engagé dans le cadre d'une action de charge ennemie (Double). Votre combattant peut immédiatement effectuer une Action de combat (basic), interrompant l’activation du combattant adverse.
 ../TacticsCards/GENERIC CARDS/Having a Bad Day.png;Having a Bad Day;Gang Tactics;"| Play at the start of the game after both sides
 have set up.
 
@@ -1772,7 +1772,7 @@ For the rest of the battle, the fighter have
 action.
 
 The fighter adds D3 to their Attacks |
-characteristic for the duration of this action.";Lame cachée;Générique;Jouez cette tactique quand un combattant effectue une action de combat (Basique). Le combattant ajoute D3 à ses attaques caractéristique pour la durée de cette action.
+characteristic for the duration of this action.";Lame cachée;Générique;Jouez cette tactique quand un combattant effectue une action de combat (basic). Le combattant ajoute D3 à ses attaques caractéristique pour la durée de cette action.
 ../TacticsCards/GENERIC CARDS/Hidden Passage.png;Hidden Passage;Gang Tactics;"Zone Mortalis only (see page 126). |
 Play this card at the start of your turn, |
 immediately before activating a fighter. |
@@ -1833,7 +1833,7 @@ performs a Shoot (Basic) action with that
 weapon that will hit automatically. Do not roll
 an Ammo Dice - the weapon remains Out of
 Ammo. Weapons with the Rapid Fire (X) trait
-make only one shot.";Dernière cartouche;Générique;Jouez cette tactique lorsque vous activez un combattant qui a un ou plusieurs marqueurs « Out of Ammo » dessus. Choisissez l'une des armes à distance de ce combattant c'est à court de munitions. Le combattant immédiatement effectue une action Tir (Basique) avec cela arme qui frappera automatiquement. Ne roule pas un dé de munitions - l'arme reste hors de Munitions. Armes avec le trait Rapid Fire (X) faire un seul coup.
+make only one shot.";Dernière cartouche;Générique;Jouez cette tactique lorsque vous activez un combattant qui a un ou plusieurs marqueurs « Out of Ammo » dessus. Choisissez l'une des armes à distance de ce combattant c'est à court de munitions. Le combattant immédiatement effectue une action Shoot (basic) avec cela arme qui frappera automatiquement. Ne roule pas un dé de munitions - l'arme reste hors de Munitions. Armes avec le trait Rapid Fire (X) faire un seul coup.
 ../TacticsCards/GENERIC CARDS/Long Arm.png;Long Arm;Gang Tactics;"| Play at the start of any round.
 
 Untul the End phase of this round, friendly
@@ -1859,7 +1859,7 @@ phase of this round, the fighter suffers a -1
 
 | to their Ballistic Skill.
 
-|";Électron libre;Générique;Jouez cette tactique lors de l'activation d'un combattant. Jusqu'à la phase de fin de ce tour, le combattant traite l'action Tirer comme (Simple) plutôt que (Basique). Cependant, jusqu'à la phase de fin de ce tour, le combattant subit un malus de -1 à sa BS.
+|";Électron libre;Générique;Jouez cette tactique lors de l'activation d'un combattant. Jusqu'à la phase de fin de ce tour, le combattant traite l'action Tirer comme (Simple) plutôt que (basic). Cependant, jusqu'à la phase de fin de ce tour, le combattant subit un malus de -1 à sa BS.
 ../TacticsCards/GENERIC CARDS/Loud and Clear.png;Loud and Clear;Gang Tactics;"| Play during the pre-battle sequence, during
 Step 8. Deployment.
 
@@ -1958,7 +1958,7 @@ in the same way as a pistol.";Tir à bout portant;Générique;Jouez cette tactiq
 for Priority.
 
 Up to two of your fighters may immediately |
-make a free Move (Simple) action.";Mesures préventives;Générique;Jouez cette tactique au début d’un tour, avant de lancer pour pour la priorité. Jusqu'à deux de vos combattants peuvent immédiatement effectuez une action de déplacement (simple) gratuite.
+make a free Move (Simple) action.";Mesures préventives;Générique;Jouez cette tactique au début d’un tour, avant de lancer pour pour la priorité. Jusqu'à deux de vos combattants peuvent immédiatement effectuez une action de Move (simple) gratuite.
 ../TacticsCards/GENERIC CARDS/Proper Preparation.png;Proper Preparation;Gang Tactics;"| Play this card before setting up the gang at
 the start of the battle.
 
@@ -1985,7 +1985,7 @@ This turn, the fighter may make two Fire
 weapon for both and make no other actions
 for any reason. However, at the end of their
 activation, the weapon counts as
-automatically having failed an Ammo check.";Tir rapide;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basique), à condition qu'elles utilisent les mêmes arme pour les deux et ne fasse aucune autre action pour quelque raison que ce soit. Cependant, à la fin de leur activation, l'arme compte comme ayant automatiquement échoué à un test de munitions.
+automatically having failed an Ammo check.";Tir rapide;Générique;Jouez cette tactique lors de l'activation d'un combattant. Ce tour-ci, le combattant peut effectuer deux actions de tirs (basic), à condition qu'elles utilisent les mêmes arme pour les deux et ne fasse aucune autre action pour quelque raison que ce soit. Cependant, à la fin de leur activation, l'arme compte comme ayant automatiquement échoué à un test de munitions.
 ../TacticsCards/GENERIC CARDS/Rapid Healing.png;Rapid Healing;Gang Tactics;"Play this card instead of activating a fighter. |
 Choose one of your fighters. This fighter |
 either recovers one Wound or removes one ©
@@ -1997,7 +1997,7 @@ Pick a fighter from your gang - that fighter _
 can immediately make a Shoot (Basic) action
 against the activating enemy model,
 
-as long as they are in range and line of sight.";Feu de réaction;Générique;Jouez cette tactique lorsqu'un combattant ennemi est activé, avant de faire sa première action. Choisissez un combattant dans votre gang, ce combattant peut immédiatement effectuer une action Tir (Basique) contre le combattant ennemi activé, tant qu’il est à portée et en ligne de vue.
+as long as they are in range and line of sight.";Feu de réaction;Générique;Jouez cette tactique lorsqu'un combattant ennemi est activé, avant de faire sa première action. Choisissez un combattant dans votre gang, ce combattant peut immédiatement effectuer une action Shoot (basic) contre le combattant ennemi activé, tant qu’il est à portée et en ligne de vue.
 ../TacticsCards/GENERIC CARDS/Reckless Charge.png;Reckless Charge;Gang Tactics;"| Play this card when a fighter makes a Charge
 (Double) action.
 
@@ -2118,7 +2118,7 @@ its Bottle test.";Tenez bon;Générique;Jouez cette tactique au lieu de faire un
 
 For the duration of this round, fighters from
 this gang count the Fight (Basic) action asa |
-Fight (Simple) action.";Fureur d'acier;Générique;Jouez cette tactique au début d’un tour. Pour la durée de ce round, les combattants de votre gang considère l'action Combat (Basique) comme Combat (simple).
+Fight (Simple) action.";Fureur d'acier;Générique;Jouez cette tactique au début d’un tour. Pour la durée de ce round, les combattants de votre gang considère l'action Combat (basic) comme Combat (simple).
 ../TacticsCards/GENERIC CARDS/Sterner Stuff.png;Sterner Stuff;Gang Tactics;"| Play this card instead of activating a fighter.
 Make a Rally check for each Broken fighter
 in your gang, as though it was the End phase.";Plus solide qu’il n’y paraît;Générique;Jouez cette tactique au lieu d'activer un combattant. Effectuez un test de Ralliement (Rally check) pour chaque combattant Broken dans votre gang, comme si c'était la phase de fin.
@@ -2143,7 +2143,7 @@ attack.
 
 A friendly fighter can immediately make
 a free Shoot (Basic) action against the
-attacker.";Justice rapide;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of Action par l’attaque d’un combattant ennemi. Un combattant allié peut immédiatement faire une action Tir (Basique) gratuite contre le attaquant.
+attacker.";Justice rapide;Générique;Jouez cette tactique lorsqu'un de vos combattants est mis Out of Action par l’attaque d’un combattant ennemi. Un combattant allié peut immédiatement faire une action Shoot (basic) gratuite contre le attaquant.
 ../TacticsCards/GENERIC CARDS/Tactical Deployment.png;Tactical Deployment;Gang Tactics;"Play during the pre-battle sequence during
 
 Step 5. Choose Crews.
