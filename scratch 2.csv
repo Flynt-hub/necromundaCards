@@ -1150,7 +1150,7 @@ Leader (E.) special rule for the purposes of the
 Target Priority rule. If your crew doesn't
 
 include a fighter with the Leader (E.) special
-rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique au début de la phase d’action. Pour la durée de ce tour, les combattants ennemis doivent réussir un test de Willpower s'ils souhaitent cibler un combattant de votre gang avec la règle Leader (Escher) avec un Tir ou un Combat (basic). Si le test échoue, il peut choisir une cible différente, ignorant le combattant avec la règle spéciale Leader pour les besoins de la règle Target priority. Si votre gang n’inclue pas de combattant avec le spécial Leader (), vous pouvez défausser cette tactique et en sélectionner une autre.
+rule, you may discard this tactic and select anothe!";Reine de la Ruche;Escher;Jouez cette tactique au début de la phase d’action. Pour la durée de ce tour, les combattants ennemis doivent réussir un test de Willpower s'ils souhaitent cibler un combattant de votre gang avec la règle Leader (Escher) avec un Tir ou un Combat (basic). Si le test échoue, il peut choisir une cible différente, ignorant le combattant avec la règle spéciale Leader quant à la règle Target priority. Si votre gang n’inclue pas de combattant avec la règle Leader() vous pouvez défausser cette tactique et en sélectionner une autre.
 ../TacticsCards/ESCHER/Rain of Blades.png;Rain of Blades;Escher Tactics;"| 1
 Play this gang tactic when activating |
 _a fighter. |
@@ -1199,7 +1199,7 @@ a +2 bonus to the hit roll (instead of +1).";Côte à côte;Escher;Jouez cette t
 Untul the start of the next End phase, add 1
 to the result of any Bottle tests made for the |
 enemy gang. In addition, Broken enemy
-fighters cannot rally.";La sirène hurle;Escher;Jouez au début de une phase de fin. Jusqu'au début de la prochaine phase de fin, ajoutez 1 au résultat de tous les tests de Bottle test effectués par le gang ennemie. De plus, les combattants ennemis Broken ne peuvent pas se rallier.
+fighters cannot rally.";La sirène hurle;Escher;Jouez au début de une phase de fin. Jusqu'au début de la prochaine phase de fin, ajoutez 1 au résultat de tous les Bottle test effectués par le gang ennemi. De plus, les combattants ennemis Broken ne peuvent pas se rallier.
 ../TacticsCards/ESCHER/Sisterhood of Violence.png;Sisterhood of Violence;Escher Tactics;"Play this gang tactic when an enemy fighter |
 is taken Out of Action as a result of an
 attack made by a friendly fighter. |
@@ -1235,7 +1235,7 @@ For the remainder of the round, all weapons
 with the Melee trait gain Parry - if they did
 not already have it - and increase their AP
 
-by -1.";Ultra-violence;Escher;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Melee, gagnez la parade - s'ils l'ont fait ne l'ont pas déjà - et augmentent leur AP de 1.
+by -1.";Ultra-violence;Escher;Jouez cette tactique au lieu d'activer un combattant. Pour le reste du round, toutes les armes avec le trait Melee, gagnent la parade - si elles ne l’avaient pas déjà - et augmentent leur AP de 1.
 ../TacticsCards/ESCHER/Unexpected Help.png;Unexpected Help;Escher Tactics;"Play this gang tactic at the start of the End |
 phase.
 Choose a fighter in your gang who was not |
