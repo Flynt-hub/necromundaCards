@@ -952,14 +952,14 @@ place of making Shoot (Basic) actions with
 any other ranged weapon. If the Ammo symbol
 is rolled on the Firepower dice, the card is
 discarded.";Étui de cheville;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Glissez cette carte sous la carte du combattant. tant qu’elle est là, le combattant peut utiliser son stub gun pour faire des actions de shoot (simple) ainsi que ou une action Shoot (Basic) avec toute autre arme à distance. Si le symbole Munitions est lancé sur le firepower dice, la carte est défaussée.
-../TacticsCards/ENFORCERS/Appropriate Strength.png;Appropriate Strength;Enforcers Tactics;"Play this card when activating a fighter.
+../TacticsCards/ENFORCERS/Appropriate Force.png;Appropriate Force;Enforcers Tactics;"Play this card when activating a fighter.
 
 If this fighter makes a Fight (Basic) action, they
 gain one additional attack. This attack must be
 made with a weapon with the Melee trait and
 cannot be made with a weapon with the Sidearm
 trait. Roll for this attack separately and, if it hits,
-is resolved at +1 Damage.";Strength appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (basic), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Melee et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
+is resolved at +1 Damage.";Force appropriée;Enforcers;Jouez cette tactique lors de l'activation d'un combattant. Si ce combattant effectue une action Combat (basic), il gagnez une attaque supplémentaire. Cette attaque doit être faite avec une arme avec le trait Melee et ne peut pas être faite avec une arme avec sidearm. Lancez le dé pour cette attaque séparément, si elle réussit, elle est résolue à +1 Dégâts.
 ../TacticsCards/ENFORCERS/Big Red Key.png;Big Red Key;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, any Strength |
 Door (Basic) actions taken by friendly |
@@ -1013,10 +1013,10 @@ a door terminal closes. Every closed door on the
 board that does not have a door terminal
 becomes locked and can only be opened with
 Strength, either by targeting them with attacks or by
-performing a Strength Door (Basic) action against
+performing a Force door (basic) action against
 them.
 
-Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez cette tactique au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal se verrouille et ne peut être ouvert qu’en la forçant, soit en la ciblant avec des attaques, soit en effectuant une action Strength door (basic). Les portes avec terminaux ne sont pas concernées par cette carte.
+Doors with terminals are unaffected by this card.";Confinement;Enforcers;Jouez cette tactique au début d’un tour. Chaque porte ouverte sur le plateau qui n'a pas un terminal se ferme. Chaque porte fermée sur le carte qui n'a pas de terminal se verrouille et ne peut être ouvert qu’en la forçant, soit en la ciblant avec des attaques, soit en effectuant une action Force door (basic). Les portes avec terminaux ne sont pas concernées par cette carte.
 ../TacticsCards/ENFORCERS/Shock and Awe.png;Shock and Awe;Enforcers Tactics;"Play at the start of any round. |
 For the duration of this round, D3+1 |
 fighters of the controlling player's choice |
@@ -1060,7 +1060,7 @@ distance they can move, as though they were
 charging) towards the enemy fighter who
 charged. The counter-charging fighter cannot
 make any attacks, but they can make Reaction
-attacks and grant assists /interference as normal.";Contre-charge;Escher;"Jouez cette tactique lorsqu'un combattant ennemi fait un action de Charge, après son déplacement mais avant qu'il lance ses attaques. Choisissez un combattant Ready de votre gang. Il peut effectuer un mouvement standard (en ajoutant D3"" à la distance qu'il peut parcourir, comme s'il chargeais) vers le combattant ennemi qui a chargé. Le combattant qui contre-charge ne peut pas faire d'attaques, mais ils peuvent faire une attaque de réaction et accorde des aides/interférences comme d’habitude."
+attacks and grant assists /interference as normal.";Contre-charge;Escher;"Jouez cette tactique lorsqu'un combattant ennemi fait un action de Charge, après son déplacement mais avant qu'il lance ses attaques. Choisissez un combattant Ready de votre gang. Il peut effectuer un mouvement standard (en ajoutant D3"" à la distance qu'il peut parcourir, comme s'il chargeais) vers le combattant ennemi qui a chargé. Le combattant qui contre-charge ne peut pas faire d'attaques, mais il peut faire une attaque de réaction et accorde des aides/interférences comme d’habitude."
 ../TacticsCards/ESCHER/Dance of Death.png;Dance of Death;Escher Tactics;"Play this gang tactic at the start of the
 Action phase.
 
@@ -1090,7 +1090,7 @@ can move up to D6"". If the fighter goes Out of
 Action before making this action, roll a D6. On a
 1, the trap triggered (centred on the fighter's base)
 On a 2-3, place a Gas Trap marker where the
-fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez cette tactique au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège et placez cette carte sous sa carte. Une fois pendant le jeu, le combattant, peut déposer un piège à gaz (double) - Placer un marqueur piège à gaz à 1"" ou moins du combattant. Ensuite, il peut avancer jusqu'à D6"". Si le combattant est mis Out of Action avant d'effectuer cette action, lancez 1D6. Sur un 1, le piège est déclenché (centrez le gabarit sur le socle du combattant) Sur 2-3, placez un marqueur Piège à Gaz à l'endroit où se trouvais le combattant. Sur 4+, défaussez cette carte."
+fighter stood. On a 4+, discard this card.";Piège à gaz;Escher;"Jouez cette tactique au début de la bataille lors de la mise en place votre gang. Choisissez l'un de vos combattants pour porter un piège. Une fois pendant le jeu, il peut déposer un piège à gaz (double) - Placer un marqueur piège à gaz à 1"" ou moins. Ensuite, il peut avancer jusqu'à D6"". Si le combattant est mis Out of Action avant de poser le piège, lancez 1D6. 1: le piège est déclenché (centrez le gabarit sur le socle du combattant) 2-3: placez le Piège à Gaz à l'endroit où se trouvais le combattant. 4+: défaussez cette carte."
 ../TacticsCards/ESCHER/Gifts of the Matron.png;Gifts of the Matron;Escher Tactics;"Play this gang tactic when activating
 
 a fighter.
@@ -1521,10 +1521,10 @@ Cool but -1 to their Ballistic Skill and
 Willpower.";Né pour le massacre;Générique;Jouez cette tactique immédiatement après qu'elle ait été tiré lors de l'étape 7 de la séquence pré-bataille. Nommez un combattant de votre gang de départ. Pour la durée de cette bataille, ce le combattant gagne +1 en WS et Cool et -1 en BS et Willpower.
 ../TacticsCards/GENERIC CARDS/Breach and Clear.png;Breach and Clear;Gang Tactics;"| Play after a friendly fighter makes an
 Operate Door (Simple) action or successful
-Strength Door (Basic) action.
+Force door (basic) action.
 
 The fighter may immediately make a free
-Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Strength door (basic). Ce combattant peut immédiatement effectuer une action de Shoot (basic) gratuite.
+Shoot (Basic) action.";Percée et nettoyage;Générique;Jouez après qu'un combattant allié ait fait un action Faire Operate door (simple) ou Force door (basic). Ce combattant peut immédiatement effectuer une action de Shoot (basic) gratuite.
 ../TacticsCards/GENERIC CARDS/Bullet Magnet.png;Bullet Magnet;Gang Tactics;"| Play this card when a fighter fires a weapon
 with the Rapid Fire trait.
 
@@ -3837,7 +3837,7 @@ doors without a terminal also become locked but
 can only be opened by Strength, either by targeting
 with attacks or by performing a Strength Door
 (Basic) action. If there are fewer than three doors
-you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité. Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la Strength, soit en les ciblant avec des attaques, soit en effectuant une action Strength door (Basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
+you may discard this tactic and select another.";Reclus;Van Saar;Si vous êtes le défenseur, jouez cette tactique pendant la phase de Priorité de n’importe quel tour, après le jet de Priorité. Si vous n’êtes pas le défenseur, défaussez cette tactique et choisissez-en une autre. Les portes ouvertes sur le champ de bataille se referment immédiatement. Les portes équipées d'un terminal sont verrouillées. Les portes fermées sans terminal sont également verrouillées, mais ne peuvent être ouvertes que par la Strength, soit en les ciblant avec des attaques, soit en effectuant une action Force door (basic). S'il y a moins de trois portes, vous pouvez défausser cette tactique et en choisir une autre.
 ../TacticsCards/VAN SAAR/Tracer Fire.png;Tracer Fire;Yan Saar Tactics;"Play this gang tactic during the Priority phase of
 any round, after Roll for Priority, but before
 Ready Fighters.
@@ -4008,14 +4008,14 @@ For the remainder of the round, they suffer a -1
 modifier to all hit rolls.";Brouilleurs de ciblage;Véhicules Van Saar;"Jouez cette tactique lors de l'activation d'un modèle ami avant d’effectuer toute action. Pendant la durée de cette activation, le modèle peut effectuer l’action Jam (Basic). Jam (Basic) : Choisissez un véhicule ennemi dans un rayon de 12"". Pour le reste du round, ils subissent un -1 modificateur à tous les jets de touche."
 ../TacticsCards/ZONE MORTALIS/Ambush Alley.png;Ambush Alley;Zone Mortalis Tactics;"Play this gang tactic when an enemy fighter
 performs the Operate Door (Simple), Access
-Terminal (Basic) or Strength Door (Basic) action.
+Terminal (Basic) or Force door (basic) action.
 After the enemy fighter completes the action,
 choose a friendly fighter with line of sight to that
 enemy fighter. The friendly fighter may
 immediately perform a free Shoot (Basic) action.
 If the enemy fighter is still Standing and Active,
 they may perform a second action (if they have
-not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l’action Operate door (simple), Access terminal (basic) ou Strength door (basic). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Shoot (basic) gratuite. Si le combattant ennemi est toujours Debout et Actif, il peut continuer son activation.
+not done so already).";Allée des embuscades;Zone Mortalis;Jouez cette tactique lorsqu'un combattant ennemi effectue l’action Operate door (simple), Access terminal (basic) ou Force door (basic). Une fois que le combattant ennemi a terminé l'action, choisissez un combattant allié avec une ligne de vue sur lui combattant ennemi. Le combattant allié peut effectuez immédiatement une action Shoot (basic) gratuite. Si le combattant ennemi est toujours Debout et Actif, il peut continuer son activation.
 ../TacticsCards/ZONE MORTALIS/Call the Beast.png;Call the Beast;Zone Mortalis Tactics;"| 1
 Play this gang tactic when an enemy fighter |
 performs a Move (Simple) action. |
