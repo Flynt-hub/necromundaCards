@@ -3,8 +3,8 @@ import csv
 from PIL import Image, ImageOps, ImageFilter
 import pytesseract
 
-CARD_FILE = Path("Mined!.png")
-OUTPUT_CSV = Path("mined_text.csv")
+INPUT_DIR = Path("../TacticsCards")
+OUTPUT_CSV = Path("cards_text.csv")
 
 zones = {
     "title": (26, 28, 345, 53),
@@ -23,23 +23,31 @@ def ocr(zone: Image.Image) -> str:
     config = "--psm 6"
     text = pytesseract.image_to_string(zone, lang="eng", config=config)
     return " ".join(text.split())
+    # return text.strip()
 
-img = Image.open(CARD_FILE).convert("RGB")
+rows = []
 
-row = {
-    "file": str(CARD_FILE),
-    "title_en": "",
-    "type_en": "",
-    "text_en": "",
-    "title_fr": "",
-    "type_fr": "",
-    "text_fr": "",
-}
+for card_file in sorted(INPUT_DIR.rglob("*.png")):
+    print(f"OCR: {card_file}")
 
-for name, box in zones.items():
-    crop = img.crop(box)
-    processed = preprocess(crop)
-    row[f"{name}_en"] = ocr(processed)
+    img = Image.open(card_file).convert("RGB")
+
+    row = {
+        "file": str(card_file),
+        "title_en": "",
+        "type_en": "",
+        "text_en": "",
+        "title_fr": "",
+        "type_fr": "",
+        "text_fr": "",
+    }
+
+    for name, box in zones.items():
+        crop = img.crop(box)
+        processed = preprocess(crop)
+        row[f"{name}_en"] = ocr(processed)
+
+    rows.append(row)
 
 with OUTPUT_CSV.open("w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(
@@ -55,14 +63,8 @@ with OUTPUT_CSV.open("w", newline="", encoding="utf-8") as f:
         ],
     )
     writer.writeheader()
-    writer.writerow(row)
-
-print("OCR terminé.")
-print(f"CSV généré : {OUTPUT_CSV}")
-print(f"Images debug : {DEBUG_DIR}")
+    writer.writerows(rows)
 
 print()
-print("Résultat OCR :")
-print("Titre :", row["title_en"])
-print("Type  :", row["type_en"])
-print("Texte :", row["text_en"])
+print(f"OCR terminé : {len(rows)} cartes traitées")
+print(f"CSV généré : {OUTPUT_CSV}")
