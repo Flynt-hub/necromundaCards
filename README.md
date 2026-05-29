@@ -113,4 +113,4 @@ Congratulation, you have finish !
 
 Now print the cards and enjoy losing friends while playing this wonderfully unbalanced game ^^
 
-N.B: existing TacticsSheet directory contain french cards. So just print the PDF in it if you're french.
+N.B: existing translated_cards directory contain french cards. So just make the sheets and print the PDF if you're french.
