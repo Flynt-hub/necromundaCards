@@ -3,7 +3,7 @@ import csv
 import textwrap
 from PIL import Image, ImageDraw, ImageFont
 
-INPUT_CSV = Path("scratch 2.csv")
+INPUT_CSV = Path("cards_text.csv")
 OUTPUT_DIR = Path("translated_cards")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
